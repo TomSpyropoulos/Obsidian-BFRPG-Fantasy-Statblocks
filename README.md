@@ -8,6 +8,7 @@ This repository contains a comprehensive collection of monster statblocks for th
 * **Descending AC:** Computed descending AC and THAC0 and formatted them like OSE statblocks (ascending in []).
 * **Saves in statblock:** No reference to Core Rulebook Save Tables (like "Save As Fighter: 4").
 * **Custom Layouts:** Two layouts are provided for Fantasy Statblocks, `BFRPG.json` which contains just the statblock layout and is compatible with ITS Theme and `BFRPG_Styled.json` which is the same but with some extra styling (dark mode) for the default Obsidian themes.
+* **Optional Initiative:** Included "modifier:" property for each monster calculated as (15- Save vs Breath)/2 rounded down for games like Shadowdark. (If you don't need this delete %mod% from Initiative Tracker)
 
 ## Installation
 
