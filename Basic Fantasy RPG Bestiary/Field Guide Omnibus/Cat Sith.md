@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cat Sith
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1+2
 hp: 6
 thaco: 19 [+1]
+modifier: -1
 stats: ["1+2", "6", "4 [15]", "19 [+1]"]
 attack: "2 claws, 1 bite"
 damage: "1d2 claw, 1d3 bite"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: 8
 xp: 25
 nbr: 1, Wild 1d2, Lair 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

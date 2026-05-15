@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Eldri
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9** (+7)
 hp: 47
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+7)", "47", "3 [16]", "12 [+8]"]
 attack: "2 claws or fire blast or spell"
 damage: "1d4 claw, 2d6 fire blast, by spell"
@@ -25,7 +25,6 @@ jds: [10, 9, 8, 12, 10]
 moral: 9
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: G, O + 1d4+1 non-weapon magical items
 roll_jds: 1d20
 roll-moral: 2d6

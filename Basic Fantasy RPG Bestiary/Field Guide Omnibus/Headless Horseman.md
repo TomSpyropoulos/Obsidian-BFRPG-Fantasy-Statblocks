@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Headless Horseman
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 9 [10]
 hit_dice: 7** (or more)
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7** (or more)", "31", "9 [10]", "13 [+7]"]
 attack: "1 weapon (also see mount)"
 damage: "1d8 or by weapon (also see mount)"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: special
 xp: 800 (or more per HD) (plus XP of mount)
 nbr: 1 (plus mount)
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

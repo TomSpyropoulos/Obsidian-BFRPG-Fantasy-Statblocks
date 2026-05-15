@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Demonic Automata
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 12**
 hp: 54
 thaco: 10 [+10]
+modifier: 1
 stats: ["12**", "54", "-1 [20]", "10 [+10]"]
 attack: "6 blades or spell"
 damage: "2d12 blade, by spell"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 2075
 nbr: 1
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

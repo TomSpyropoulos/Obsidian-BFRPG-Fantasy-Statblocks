@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cactus Man
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "4 [15]", "15 [+5]"]
 attack: "2 claws or hug"
 damage: "1d8 claw or 2d8 hug"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 360
 nbr: 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

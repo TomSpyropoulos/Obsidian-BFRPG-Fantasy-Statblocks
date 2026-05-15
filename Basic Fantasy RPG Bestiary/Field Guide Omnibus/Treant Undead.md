@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Treant, Undead
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 10 (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "2"
 damage: "2d6 fist"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 12
 xp: 1300
 nbr: Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

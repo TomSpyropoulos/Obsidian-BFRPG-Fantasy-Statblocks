@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Gibbering Mouther
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+8)", "48", "0 [19]", "12 [+8]"]
 attack: "6 bites + special"
 damage: "1d6 + special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

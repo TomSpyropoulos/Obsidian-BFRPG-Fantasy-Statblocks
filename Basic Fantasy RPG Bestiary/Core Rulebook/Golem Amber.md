@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Golem, Amber
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -2 [21]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 0
 stats: ["10* (+9)", "54", "-2 [21]", "11 [+9]"]
 attack: "2 claws/1 bite"
 damage: "2d6/2d6/2d10"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

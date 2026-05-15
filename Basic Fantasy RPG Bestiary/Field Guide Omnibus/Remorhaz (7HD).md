@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Remorhaz (7HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 7* to 14* (+11)
 hp: 42
 thaco: 13 [+7]
+modifier: 0
 stats: ["7* to 14* (+11)", "42", "-1 [20]", "13 [+7]"]
 attack: "1 bite (+ special on 20)"
 damage: "4d6 (7-8 HD), 5d6 (9-12 HD), or 6d6 (13-14 HD) (+ possible special)"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 7 HD 735; 8 HD 945; 9 HD 1150; 10 HD 1,390; 11 HD 1,670; 12 HD 1,975; 13 HD 2,285; 14 HD 2,615
 nbr: 1
-nbr_dj: 
 loot: D (see below)
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lycanthrope, Wereboar*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "3 [16]", "16 [+4]"]
 attack: "1 bite"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 280
 nbr: 1d4, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

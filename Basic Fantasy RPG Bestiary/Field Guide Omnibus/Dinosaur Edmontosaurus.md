@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Edmontosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12 (+10)", "64", "4 [15]", "10 [+10]"]
 attack: "1 tail lash (1d4)"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 6
 xp: 1875
 nbr: 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

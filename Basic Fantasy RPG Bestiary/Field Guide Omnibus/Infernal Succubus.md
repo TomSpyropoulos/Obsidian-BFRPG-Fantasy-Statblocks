@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Succubus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "-1 [20]", "13 [+7]"]
 attack: "2 claws or by weapon + special"
 damage: "1d4 claw or by weapon"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 14, 13]
 moral: 7
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: I, L
 roll_jds: 1d20
 roll-moral: 2d6

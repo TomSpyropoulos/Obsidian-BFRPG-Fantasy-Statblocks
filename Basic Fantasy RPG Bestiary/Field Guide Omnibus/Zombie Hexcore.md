@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Zombie, Hexcore
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "2 [17]", "17 [+3]"]
 attack: "2 claws + special"
 damage: "1d8 claw + special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 175
 nbr: 2d6, Wild 3d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

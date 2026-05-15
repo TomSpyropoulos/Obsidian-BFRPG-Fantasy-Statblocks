@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Shield Guardian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 15+20** (+5)
 hp: 92
 thaco: 9 [+11]
+modifier: 1
 stats: ["15+20** (+5)", "92", "-1 [20]", "9 [+11]"]
 attack: "1 fist"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 3100
 nbr: 1
-nbr_dj: 
 loot: L
 roll_jds: 1d20
 roll-moral: 2d6

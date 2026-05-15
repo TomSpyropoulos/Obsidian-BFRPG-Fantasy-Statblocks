@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ear Worms
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1 hit point
 hp: 1
 thaco: 19 [+1]
+modifier: -1
 stats: ["1 hit point", "1", "8 [11]", "19 [+1]"]
 attack: "Special, see below"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 6
 xp: 10
 nbr: 3d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

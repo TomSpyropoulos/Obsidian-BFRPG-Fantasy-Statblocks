@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Malacoda
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 5**
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5**", "22", "-1 [20]", "15 [+5]"]
 attack: "2 horns, 2 hands or tail"
 damage: "2d8 horn, 2d4 hand, 3d4 tail"
@@ -25,7 +25,6 @@ jds: [9, 10, 13, 15, 14]
 moral: 8
 xp: 450
 nbr: 1d2 Lair 1d4+1
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

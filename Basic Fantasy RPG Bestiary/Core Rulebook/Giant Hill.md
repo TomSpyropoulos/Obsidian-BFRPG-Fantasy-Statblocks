@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Hill
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "4 [15]", "12 [+8]"]
 attack: "1 giant weapon (club)"
 damage: "2d8"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 875
 nbr: 1d4, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: E plus 1d8x1000 gp
 roll_jds: 1d20
 roll-moral: 2d6

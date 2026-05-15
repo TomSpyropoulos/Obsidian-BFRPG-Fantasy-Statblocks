@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Shadow Fiend (6HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 6*, 8*, 10*, or 12*
 hp: 27
 thaco: 14 [+6]
+modifier: 3
 stats: ["6*, 8*, 10*, or 12*", "27", "1 [18]", "14 [+6]"]
 attack: "1 touch or 1 magic throw"
 damage: "1d6 touch, 2d6 magic throw"
@@ -25,7 +25,6 @@ jds: [8, 10, 9, 9, 10]
 moral: 9
 xp: 6 HD: 555; 8 HD: 945; 10 HD: 1,390; 12 HD: 1,975
 nbr: 1d4
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

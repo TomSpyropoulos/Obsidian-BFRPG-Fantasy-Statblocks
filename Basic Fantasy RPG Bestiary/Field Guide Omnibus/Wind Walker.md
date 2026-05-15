@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Wind Walker
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 6+3**
 hp: 30
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+3**", "30", "6 [13]", "14 [+6]"]
 attack: "Special"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 610
 nbr: 1d3
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

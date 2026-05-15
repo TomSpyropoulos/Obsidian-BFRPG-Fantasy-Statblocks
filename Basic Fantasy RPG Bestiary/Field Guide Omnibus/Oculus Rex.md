@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Oculus Rex
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "-1 [20]", "13 [+7]"]
 attack: "1 bite"
 damage: "1d6 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

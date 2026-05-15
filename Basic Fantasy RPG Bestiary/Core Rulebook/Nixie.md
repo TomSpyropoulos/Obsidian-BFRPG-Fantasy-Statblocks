@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Nixie
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "3 [16]", "19 [+1]"]
 attack: "1 dagger"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 6
 xp: 37
 nbr: Wild 2d20, Lair 2d20
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

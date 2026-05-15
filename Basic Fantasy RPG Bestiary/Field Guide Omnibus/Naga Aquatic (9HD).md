@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Naga, Aquatic (9HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 7* to 9* (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["7* to 9* (+8)", "48", "4 [15]", "12 [+8]"]
 attack: "1 bite"
 damage: "1d4 + poison bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: HD 7: 735; HD 8: 945; HD 9: 1,150
 nbr: 1d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

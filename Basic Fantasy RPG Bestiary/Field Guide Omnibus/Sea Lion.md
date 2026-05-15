@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sea Lion
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "4 [15]", "14 [+6]"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 2d6 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 500
 nbr: 3d4
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

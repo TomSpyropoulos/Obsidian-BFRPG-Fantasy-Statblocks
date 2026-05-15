@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Vrock
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "6 [13]", "12 [+8]"]
 attack: "2 claws (1d4) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d4 claw, 1d8 talon, 1d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 11
 xp: 945
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

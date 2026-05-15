@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Weasel, Giant (or Ferret, Giant)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "2 [17]", "15 [+5]"]
 attack: "1 bite + hold"
 damage: "2d4 + 2d4 per round"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 360
 nbr: 1d4, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

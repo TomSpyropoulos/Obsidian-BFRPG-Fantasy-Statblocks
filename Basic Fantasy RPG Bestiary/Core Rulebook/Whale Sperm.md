@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Whale, Sperm
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -3 [22]
 hit_dice: 36* (+16)
 hp: 178
 thaco: 4 [+16]
+modifier: 1
 stats: ["36* (+16)", "178", "-3 [22]", "4 [+16]"]
 attack: "1 bite or special"
 damage: "3d20"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 17,850
 nbr: Wild 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

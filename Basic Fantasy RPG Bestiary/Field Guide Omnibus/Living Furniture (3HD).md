@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Living Furniture (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 2 to 4
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["2 to 4", "13", "6 [13]", "17 [+3]"]
 attack: "1"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 10
 xp: 2HD: 75; 3HD: 145; 4HD: 240
 nbr: Wild 1d6, Lair 3d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

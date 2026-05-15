@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Brazen Sphere Major
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 12* (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12* (+10)", "64", "-1 [20]", "10 [+10]"]
 attack: "2 bludgeon or 2d4 sphere shots"
 damage: "1d6 bludgeon, 1d4 sphere shot"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 1,975
 nbr: 2d10
-nbr_dj: 
 loot: 1,200 gp worth of sapphires
 roll_jds: 1d20
 roll-moral: 2d6

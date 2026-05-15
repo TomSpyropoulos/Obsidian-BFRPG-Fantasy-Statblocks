@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Snail, Giant Barb (4HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 4 or 4* (poisonous)
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4 or 4* (poisonous)", "18", "2 [17]", "16 [+4]"]
 attack: "1 bite or 1 barb"
 damage: "1d8 bite, 1d4 barb"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 240; 280 (poisonous)
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

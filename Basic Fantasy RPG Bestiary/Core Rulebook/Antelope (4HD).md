@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Antelope (4HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 1 to 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["1 to 4", "18", "6 [13]", "16 [+4]"]
 attack: "1 butt"
 damage: "1d4 or 1d6 or 1d8"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 5 (7)
 xp: 25 - 240
 nbr: Wild 3d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

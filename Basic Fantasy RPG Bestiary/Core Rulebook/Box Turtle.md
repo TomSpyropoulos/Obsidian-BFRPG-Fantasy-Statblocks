@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Box Turtle
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: ½ (1d4 hit points)
 hp: 2
 thaco: 20 [+0]
+modifier: -1
 stats: ["\u00bd (1d4 hit points)", "2", "4 [15]", "20 [+0]"]
 attack: "1 bite"
 damage: "1d2"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 5
 xp: 10
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

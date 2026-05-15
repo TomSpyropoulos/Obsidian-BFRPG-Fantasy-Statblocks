@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golem, Lead
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 12* (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12* (+10)", "64", "3 [16]", "10 [+10]"]
 attack: "1 club"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 1975
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

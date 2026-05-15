@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bear, Ursine Behemoth
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 15 (+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 2
 stats: ["15 (+11)", "78", "-2 [21]", "9 [+11]"]
 attack: "2 claws, 1 bite or hug (vs. Large)"
 damage: "2d6 claw, 2d8 bite, 4d6 hug"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 11
 xp: 2850
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

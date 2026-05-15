@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Chelonian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "5 [14]", "19 [+1]"]
 attack: "1 bite or weapon"
 damage: "1d6 bite or by weapon+ special"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: 1d8, Wild 5d8, Lair 5d8
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Purple Worm
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 11* (+9) to 20* (+13)
 hp: 71
 thaco: 11 [+9]
+modifier: 0
 stats: ["11* (+9) to 20* (+13)", "71", "3 [16]", "11 [+9]"]
 attack: "1 bite/1 sting"
 damage: "2d8/1d8+poison"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 1,670 – 5,450
 nbr: 1d2, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bodach
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "4 [15]", "12 [+8]"]
 attack: "1 weapon"
 damage: "By weapon +2"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 875
 nbr: 1, Wild 1d2, Lair 1
-nbr_dj: 
 loot: U, N; C, N in Lair
 roll_jds: 1d20
 roll-moral: 2d6

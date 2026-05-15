@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Frost Worm
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 16** (+12)
 hp: 84
 thaco: 8 [+12]
+modifier: 2
 stats: ["16** (+12)", "84", "1 [18]", "8 [+12]"]
 attack: "1 bite + cold or breath or death explosion"
 damage: "2d8 bite, 1d8 cold, 15d6 breath, 20d6 death explosion"
@@ -25,7 +25,6 @@ jds: [7, 7, 9, 10, 11]
 moral: 10
 xp: 3520
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

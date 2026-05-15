@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Cheetah
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "5 [14]", "18 [+2]"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/2d4"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

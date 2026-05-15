@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Leopard (Panther)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "3 [16]", "16 [+4]"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 2d4 bite"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 240
 nbr: 1, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Barkling
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 1/2 (1d4 HP)
 hp: 2
 thaco: 19 [+1]
+modifier: -1
 stats: ["1/2 (1d4 HP)", "2", "4 [15]", "19 [+1]"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 bite, or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 7 (9)
 xp: 10
 nbr: 3d4, Wild 4d6, Lair 5d10
-nbr_dj: 
 loot: P, Q each, C, K in Lair
 roll_jds: 1d20
 roll-moral: 2d6

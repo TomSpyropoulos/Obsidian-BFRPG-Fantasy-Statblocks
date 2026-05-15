@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Prince Frog
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "6 [13]", "18 [+2]"]
 attack: "2 claws / 1 bite + special"
 damage: "1d4 claw, 1d6 bite + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 100
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

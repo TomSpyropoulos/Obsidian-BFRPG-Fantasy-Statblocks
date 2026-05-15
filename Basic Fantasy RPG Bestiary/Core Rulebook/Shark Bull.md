@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Shark, Bull
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "6 [13]", "18 [+2]"]
 attack: "1 bite (2d4)"
 damage: "2d4"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: Wild 3d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Ogre
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4+1
 hp: 19
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+1", "19", "4 [15]", "16 [+4]"]
 attack: "1 huge weapon"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 240
 nbr: 1d6, Wild 2d6, Lair 2d6
-nbr_dj: 
 loot: C + 1d20x100 gp
 roll_jds: 1d20
 roll-moral: 2d6

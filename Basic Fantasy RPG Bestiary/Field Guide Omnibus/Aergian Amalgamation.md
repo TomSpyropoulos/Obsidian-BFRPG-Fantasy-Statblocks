@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aergian Amalgamation
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 13** (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13** (+10)", "68", "5 [14]", "10 [+10]"]
 attack: "1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 grasp, 1d6 weapon"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 10
 xp: 2395
 nbr: 1
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

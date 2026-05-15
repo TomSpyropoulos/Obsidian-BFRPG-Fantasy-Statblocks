@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golem, Gold
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 13* (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13* (+10)", "68", "3 [16]", "10 [+10]"]
 attack: "2 crooks"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 2285
 nbr: 1
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

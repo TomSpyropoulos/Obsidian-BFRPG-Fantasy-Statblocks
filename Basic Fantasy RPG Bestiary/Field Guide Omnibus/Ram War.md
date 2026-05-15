@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ram, War
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "6 [13]", "17 [+3]"]
 attack: "1 horns or 2 hooves"
 damage: "1d6 horn, 1d4 hoof"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 145
 nbr: Domestic only
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Golem, Stone*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -6 [25]
 hit_dice: 14** (+11)
 hp: 74
 thaco: 9 [+11]
+modifier: 0
 stats: ["14** (+11)", "74", "-6 [25]", "9 [+11]"]
 attack: "1 + special"
 damage: "3d8 + special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 2730
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

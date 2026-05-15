@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Winged Devourer
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "2 [17]", "14 [+6]"]
 attack: "1 bite or 2 talons, special attack"
 damage: "2d6 bite, 2d4 talon, strip flesh"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 500
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

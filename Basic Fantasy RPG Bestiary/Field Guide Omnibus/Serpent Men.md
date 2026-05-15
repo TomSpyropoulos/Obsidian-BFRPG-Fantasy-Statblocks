@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Serpent Men
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 4**
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4**", "18", "3 [16]", "16 [+4]"]
 attack: "1 bite or 1 weapon"
 damage: "1d6 bite, or by weapon type"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 320
 nbr: 2d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

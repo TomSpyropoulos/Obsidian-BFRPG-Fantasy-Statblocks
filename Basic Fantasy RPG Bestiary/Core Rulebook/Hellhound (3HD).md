@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Hellhound (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 3** to 7**
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3** to 7**", "13", "5 [14]", "17 [+3]"]
 attack: "1 bite or 1 breath"
 damage: "1d6 or 1d6 per Hit Die"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 205 - 800
 nbr: 2d4, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Celestial, Watcher
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 14** (+11)
 hp: 74
 thaco: 9 [+11]
+modifier: 2
 stats: ["14** (+11)", "74", "0 [19]", "9 [+11]"]
 attack: "2 slams (2d10)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 12
 xp: 2830
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

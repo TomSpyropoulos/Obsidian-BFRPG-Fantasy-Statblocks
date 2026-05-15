@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sahuagin
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2+2*
 hp: 11
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+2*", "11", "3 [16]", "18 [+2]"]
 attack: "1 trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
 damage: "1d8 trident, 1d4 bite, 1d4 talon, or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 100
 nbr: 1d8, Lair 1d6 x10, Wild 1d10+10
-nbr_dj: 
 loot: Individuals N; Lair E, I, O
 roll_jds: 1d20
 roll-moral: 2d6

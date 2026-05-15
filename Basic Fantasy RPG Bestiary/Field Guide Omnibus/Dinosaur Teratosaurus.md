@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Teratosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 10 (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9)", "54", "4 [15]", "11 [+9]"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 3d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 8
 xp: 1300
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

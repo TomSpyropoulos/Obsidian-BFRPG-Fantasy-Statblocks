@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spider, Phase
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 9+1 (+8)
 hp: 49
 thaco: 12 [+8]
+modifier: 1
 stats: ["9+1 (+8)", "49", "4 [15]", "12 [+8]"]
 attack: "1 bite + poison"
 damage: "1d6 + poison"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 1075
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

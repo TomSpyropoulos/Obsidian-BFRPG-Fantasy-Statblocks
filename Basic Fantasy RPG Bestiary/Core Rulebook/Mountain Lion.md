@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Mountain Lion
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 3+2
 hp: 15
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+2", "15", "5 [14]", "17 [+3]"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/1d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 145
 nbr: Wild 1d4, Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

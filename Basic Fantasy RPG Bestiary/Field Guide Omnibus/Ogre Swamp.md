@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ogre, Swamp
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 16+11 (+12)
 hp: 95
 thaco: 8 [+12]
+modifier: 2
 stats: ["16+11 (+12)", "95", "4 [15]", "8 [+12]"]
 attack: "1 bite, Drowning Grasp"
 damage: "2d8 bite, 1d8 Drowning Grasp"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 9
 xp: 2850
 nbr: 1
-nbr_dj: 
 loot: I +500 gp
 roll_jds: 1d20
 roll-moral: 2d6

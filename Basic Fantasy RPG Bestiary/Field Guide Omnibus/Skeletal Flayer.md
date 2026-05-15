@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Skeletal Flayer
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "4 [15]", "19 [+1]"]
 attack: "1 whip (1d3) / 1 shortsword (1d6)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 12
 xp: 37
 nbr: Wild 1d6, Lair 3d6
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

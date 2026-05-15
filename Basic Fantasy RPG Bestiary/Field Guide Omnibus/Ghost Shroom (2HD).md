@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ghost Shroom (2HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 4 (main stalk), 2 (small stalk)
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["4 (main stalk), 2 (small stalk)", "9", "7 [12]", "18 [+2]"]
 attack: "1 per patch"
 damage: "1d4 + special"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 240
 nbr: 1 main stalk + 1d8-1 small stalks
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

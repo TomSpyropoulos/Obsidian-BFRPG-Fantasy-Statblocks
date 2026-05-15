@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Naiad
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "4 [15]", "17 [+3]"]
 attack: "1 special"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 6
 xp: 175
 nbr: 1d6
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

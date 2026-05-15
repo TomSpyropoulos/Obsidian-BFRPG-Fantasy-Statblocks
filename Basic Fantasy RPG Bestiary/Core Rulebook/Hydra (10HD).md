@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Hydra (10HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 5 to 12 (+10)
 hp: 55
 thaco: 11 [+9]
+modifier: 1
 stats: ["5 to 12 (+10)", "55", "3 [16]", "11 [+9]"]
 attack: "5 to 12 bites"
 damage: "1d10 per bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 360 - 1,875
 nbr: 1, Wild 1, Lair 1
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

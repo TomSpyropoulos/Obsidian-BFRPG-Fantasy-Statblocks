@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Skeleton, Gellybone
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "5 [14]", "18 [+2]"]
 attack: "1 claw (1d6)"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 75
 nbr: 2d4+3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

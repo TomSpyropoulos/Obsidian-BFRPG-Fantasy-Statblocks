@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Assassin Vine
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "4 [15]", "14 [+6]"]
 attack: "1 entangle + special"
 damage: "1d8 + special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 500
 nbr: 1d4+1
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ettercap
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 6+1
 hp: 28
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+1", "28", "5 [14]", "14 [+6]"]
 attack: "2 claws, 1 bite + poison"
 damage: "1d3 claw, 1d8 bite + poison"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 500
 nbr: 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

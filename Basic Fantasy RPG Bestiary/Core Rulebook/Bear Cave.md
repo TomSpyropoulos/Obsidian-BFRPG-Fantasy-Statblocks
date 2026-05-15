@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Bear, Cave
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 7
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7", "31", "4 [15]", "13 [+7]"]
 attack: "2 claws/1 bite + hug"
 damage: "1d8/1d8/2d6 + 2d8 hug"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 670
 nbr: 1d2, Wild 1d2, Lair 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

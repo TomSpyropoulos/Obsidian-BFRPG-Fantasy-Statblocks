@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Mesmerbelly (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 1*- 4*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["1*- 4*", "13", "5 [14]", "17 [+3]"]
 attack: "1 club"
 damage: "1d6 Club"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 10
 xp: 1 HD: 37; 2 HD: 100; 3 HD: 175; 4 HD: 280
 nbr: 4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

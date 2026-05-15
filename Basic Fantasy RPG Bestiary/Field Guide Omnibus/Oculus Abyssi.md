@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Oculus Abyssi
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 11** (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 1
 stats: ["11** (+9)", "58", "4 [15]", "11 [+9]"]
 attack: "2 claws, 1 bite"
 damage: "2d4 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: 1,765
 nbr: 1
-nbr_dj: 
 loot: R
 roll_jds: 1d20
 roll-moral: 2d6

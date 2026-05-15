@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nok Tantima
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 12** (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12** (+10)", "64", "-1 [20]", "10 [+10]"]
 attack: "1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 bite or 1d12 claw or by spell"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 2075
 nbr: 1d2
-nbr_dj: 
 loot: Magic Item
 roll_jds: 1d20
 roll-moral: 2d6

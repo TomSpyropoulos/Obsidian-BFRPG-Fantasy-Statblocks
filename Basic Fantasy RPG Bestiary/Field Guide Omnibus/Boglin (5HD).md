@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Boglin (5HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1* to 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["1* to 5*", "22", "8 [11]", "15 [+5]"]
 attack: "1 weapon or spell"
 damage: "1d6 or by weapon, or per spell"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 8
 xp: 1 HD 37; 2 HD 100; 3 HD 175; 4 HD 280; 5 HD 405
 nbr: 1d4 (see below)
-nbr_dj: 
 loot: N, O
 roll_jds: 1d20
 roll-moral: 2d6

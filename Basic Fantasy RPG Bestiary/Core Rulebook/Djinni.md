@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Djinni
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 7+1**
 hp: 32
 thaco: 13 [+7]
+modifier: 1
 stats: ["7+1**", "32", "4 [15]", "13 [+7]"]
 attack: "1 fist or 1 whirlwind"
 damage: "2d8 or 2d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12 (8)
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

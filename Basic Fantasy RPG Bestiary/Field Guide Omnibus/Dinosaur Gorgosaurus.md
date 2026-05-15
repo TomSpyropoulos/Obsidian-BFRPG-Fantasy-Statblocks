@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Gorgosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 13 (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13 (+10)", "68", "4 [15]", "10 [+10]"]
 attack: "2 claws, 1 bite"
 damage: "1d4 claw, 3d10 bite"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 8
 xp: 2175
 nbr: 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

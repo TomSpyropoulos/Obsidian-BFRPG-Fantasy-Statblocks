@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Giant Crayfish
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 4+4
 hp: 22
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+4", "22", "3 [16]", "16 [+4]"]
 attack: "2 claws"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 7
 xp: 240
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

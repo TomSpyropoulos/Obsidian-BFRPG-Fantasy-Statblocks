@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Rhagodessa, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "3 [16]", "16 [+4]"]
 attack: "2 legs/1 bite"
 damage: "grab/grab/2d8"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 240
 nbr: 1d4, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

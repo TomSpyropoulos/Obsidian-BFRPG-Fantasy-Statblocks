@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Paraceratherium
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 12
 hp: 54
 thaco: 10 [+10]
+modifier: 1
 stats: ["12", "54", "6 [13]", "10 [+10]"]
 attack: "1 kick"
 damage: "2d8 kick"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 6
 xp: 1,875
 nbr: Wild 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

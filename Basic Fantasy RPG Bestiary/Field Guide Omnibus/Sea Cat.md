@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sea Cat
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 11 (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 1
 stats: ["11 (+9)", "58", "1 [18]", "11 [+9]"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 12
 xp: 1575
 nbr: 1, Wild 1d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

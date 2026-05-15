@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Heucova
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2**
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2**", "9", "3 [16]", "18 [+2]"]
 attack: "2 claws or 1 weapon"
 damage: "1d4 claw or by weapon"
@@ -25,7 +25,6 @@ jds: [10, 11, 13, 15, 14]
 moral: 10
 xp: 125
 nbr: 1d6, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

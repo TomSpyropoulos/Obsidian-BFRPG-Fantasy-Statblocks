@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Normal Rat
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 8 [11]
 hit_dice: 1 Hit Point
 hp: 1
 thaco: 19 [+1]
+modifier: -1
 stats: ["1 Hit Point", "1", "8 [11]", "19 [+1]"]
 attack: "1 bite per pack"
 damage: "1d6 + disease"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 5
 xp: 360*
 nbr: 5d10, Wild 5d10, Lair 5d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

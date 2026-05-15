@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Eurypterid, Buffalopterus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "5 [14]", "19 [+1]"]
 attack: "2 claws"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9
 xp: 25
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

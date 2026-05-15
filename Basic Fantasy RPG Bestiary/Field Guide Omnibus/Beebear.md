@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Beebear
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "3 [16]", "13 [+7]"]
 attack: "2 claws + poison / 1 bite + hug + sting"
 damage: "1d4 + poison claw, 1d6 bite, 1d6 hug + 1d6 + poison sting"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 735
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aurumvorax (10HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 10 (+9) or 12 (+10)
 hp: 64
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9) or 12 (+10)", "64", "1 [18]", "11 [+9]"]
 attack: "1 bite + special"
 damage: "1d8"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 11
 xp: 10 HD: 1,300; 12 HD: 1,875
 nbr: 1, Lair 1d6-3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

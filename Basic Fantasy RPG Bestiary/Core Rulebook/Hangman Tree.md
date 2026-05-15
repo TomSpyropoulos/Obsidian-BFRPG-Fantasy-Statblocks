@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Hangman Tree
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "3 [16]", "15 [+5]"]
 attack: "4 limbs + strangle"
 damage: "1d6 per limb + 1d6/round strangle"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 360
 nbr: Wild 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

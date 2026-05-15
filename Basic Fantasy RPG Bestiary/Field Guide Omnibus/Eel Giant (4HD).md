@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Eel, Giant (4HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 2, 4, or 6 (*)
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["2, 4, or 6 (*)", "18", "7 [12]", "16 [+4]"]
 attack: "1 bite"
 damage: "1d8, 1d10, or 1d12"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 2 HD 75; 2* HD 100; 4 HD 240; 4* HD 280; 6 HD 500; 6* HD 555
 nbr: Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

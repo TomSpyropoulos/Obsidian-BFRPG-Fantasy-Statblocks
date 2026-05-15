@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Phoenix
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 9**
 hp: 40
 thaco: 12 [+8]
+modifier: 1
 stats: ["9**", "40", "2 [17]", "12 [+8]"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 2d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

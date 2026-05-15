@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Duckbear
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "4 [15]", "14 [+6]"]
 attack: "2 claws (1d8) / 1 peck (1d10) / 1 hug (3d6)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 500
 nbr: Wild 1d4, Lair 1d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

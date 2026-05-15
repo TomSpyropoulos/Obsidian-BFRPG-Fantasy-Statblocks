@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ray, Pungi
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "6 [13]", "16 [+4]"]
 attack: "1 to 12 spines (1d4 + poison each)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 7
 xp: 240
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

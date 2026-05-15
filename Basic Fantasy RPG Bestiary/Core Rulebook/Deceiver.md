@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Deceiver
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "3 [16]", "14 [+6]"]
 attack: "3 bites (1d6 snake bite, 1d8 panther bite)"
 damage: "1d6 snake bite, 1d8 panther bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 555
 nbr: 1d4, Wild 1d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dracomander, Frost
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 10** (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10** (+9)", "54", "-2 [21]", "11 [+9]"]
 attack: "1 bite or breath / 4 claws / 1 tail + cold"
 damage: "2d10 bite, 10d8 breath 1d8 claw, 1d6 tail, 1d8 per round cold"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 1480
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

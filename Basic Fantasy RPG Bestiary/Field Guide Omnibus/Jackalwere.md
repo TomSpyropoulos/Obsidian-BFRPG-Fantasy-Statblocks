@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Jackalwere
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "3 [16]", "16 [+4]"]
 attack: "1 bite or 1 weapon"
 damage: "2d4 bite or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 7
 xp: 280
 nbr: 1d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

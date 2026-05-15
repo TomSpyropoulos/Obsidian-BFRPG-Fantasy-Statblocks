@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Marid
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "-1 [20]", "12 [+8]"]
 attack: "1 slam or 1 water jet"
 damage: "2d8 slam, 2d6 water jet"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12 (8)
 xp: 1015
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

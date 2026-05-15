@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Barghest
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6+3*
 hp: 30
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+3*", "30", "3 [16]", "14 [+6]"]
 attack: "2 claws (humanoid) / 1 bite (dog)"
 damage: "1d6 claw or 2d4 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 555
 nbr: 1d6, Wild 1d8
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Small Violet Fungi (1HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "7 [12]", "19 [+1]"]
 attack: "1 to 4 (see below)"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 12
 xp: 37
 nbr: {'huge': '1', 'large': '1d4', 'medium': '1d4', 'small': '1d6'}
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

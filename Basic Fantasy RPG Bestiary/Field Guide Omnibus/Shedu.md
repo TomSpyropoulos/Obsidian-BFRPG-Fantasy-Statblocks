@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Shedu
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9+9* (+8)
 hp: 57
 thaco: 12 [+8]
+modifier: 1
 stats: ["9+9* (+8)", "57", "3 [16]", "12 [+8]"]
 attack: "2 hooves (1d6)"
 damage: "1d6 hoof"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 1150
 nbr: 2d4
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

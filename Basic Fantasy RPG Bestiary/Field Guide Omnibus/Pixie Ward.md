@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Pixie, Ward
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "2 [17]", "19 [+1]"]
 attack: "2 claws"
 damage: "1d4 claw + special"
@@ -25,7 +25,6 @@ jds: [12, 11, 11, 15, 11]
 moral: 9
 xp: 37
 nbr: 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

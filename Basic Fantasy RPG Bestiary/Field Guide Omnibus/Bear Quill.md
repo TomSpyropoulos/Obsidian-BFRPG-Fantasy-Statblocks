@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bear, Quill
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "3 [16]", "15 [+5]"]
 attack: "2 claws (1d6) / 1 bite (1d8) / 1 hug (2d8) / quill (1d8)"
 damage: "1d6 claw, 1d8 bite, 2d8 hug, 1d8 quill"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 5 (8)
 xp: 360
 nbr: 1d4
-nbr_dj: 
 loot: Quills 2d6×100 gp (if undamaged)
 roll_jds: 1d20
 roll-moral: 2d6

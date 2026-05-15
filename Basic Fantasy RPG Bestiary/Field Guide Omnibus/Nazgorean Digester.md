@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nazgorean, Digester
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 12* (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12* (+10)", "64", "2 [17]", "10 [+10]"]
 attack: "1 claw + special"
 damage: "1d8 + special"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 7
 xp: 1975
 nbr: 1, Wild 1d3, Lair 1d3+3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

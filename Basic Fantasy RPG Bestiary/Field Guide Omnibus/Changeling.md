@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Changeling
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "7 [12]", "18 [+2]"]
 attack: "1 claw or weapon"
 damage: "1d6+1 or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 8
 xp: 100
 nbr: 1
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

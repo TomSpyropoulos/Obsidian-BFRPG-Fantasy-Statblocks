@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bestomper
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 11*
 hp: 49
 thaco: 11 [+9]
+modifier: 1
 stats: ["11*", "49", "-1 [20]", "11 [+9]"]
 attack: "1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 stomp, 2d6 bite, or eye beam (see below)"
@@ -25,7 +25,6 @@ jds: [11, 10, 9, 13, 11]
 moral: 11
 xp: 1670
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

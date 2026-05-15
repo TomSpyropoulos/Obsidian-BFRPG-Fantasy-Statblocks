@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Smouldergeist
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 12** (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12** (+10)", "64", "1 [18]", "10 [+10]"]
 attack: "1 fire bolt or 1 incinerate or special"
 damage: "1d8 fire bolt, 12d6 incinerate, or special"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 2075
 nbr: 1d4
-nbr_dj: 
 loot: Nonel
 roll_jds: 1d20
 roll-moral: 2d6

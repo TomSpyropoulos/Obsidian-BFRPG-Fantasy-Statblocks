@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Darkmantle
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 1+2*
 hp: 6
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+2*", "6", "2 [17]", "19 [+1]"]
 attack: "1 constriction (1d4)"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7
 xp: 37
 nbr: 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

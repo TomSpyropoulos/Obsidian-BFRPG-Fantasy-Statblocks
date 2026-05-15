@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Piercer (4HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1 to 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["1 to 4", "18", "3 [16]", "16 [+4]"]
 attack: "1 stab"
 damage: "1d6 per HD"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: HD 1: 25; HD 2: 75; HD 3: 145; HD 4: 240
 nbr: 3d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

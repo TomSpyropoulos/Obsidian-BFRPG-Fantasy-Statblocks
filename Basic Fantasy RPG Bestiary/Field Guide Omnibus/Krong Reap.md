@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Krong Reap
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "1 [18]", "14 [+6]"]
 attack: "4 or 2"
 damage: "1d8 or by weapons"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 555
 nbr: 1d4
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

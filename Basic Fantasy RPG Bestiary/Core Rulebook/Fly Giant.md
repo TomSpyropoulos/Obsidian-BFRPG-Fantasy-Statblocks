@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Fly, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "5 [14]", "18 [+2]"]
 attack: "1 bite (1d8)"
 damage: "1d8"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 75
 nbr: 1d6, Wild 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

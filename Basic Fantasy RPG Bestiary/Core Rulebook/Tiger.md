@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Tiger
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "5 [14]", "14 [+6]"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 500
 nbr: Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

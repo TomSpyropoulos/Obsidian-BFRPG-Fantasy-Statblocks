@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Nalfeshni
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 11**
 hp: 49
 thaco: 11 [+9]
+modifier: 1
 stats: ["11**", "49", "-2 [21]", "11 [+9]"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 2d4 bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1765
 nbr: 1d3
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

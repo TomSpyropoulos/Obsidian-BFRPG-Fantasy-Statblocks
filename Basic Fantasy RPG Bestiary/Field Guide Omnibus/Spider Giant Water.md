@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spider, Giant Water
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 3+3*
 hp: 16
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+3*", "16", "4 [15]", "17 [+3]"]
 attack: "1 bite (1d4 + poison)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 175
 nbr: 1d10
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

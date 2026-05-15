@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Torok
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 1
 stats: ["2", "9", "4 [15]", "18 [+2]"]
 attack: "1 weapon"
 damage: "By weapon"
@@ -25,7 +25,6 @@ jds: [11, 13, 11, 13, 13]
 moral: 8
 xp: 75
 nbr: wild 1d12+3, lair 3d10x2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

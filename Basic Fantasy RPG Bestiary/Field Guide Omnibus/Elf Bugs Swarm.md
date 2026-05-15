@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elf Bugs, Swarm
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "2 [17]", "17 [+3]"]
 attack: "1 thorn or bite"
 damage: "3d4 thorn or 1d8 bite"
@@ -25,7 +25,6 @@ jds: [12, 14, 12, 15, 14]
 moral: 8
 xp: 145
 nbr: 1 swarm, Wild 1d3 swarms, Lair 1d3 swarms
-nbr_dj: 
 loot: None, E, or F
 roll_jds: 1d20
 roll-moral: 2d6

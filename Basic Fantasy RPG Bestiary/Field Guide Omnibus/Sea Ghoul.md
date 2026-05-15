@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sea Ghoul
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "7 [12]", "18 [+2]"]
 attack: "2 claws (1d4) / 1 bite (1d4) + paralysis (1 per day)"
 damage: "1d4 claws, 1d4 bite + paralysis (1 per day), poison"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 6
 xp: 125
 nbr: 1d2, Wild 1, Lair 1d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

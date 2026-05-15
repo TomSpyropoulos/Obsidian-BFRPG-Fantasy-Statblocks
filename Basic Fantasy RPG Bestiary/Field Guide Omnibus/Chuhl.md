@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Chuhl
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -3 [22]
 hit_dice: 11*
 hp: 49
 thaco: 11 [+9]
+modifier: 0
 stats: ["11*", "49", "-3 [22]", "11 [+9]"]
 attack: "2 claws + constrict, or paralysis bite"
 damage: "2d6+5 claws, 3d6+5 constrict, or paralysis"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 1670
 nbr: 1
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

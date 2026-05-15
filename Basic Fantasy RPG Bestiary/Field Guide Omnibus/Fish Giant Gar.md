@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fish, Giant Gar
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "2 [17]", "12 [+8]"]
 attack: "1 bite (5d4)"
 damage: "5d4"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 875
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

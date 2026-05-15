@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Slug, Spitting
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 2**
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2**", "9", "8 [11]", "18 [+2]"]
 attack: "1 bite or spit"
 damage: "1d4 + special bite, 1d8 + special spit"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 9
 xp: 125
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

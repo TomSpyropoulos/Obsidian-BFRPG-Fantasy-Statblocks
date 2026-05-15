@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Maggot-man
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 4* (or more)
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4* (or more)", "18", "2 [17]", "16 [+4]"]
 attack: "1 fist + special"
 damage: "1d6 fist + special"
@@ -25,7 +25,6 @@ jds: [11, 11, 10, 14, 12]
 moral: 9
 xp: 945
 nbr: 1
-nbr_dj: 
 loot: U, V in lair
 roll_jds: 1d20
 roll-moral: 2d6

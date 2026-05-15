@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grimhost
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 5**
 hp: 22
 thaco: 15 [+5]
+modifier: 1
 stats: ["5**", "22", "1 [18]", "15 [+5]"]
 attack: "By weapon"
 damage: "By weapon"
@@ -25,7 +25,6 @@ jds: [8, 9, 11, 13, 12]
 moral: 12
 xp: 450
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

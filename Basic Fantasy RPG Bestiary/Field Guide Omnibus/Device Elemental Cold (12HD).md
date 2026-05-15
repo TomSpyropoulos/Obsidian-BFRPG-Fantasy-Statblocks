@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Device Elemental, Cold (12HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 12* (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12* (+10)", "64", "-1 [20]", "10 [+10]"]
 attack: "1"
 damage: "2d8"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 10
 xp: 1975
 nbr: 
-nbr_dj: 
 loot: – None –
 roll_jds: 1d20
 roll-moral: 2d6

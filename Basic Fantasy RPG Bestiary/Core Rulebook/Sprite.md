@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Sprite
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 1d4 Hit Points *
 hp: 2
 thaco: 19 [+1]
+modifier: 0
 stats: ["1d4 Hit Points *", "2", "4 [15]", "19 [+1]"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or by spell"
@@ -25,7 +25,6 @@ jds: [12, 11, 11, 15, 11]
 moral: 7
 xp: 13
 nbr: 3d6, Wild 3d6, Lair 5d8
-nbr_dj: 
 loot: S
 roll_jds: 1d20
 roll-moral: 2d6

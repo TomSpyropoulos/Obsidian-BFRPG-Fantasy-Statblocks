@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Thulid (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1* to 8* (1** to 8** if a Magic-user)
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["1* to 8* (1** to 8** if a Magic-user)", "13", "4 [15]", "17 [+3]"]
 attack: "1 weapon or special"
 damage: "By weapon or special"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 7
 xp: 1 HD: 37 (49); 2 HD: 100 (125); 3 HD: 175 (205); 4 HD: 280 (320); 5 HD: 405 (450); 6 HD: 555 (610); 7 HD: 735 (800); 8 HD: 945 (1015)
 nbr: 1d4
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

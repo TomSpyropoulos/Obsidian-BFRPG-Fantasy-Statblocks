@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Yeti
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4+4*
 hp: 22
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+4*", "22", "5 [14]", "16 [+4]"]
 attack: "2 claws + hug (see below)"
 damage: "1d6 claw, 2d8 hug"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 280
 nbr: 1d6
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

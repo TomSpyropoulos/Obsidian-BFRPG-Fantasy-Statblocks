@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Moon Goblin
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "3 [16]", "18 [+2]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 75
 nbr: Wild 2d10, Lair 4d8×10
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

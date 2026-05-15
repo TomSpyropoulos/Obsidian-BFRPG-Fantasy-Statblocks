@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Golem, Flesh*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -1 [20]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 0
 stats: ["9** (+8)", "48", "-1 [20]", "12 [+8]"]
 attack: "2 fists"
 damage: "2d8/2d8"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

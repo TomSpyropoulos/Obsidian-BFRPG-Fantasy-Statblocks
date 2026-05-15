@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Water Leaper
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "3 [16]", "15 [+5]"]
 attack: "1 bite (2d6) / 1 sting (1d3 + paralysis)"
 damage: "2d6 bite, 1d3 sting + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 405
 nbr: 1, wild 1d3, lair 1d4+1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

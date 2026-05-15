@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Agares
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 7+7*
 hp: 38
 thaco: 13 [+7]
+modifier: 0
 stats: ["7+7*", "38", "-2 [21]", "13 [+7]"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 14, 13]
 moral: 7
 xp: 735
 nbr: 1
-nbr_dj: 
 loot: L, N
 roll_jds: 1d20
 roll-moral: 2d6

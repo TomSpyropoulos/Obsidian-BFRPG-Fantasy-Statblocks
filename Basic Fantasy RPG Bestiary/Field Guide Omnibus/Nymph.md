@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nymph
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 3**
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3**", "13", "8 [11]", "17 [+3]"]
 attack: "None (special, see below)"
 damage: "None"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 205
 nbr: 1d4
-nbr_dj: 
 loot: Q x 10, V
 roll_jds: 1d20
 roll-moral: 2d6

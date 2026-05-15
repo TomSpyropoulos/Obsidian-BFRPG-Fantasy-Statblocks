@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ichneumon (10HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 12 (+10) or 15 (+11)
 hp: 66
 thaco: 11 [+9]
+modifier: 2
 stats: ["12 (+10) or 15 (+11)", "66", "-2 [21]", "11 [+9]"]
 attack: "1 bite, 2 claws, or 1 bite + special"
 damage: "1d12 bite, 2d6 claw"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 9
 xp: 12 HD: 1,875; 15 HD: 2,850
 nbr: 1, Lair 1d4-2
-nbr_dj: 
 loot: None; H (roll 1d6 for age) in lair
 roll_jds: 1d20
 roll-moral: 2d6

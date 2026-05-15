@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Tentacled Horror
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 10+20* (+9)
 hp: 74
 thaco: 11 [+9]
+modifier: 1
 stats: ["10+20* (+9)", "74", "5 [14]", "11 [+9]"]
 attack: "5 tentacles + crush"
 damage: "1d6 tentacle, 3d6 crush"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 12
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Brachiosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 36 (+16)
 hp: 178
 thaco: 4 [+16]
+modifier: 3
 stats: ["36 (+16)", "178", "4 [15]", "4 [+16]"]
 attack: "1 trample"
 damage: "4d6"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 8
 xp: 11,750
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

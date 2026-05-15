@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Blood Rose (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 2* to 4*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["2* to 4*", "13", "6 [13]", "17 [+3]"]
 attack: "1 to 3 + blood drain"
 damage: "1d6, 1d6/round blood drain"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 100 - 280
 nbr: Wild 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

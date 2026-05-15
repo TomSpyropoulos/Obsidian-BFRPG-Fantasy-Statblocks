@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Eel, Electric
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "8 [11]", "18 [+2]"]
 attack: "1 bite or special"
 damage: "1d4 or special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 100
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

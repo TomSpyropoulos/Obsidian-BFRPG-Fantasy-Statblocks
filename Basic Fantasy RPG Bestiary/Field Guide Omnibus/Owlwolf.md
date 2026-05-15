@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Owlwolf
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "2 [17]", "17 [+3]"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 175
 nbr: 1d6+2, Lair 2d6+2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Vampire* (7HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 7** to 9** (+8)
 hp: 39
 thaco: 13 [+7]
+modifier: 0
 stats: ["7** to 9** (+8)", "39", "1 [18]", "13 [+7]"]
 attack: "1 weapon or special"
 damage: "1d8 or by weapon or special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 800 - 1,225
 nbr: 1d6, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

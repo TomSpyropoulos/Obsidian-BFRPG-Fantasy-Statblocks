@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Snake, Pit Viper
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "5 [14]", "19 [+1]"]
 attack: "1 bite"
 damage: "1d4 + poison"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7
 xp: 37
 nbr: 1d4, Wild 1d4, Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

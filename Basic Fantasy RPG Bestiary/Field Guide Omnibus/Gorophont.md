@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Gorophont
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 9 (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9 (+8)", "48", "1 [18]", "12 [+8]"]
 attack: "1 punch, 1 weapon or 1 trample"
 damage: "1d6 punch, by weapon, 3d6 trample"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1075
 nbr: Wild 2d4, Lair 5d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

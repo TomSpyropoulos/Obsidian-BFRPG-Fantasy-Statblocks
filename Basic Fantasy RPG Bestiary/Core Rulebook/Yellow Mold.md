@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Yellow Mold
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 9 [10]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: -1
 stats: ["2*", "9", "9 [10]", "18 [+2]"]
 attack: "-"
 damage: "See below"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: N/A
 xp: 100
 nbr: 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

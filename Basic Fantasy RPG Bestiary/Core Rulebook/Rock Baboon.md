@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Rock Baboon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "5 [14]", "18 [+2]"]
 attack: "1 club or Fist /1 bite"
 damage: "1d6 club or 1d4 fist/1d4 bite"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 75
 nbr: 2d6, Wild 2d6, Lair 5d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

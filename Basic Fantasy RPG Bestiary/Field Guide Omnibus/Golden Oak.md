@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golden Oak
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 12** (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12** (+10)", "64", "8 [11]", "10 [+10]"]
 attack: "1 swarm of mirror butterflies"
 damage: "3d6 + blind"
@@ -25,7 +25,6 @@ jds: [10, 10, 9, 13, 11]
 moral: 6
 xp: 2075
 nbr: 1
-nbr_dj: 
 loot: special, see below
 roll_jds: 1d20
 roll-moral: 2d6

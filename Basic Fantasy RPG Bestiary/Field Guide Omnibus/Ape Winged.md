@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ape, Winged
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "5 [14]", "17 [+3]"]
 attack: "2 claws or 1 rock"
 damage: "1d4 claw or 1d6 rock"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 7 (9 in flight)
 xp: 145
 nbr: 1d6, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

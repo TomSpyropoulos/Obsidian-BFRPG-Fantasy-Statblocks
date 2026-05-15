@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Red Cap
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 1
 stats: ["3*", "13", "5 [14]", "17 [+3]"]
 attack: "1 weapon"
 damage: "By weapon"
@@ -25,7 +25,6 @@ jds: [11, 13, 11, 13, 13]
 moral: 8
 xp: 175
 nbr: 1d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

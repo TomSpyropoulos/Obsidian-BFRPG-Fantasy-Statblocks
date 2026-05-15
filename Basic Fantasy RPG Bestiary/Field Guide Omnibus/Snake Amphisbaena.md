@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Snake, Amphisbaena
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "2 [17]", "14 [+6]"]
 attack: "2 bites (1d4 + poison)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 500
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

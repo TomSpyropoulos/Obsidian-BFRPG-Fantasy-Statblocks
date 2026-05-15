@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Crab, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "1 [18]", "17 [+3]"]
 attack: "2 pincers"
 damage: "2d6/2d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 145
 nbr: 1d2, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

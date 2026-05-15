@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Ironbane*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "4 [15]", "17 [+3]"]
 attack: "1 touch"
 damage: "special"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 175
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

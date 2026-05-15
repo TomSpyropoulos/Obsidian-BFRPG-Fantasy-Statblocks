@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Xorn
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 7+1**
 hp: 32
 thaco: 13 [+7]
+modifier: 0
 stats: ["7+1**", "32", "-2 [21]", "13 [+7]"]
 attack: "1 bite (4d6)"
 damage: "4d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 800
 nbr: 1d6
-nbr_dj: 
 loot: I, J, K, M
 roll_jds: 1d20
 roll-moral: 2d6

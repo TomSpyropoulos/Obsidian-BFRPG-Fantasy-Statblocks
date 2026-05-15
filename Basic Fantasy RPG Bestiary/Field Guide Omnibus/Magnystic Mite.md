@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Magnystic Mite
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1 hit point*
 hp: 1
 thaco: 19 [+1]
+modifier: 0
 stats: ["1 hit point*", "1", "3 [16]", "19 [+1]"]
 attack: "1 bite + Save Drain"
 damage: "Save Drain (Wands)"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 12
 xp: 13
 nbr: 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

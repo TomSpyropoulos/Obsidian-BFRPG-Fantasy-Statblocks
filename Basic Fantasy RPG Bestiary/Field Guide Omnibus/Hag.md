@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Hag
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "4 [15]", "14 [+6]"]
 attack: "2 claws / hex"
 damage: "2d6 claw, special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 14, 13]
 moral: 8
 xp: 555
 nbr: 1
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

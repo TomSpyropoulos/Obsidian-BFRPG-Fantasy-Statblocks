@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Woolly Rhino
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12 (+10)", "64", "0 [19]", "10 [+10]"]
 attack: "1 butt or 1 trample"
 damage: "2d8 or 2d12"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 6
 xp: 1,875
 nbr: Wild 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

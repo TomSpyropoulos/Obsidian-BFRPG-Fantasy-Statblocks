@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Allip
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6**
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6**", "27", "4 [15]", "14 [+6]"]
 attack: "1 touch + insane babbling"
 damage: "energy drain (1 level)"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 610
 nbr: 1d4, Lair 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Griffon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 7
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7", "31", "1 [18]", "13 [+7]"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/2d8"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 670
 nbr: Wild 2d8, Lair 2d8
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

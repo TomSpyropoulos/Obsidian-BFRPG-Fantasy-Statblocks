@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Wug
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "7 [12]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d8 punch, by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 25
 nbr: 2d4, Wild 3d6, Lair 10d6
-nbr_dj: 
 loot: E (in Lair)
 roll_jds: 1d20
 roll-moral: 2d6

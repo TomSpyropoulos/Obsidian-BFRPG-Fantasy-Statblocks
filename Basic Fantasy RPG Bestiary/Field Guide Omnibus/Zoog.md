@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Zoog
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: ½ (1d4 points)
 hp: 2
 thaco: 20 [+0]
+modifier: -1
 stats: ["\u00bd (1d4 points)", "2", "5 [14]", "20 [+0]"]
 attack: "1 dagger or 1 bite"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: 7
 xp: 10
 nbr: 3d4
-nbr_dj: 
 loot: P, J in lair
 roll_jds: 1d20
 roll-moral: 2d6

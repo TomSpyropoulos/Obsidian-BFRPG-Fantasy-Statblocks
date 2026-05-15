@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ophidian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 3+1*
 hp: 14
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+1*", "14", "5 [14]", "17 [+3]"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 + Poison or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 175
 nbr: 1d8
-nbr_dj: 
 loot: D in Lair
 roll_jds: 1d20
 roll-moral: 2d6

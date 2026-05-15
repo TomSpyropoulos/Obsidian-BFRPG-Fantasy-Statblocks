@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Rakun
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1d6 HP
 hp: 3
 thaco: 19 [+1]
+modifier: 0
 stats: ["1d6 HP", "3", "7 [12]", "19 [+1]"]
 attack: "1 weapon or one bite"
 damage: "1d4 or by weapon or 1d3 bite"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 10
 nbr: 1d6, Wild 2d4, Lair 4d8
-nbr_dj: 
 loot: Q, R each; D, K in lair
 roll_jds: 1d20
 roll-moral: 2d6

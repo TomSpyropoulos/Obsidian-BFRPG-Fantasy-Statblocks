@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Skragg
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "5 [14]", "16 [+4]"]
 attack: "2 claws (1d4) / 1 bite (1d8)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10 (8)
 xp: 280
 nbr: 1d6, Wild 1d6, Lair 2d6
-nbr_dj: 
 loot: B, D
 roll_jds: 1d20
 roll-moral: 2d6

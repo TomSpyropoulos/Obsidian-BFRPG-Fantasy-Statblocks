@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Griffon, Imperial
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 9 (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9 (+8)", "48", "0 [19]", "12 [+8]"]
 attack: "2 claws / 1 bite"
 damage: "2d4 claw, 3d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1075
 nbr: 1, Lair 1d4
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

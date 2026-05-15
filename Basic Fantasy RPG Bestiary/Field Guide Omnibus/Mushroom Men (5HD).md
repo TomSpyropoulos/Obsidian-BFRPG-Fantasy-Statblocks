@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Mushroom Men (5HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1 to 10 (+9)
 hp: 31
 thaco: 15 [+5]
+modifier: 0
 stats: ["1 to 10 (+9)", "31", "6 [13]", "15 [+5]"]
 attack: "1"
 damage: "1-2 HD: 1d4 or by weapon -1; 3-5 HD: 1d6 or by weapon; 6-8 HD: 1d8 or by weapon +1; 9+ HD: 1d10 or by weapon +2"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 1-3 HD: 7; 4-6 HD: 8; 7-8 HD: 9; 9+ HD: 10
 xp: HD 1: 25; HD 2: 75; HD 3: 145; HD 4: 240; HD 5: 360; HD 6: 500; HD 7: 670; HD 8: 875; HD 9: 1,075; HD 10: 1,300
 nbr: 1d6 (5d12 in lair)
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

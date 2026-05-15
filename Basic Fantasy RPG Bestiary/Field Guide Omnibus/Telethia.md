@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Telethia
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 1
 stats: ["7**", "31", "-1 [20]", "13 [+7]"]
 attack: "2 claws / 2 bites or special"
 damage: "2d4 claw, 3d6 bite, special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 800
 nbr: Wild 1d4, Lair 3d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

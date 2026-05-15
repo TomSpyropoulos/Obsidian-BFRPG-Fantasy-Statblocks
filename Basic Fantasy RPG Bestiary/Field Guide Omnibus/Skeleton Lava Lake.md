@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Skeleton, Lava Lake
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 7+2*
 hp: 33
 thaco: 13 [+7]
+modifier: 0
 stats: ["7+2*", "33", "2 [17]", "13 [+7]"]
 attack: "1 giant weapon or 1 thrown lava rock"
 damage: "3d6 weapon or 2d6 thrown rock"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 735
 nbr: 1, Wild 1d3
-nbr_dj: 
 loot: E + 1d6x1,000 gp value ruby
 roll_jds: 1d20
 roll-moral: 2d6

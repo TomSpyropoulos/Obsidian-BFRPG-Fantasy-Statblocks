@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Paper Tiger (7HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 7*, 9*, or 11*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*, 9*, or 11*", "31", "4 [15]", "13 [+7]"]
 attack: "2 claws, 1 bite"
 damage: "1d8 claw, 2d6 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: HD 7: 735; HD 9: 1,150; HD 11: 1,665
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

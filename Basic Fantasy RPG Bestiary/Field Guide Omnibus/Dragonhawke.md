@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dragonhawke
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "3 [16]", "18 [+2]"]
 attack: "1 charge (dive) or 2 claws + 1 bite"
 damage: "2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 claw, 1d4 bite"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 75
 nbr: 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

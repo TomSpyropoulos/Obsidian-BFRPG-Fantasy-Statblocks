@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golem, Chain
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 20** (+13)
 hp: 103
 thaco: 7 [+13]
+modifier: 3
 stats: ["20** (+13)", "103", "-5 [24]", "7 [+13]"]
 attack: "3 lashes + special"
 damage: "4d6 lash, + special"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 12
 xp: 5650
 nbr: 1
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

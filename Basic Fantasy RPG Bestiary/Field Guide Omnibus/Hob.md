@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Hob
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 1-1
 hp: 3
 thaco: 19 [+1]
+modifier: -1
 stats: ["1-1", "3", "5 [14]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: 7
 xp: 10
 nbr: 1d6, Lair 5d10
-nbr_dj: 
 loot: R
 roll_jds: 1d20
 roll-moral: 2d6

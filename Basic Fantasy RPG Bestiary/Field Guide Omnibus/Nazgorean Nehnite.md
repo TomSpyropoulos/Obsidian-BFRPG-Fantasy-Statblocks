@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nazgorean, Nehnite
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1d4* per MU level (AB +1 per MU level)
 hp: 2
 thaco: 20 [+0]
+modifier: -1
 stats: ["1d4* per MU level (AB +1 per MU level)", "2", "8 [11]", "20 [+0]"]
 attack: "1 bite or small weapon"
 damage: "1d2+poison bite, 1d4 or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: 8
 xp: 13+
 nbr: Wild 1d4, Lair 2d4
-nbr_dj: 
 loot: Chance of magical wand
 roll_jds: 1d20
 roll-moral: 2d6

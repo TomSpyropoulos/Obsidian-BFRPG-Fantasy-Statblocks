@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Marilith
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "3 [16]", "13 [+7]"]
 attack: "6 claws or 6 weapons + breath weapon"
 damage: "1d6 per claw or by weapon + 6d6 fire breath"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Troll
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "3 [16]", "14 [+6]"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/1d10"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10 (8)
 xp: 555
 nbr: 1d8, Wild 1d8, Lair 1d8
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

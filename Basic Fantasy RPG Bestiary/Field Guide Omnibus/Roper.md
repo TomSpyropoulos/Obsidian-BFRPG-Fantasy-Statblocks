@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Roper
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 10* (+9) to 12* (+10)
 hp: 64
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9) to 12* (+10)", "64", "-1 [20]", "11 [+9]"]
 attack: "1 bite + special"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 10 HD 1,390; 11 HD 1,670; 12 HD 1,975
 nbr: 1
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

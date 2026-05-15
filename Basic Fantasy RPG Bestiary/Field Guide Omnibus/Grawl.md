@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grawl
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 2+2*
 hp: 11
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+2*", "11", "5 [14]", "18 [+2]"]
 attack: "2 claws / 1 bite or 1 weapon"
 damage: "1d4 claw, 1d6 bite, by weapon +1"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 100
 nbr: 2d6, Lair 8d6
-nbr_dj: 
 loot: B, L in lair
 roll_jds: 1d20
 roll-moral: 2d6

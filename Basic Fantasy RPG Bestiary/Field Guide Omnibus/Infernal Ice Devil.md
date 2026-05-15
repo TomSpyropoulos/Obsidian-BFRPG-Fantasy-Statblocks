@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Ice Devil
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 3**
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3**", "13", "1 [18]", "17 [+3]"]
 attack: "1 claw, cold aura, or breath weapon"
 damage: "1d3 claw +1d4 cold, or breath weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 205
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

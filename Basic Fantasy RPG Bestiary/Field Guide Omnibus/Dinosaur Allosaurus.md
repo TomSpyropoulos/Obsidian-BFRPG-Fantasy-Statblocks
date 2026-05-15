@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Allosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 15 (+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 2
 stats: ["15 (+11)", "78", "4 [15]", "9 [+11]"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 4d6 bite"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 8
 xp: 2,850
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

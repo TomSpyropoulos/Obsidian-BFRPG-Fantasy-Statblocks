@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Lemure
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "7 [12]", "17 [+3]"]
 attack: "1 claw (1d4)"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 6 (11)
 xp: 145
 nbr: 5d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

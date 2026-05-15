@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Snail, Giant Cone
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "3 [16]", "17 [+3]"]
 attack: "1 dart (1d6 + paralysis)"
 damage: "1d6 + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 175
 nbr: 1d3, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

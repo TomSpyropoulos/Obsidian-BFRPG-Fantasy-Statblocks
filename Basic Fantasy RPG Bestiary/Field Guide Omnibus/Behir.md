@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Behir
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 13** (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13** (+10)", "68", "-1 [20]", "10 [+10]"]
 attack: "1 bite+constriction, 6 claws or breath"
 damage: "2d10 bite, 1d8 constriction, 1d4 claw, or breath"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 9
 xp: 2395
 nbr: 1d2, Lair 1d2
-nbr_dj: 
 loot: L
 roll_jds: 1d20
 roll-moral: 2d6

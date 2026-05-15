@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Giant, Sea
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 10+3 (+9)
 hp: 57
 thaco: 11 [+9]
+modifier: 1
 stats: ["10+3 (+9)", "57", "2 [17]", "11 [+9]"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "4d6 giant weapon, 3d6 rock"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10 (12 if defending lair)
 xp: 1675
 nbr: 1d2, Wild 1d2, Lair 1d4
-nbr_dj: 
 loot: B + 3d6×900 gp
 roll_jds: 1d20
 roll-moral: 2d6

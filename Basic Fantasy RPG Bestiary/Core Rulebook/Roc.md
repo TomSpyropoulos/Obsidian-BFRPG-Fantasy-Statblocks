@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Roc
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "1 [18]", "14 [+6]"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 500
 nbr: Wild 1d12
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Gnoll, Regenerating
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "4 [15]", "18 [+2]"]
 attack: "1 weapon"
 damage: "2d4 or by weapon +1"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8 (6)
 xp: 100
 nbr: 1d6, Wild 3d6, Lair 3d6
-nbr_dj: 
 loot: Q, S each; D, K in lair
 roll_jds: 1d20
 roll-moral: 2d6

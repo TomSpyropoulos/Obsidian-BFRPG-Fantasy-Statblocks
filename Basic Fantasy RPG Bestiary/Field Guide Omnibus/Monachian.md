@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Monachian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "5 [14]", "16 [+4]"]
 attack: "1 weapon + gaze or spell"
 damage: "1d8 + paralysis or by spell"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 9
 xp: 320
 nbr: 1d4
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

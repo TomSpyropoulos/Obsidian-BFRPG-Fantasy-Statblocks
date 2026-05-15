@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sicklemore Tree (6HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4* to 8*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["4* to 8*", "27", "5 [14]", "14 [+6]"]
 attack: "4-8 sickle branch (as hit dice)"
 damage: "1d6 branch"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 4 HD: 280; 5 HD: 405; 6 HD: 555; 7 HD: 735; 8 HD: 945
 nbr: Special
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

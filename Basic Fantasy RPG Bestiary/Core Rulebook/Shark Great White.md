@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Shark, Great White
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "0 [19]", "12 [+8]"]
 attack: "1 bite (2d10)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 875
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

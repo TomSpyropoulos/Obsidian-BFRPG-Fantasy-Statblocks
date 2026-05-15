@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Spined Devil
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "1 bite or 2 blades or spines or by weapon"
 damage: "1d6 + poison or 1d8+2 or 4d6 or by weapon + 2"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 945
 nbr: 1d4+1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

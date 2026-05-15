@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Goblin
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 1-1
 hp: 3
 thaco: 19 [+1]
+modifier: 0
 stats: ["1-1", "3", "5 [14]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7 or see below
 xp: 10
 nbr: 2d4 ,Wild 6d10, Lair 6d10
-nbr_dj: 
 loot: R each; C in lair
 roll_jds: 1d20
 roll-moral: 2d6

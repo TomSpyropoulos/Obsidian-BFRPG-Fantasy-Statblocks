@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lizard, Fire (9HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 7* to 12* (+10)
 hp: 50
 thaco: 12 [+8]
+modifier: 1
 stats: ["7* to 12* (+10)", "50", "2 [17]", "12 [+8]"]
 attack: "2 claws / 1 bite or 1 breath"
 damage: "1d8 claw, 2d8 bite, 2d6 breath"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 7 HD: 735; 8 HD: 945; 9 HD: 1,150; 10 HD: 1,390; 11 HD: 1,670; 12 HD: 1,975
 nbr: 1d4
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

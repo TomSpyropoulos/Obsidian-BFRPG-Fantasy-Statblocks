@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Snake, Sea
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "5 [14]", "17 [+3]"]
 attack: "1 bite (1 + poison)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 175
 nbr: Wild 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

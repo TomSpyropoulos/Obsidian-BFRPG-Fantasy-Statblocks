@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dinosaur, Triceratops
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 11 (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 0
 stats: ["11 (+9)", "58", "0 [19]", "11 [+9]"]
 attack: "1 gore or 1 trample"
 damage: "3d6 or 3d6 (special, see below)"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 1575
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

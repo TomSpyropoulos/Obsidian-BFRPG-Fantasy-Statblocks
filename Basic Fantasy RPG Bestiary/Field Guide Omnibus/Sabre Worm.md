@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sabre Worm
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 10*
 hp: 45
 thaco: 11 [+9]
+modifier: 1
 stats: ["10*", "45", "1 [18]", "11 [+9]"]
 attack: "2 sabre claws / 1 bite / 1 breath weapon"
 damage: "1d6+3 claw, 4d4 bite or 6d6 breath"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

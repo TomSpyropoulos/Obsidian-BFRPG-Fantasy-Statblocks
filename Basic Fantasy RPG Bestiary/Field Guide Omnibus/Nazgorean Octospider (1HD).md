@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nazgorean, Octospider (1HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1* to 6*
 hp: 4
 thaco: 19 [+1]
+modifier: -1
 stats: ["1* to 6*", "4", "4 [15]", "19 [+1]"]
 attack: "1 spray or 1 grapple and bite"
 damage: "Special, see below"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 16, 15]
 moral: 1d6+6 (see below)
 xp: 1 HD: 37; 2 HD: 100; 3 HD: 175; 4 HD: 280; 5 HD: 405; 6 HD: 555
 nbr: 1d12
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

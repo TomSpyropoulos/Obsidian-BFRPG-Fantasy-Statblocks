@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Curse
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "4 [15]", "13 [+7]"]
 attack: "1 devour (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 735
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

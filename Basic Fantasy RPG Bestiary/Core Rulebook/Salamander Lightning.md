@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Salamander, Lightning
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -1 [20]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "2 bites + lightning"
 damage: "2d4 bite, 1d8/round lightning"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 8
 xp: 1390
 nbr: 1d4, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

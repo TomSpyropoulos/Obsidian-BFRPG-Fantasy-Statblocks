@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ogre Mage
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 5+2**
 hp: 24
 thaco: 15 [+5]
+modifier: 0
 stats: ["5+2**", "24", "2 [17]", "15 [+5]"]
 attack: "1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (large weapon), by weapon +3, by spell, 12d4 breath"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 10
 xp: 450
 nbr: 1, Lair 1d6
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

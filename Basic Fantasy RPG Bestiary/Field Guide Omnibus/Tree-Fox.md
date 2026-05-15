@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Tree-Fox
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "3 [16]", "19 [+1]"]
 attack: "2 claws / 1 bite"
 damage: "1d3 claw, 1d4 bite"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

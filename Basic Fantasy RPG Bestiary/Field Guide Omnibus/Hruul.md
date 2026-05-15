@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Hruul
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "1 [18]", "14 [+6]"]
 attack: "1 giant axe, 1 giant club or 1 ground slam"
 damage: "1d8 + 4 axe, 2d6 club or 1d10 to all surrounding enemies"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 500
 nbr: 1d4, Lair 2d6
-nbr_dj: 
 loot: K
 roll_jds: 1d20
 roll-moral: 2d6

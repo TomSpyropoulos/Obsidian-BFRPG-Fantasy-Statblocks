@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Bat
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 1 Hit Point
 hp: 1
 thaco: 19 [+1]
+modifier: -1
 stats: ["1 Hit Point", "1", "5 [14]", "19 [+1]"]
 attack: "1 special"
 damage: "Confusion"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 6
 xp: 10
 nbr: 1d100, Wild 1d100, Lair 1d100
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

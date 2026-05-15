@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Salamander, Sand*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 7* (+4)
 hp: 35
 thaco: 13 [+7]
+modifier: 0
 stats: ["7* (+4)", "35", "1 [18]", "13 [+7]"]
 attack: "-"
 damage: "1d6 + petrification"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 735
 nbr: 1d3, Wild 2d4, Lair 1d6
-nbr_dj: 
 loot: L
 roll_jds: 1d20
 roll-moral: 2d6

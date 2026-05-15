@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sun's Child
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "3 [16]", "11 [+9]"]
 attack: "Special"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

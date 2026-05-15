@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Twilight Hound (6HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 5* to 9* (+8)
 hp: 35
 thaco: 14 [+6]
+modifier: 0
 stats: ["5* to 9* (+8)", "35", "2 [17]", "14 [+6]"]
 attack: "2 bites or 1 bite + poison"
 damage: "1d10 bite or 1d4 bite + poison"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 5 HD: 405; 6 HD: 555; 7 HD: 735; 8 HD: 945; 9 HD: 1,150
 nbr: 1, Wild 1d2, Lair 1d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

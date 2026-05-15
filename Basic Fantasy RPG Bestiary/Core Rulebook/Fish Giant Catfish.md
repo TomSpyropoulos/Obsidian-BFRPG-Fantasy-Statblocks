@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Fish, Giant Catfish
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "3 [16]", "12 [+8]"]
 attack: "1 bite/2 fins"
 damage: "2d8/1d4+poison/1d4+poison"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 875
 nbr: Wild 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

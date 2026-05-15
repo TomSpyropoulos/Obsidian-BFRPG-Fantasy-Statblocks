@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Quinotaur
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 8+3*
 hp: 39
 thaco: 12 [+8]
+modifier: 1
 stats: ["8+3*", "39", "1 [18]", "12 [+8]"]
 attack: "1 gore, or 1 bite, or charge"
 damage: "2d8+2 gore, 1d10+3 bite, 4d8+2 charge"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1200
 nbr: 1
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

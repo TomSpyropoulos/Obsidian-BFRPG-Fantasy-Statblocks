@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Water Termite, Giant (2HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 1 to 4
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["1 to 4", "9", "6 [13]", "18 [+2]"]
 attack: "1 spray"
 damage: "Stun"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 10
 xp: 25 - 240
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

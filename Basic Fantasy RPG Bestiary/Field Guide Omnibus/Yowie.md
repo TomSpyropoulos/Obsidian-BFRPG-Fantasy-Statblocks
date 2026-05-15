@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Yowie
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6+2*
 hp: 29
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+2*", "29", "3 [16]", "14 [+6]"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 555
 nbr: 1d4
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

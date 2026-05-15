@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Centaur
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "4 [15]", "16 [+4]"]
 attack: "2 hooves/1 weapon"
 damage: "1d6/1d6/1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 240
 nbr: Wild 2d10
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

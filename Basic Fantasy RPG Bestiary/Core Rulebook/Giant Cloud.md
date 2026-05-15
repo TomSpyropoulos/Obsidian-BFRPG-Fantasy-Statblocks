@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Cloud
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 12+3* (+10)
 hp: 67
 thaco: 10 [+10]
+modifier: 1
 stats: ["12+3* (+10)", "67", "0 [19]", "10 [+10]"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "6d6 or 3d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 10
 xp: 1975
 nbr: 1d2, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: E plus 1d12x1000 gp
 roll_jds: 1d20
 roll-moral: 2d6

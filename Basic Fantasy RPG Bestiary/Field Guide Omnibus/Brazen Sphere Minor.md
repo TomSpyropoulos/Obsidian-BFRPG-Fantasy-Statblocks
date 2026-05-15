@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Brazen Sphere Minor
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "-1 [20]", "17 [+3]"]
 attack: "2 bludgeon (1d6)"
 damage: "1d6 bludgeon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 175
 nbr: 3d10
-nbr_dj: 
 loot: 300 gp worth of sapphires
 roll_jds: 1d20
 roll-moral: 2d6

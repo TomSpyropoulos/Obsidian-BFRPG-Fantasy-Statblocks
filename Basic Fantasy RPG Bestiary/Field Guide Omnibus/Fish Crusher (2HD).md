@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fish, Crusher (2HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1 to 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["1 to 2", "9", "8 [11]", "18 [+2]"]
 attack: "1 bite plus spines (special)"
 damage: "1d8 bite plus poison"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 1 HD: 25; 2 HD: 75
 nbr: 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

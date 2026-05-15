@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Nightmare
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 6+6*
 hp: 33
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+6*", "33", "-5 [24]", "14 [+6]"]
 attack: "2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
 damage: "2d4+2 hoof, 2d4 bite, or special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 555
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

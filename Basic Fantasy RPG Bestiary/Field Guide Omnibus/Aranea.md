@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aranea
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 4**
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4**", "18", "6 [13]", "16 [+4]"]
 attack: "spider form: 1 bite, web, or spells / hybrid form: 1 bite, web, spells, or weapon / humanoid form: spells or weapon"
 damage: "1d6 bite+poison or by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 7
 xp: 320
 nbr: 1d6, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

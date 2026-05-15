@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Slug, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12 (+10)", "64", "7 [12]", "10 [+10]"]
 attack: "1 bite or 1 spit"
 damage: "1d12 bite or 2d6 spit"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 7
 xp: 1875
 nbr: 1
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

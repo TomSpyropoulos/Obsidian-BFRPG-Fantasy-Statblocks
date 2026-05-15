@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Tyrannobeak
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -4 [23]
 hit_dice: 18 (+12)
 hp: 93
 thaco: 8 [+12]
+modifier: 2
 stats: ["18 (+12)", "93", "-4 [23]", "8 [+12]"]
 attack: "2 claws / 1 beak"
 damage: "2d8 claw, 4d6 bite"
@@ -25,7 +25,6 @@ jds: [6, 7, 8, 10, 11]
 moral: 11
 xp: 4000.0
 nbr: Wild 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

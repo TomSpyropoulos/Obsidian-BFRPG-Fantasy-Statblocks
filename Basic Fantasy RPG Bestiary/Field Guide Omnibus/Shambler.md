@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Shambler
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 13** (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13** (+10)", "68", "-1 [20]", "10 [+10]"]
 attack: "2 slam + constrict"
 damage: "2d6 slam, 4d6 constrict"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12
 xp: 2395
 nbr: 1
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

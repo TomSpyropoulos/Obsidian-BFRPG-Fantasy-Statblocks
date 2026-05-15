@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dryad
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "4 [15]", "18 [+2]"]
 attack: "1 dagger or fist"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 6
 xp: 100
 nbr: Lair 1d6
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

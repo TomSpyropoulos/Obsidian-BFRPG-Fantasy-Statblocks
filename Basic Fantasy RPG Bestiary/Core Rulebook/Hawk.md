@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Hawk
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 7 [12]
 hit_dice: 1d4 Hit Points
 hp: 2
 thaco: 19 [+1]
+modifier: 0
 stats: ["1d4 Hit Points", "2", "7 [12]", "19 [+1]"]
 attack: "1 claw or bite"
 damage: "1d2"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7
 xp: 10
 nbr: Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

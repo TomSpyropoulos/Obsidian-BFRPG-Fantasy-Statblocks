@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bisren
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1+2
 hp: 6
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+2", "6", "4 [15]", "19 [+1]"]
 attack: "1 gore, charge, or by weapon"
 damage: "1d6, charge, or by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9
 xp: 25
 nbr: 1d8, Wild 5d8, Lair 5d8
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

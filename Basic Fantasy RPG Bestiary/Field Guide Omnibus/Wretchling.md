@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Wretchling
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "2 [17]", "15 [+5]"]
 attack: "Special"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 8
 xp: 405
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

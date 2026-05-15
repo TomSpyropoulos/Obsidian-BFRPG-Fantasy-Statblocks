@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Naga, Spirit
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9* (+8) to 11* (+9)
 hp: 57
 thaco: 12 [+8]
+modifier: 1
 stats: ["9* (+8) to 11* (+9)", "57", "3 [16]", "12 [+8]"]
 attack: "1 bite + gaze"
 damage: "1d3 + poison bite, charm gaze"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: HD 9: 1,150; HD 10: 1,390; HD 11: 1,670
 nbr: 1d3
-nbr_dj: 
 loot: B, T, X
 roll_jds: 1d20
 roll-moral: 2d6

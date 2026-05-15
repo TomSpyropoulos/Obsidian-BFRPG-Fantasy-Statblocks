@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Fish, Giant Barracuda
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 9 (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9 (+8)", "48", "4 [15]", "12 [+8]"]
 attack: "1 bite"
 damage: "2d8+1"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1075
 nbr: Wild 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

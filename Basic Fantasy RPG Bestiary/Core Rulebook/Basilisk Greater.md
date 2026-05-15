@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Basilisk, Greater
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 8***
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8***", "36", "2 [17]", "12 [+8]"]
 attack: "1 bite/ 1 gaze"
 damage: "1d12 + poison, bite, petrification gaze"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 1085
 nbr: 1
-nbr_dj: 
 loot: F, K
 roll_jds: 1d20
 roll-moral: 2d6

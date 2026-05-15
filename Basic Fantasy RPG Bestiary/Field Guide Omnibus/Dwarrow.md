@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dwarrow
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1+1
 hp: 5
 thaco: 19 [+1]
+modifier: 1
 stats: ["1+1", "5", "3 [16]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 8
 xp: 25
 nbr: 1d8, Wild 2d6, Lair 5d10
-nbr_dj: 
 loot: Q, S each; B, L in lair
 roll_jds: 1d20
 roll-moral: 2d6

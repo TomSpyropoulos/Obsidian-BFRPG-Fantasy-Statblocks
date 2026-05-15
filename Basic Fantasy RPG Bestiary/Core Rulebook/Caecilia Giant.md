@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Caecilia, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "5 [14]", "14 [+6]"]
 attack: "-"
 damage: "1d8 + 1d8/round if swallowed"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 555
 nbr: 1d3, Lair 1d3
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

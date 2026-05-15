@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Brownie
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 1**
 hp: 4
 thaco: 19 [+1]
+modifier: -1
 stats: ["1**", "4", "0 [19]", "19 [+1]"]
 attack: "1 miniature weapon"
 damage: "1d2"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: 7
 xp: 49
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

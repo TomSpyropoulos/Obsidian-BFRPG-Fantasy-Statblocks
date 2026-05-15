@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Gorgon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "1 gore or 1 breath"
 damage: "2d6 or petrification breath"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 945
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

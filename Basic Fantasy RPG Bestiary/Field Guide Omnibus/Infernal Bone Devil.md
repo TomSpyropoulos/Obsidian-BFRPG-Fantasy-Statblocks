@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Bone Devil
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 9*
 hp: 40
 thaco: 12 [+8]
+modifier: 1
 stats: ["9*", "40", "-2 [21]", "12 [+8]"]
 attack: "1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
 damage: "3d4 hook, 2d4 plus 1d4 STR damage tail"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 1150
 nbr: 1d2 Lair 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

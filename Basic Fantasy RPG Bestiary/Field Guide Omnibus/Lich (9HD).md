@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lich (9HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 10** (+9) or more see below
 hp: 49
 thaco: 12 [+8]
+modifier: 1
 stats: ["10** (+9) or more see below", "49", "0 [19]", "12 [+8]"]
 attack: "1 touch, weapon, or spell"
 damage: "1d8 + drain, by weapon, or by spell"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 1480
 nbr: 1
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

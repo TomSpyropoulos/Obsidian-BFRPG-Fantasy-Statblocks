@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Efreeti
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -2 [21]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 2
 stats: ["10* (+9)", "54", "-2 [21]", "11 [+9]"]
 attack: "-"
 damage: "2d8 or special"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 12 (9)
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

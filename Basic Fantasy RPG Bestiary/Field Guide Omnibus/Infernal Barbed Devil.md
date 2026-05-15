@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Barbed Devil
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "-1 [20]", "12 [+8]"]
 attack: "2 claws / 1 tail / plus special"
 damage: "2d4 claw, 3d4 tail plus special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 944
 nbr: 1d2 Lair 3d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

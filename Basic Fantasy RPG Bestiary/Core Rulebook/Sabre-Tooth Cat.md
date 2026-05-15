@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Sabre-Tooth Cat
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "5 [14]", "12 [+8]"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d8"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 875
 nbr: Wild 1d4, Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

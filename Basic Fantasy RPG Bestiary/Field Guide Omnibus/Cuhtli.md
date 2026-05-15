@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cuhtli
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+8)", "48", "3 [16]", "12 [+8]"]
 attack: "1 stinger / 1 constriction or spells/powers"
 damage: "1d4 + poison/2d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 11
 xp: 1225
 nbr: 1d2, Lair 1d6
-nbr_dj: 
 loot: B, I
 roll_jds: 1d20
 roll-moral: 2d6

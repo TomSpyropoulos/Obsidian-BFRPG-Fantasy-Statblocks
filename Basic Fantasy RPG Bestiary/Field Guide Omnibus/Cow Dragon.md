@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cow Dragon
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8**", "36", "0 [19]", "12 [+8]"]
 attack: "1 gore or breath"
 damage: "3d8 gore or 7d8 breath"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 1015
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

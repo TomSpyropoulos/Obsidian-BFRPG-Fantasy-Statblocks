@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Moon Troll
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 12** (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12** (+10)", "64", "3 [16]", "10 [+10]"]
 attack: "2 claws, 1 bite"
 damage: "2d6 claw, 3d4 bite"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 10
 xp: 2075
 nbr: 1
-nbr_dj: 
 loot: D, L
 roll_jds: 1d20
 roll-moral: 2d6

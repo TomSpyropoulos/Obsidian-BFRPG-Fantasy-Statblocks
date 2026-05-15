@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lizard, Giant Gecko
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 3+1
 hp: 14
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+1", "14", "4 [15]", "17 [+3]"]
 attack: "1 bite (1d8)"
 damage: "1d8"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 145
 nbr: 1d6, Wild 1d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

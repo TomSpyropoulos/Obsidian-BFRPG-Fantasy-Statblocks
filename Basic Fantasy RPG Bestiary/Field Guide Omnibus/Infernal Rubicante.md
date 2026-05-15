@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Rubicante
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 4**
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4**", "18", "-1 [20]", "16 [+4]"]
 attack: "2 claws, or weapon"
 damage: "1d4 claw, or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 320
 nbr: 1d2 Lair 3d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

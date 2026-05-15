@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Kelpie
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "6 [13]", "18 [+2]"]
 attack: "2 hooves (1d4) / 1 bite (1d4)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 100
 nbr: Wild 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

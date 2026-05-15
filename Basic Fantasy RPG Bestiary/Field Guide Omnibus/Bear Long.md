@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bear, Long
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 7
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7", "31", "3 [16]", "13 [+7]"]
 attack: "2 claws / 1 bite / hug / additional set of legs"
 damage: "2d4 claw, 2d6 bite, 2d6 hug, use of additional sets of legs until a claw attack misses"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 670
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

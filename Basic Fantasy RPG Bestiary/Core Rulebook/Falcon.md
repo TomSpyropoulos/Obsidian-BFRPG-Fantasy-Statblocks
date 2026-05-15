@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Falcon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 8 [11]
 hit_dice: 1/2 (1d4 HP)
 hp: 2
 thaco: 19 [+1]
+modifier: 0
 stats: ["1/2 (1d4 HP)", "2", "8 [11]", "19 [+1]"]
 attack: "2 talons / 1 beak"
 damage: "1d4 talon, 1d4 beak"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 10
 nbr: 1, wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

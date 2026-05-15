@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Tommyknocker
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "4 [15]", "18 [+2]"]
 attack: "1 bite"
 damage: "1d4 bite"
@@ -25,7 +25,6 @@ jds: [12, 14, 12, 15, 14]
 moral: 9
 xp: 75
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

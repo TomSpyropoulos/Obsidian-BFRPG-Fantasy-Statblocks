@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fool's Idol
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "4 [15]", "18 [+2]"]
 attack: "2 claws or 1 spray of coins"
 damage: "2d4 claw, 1d12 spray of coins"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 10
 xp: 100
 nbr: 1d6
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

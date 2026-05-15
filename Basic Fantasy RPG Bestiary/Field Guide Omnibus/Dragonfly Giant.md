@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dragonfly, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 1
 stats: ["4", "18", "-1 [20]", "16 [+4]"]
 attack: "1 bite (2d10)"
 damage: "2d10"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 240
 nbr: 1, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Flederkatze
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 2**
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2**", "9", "0 [19]", "18 [+2]"]
 attack: "2 claws / 1 bite + poison"
 damage: "1d2 claw, 1d3 bite + poison"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 7
 xp: 125
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

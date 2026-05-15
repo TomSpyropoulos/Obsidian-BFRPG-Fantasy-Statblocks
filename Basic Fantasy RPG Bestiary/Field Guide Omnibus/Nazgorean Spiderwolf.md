@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nazgorean, Spiderwolf
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4**
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4**", "18", "5 [14]", "16 [+4]"]
 attack: "1 bite (1d10 + paralysis)"
 damage: "1d10 + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 320
 nbr: Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Dread Horseman (8HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 6** to 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["6** to 8**", "36", "1 [18]", "12 [+8]"]
 attack: "1 slam or 1 weapon"
 damage: "1d6 slam, by weapon"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 6 HD: 610; 7 HD: 800; 8 HD: 1,015
 nbr: 1 (+ 1 mount)
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

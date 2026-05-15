@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Cyclops
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 13* (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13* (+10)", "68", "4 [15]", "10 [+10]"]
 attack: "1 giant club or 1 rock (thrown)"
 damage: "3d10 or 3d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 9
 xp: 2285
 nbr: 1, Wild 1d4, Lair 1d4
-nbr_dj: 
 loot: E plus 1d8x1000 gp
 roll_jds: 1d20
 roll-moral: 2d6

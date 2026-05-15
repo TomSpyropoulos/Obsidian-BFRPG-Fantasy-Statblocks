@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Tentacle Worm
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "6 [13]", "17 [+3]"]
 attack: "6 tentacles"
 damage: "paralysis"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 175
 nbr: 1d3, Lair 1d3
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

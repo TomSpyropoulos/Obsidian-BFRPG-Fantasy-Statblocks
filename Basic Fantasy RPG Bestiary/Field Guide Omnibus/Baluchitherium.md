@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Baluchitherium
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 14 (+11)
 hp: 74
 thaco: 9 [+11]
+modifier: 2
 stats: ["14 (+11)", "74", "3 [16]", "9 [+11]"]
 attack: "2 trample"
 damage: "5d4 trample"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 7
 xp: 2500
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

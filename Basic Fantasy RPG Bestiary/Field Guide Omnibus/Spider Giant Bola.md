@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spider, Giant Bola
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "4 [15]", "16 [+4]"]
 attack: "1 bite + poison"
 damage: "1d8"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 280
 nbr: 1d3, Lair 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Triton (5HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 5 to 7
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5 to 7", "22", "5 [14]", "15 [+5]"]
 attack: "1 tail smash (3d6) / 1 weapon / spells"
 damage: "3d6 tail smash, weapon, by spell"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 7
 xp: 5 HD: 360; 6 HD: 500; 7 HD: 670
 nbr: 5d6
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

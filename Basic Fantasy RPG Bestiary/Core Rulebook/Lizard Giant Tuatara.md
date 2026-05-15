@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lizard, Giant Tuatara
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "3 [16]", "14 [+6]"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 6
 xp: 500
 nbr: 1d2, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

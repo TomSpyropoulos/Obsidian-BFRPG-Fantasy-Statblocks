@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Locathah
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "5 [14]", "18 [+2]"]
 attack: "1 spear or 1 light crossbow"
 damage: "1d6 spear or light crossbow"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: 1d4, Wild 1d20, Lair 3d10+70
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

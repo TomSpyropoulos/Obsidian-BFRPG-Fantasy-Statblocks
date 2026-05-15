@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Geminate Serpent, Shadow
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8**", "36", "-2 [21]", "12 [+8]"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d12+energy drain (1 level), breath, 2d4 constrict*"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 1015
 nbr: Lair 1d3+1
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

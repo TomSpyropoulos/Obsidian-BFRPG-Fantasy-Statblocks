@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Snake, Giant Rattlesnake
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "4 [15]", "18 [+2]"]
 attack: "1 bite (1d8 + poison)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 100
 nbr: 1d2, Wild 1d2, Lair 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

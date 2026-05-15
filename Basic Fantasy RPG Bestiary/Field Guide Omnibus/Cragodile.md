@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cragodile
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "-1 [20]", "12 [+8]"]
 attack: "1"
 damage: "2d8 bite, 3d6 tail"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 875
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

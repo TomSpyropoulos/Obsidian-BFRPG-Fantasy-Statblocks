@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Timber Wolf
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 18* (+12)
 hp: 93
 thaco: 8 [+12]
+modifier: 2
 stats: ["18* (+12)", "93", "-5 [24]", "8 [+12]"]
 attack: "1 bite or 1 trample"
 damage: "3d8 bite, 4d10 trample"
@@ -25,7 +25,6 @@ jds: [6, 7, 8, 10, 11]
 moral: 11
 xp: 4160
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

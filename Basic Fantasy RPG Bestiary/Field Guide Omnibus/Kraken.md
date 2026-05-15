@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Kraken
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 36** (+16)
 hp: 178
 thaco: 4 [+16]
+modifier: 3
 stats: ["36** (+16)", "178", "-1 [20]", "4 [+16]"]
 attack: "5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 11
 xp: 18500
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

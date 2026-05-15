@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sea Monster (10HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 7 to 12 (+10)
 hp: 55
 thaco: 11 [+9]
+modifier: 1
 stats: ["7 to 12 (+10)", "55", "4 [15]", "11 [+9]"]
 attack: "1 bite or 1-8 tentacles or 1-4 claws"
 damage: "from 3d8 to 5d10 bite, or 2d6 to 4d6 tentacle, or 2d4 to 4d4 claw"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: 7 HD: 670; 8 HD: 875; 9 HD: 1,075; 10 HD: 1,300; 11 HD: 1,575; 12 HD: 1,875
 nbr: 1d8
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

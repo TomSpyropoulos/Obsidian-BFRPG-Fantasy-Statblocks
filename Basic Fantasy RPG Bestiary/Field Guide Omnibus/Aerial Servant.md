@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aerial Servant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 16** (+12)
 hp: 84
 thaco: 8 [+12]
+modifier: 2
 stats: ["16** (+12)", "84", "1 [18]", "8 [+12]"]
 attack: "1 (see below)"
 damage: "4d8"
@@ -25,7 +25,6 @@ jds: [6, 7, 8, 10, 11]
 moral: 9
 xp: 4320
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

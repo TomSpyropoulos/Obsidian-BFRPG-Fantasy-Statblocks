@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spell Elemental, Cold (16HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -3 [22]
 hit_dice: 16* (+12)
 hp: 84
 thaco: 8 [+12]
+modifier: 2
 stats: ["16* (+12)", "84", "-3 [22]", "8 [+12]"]
 attack: "1"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [7, 7, 9, 10, 11]
 moral: 10
 xp: 3385
 nbr: 
-nbr_dj: 
 loot: – None –
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Living Statue, Iron
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "1 [18]", "16 [+4]"]
 attack: "2 fists"
 damage: "1d8/1d8 + special"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 280
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

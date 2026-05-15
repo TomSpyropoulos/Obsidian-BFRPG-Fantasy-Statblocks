@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dragon, Plains (Yellow Dragon)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 5**
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5**", "22", "3 [16]", "15 [+5]"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "1d6 claw, 2d10 or breath, 1d8 tail"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 450
 nbr: 1, Wild 1, Lair 1d6
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

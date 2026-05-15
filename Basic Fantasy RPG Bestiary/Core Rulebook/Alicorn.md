@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Alicorn
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "0 [19]", "16 [+4]"]
 attack: "2 hooves/1 horn"
 damage: "2d4/2d4/2d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 280
 nbr: Wild 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

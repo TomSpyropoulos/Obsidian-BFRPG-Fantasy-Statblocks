@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Creoboros (8HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 8**, 12** (+10), 16** (+12), 20** (+13)
 hp: 71
 thaco: 12 [+8]
+modifier: 1
 stats: ["8**, 12** (+10), 16** (+12), 20** (+13)", "71", "1 [18]", "12 [+8]"]
 attack: "3 claws, 3 bites, 1 tail, or special"
 damage: "1d8 claw, 1d10 bite, 1d4 + constriction 2d8 tail, or special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8, 9, 10 ,11 (by Hit Dice)
 xp: 8 HD: 1,015; 12 HD: 2,075; 16 HD: 3,520; 20 HD: 5,650
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

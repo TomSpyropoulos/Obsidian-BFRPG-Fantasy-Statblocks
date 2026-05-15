@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Celestial, Oracle
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 11** (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 1
 stats: ["11** (+9)", "58", "2 [17]", "11 [+9]"]
 attack: "1 weapon"
 damage: "By weapon + 2"
@@ -25,7 +25,6 @@ jds: [7, 8, 11, 13, 12]
 moral: 11
 xp: 1,765
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

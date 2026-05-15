@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cheiropteran
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "3 [16]", "16 [+4]"]
 attack: "1 weapon"
 damage: "By weapon +2"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 240
 nbr: Wild 2d6, Lair 10d6
-nbr_dj: 
 loot: Special each, B, M lair
 roll_jds: 1d20
 roll-moral: 2d6

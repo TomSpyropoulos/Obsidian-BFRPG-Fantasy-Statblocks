@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ape, Bonobo
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1-1
 hp: 3
 thaco: 19 [+1]
+modifier: 0
 stats: ["1-1", "3", "6 [13]", "19 [+1]"]
 attack: "2 claws"
 damage: "1d3"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7
 xp: 10
 nbr: 1d6, Wild 2d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

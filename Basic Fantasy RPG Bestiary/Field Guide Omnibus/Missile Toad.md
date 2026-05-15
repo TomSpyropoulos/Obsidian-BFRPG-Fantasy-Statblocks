@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Missile Toad
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1-2 HP
 hp: 2
 thaco: 19 [+1]
+modifier: -1
 stats: ["1-2 HP", "2", "7 [12]", "19 [+1]"]
 attack: "1"
 damage: "1d4 + poison"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 8
 xp: 10
 nbr: 1d4, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

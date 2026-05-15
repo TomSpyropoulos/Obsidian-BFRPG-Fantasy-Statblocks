@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Doppleganger
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "4 [15]", "16 [+4]"]
 attack: "1 fist or Weapon"
 damage: "1d12 or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 280
 nbr: 1d6, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

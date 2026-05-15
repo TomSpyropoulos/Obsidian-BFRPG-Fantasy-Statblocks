@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Thulid, Great Brain
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 0
 stats: ["9** (+8)", "48", "8 [11]", "12 [+8]"]
 attack: "Special"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [11, 11, 10, 14, 12]
 moral: 7
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Janni
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 3+1
 hp: 14
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+1", "14", "4 [15]", "17 [+3]"]
 attack: "1 weapon"
 damage: "1d8+2 or by weapon +2"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 145
 nbr: Wild 2d20, Lair 3d20
-nbr_dj: 
 loot: Q, R, S each; A in groups of 30+
 roll_jds: 1d20
 roll-moral: 2d6

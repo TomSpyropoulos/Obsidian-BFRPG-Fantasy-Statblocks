@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Linnorm
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 1
 stats: ["7**", "31", "2 [17]", "13 [+7]"]
 attack: "1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 bite + poison, 1d10 claw, or breath"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 800
 nbr: 1d2
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

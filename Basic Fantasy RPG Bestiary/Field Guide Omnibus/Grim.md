@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grim
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 6+6**
 hp: 33
 thaco: 14 [+6]
+modifier: 1
 stats: ["6+6**", "33", "-1 [20]", "14 [+6]"]
 attack: "1 bite"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 11, 13, 12]
 moral: 12
 xp: 610
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

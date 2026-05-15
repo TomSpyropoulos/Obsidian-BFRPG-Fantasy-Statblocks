@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ghostcap Bloom
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "7 [12]", "16 [+4]"]
 attack: "1 × entangle (1d4 + entangle)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 240
 nbr: 1
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

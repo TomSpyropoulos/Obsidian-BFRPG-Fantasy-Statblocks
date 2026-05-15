@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Deep One, Common
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 3+3
 hp: 16
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+3", "16", "3 [16]", "17 [+3]"]
 attack: "2 claws or by weapon"
 damage: "1d4 claw, by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 145
 nbr: 1d8, Lair 5d8
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

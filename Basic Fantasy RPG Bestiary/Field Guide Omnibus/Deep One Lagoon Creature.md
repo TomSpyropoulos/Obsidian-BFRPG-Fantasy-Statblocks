@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Deep One, Lagoon Creature
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 5+5
 hp: 27
 thaco: 15 [+5]
+modifier: 0
 stats: ["5+5", "27", "1 [18]", "15 [+5]"]
 attack: "2 claws (2d4) / 1 bite (1d6)"
 damage: "2d4 claw, 1d6 bite"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 360
 nbr: 1d4
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Pseudodragon
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "1 [18]", "18 [+2]"]
 attack: "1 bite or 1 sting + poison"
 damage: "1 point bite, 1d3 sting + poison (sleep)"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 15, 14]
 moral: 7
 xp: 100
 nbr: 1, Wild 1d2, Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

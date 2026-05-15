@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dinosaur, Tyrannosaurus Rex
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -4 [23]
 hit_dice: 18 (+12)
 hp: 93
 thaco: 8 [+12]
+modifier: 1
 stats: ["18 (+12)", "93", "-4 [23]", "8 [+12]"]
 attack: "1 bite"
 damage: "6d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 11
 xp: 4000.0
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

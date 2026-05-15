@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lamia
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 6+1**
 hp: 28
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+1**", "28", "1 [18]", "14 [+6]"]
 attack: "1 bite / 1 Constrict / 1 weapon"
 damage: "1d6+poison bite, 2d6 constrict, by weapon"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 610
 nbr: 1
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

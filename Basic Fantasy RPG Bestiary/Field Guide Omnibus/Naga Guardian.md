@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Naga, Guardian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 11* (+9) to 13* (+10)
 hp: 68
 thaco: 11 [+9]
+modifier: 1
 stats: ["11* (+9) to 13* (+10)", "68", "2 [17]", "11 [+9]"]
 attack: "1 constrict / 1 bite or 1 spit"
 damage: "2d4 constrict, 1d6 + poison bite, or poison spit"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: HD 11: 1,670; HD 12: 1,975; HD 13: 2,285
 nbr: 1d2
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

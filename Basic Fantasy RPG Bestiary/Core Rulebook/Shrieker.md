@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Shrieker
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "6 [13]", "17 [+3]"]
 attack: "Special"
 damage: "None"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 12
 xp: 145
 nbr: 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

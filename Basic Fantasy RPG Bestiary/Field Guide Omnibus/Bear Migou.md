@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bear, Migou
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "5 [14]", "14 [+6]"]
 attack: "2 claws / 1 bite / 1 hug / 1 phantasmal vision"
 damage: "1d6 claw, 1d12 bite, 2d6 hug, phantasmal vision (see below)"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 555
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

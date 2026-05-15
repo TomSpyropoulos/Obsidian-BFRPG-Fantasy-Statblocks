@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sphinx, Criosphinx
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 10* (+9) to 12* (+10)
 hp: 64
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9) to 12* (+10)", "64", "-1 [20]", "11 [+9]"]
 attack: "2 claws / 1 head butt / rake"
 damage: "2d4 claw, 3d6 head butt, 2d4 rake"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: 10 HD: 1,390; 11 HD: 1,670; 12 HD: 1,975
 nbr: 1d4
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

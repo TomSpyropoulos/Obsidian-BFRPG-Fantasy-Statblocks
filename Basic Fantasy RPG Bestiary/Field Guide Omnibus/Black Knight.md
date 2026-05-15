@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Black Knight
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 14** (+11)
 hp: 74
 thaco: 9 [+11]
+modifier: 2
 stats: ["14** (+11)", "74", "-1 [20]", "9 [+11]"]
 attack: "1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 11
 xp: 2730
 nbr: 1
-nbr_dj: 
 loot: F + Black Knight's sword
 roll_jds: 1d20
 roll-moral: 2d6

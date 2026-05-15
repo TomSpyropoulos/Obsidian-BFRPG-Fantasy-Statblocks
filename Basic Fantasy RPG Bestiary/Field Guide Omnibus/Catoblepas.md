@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Catoblepas
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "6 [13]", "13 [+7]"]
 attack: "1 tail or gaze"
 damage: "1d6 tail, save vs. Death Ray or die gaze"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 800
 nbr: 1d3
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

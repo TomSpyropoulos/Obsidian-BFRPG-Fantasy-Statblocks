@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Ghoul
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "5 [14]", "18 [+2]"]
 attack: "2 claws / 1 bite"
 damage: "1d4 all + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 100
 nbr: 1d6, Wild 2d8, Lair 2d8
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bear, Ghost
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9*
 hp: 40
 thaco: 12 [+8]
+modifier: 1
 stats: ["9*", "40", "3 [16]", "12 [+8]"]
 attack: "2 claws + hug, 1 bite"
 damage: "1d6 claw, 1d6 bite, 2d6 hug"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 1150
 nbr: 1, Wild 1d4, Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

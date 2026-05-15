@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Choker
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 3+3
 hp: 16
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+3", "16", "2 [17]", "17 [+3]"]
 attack: "1 choke"
 damage: "1d3 + special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 145
 nbr: 1
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

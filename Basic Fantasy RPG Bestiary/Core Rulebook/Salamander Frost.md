@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Salamander, Frost
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -2 [21]
 hit_dice: 12* (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12* (+10)", "64", "-2 [21]", "10 [+10]"]
 attack: "4 claws/1 bite + cold"
 damage: "1d6/1d6/1d6/1d6/2d6 + 1d8/round"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 9
 xp: 1975
 nbr: 1d3, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

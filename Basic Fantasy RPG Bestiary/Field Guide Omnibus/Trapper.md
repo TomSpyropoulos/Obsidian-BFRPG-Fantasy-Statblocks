@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Trapper
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 9* (+8) to 12* (+10)
 hp: 58
 thaco: 12 [+8]
+modifier: 1
 stats: ["9* (+8) to 12* (+10)", "58", "2 [17]", "12 [+8]"]
 attack: "Special, see below"
 damage: "Special, see below"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 9 HD: 1,150; 10 HD: 1,390; 11 HD: 1,670; 12 HD: 1,975
 nbr: 1
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

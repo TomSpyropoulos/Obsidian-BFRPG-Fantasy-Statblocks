@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Rakshasa
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "-5 [24]", "13 [+7]"]
 attack: "2 claws, 1 bite or special"
 damage: "1d4 claw, 1d4+1 bite or special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 800
 nbr: 1d4
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

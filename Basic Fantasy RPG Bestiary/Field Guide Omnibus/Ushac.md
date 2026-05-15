@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ushac
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1-1*
 hp: 3
 thaco: 19 [+1]
+modifier: -1
 stats: ["1-1*", "3", "8 [11]", "19 [+1]"]
 attack: "1 weapon"
 damage: "By weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 9
 xp: 13
 nbr: 1d8
-nbr_dj: 
 loot: Q each; C in lair
 roll_jds: 1d20
 roll-moral: 2d6

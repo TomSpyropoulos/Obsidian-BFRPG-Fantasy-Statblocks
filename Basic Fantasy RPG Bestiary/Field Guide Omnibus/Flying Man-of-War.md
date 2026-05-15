@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Flying Man-of-War
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "8 [11]", "18 [+2]"]
 attack: "Poison (if successful digest of victim)"
 damage: "1 HP (save vs. Paralysis) touch, if touch successful 1d6/round digestive acid"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: 3d4
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

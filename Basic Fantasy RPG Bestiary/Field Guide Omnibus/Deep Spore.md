@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Deep Spore
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: ½** (1d4 hit points)
 hp: 2
 thaco: 20 [+0]
+modifier: -1
 stats: ["\u00bd** (1d4 hit points)", "2", "8 [11]", "20 [+0]"]
 attack: "special"
 damage: "see below"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 12
 xp: 16
 nbr: 1-4, Lair 2-8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Phouka
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "3 [16]", "15 [+5]"]
 attack: "1 bite, or weapon"
 damage: "1d6 bite, or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 405
 nbr: 2d4, Wild 3d6, Lair 10d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

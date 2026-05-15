@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ant Lion, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "3 [16]", "16 [+4]"]
 attack: "1 bite (1d10)"
 damage: "1d10"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 240
 nbr: 1d4, Wild 1d6, Lair 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

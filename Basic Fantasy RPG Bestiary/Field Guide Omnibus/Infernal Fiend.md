@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Fiend
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -4 [23]
 hit_dice: 13** (+10)
 hp: 68
 thaco: 10 [+10]
+modifier: 1
 stats: ["13** (+10)", "68", "-4 [23]", "10 [+10]"]
 attack: "2 weapons (see below) or special"
 damage: "1d4+4 club, 1d6+6 mace (see below) or special"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 9
 xp: 2395
 nbr: 1 Lair 1d4
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

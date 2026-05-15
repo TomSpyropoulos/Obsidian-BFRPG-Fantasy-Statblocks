@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dread Scarecrow
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4 + 2**
 hp: 20
 thaco: 16 [+4]
+modifier: 0
 stats: ["4 + 2**", "20", "5 [14]", "16 [+4]"]
 attack: "1 slam or 1 weapon"
 damage: "1d6+1 slam, by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12 (8)
 xp: 320
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

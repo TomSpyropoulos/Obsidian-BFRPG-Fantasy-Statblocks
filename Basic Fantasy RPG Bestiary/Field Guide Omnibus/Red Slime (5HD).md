@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Red Slime (5HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1* to 6*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["1* to 6*", "22", "8 [11]", "15 [+5]"]
 attack: "1 slam"
 damage: "1d4 (1HD), 1d6 (2HD), 1d8 (3HD), 1d10 (4HD), 1d12 (5HD), or 2d8 (6HD)"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 1 HD: 37; 2 HD: 100; 3 HD: 175; 4 HD: 280; 5 HD: 405; 6 HD: 555
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

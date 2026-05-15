@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Celestial, Egregor
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -6 [25]
 hit_dice: 12** (+13)
 hp: 67
 thaco: 10 [+10]
+modifier: 1
 stats: ["12** (+13)", "67", "-6 [25]", "10 [+10]"]
 attack: "1 weapon"
 damage: "By weapon +3"
@@ -25,7 +25,6 @@ jds: [6, 7, 10, 12, 11]
 moral: 12
 xp: 2075
 nbr: 1
-nbr_dj: 
 loot: G
 roll_jds: 1d20
 roll-moral: 2d6

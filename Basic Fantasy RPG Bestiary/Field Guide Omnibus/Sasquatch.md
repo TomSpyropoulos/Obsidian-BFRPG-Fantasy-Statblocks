@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sasquatch
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 5+5
 hp: 27
 thaco: 15 [+5]
+modifier: 0
 stats: ["5+5", "27", "4 [15]", "15 [+5]"]
 attack: "2 fists"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 360
 nbr: 1d3, Lair 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Golem, Bone*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 0
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "4 weapons"
 damage: "1d6/1d6/1d6/1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 945
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

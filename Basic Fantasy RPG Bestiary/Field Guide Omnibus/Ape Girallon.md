@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ape, Girallon
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 7
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7", "31", "3 [16]", "13 [+7]"]
 attack: "4 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 10
 xp: 670
 nbr: 1, Wild 1d2, Lair 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

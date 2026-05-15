@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Raptorsapien
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "2 [17]", "14 [+6]"]
 attack: "1 weapon / 1 bite or 1 tail"
 damage: "1d8 or by weapon, 1d8 bite or 1d10 tail"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 500
 nbr: 1d8
-nbr_dj: 
 loot: S each; B in lair
 roll_jds: 1d20
 roll-moral: 2d6

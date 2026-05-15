@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Cacophony
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "4 [15]", "16 [+4]"]
 attack: "1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
 damage: "1d6 toot, 1d4 bang, 2d8 clash, cause fear ding"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 280
 nbr: 1
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

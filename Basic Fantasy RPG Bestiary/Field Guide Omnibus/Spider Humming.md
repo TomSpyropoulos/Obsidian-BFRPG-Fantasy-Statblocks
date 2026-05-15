@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spider, Humming
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "7 [12]", "19 [+1]"]
 attack: "12 leg strikes"
 damage: "1d3 leg"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 4
 xp: 37
 nbr: 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

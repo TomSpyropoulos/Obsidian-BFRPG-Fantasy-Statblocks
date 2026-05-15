@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Snake, King Cobra
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "5 [14]", "15 [+5]"]
 attack: "1 bite (1d6+3 + poison)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 405
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

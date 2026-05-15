@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Giant Flying Brain
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 5+1*
 hp: 23
 thaco: 15 [+5]
+modifier: 0
 stats: ["5+1*", "23", "7 [12]", "15 [+5]"]
 attack: "4 spells"
 damage: "By spell"
@@ -25,7 +25,6 @@ jds: [12, 13, 12, 15, 13]
 moral: 8
 xp: 405
 nbr: Lair 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

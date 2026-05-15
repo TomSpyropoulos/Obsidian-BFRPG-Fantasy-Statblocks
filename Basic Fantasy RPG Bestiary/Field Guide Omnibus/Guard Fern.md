@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Guard Fern
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "5 [14]", "14 [+6]"]
 attack: "3 thorn (1d4) / 1 acid (3d8) / 1 leaves (1d8)"
 damage: "1d4 thorn, 3d8 acid, 1d8 leaves"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 555
 nbr: Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

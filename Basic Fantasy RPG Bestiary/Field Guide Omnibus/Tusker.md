@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Tusker
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 2+2
 hp: 11
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+2", "11", "5 [14]", "18 [+2]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 75
 nbr: 1d6, Wild 2d4, Lair 4d8
-nbr_dj: 
 loot: Q, R individual; D, K in lair
 roll_jds: 1d20
 roll-moral: 2d6

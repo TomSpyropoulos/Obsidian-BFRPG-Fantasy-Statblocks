@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fyrenewt
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2+2*
 hp: 11
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+2*", "11", "3 [16]", "18 [+2]"]
 attack: "1 weapon or 1 breath"
 damage: "By weapon or 2d4 breath"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 100
 nbr: Wild 3d8, Lair 10d10
-nbr_dj: 
 loot: Q, S, U individually; B in lair
 roll_jds: 1d20
 roll-moral: 2d6

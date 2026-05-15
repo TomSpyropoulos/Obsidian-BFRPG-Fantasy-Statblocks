@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Rot Vulture
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "7 [12]", "18 [+2]"]
 attack: "1 flogging (1d6)"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 10
 xp: 75
 nbr: 1d10, Wild 1d10, Lair 1d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

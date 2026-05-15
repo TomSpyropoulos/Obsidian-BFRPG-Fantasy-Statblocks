@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Geminate Serpent, Pleasant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -3 [22]
 hit_dice: 10** (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10** (+9)", "54", "-3 [22]", "11 [+9]"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "3d8 bite, breath, 1d6 constrict*"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1480
 nbr: Lair 1d3+1
-nbr_dj: 
 loot: H+K
 roll_jds: 1d20
 roll-moral: 2d6

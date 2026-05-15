@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Wyvern
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "1 [18]", "13 [+7]"]
 attack: "-"
 damage: "2d8/1d6 + poison or 1d10/1d10/1d6 + poison"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 735
 nbr: Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

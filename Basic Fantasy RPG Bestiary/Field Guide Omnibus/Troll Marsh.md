@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Troll, Marsh
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "5 [14]", "13 [+7]"]
 attack: "2 claws / 1 bite / special"
 damage: "1d4+2 claw, 1d8+2 bite"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9 (7)
 xp: 735
 nbr: 1d10, Wild 1d10, Lair 2d10
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

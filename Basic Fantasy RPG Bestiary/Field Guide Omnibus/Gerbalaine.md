@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Gerbalaine
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 1
 stats: ["1", "4", "4 [15]", "19 [+1]"]
 attack: "1 punch or weapon (large form)"
 damage: "1d4 or by weapon (large form)"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 6
 xp: 25
 nbr: 1d6, Wild 2d4, Lair 4d8
-nbr_dj: 
 loot: 1d4 random small gems
 roll_jds: 1d20
 roll-moral: 2d6

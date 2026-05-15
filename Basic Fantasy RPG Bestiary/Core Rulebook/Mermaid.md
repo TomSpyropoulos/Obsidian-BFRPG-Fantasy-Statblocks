@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Mermaid
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 7 [12]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "7 [12]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 37
 nbr: Wild 1d2 or 3d6 (see below)
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

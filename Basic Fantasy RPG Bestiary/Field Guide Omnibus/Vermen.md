@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Vermen
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1+1
 hp: 5
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+1", "5", "3 [16]", "19 [+1]"]
 attack: "1 bite or 1 weapon"
 damage: "1d3 bite, by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 5 (see below)
 xp: 25
 nbr: 1d6, Wild 2d10, Lair 2d6 x 10
-nbr_dj: 
 loot: P each, C in lair
 roll_jds: 1d20
 roll-moral: 2d6

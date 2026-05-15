@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Plesiosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 20 (+13)
 hp: 103
 thaco: 7 [+13]
+modifier: 3
 stats: ["20 (+13)", "103", "6 [13]", "7 [+13]"]
 attack: "1 bite"
 damage: "2d10"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 8
 xp: 5,250
 nbr: 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

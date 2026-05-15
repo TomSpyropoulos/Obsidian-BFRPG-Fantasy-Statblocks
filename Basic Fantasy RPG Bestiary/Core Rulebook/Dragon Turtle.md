@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dragon Turtle
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -3 [22]
 hit_dice: 30** (AB +15)
 hp: 150
 thaco: 5 [+15]
+modifier: 3
 stats: ["30** (AB +15)", "150", "-3 [22]", "5 [+15]"]
 attack: "2 claws/1 bite or breath"
 damage: "2d8/2d8/10d6 or 30d8"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 10
 xp: 13650
 nbr: Wild 1
-nbr_dj: 
 loot: H (calculated at one-quarter hit dice)
 roll_jds: 1d20
 roll-moral: 2d6

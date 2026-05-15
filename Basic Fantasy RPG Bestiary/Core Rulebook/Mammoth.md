@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Mammoth
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 15 (+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 2
 stats: ["15 (+11)", "78", "2 [17]", "9 [+11]"]
 attack: "2 tusks (3d6) / 1 trunk grab (2d6) / 2 tramples (2d8)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 8
 xp: 2850
 nbr: Wild 1d12
-nbr_dj: 
 loot: special
 roll_jds: 1d20
 roll-moral: 2d6

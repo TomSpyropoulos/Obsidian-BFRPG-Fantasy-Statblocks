@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Stirge
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "6 [13]", "19 [+1]"]
 attack: "1 bite"
 damage: "1d4 + 1d4/round blood drain"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9
 xp: 37
 nbr: 1d10, Wild 3d12, Lair 3d12
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

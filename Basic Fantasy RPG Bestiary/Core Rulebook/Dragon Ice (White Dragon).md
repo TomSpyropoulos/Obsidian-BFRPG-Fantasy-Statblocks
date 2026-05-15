@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dragon, Ice (White Dragon)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 6**
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6**", "27", "2 [17]", "14 [+6]"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d4/1d4/2d8 or breath/1d4"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 610
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

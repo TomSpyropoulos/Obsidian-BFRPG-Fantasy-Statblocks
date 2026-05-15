@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Goat, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 3+1
 hp: 14
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+1", "14", "6 [13]", "17 [+3]"]
 attack: "1 head butt (2d8)"
 damage: "2d8 head butt"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 145
 nbr: 1d12
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

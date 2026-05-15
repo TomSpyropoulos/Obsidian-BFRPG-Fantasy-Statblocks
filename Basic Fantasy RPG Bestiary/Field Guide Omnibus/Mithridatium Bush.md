@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Mithridatium Bush
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "8 [11]", "17 [+3]"]
 attack: "Special"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 175
 nbr: 1d4+1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

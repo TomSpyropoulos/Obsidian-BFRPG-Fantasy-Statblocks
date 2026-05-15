@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Living Graveyard
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 40** (+15)
 hp: 195
 thaco: 4 [+16]
+modifier: 1
 stats: ["40** (+15)", "195", "-2 [21]", "4 [+16]"]
 attack: "1 tombstone + special"
 damage: "2d6 tombstone + special"
@@ -25,7 +25,6 @@ jds: [9, 8, 7, 12, 9]
 moral: 12
 xp: 21650
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

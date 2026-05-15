@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Night Hag
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8**", "36", "8 [11]", "12 [+8]"]
 attack: "1 claw (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 1015
 nbr: 1
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

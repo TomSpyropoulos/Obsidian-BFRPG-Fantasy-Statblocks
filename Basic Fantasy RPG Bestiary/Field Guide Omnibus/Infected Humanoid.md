@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infected, Humanoid
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 2 or higher
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2 or higher", "9", "8 [11]", "18 [+2]"]
 attack: "1 weapon"
 damage: "By weapon +1"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 10
 xp: 75
 nbr: 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

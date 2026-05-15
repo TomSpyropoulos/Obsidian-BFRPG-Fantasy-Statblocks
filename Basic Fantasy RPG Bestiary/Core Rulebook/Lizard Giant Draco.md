@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lizard, Giant Draco
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4+2
 hp: 20
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+2", "20", "4 [15]", "16 [+4]"]
 attack: "1 bite (1d10)"
 damage: "1d10"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 240
 nbr: 1d4, Wild 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

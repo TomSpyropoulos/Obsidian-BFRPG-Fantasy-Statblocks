@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spider, Giant Ice
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "3 [16]", "14 [+6]"]
 attack: "1 bite + poison"
 damage: "1d10"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 555
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

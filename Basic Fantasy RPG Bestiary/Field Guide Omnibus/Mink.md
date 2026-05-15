@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Mink
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: ½ (1d4 points)
 hp: 2
 thaco: 20 [+0]
+modifier: -1
 stats: ["\u00bd (1d4 points)", "2", "4 [15]", "20 [+0]"]
 attack: "1 bite"
 damage: "1-2 points"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 7
 xp: 10
 nbr: 1d6
-nbr_dj: 
 loot: None*
 roll_jds: 1d20
 roll-moral: 2d6

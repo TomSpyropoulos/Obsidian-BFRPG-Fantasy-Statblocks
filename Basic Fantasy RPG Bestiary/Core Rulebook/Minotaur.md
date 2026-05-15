@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Minotaur
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "5 [14]", "14 [+6]"]
 attack: "1 gore/1 bite or 1 weapon"
 damage: "1d6/1d6 , 1d6+2 or by weapon + 2"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 500
 nbr: 1d6, Wild 1d8, Lair 1d8
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

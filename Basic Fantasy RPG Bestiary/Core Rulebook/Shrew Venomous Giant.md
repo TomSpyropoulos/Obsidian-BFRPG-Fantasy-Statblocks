@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Shrew, Venomous Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "3 [16]", "19 [+1]"]
 attack: "2 bites"
 damage: "1d6/1d6 + poison"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 10
 xp: 37
 nbr: 
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

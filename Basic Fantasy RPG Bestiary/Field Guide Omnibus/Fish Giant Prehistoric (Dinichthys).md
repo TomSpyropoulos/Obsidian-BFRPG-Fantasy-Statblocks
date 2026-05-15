@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fish, Giant Prehistoric (Dinichthys)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 10 (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9)", "54", "6 [13]", "11 [+9]"]
 attack: "1 bite"
 damage: "2d10"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: 1300
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

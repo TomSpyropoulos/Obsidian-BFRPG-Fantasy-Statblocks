@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Scorpion, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "4 [15]", "16 [+4]"]
 attack: "2 claws/1 stinger"
 damage: "1d10/1d10/1d6 + poison"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 11
 xp: 280
 nbr: 1d6, Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

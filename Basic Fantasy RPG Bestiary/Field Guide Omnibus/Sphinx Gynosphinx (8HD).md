@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Sphinx, Gynosphinx (8HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 8* to 11* (+9)
 hp: 45
 thaco: 12 [+8]
+modifier: 1
 stats: ["8* to 11* (+9)", "45", "-2 [21]", "12 [+8]"]
 attack: "2 claws + rake"
 damage: "2d4 claw, 2d4 rake"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 8 HD: 945; 9 HD: 1,150; 10 HD: 1,390; 11 HD: 1,670
 nbr: 1
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

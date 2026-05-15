@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Nazgorean, Hydramander (11HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 8 to 12 (+10)
 hp: 59
 thaco: 11 [+9]
+modifier: 1
 stats: ["8 to 12 (+10)", "59", "1 [18]", "11 [+9]"]
 attack: "5 to 8 bites (2d6)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 11
 xp: 8 HD: 825; 9 HD: 1075; 10 HD: 1,300; 11 HD: 1,575; 12 HD: 1,875
 nbr: 1, Lair 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

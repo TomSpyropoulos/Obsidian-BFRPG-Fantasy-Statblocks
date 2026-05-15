@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Owl
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "4 [15]", "19 [+1]"]
 attack: "2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: 1, Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

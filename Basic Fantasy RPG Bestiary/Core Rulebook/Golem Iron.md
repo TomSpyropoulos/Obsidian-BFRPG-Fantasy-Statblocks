@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Golem, Iron*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -6 [25]
 hit_dice: 17** (+12)
 hp: 88
 thaco: 8 [+12]
+modifier: 1
 stats: ["17** (+12)", "88", "-6 [25]", "8 [+12]"]
 attack: "1 + special"
 damage: "4d10 + special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 3890
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Jelly, Ochre
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 7 [12]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "7 [12]", "15 [+5]"]
 attack: "1 pseudopod (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 405
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

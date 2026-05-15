@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Centipede, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 8 [11]
 hit_dice: 1d4 Hit Points*
 hp: 2
 thaco: 19 [+1]
+modifier: -1
 stats: ["1d4 Hit Points*", "2", "8 [11]", "19 [+1]"]
 attack: "1 bite"
 damage: "poison bite"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 7
 xp: 13
 nbr: 2d4, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

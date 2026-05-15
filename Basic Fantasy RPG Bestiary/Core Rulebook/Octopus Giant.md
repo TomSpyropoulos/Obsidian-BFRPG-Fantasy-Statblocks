@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Octopus, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "0 [19]", "12 [+8]"]
 attack: "8 tentacles/1 bite"
 damage: "1d4 per tentacle/1d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 875
 nbr: Wild 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Wight
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "4 [15]", "17 [+3]"]
 attack: "1 touch"
 damage: "Energy drain (1 level)"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 175
 nbr: 1d6, Wild 1d8, Lair 1d8
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grave Sentinel
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 3**
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3**", "13", "-1 [20]", "17 [+3]"]
 attack: "1 weapon"
 damage: "by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 235
 nbr: Wild 3d8, Lair 8d10
-nbr_dj: 
 loot: U, Lair G and H
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dragon, Cloud
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -3 [22]
 hit_dice: 11** (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 1
 stats: ["11** (+9)", "58", "-3 [22]", "11 [+9]"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "2d4 claw, 6d6 bite or breath, 2d4 tail"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1765
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: 
 roll_jds: 1d20
 roll-moral: 2d6

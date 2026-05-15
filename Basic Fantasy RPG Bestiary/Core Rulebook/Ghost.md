@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Ghost*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -1 [20]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "1 touch/1 gaze"
 damage: "1d8 + special"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: E, N, O
 roll_jds: 1d20
 roll-moral: 2d6

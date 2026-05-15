@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aboleth
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 0
 stats: ["8**", "36", "3 [16]", "12 [+8]"]
 attack: "4 tentacles"
 damage: "1d6 tentacle"
@@ -25,7 +25,6 @@ jds: [11, 11, 10, 14, 12]
 moral: 9
 xp: 1015
 nbr: 1, Lair 1d3+1
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

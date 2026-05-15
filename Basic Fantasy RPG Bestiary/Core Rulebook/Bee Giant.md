@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Bee, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 1/2* (1d4 HP)*
 hp: 2
 thaco: 19 [+1]
+modifier: 0
 stats: ["1/2* (1d4 HP)*", "2", "6 [13]", "19 [+1]"]
 attack: "1 sting"
 damage: "1d4 + poison"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9
 xp: 13
 nbr: 1d6, Wild 1d6, Lair 5d6
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

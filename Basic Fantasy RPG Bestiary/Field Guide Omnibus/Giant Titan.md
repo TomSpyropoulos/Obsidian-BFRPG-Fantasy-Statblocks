@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Giant, Titan
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 17* (+12) to 22* (+13)
 hp: 101
 thaco: 8 [+12]
+modifier: 2
 stats: ["17* (+12) to 22* (+13)", "101", "3 [16]", "8 [+12]"]
 attack: "1 giant weapon or 1 thrown rock or Spell"
 damage: "7d6 giant weapon, 6d6 rock, or by spell"
@@ -25,7 +25,6 @@ jds: [7, 7, 9, 10, 11]
 moral: 8
 xp: 17 HD: 3,745; 18 HD: 4,160; 19 HD: 4,675; 20 HD: 5,450; 21 HD: 6,225; 22 HD: 7,000
 nbr: 1d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

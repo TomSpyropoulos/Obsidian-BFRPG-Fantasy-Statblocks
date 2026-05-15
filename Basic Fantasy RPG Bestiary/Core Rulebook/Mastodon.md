@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Mastodon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 15 *(+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 1
 stats: ["15 *(+11)", "78", "1 [18]", "9 [+11]"]
 attack: "2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 8
 xp: 2175
 nbr: Wild 2d8
-nbr_dj: 
 loot: special
 roll_jds: 1d20
 roll-moral: 2d6

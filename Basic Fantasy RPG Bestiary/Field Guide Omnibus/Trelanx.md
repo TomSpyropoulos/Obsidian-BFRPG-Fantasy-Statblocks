@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Trelanx
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "6 [13]", "16 [+4]"]
 attack: "2 claws or 1 weapon"
 damage: "1d6 claw or by weapon +1"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 280
 nbr: 1d6, Wild 1d6, Lair 2d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

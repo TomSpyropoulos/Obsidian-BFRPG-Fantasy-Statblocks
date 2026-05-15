@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Fairy Dragon
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "4 [15]", "17 [+3]"]
 attack: "1 bite or breath or spell"
 damage: "1d2 bite or special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 175
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

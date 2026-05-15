@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Oculus Somno
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "3 [16]", "12 [+8]"]
 attack: "Gaze / 3 proboscis"
 damage: "Sleep Gaze, 1d6 + 1d6/round proboscis"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 945
 nbr: 1d4
-nbr_dj: 
 loot: D, I
 roll_jds: 1d20
 roll-moral: 2d6

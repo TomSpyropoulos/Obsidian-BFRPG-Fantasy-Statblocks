@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Stone
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 9 (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9 (+8)", "48", "2 [17]", "12 [+8]"]
 attack: "1 stone club or 1 thrown rock"
 damage: "3d6 or 3d6"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 1075
 nbr: 1d2, Wild 1d6, Lair 1d6
-nbr_dj: 
 loot: E plus 1d8x1000 gp
 roll_jds: 1d20
 roll-moral: 2d6

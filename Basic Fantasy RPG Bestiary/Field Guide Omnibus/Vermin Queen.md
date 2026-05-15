@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Vermin Queen
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 6**
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6**", "27", "6 [13]", "14 [+6]"]
 attack: "2 claws or weapon"
 damage: "1d6 claw, by weapon"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 9
 xp: 610
 nbr: 1, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

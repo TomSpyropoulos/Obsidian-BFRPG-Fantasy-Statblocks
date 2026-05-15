@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ray, Manta
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 9
 hp: 40
 thaco: 12 [+8]
+modifier: 1
 stats: ["9", "40", "5 [14]", "12 [+8]"]
 attack: "1 bite (3d4 + special) / 1 tail spine (2d10)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 1075
 nbr: 1
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

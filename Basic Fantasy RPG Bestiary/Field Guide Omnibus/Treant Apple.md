@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Treant, Apple
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "2 fists or 1 projectile fruit"
 damage: "2d6 fist or 1d6 fruit"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 945
 nbr: Wild 1d8, Lair 1d8
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

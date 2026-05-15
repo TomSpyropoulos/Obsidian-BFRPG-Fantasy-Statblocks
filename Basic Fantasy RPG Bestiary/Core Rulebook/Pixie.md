@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Pixie
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "2 [17]", "19 [+1]"]
 attack: "1 dagger (1d4)"
 damage: "1d4"
@@ -25,7 +25,6 @@ jds: [12, 11, 13, 15, 15]
 moral: 7
 xp: 37
 nbr: 2d4, Wild 10d4, Lair 10d4
-nbr_dj: 
 loot: R, S
 roll_jds: 1d20
 roll-moral: 2d6

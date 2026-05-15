@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Aghar
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 9+2** (+8)
 hp: 50
 thaco: 12 [+8]
+modifier: 1
 stats: ["9+2** (+8)", "50", "1 [18]", "12 [+8]"]
 attack: "2 fists or 1 boulder"
 damage: "1d10+4 fist, 3d6 boulder"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 12 (8)
 xp: 1225
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elf Bug, Queen
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "4 [15]", "13 [+7]"]
 attack: "1 weapon or magic missile"
 damage: "1d6 or by weapon or magic missile"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 10
 xp: 735
 nbr: Wild 1, Lair 1
-nbr_dj: 
 loot: E or F
 roll_jds: 1d20
 roll-moral: 2d6

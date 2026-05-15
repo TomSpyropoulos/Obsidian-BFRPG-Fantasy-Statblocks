@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Kobold
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 1d4 Hit Points
 hp: 2
 thaco: 19 [+1]
+modifier: -1
 stats: ["1d4 Hit Points", "2", "6 [13]", "19 [+1]"]
 attack: "1 weapon"
 damage: "1d4 or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 15, 16, 18]
 moral: 6
 xp: 10
 nbr: 4d4, Wild 6d10, Lair 6d10
-nbr_dj: 
 loot: P, Q each; C in lair
 roll_jds: 1d20
 roll-moral: 2d6

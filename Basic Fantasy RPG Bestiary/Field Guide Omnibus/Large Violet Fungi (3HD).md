@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Large Violet Fungi (3HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "6 [13]", "17 [+3]"]
 attack: "1 to 4 (see below)"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 175
 nbr: {'huge': '1', 'large': '1d4', 'medium': '1d4', 'small': '1d6'}
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

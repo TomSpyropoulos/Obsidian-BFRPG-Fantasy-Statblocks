@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Apatosapien
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "4 [15]", "14 [+6]"]
 attack: "1 weapon or 1 vocalization"
 damage: "1d8 or paralysis"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 14, 13]
 moral: 9
 xp: 500
 nbr: 1d8
-nbr_dj: 
 loot: U each; A in lair
 roll_jds: 1d20
 roll-moral: 2d6

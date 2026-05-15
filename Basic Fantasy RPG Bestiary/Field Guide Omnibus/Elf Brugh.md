@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elf, Brugh
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: -1
 stats: ["1*", "4", "7 [12]", "19 [+1]"]
 attack: "1 weapon"
 damage: "By weapon"
@@ -25,7 +25,6 @@ jds: [13, 12, 12, 16, 13]
 moral: 9
 xp: 37
 nbr: 1d6, Wild 2d6, Lair 5d10
-nbr_dj: 
 loot: S each; G in lair
 roll_jds: 1d20
 roll-moral: 2d6

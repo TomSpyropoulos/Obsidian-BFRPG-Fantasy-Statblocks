@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Cattle
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 2+2
 hp: 11
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+2", "11", "5 [14]", "18 [+2]"]
 attack: "1 horn/head butt or 1 trample"
 damage: "1d4 butt, 2d4 trample"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 5 (8)
 xp: 75
 nbr: Special, Wild 10d12
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

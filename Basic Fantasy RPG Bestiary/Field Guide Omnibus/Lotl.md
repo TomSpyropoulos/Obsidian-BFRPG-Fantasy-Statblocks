@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lotl
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "3 [16]", "14 [+6]"]
 attack: "2 claws or 1 bite"
 damage: "1d4 claw or 1d6 + disease bite"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 12 (9)
 xp: 555
 nbr: 1d6
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

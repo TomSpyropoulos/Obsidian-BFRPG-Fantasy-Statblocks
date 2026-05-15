@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Glabrezu
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "-5 [24]", "11 [+9]"]
 attack: "2 pincers / 2 fists / 1 bite"
 damage: "2d6 pincer, 1d3 fist, 1d4+1 bite"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 9
 xp: 1390
 nbr: 1d3 Lair 1d6
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

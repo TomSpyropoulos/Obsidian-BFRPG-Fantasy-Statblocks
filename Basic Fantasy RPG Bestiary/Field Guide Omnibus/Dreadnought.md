@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dreadnought
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "-5 [24]", "11 [+9]"]
 attack: "1 lance or 2 cannons"
 damage: "2d12 lance, 3d6 cannon"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 11
 xp: 1390
 nbr: 1
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

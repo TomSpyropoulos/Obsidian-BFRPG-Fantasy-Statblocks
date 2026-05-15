@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Mummy
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 5**
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5**", "22", "2 [17]", "15 [+5]"]
 attack: "1 touch + disease"
 damage: "1d12 + disease"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 450
 nbr: 1d4, Lair 1d12
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

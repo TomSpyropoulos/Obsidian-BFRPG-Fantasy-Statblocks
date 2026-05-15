@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Eel, Common
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 8 [11]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "8 [11]", "19 [+1]"]
 attack: "1 bite"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

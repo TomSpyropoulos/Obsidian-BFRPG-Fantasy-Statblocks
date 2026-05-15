@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Raccoon, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "3 [16]", "15 [+5]"]
 attack: "1 bite (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 360
 nbr: 1, Wild 1d2, Lair 2d4
-nbr_dj: 
 loot: L in lair
 roll_jds: 1d20
 roll-moral: 2d6

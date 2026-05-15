@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Beetle, Giant Fire
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 1+2
 hp: 6
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+2", "6", "3 [16]", "19 [+1]"]
 attack: "1 bite (2d4)"
 damage: "2d4"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 7
 xp: 25
 nbr: 1d8, Wild 2d6, Lair 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

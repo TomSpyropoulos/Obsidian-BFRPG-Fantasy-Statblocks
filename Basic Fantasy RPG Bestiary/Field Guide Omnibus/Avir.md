@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Avir
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1+3
 hp: 7
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+3", "7", "4 [15]", "19 [+1]"]
 attack: "2 kicks / 1 lance"
 damage: "1d4 kick, or by weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: Wild 5, Lair 10d10
-nbr_dj: 
 loot: U, E in lair
 roll_jds: 1d20
 roll-moral: 2d6

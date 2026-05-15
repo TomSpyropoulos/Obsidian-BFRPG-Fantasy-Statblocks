@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Spirit of Vengeance
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 10** (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10** (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "1 weapon plus energy drain"
 damage: "1d10+3 plus energy"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 12
 xp: 1480
 nbr: 1
-nbr_dj: 
 loot: Weapon + 3, 2 red diamonds worth 1d10×100 pp each
 roll_jds: 1d20
 roll-moral: 2d6

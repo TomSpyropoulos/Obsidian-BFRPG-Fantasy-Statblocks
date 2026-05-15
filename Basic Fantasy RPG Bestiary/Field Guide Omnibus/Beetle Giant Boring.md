@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Beetle, Giant Boring
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "1 [18]", "15 [+5]"]
 attack: "1 bite (2d10)"
 damage: "2d10"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 360
 nbr: 1d8, Wild 2d6, Lair 3d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

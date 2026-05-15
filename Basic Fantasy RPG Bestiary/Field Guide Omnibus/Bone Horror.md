@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bone Horror
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "5 [14]", "16 [+4]"]
 attack: "2 claws or 1 sting"
 damage: "1d6+3 claw or 1d4+poison sting"
@@ -25,7 +25,6 @@ jds: [9, 10, 13, 15, 14]
 moral: 12
 xp: 280
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

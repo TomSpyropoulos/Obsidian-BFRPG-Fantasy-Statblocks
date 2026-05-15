@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golem, Tin
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 7*
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7*", "31", "0 [19]", "13 [+7]"]
 attack: "2 hands"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 12
 xp: 735
 nbr: 1d6
-nbr_dj: 
 loot: J, K
 roll_jds: 1d20
 roll-moral: 2d6

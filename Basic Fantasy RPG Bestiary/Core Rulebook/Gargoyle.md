@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Gargoyle*
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 4**
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4**", "18", "4 [15]", "16 [+4]"]
 attack: "2 claws/1 bite/1 horn"
 damage: "1d4/1d4/1d6/1d4"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 320
 nbr: 1d6, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

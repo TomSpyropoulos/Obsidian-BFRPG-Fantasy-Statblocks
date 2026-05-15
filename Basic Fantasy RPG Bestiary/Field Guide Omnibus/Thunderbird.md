@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Thunderbird
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "2 [17]", "15 [+5]"]
 attack: "2 claws / 1 bite / lightning"
 damage: "1d6 claw, 1d8 bite, 5d6 lightning"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 9
 xp: 405
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

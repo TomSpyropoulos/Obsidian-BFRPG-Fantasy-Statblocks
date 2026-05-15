@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Loadstar
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "2 [17]", "18 [+2]"]
 attack: "1 spike + incubation"
 damage: "1d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 75
 nbr: 2d6
-nbr_dj: 
 loot: none
 roll_jds: 1d20
 roll-moral: 2d6

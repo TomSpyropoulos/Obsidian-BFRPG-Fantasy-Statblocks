@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Lambeosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12 (+10)", "64", "5 [14]", "10 [+10]"]
 attack: "1 tail lash (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [8, 9, 10, 12, 13]
 moral: 8
 xp: 1875
 nbr: 2d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

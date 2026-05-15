@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Snake, Python
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "5 [14]", "15 [+5]"]
 attack: "1 bite/1 constrict"
 damage: "1d4/2d4"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 405
 nbr: 1d3, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dragon, Cave
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -2 [21]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+8)", "48", "-2 [21]", "12 [+8]"]
 attack: "2 claws / 1 bite or breath / 1 tail"
 damage: "1d6 claw, 3d8 bite or Sonic Breath, 1d6 tail"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 1225
 nbr: 1, Wild 1, Lair 1d3
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Trollkin (2HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 5 [14]
 hit_dice: 1* – 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["1* \u2013 2*", "9", "5 [14]", "18 [+2]"]
 attack: "2 claws, 1 bite"
 damage: "1d4 claw, 1d4 bite"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9 (7)
 xp: 1 HD 37, 2 HD 100
 nbr: special, see below
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

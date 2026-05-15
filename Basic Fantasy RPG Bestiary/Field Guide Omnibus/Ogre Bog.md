@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ogre, Bog
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4+1*
 hp: 19
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+1*", "19", "5 [14]", "16 [+4]"]
 attack: "2 fists + swallow"
 damage: "1d8 fist + special"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 280
 nbr: 1d6, Lair 2d6
-nbr_dj: 
 loot: D + 2d10x100 gp
 roll_jds: 1d20
 roll-moral: 2d6

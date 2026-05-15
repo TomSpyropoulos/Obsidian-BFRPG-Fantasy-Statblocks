@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Shocker Lizard
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "3 [16]", "18 [+2]"]
 attack: "1 bite + special"
 damage: "1d4 bite + special (see below)"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7 (4 if alone)
 xp: 100
 nbr: 1d6, Lair 2d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

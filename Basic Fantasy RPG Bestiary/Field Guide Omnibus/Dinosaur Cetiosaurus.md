@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Cetiosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 24 (+14)
 hp: 122
 thaco: 6 [+14]
+modifier: 3
 stats: ["24 (+14)", "122", "5 [14]", "6 [+14]"]
 attack: "1 trample"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 8
 xp: 8,250
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

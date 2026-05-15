@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Dragon, Desert
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: -1 [20]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+8)", "48", "-1 [20]", "12 [+8]"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d8/1d8/3d8 or breath/1d8"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 1225
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

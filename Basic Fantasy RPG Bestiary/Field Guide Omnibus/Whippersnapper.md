@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Whippersnapper
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 7 [12]
 hit_dice: 2+1
 hp: 10
 thaco: 18 [+2]
+modifier: 0
 stats: ["2+1", "10", "7 [12]", "18 [+2]"]
 attack: "1 bite or 1 tail slap"
 damage: "1d6 bite, 1d8 tail slap"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

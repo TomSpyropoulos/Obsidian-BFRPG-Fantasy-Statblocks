@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Spectre
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 2 [17]
 hit_dice: 6**
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6**", "27", "2 [17]", "14 [+6]"]
 attack: "1 touch"
 damage: "Energy drain 2 levels/touch"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 11
 xp: 610
 nbr: 1d4, Lair 1d8
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

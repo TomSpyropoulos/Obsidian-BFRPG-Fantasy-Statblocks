@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Ankheg (5HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 4* or 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["4* or 5*", "22", "0 [19]", "15 [+5]"]
 attack: "1 bite + hold or 1 spit"
 damage: "3d6 + 1d4/round or 4d8 (acid)"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 7
 xp: 4 HD: 280, 5 HD: 405
 nbr: 1d6
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

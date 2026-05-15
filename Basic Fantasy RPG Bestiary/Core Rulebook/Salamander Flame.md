@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Salamander, Flame
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "2 claws/1 bite + heat"
 damage: "1d4/1d4/1d8 + 1d8/round"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 945
 nbr: 1d4+1, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

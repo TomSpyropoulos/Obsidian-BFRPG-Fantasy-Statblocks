@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Serpent, Giant Devouring
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -5 [24]
 hit_dice: 36**
 hp: 162
 thaco: 4 [+16]
+modifier: 3
 stats: ["36**", "162", "-5 [24]", "4 [+16]"]
 attack: "1 bite, 1 tail or special"
 damage: "5d8 + poison bite, 5d12 tail, special"
@@ -25,7 +25,6 @@ jds: [5, 6, 8, 9, 10]
 moral: 10
 xp: 18450
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

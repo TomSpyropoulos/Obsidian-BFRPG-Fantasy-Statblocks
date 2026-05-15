@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Mountain
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 16 (+12)
 hp: 84
 thaco: 8 [+12]
+modifier: 2
 stats: ["16 (+12)", "84", "4 [15]", "8 [+12]"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "7d6 (8d6) weapon, 4d6 rock"
@@ -25,7 +25,6 @@ jds: [7, 7, 9, 10, 11]
 moral: 10
 xp: 3250
 nbr: 1d4, Wild 1d4, Lair 1d4+1
-nbr_dj: 
 loot: E + 1d12x1,000gp
 roll_jds: 1d20
 roll-moral: 2d6

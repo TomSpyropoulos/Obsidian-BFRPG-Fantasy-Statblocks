@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Gelatinous Cube
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 7 [12]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "7 [12]", "16 [+4]"]
 attack: "1"
 damage: "2d4 + paralysis"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 280
 nbr: 1
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

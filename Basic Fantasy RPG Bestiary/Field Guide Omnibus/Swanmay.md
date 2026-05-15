@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Swanmay
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "5 [14]", "16 [+4]"]
 attack: "1 bite or buffet or 1 weapon"
 damage: "1d6 bite or 2d4 buffet or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 280
 nbr: 1d4, Lair 2d4
-nbr_dj: 
 loot: Individuals S; Lair I
 roll_jds: 1d20
 roll-moral: 2d6

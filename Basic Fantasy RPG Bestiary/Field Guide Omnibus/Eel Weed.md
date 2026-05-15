@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Eel, Weed
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1", "4", "6 [13]", "19 [+1]"]
 attack: "1 bite"
 damage: "1d2 + poison"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 25
 nbr: Wild 6d10
-nbr_dj: 
 loot: P, Q, R
 roll_jds: 1d20
 roll-moral: 2d6

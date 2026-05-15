@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Kappa
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 4
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4", "18", "5 [14]", "16 [+4]"]
 attack: "2 claws + choke"
 damage: "1d4 claw + 1d6 choke"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 100
 nbr: Wild 2d6 Lair 8d6
-nbr_dj: 
 loot: -- C in Lair --
 roll_jds: 1d20
 roll-moral: 2d6

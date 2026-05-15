@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Celestial, Solar
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 1
 stats: ["7**", "31", "2 [17]", "13 [+7]"]
 attack: "1 weapon"
 damage: "By weapon + 2"
@@ -25,7 +25,6 @@ jds: [8, 9, 11, 13, 12]
 moral: 11
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

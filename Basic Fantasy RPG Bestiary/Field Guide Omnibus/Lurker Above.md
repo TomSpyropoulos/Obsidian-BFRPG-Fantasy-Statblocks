@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lurker Above
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 10 (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9)", "54", "5 [14]", "11 [+9]"]
 attack: "1 smother"
 damage: "1d6 + 1d6 per round"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 7
 xp: 1300
 nbr: 1 Lair 1d4
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

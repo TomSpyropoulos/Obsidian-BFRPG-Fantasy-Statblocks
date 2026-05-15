@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Zombraire
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 7 [12]
 hit_dice: 2* (variable)
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2* (variable)", "9", "7 [12]", "18 [+2]"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or per spell"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9 to 12 (see below)
 xp: 100 (variable)
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

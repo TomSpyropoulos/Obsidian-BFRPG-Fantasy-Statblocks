@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Zexhund
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "1 [18]", "18 [+2]"]
 attack: "1 bludgeon (3d6)"
 damage: "3d6"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 75
 nbr: 1d6
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

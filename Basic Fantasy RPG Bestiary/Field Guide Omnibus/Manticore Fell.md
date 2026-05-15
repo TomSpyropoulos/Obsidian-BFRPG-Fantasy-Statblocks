@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Manticore, Fell
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 5**
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5**", "22", "3 [16]", "15 [+5]"]
 attack: "2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 claw, 2d4 bite, 1d4 spikes"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 11
 xp: 455
 nbr: 1, Lair 1d2 see below
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

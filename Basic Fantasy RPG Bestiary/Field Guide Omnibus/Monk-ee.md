@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Monk-ee
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 0
 stats: ["4*", "18", "1 [18]", "16 [+4]"]
 attack: "4 punches or 2 weapons"
 damage: "1d6 punch, by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 280
 nbr: Wild 2d6, Lair 6d6
-nbr_dj: 
 loot: S, I in lair
 roll_jds: 1d20
 roll-moral: 2d6

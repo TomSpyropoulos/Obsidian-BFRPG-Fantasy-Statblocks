@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grick
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "3 [16]", "18 [+2]"]
 attack: "4 tentacles / 1 bite"
 damage: "1d4 tentacle, 1d3 bite"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 12
 xp: 75
 nbr: 1, Wild 1d4
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

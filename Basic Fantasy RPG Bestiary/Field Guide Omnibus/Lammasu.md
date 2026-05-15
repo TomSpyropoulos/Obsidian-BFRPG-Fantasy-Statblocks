@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lammasu
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 6+2*
 hp: 29
 thaco: 14 [+6]
+modifier: 0
 stats: ["6+2*", "29", "5 [14]", "14 [+6]"]
 attack: "2 claws"
 damage: "1d6 claw + special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 555
 nbr: 2d4
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

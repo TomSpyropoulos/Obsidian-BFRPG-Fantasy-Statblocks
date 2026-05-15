@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Deer, Huge
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 5 [14]
 hit_dice: 7
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7", "31", "5 [14]", "13 [+7]"]
 attack: "1 kick (2d4)"
 damage: "2d4"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 670
 nbr: Wild 2d8
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

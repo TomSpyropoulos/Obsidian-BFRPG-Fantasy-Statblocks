@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Balor
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -3 [22]
 hit_dice: 8+8*
 hp: 44
 thaco: 12 [+8]
+modifier: 1
 stats: ["8+8*", "44", "-3 [22]", "12 [+8]"]
 attack: "1 sword, or 1 whip, + special"
 damage: "1d12+1 sword, 2d6+1 whip, + special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 944
 nbr: 1d3 Lair 1d6
-nbr_dj: 
 loot: F
 roll_jds: 1d20
 roll-moral: 2d6

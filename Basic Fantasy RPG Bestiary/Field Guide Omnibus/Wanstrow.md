@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Wanstrow
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 4 (+9 see below)
 hp: 27
 thaco: 16 [+4]
+modifier: 0
 stats: ["4 (+9 see below)", "27", "1 [18]", "16 [+4]"]
 attack: "2"
 damage: "1d8+5 strike"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 12
 xp: 240
 nbr: 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Beetle, Giant Tiger
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 3+1
 hp: 14
 thaco: 17 [+3]
+modifier: 0
 stats: ["3+1", "14", "2 [17]", "17 [+3]"]
 attack: "1 bite (2d6)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 145
 nbr: 1d6, Wild 2d4, Lair 2d4
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Pazzu
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 9*
 hp: 40
 thaco: 12 [+8]
+modifier: 1
 stats: ["9*", "40", "4 [15]", "12 [+8]"]
 attack: "2 claws (1d6) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d6 claw, 1d8 talon, 1d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 11
 xp: 1150
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

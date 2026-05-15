@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Banshee
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 0 [19]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 0
 stats: ["7**", "31", "0 [19]", "13 [+7]"]
 attack: "1 touch + wail"
 damage: "level drain touch + wail"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 800
 nbr: 1
-nbr_dj: 
 loot: E
 roll_jds: 1d20
 roll-moral: 2d6

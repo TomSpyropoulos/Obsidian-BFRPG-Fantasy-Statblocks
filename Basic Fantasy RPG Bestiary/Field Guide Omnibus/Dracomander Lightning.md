@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dracomander, Lightning
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 9** (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9** (+8)", "48", "-1 [20]", "12 [+8]"]
 attack: "2 bites or breath, 1 tail + lightning"
 damage: "2d8 bite, 9d8 breath, 1d6 tail, 1d8 per round lightning"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 8
 xp: 1225
 nbr: 1, Wild 1, Lair 1d4
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

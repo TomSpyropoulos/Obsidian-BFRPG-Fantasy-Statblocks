@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lizard, Giant Horned Chameleon
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 1 [18]
 hit_dice: 5
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5", "22", "1 [18]", "15 [+5]"]
 attack: "1 tongue or 1 bite"
 damage: "grab or 2d6"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 7
 xp: 360
 nbr: 1d3, Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

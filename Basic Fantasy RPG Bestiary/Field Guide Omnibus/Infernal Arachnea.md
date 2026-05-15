@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Arachnea
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "3 [16]", "14 [+6]"]
 attack: "1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 + poison bite, 1d6 + heals creature kiss, 1d4 + 2HP/round dagger"
@@ -25,7 +25,6 @@ jds: [12, 12, 11, 14, 13]
 moral: 8
 xp: 555
 nbr: 1
-nbr_dj: 
 loot: I
 roll_jds: 1d20
 roll-moral: 2d6

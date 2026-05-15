@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Norker
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 1+2
 hp: 6
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+2", "6", "2 [17]", "19 [+1]"]
 attack: "1 weapon + 1 bite"
 damage: "1d6 or by weapon, 1d4 bite"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 9
 xp: 25
 nbr: 1d6, Wild 2d4, Lair 4d8
-nbr_dj: 
 loot: Q, R each; D, K in lair
 roll_jds: 1d20
 roll-moral: 2d6

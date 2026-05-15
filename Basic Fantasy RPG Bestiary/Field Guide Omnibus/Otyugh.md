@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Otyugh
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 2 [17]
 hit_dice: 6*
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6*", "27", "2 [17]", "14 [+6]"]
 attack: "2 tentacles / 1 bite + special"
 damage: "1d6 tentacle, 1d8 bite + special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 555
 nbr: 1
-nbr_dj: 
 loot: U
 roll_jds: 1d20
 roll-moral: 2d6

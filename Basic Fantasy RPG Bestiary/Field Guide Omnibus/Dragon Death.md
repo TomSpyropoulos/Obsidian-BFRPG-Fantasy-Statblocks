@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dragon, Death
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -3 [22]
 hit_dice: 11** (+9)
 hp: 58
 thaco: 11 [+9]
+modifier: 1
 stats: ["11** (+9)", "58", "-3 [22]", "11 [+9]"]
 attack: "2 claws + paralysis, 1 bite or breath, 1 tail"
 damage: "1d8 claw, 4d8 bite, or breath, 1d8 tail"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1765
 nbr: 1
-nbr_dj: 
 loot: H
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Satyr
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 5*
 hp: 22
 thaco: 15 [+5]
+modifier: 0
 stats: ["5*", "22", "4 [15]", "15 [+5]"]
 attack: "1 head butt (1d6) / 1 dagger (1d4) / 1 weapon (by weapon)"
 damage: "1d6 head butt, 1d4 dagger, or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 405
 nbr: 1d4, Wild 2d4, Lair 2d6
-nbr_dj: 
 loot: Individuals S; Lair I
 roll_jds: 1d20
 roll-moral: 2d6

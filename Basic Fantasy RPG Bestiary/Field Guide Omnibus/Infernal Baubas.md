@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Baubas
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 7**
 hp: 31
 thaco: 13 [+7]
+modifier: 2
 stats: ["7**", "31", "3 [16]", "13 [+7]"]
 attack: "2 claws or 1 bite or 1 spell"
 damage: "1d6 claw + hold or 2d6 bite"
@@ -25,7 +25,6 @@ jds: [9, 10, 10, 10, 11]
 moral: 11
 xp: 800
 nbr: 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

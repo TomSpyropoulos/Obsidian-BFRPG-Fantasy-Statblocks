@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Invisible Stalker
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "0 [19]", "12 [+8]"]
 attack: "-"
 damage: "4d4"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 945
 nbr: 1 (special)
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

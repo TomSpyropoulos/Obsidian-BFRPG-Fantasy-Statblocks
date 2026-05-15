@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Lizard Man
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 4 [15]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "4 [15]", "18 [+2]"]
 attack: "1 weapon"
 damage: "1d6+1 or by weapon +1"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 11
 xp: 75
 nbr: 2d4, Wild 2d4, Lair 6d6
-nbr_dj: 
 loot: D
 roll_jds: 1d20
 roll-moral: 2d6

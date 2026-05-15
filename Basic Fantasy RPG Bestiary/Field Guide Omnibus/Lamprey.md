@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Lamprey
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1+2
 hp: 6
 thaco: 19 [+1]
+modifier: 0
 stats: ["1+2", "6", "6 [13]", "19 [+1]"]
 attack: "2 bite"
 damage: "1d2 + 2 per round"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 12
 xp: 25
 nbr: 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

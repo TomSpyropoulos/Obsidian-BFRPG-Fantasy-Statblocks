@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Insect Swarm (2HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 9 [10]
 hit_dice: 2* to 4*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2* to 4*", "9", "9 [10]", "18 [+2]"]
 attack: "1 swarm"
 damage: "1d3 (double against no armor)"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 11
 xp: 100 - 280
 nbr: 1 swarm, Wild 1d3 swarms
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

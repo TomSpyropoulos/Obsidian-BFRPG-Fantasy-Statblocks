@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elephant, Shovel Tusk
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 10 (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10 (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "1 tusk or trample"
 damage: "1d10 tusk, 4d10 trample"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 8
 xp: 1300
 nbr: Wild 1d12
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

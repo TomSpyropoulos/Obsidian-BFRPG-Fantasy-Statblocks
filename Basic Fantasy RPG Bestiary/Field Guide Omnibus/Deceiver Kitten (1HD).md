@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Deceiver Kitten (1HD)
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1* to 4*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1* to 4*", "4", "6 [13]", "19 [+1]"]
 attack: "3 bites (see below)"
 damage: "1 pt snake bite, 1d2 panther bite for 1 HD
@@ -28,7 +28,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 8
 xp: 1 HD: 37; 2 HD: 100; 3 HD: 175; 4 HD: 280
 nbr: 1d4+4
-nbr_dj: 
 loot: none
 roll_jds: 1d20
 roll-moral: 2d6

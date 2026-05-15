@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Harpy
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 6 [13]
 hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2*", "9", "6 [13]", "18 [+2]"]
 attack: "-"
 damage: "1d4/1d4/1d6 or by weapon + special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 7
 xp: 100
 nbr: 
-nbr_dj: 
 loot: C
 roll_jds: 1d20
 roll-moral: 2d6

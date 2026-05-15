@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elemental, Blood
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 8* / 12* (+10) / 16* (+12)
 hp: 58
 thaco: 12 [+8]
+modifier: 1
 stats: ["8* / 12* (+10) / 16* (+12)", "58", "1 [18]", "12 [+8]"]
 attack: "2 × fist (1d6 / 1d8 / 1d8)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 10
 xp: 945 / 1,945 / 3,385
 nbr: special
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

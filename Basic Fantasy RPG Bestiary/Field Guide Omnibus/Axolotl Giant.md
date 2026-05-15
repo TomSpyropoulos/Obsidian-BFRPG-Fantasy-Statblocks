@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Axolotl, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 10* (+9)
 hp: 54
 thaco: 11 [+9]
+modifier: 1
 stats: ["10* (+9)", "54", "1 [18]", "11 [+9]"]
 attack: "1 bite or gaze"
 damage: "1d8 bite, or Mind Swap"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1,390
 nbr: 1d6, Wild 2d6, Lair 2d6
-nbr_dj: 
 loot: M
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dolphin
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 2
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2", "9", "4 [15]", "18 [+2]"]
 attack: "1 ram"
 damage: "2d4"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 8
 xp: 75
 nbr: Wild 2d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

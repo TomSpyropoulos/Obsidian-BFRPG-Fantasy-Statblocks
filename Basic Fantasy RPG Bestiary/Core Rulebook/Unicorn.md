@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Unicorn
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
+modifier: 1
 stats: ["4*", "18", "0 [19]", "16 [+4]"]
 attack: "2 hooves/1 horn (+3 attack bonus)"
 damage: "1d8/1d8/1d6+3"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 7
 xp: 280
 nbr: Wild 1d6
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Rabbidrake
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
+modifier: 0
 stats: ["1*", "4", "6 [13]", "19 [+1]"]
 attack: "1 bite, or Breath Weapon"
 damage: "1d4+1 bite or Breath Weapon"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 6
 xp: 37
 nbr: 1d6, 2d8 Lair
-nbr_dj: 
 loot: M
 roll_jds: 1d20
 roll-moral: 2d6

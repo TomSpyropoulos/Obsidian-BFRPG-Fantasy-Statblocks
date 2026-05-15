@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Wolf, Wind
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 8*
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8*", "36", "-1 [20]", "12 [+8]"]
 attack: "2 claws or 1 howl"
 damage: "2d12 claw, special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 11
 xp: 945
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

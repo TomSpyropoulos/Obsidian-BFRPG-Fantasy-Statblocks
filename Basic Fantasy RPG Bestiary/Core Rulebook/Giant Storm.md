@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Giant, Storm
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 15** (+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 2
 stats: ["15** (+11)", "78", "0 [19]", "9 [+11]"]
 attack: "1 giant weapon or 1 lightning bolt"
 damage: "8d6 or 15d6"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 10
 xp: 3100
 nbr: 1, Wild 1d3, Lair 1d3
-nbr_dj: 
 loot: E plus 1d20x1000 gp
 roll_jds: 1d20
 roll-moral: 2d6

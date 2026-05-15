@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dinosaur, Elasmosaurus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 15 (+11)
 hp: 78
 thaco: 9 [+11]
+modifier: 2
 stats: ["15 (+11)", "78", "6 [13]", "9 [+11]"]
 attack: "1 bite (2d12)"
 damage: "-"
@@ -25,7 +25,6 @@ jds: [7, 8, 10, 11, 12]
 moral: 8
 xp: 2850
 nbr: 1d2
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

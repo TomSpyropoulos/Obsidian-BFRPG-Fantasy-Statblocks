@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Cave Locust, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 2**
 hp: 9
 thaco: 18 [+2]
+modifier: 0
 stats: ["2**", "9", "3 [16]", "18 [+2]"]
 attack: "1 bite or 1 bump or 1 spit"
 damage: "1d2 or 1d4* or special"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 5
 xp: 125
 nbr: 2d10, Wild 1d10
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

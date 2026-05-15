@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infected, Giant Rhinoceros Beetle
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 1
 stats: ["12 (+10)", "64", "1 [18]", "10 [+10]"]
 attack: "1 bite or 1 horn"
 damage: "3d8 bite, 2d10 horn"
@@ -25,7 +25,6 @@ jds: [9, 9, 11, 12, 13]
 moral: 10
 xp: 1875
 nbr: 1
-nbr_dj: 
 loot: L
 roll_jds: 1d20
 roll-moral: 2d6

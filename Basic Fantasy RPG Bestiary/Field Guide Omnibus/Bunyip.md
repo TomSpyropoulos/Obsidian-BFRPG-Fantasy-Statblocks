@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bunyip
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "4 [15]", "14 [+6]"]
 attack: "1 bite (1d10+2)"
 damage: "1d10+2"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 500
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

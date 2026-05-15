@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Whale, Narwhal
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 0 [19]
 hit_dice: 12 (+10)
 hp: 64
 thaco: 10 [+10]
+modifier: 0
 stats: ["12 (+10)", "64", "0 [19]", "10 [+10]"]
 attack: "1 horn (2d6)"
 damage: "2d6"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 1875
 nbr: Wild 1d4
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

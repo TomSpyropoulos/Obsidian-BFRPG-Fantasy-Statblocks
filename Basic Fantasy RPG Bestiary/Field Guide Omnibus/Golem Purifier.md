@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Golem, Purifier
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 8**
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8**", "36", "1 [18]", "12 [+8]"]
 attack: "2 fists or 1 flame"
 damage: "2d10 fist, 3d6 flame"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 1,015
 nbr: 1
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

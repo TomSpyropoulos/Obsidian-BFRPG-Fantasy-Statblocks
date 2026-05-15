@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Brazen Sphere Imprisoner
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: -1 [20]
 hit_dice: 8
 hp: 36
 thaco: 12 [+8]
+modifier: 1
 stats: ["8", "36", "-1 [20]", "12 [+8]"]
 attack: "Engulf"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 12
 xp: 875
 nbr: 1
-nbr_dj: 
 loot: 800 gp worth of sapphires
 roll_jds: 1d20
 roll-moral: 2d6

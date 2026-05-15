@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Bog Crone
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 5+2**
 hp: 24
 thaco: 15 [+5]
+modifier: 0
 stats: ["5+2**", "24", "4 [15]", "15 [+5]"]
 attack: "2"
 damage: "1d4+2"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 450
 nbr: 1
-nbr_dj: 
 loot: U; E, N in lair
 roll_jds: 1d20
 roll-moral: 2d6

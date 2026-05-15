@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Owlbearlin
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 6 [13]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "6 [13]", "17 [+3]"]
 attack: "1 weapon / 1 screech or 2 claws"
 damage: "1d8 or by weapon, special screech or 1d4 claw"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 8
 xp: 175
 nbr: 1d6
-nbr_dj: 
 loot: Q each; B in lair
 roll_jds: 1d20
 roll-moral: 2d6

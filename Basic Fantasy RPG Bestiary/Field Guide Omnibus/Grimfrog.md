@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Grimfrog
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "3 [16]", "14 [+6]"]
 attack: "1 special"
 damage: "Special"
@@ -25,7 +25,6 @@ jds: [12, 13, 14, 15, 17]
 moral: 10
 xp: 500
 nbr: 1 swarm
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

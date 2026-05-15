@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Decempus
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 4+4*
 hp: 22
 thaco: 16 [+4]
+modifier: 0
 stats: ["4+4*", "22", "4 [15]", "16 [+4]"]
 attack: "Up to 8 whip or grab"
 damage: "1d4 whip, or 1d2 + bind grab"
@@ -25,7 +25,6 @@ jds: [11, 11, 13, 14, 15]
 moral: 10
 xp: 280
 nbr: Wild 1
-nbr_dj: 
 loot: V
 roll_jds: 1d20
 roll-moral: 2d6

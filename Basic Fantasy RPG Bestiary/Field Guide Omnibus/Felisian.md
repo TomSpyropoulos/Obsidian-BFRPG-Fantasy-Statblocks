@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Felisian
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 3
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3", "13", "3 [16]", "17 [+3]"]
 attack: "2 claw / 1 bite or 1 weapon"
 damage: "1d4 claw, 1d4 bite, or by weapon"
@@ -25,7 +25,6 @@ jds: [11, 12, 14, 15, 16]
 moral: 9
 xp: 145
 nbr: 1d6, Wild 1d6, Lair 3d10
-nbr_dj: 
 loot: J
 roll_jds: 1d20
 roll-moral: 2d6

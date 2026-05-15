@@ -10,13 +10,13 @@ source: Core Rulebook
 
 ```statblock
 name: Squid, Giant
-layout: OSE_en
+layout: BFRPG
 subtype: Core Rulebook
-image:
 ac: 3 [16]
 hit_dice: 6
 hp: 27
 thaco: 14 [+6]
+modifier: 0
 stats: ["6", "27", "3 [16]", "14 [+6]"]
 attack: "8 tentacles/1 bite"
 damage: "1d4 per tentacle/1d10"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 8
 xp: 500
 nbr: Wild 1d4
-nbr_dj: 
 loot: None
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Dogboy
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 3*
 hp: 13
 thaco: 17 [+3]
+modifier: 0
 stats: ["3*", "13", "1 [18]", "17 [+3]"]
 attack: "1"
 damage: "1d6 bite or 3d6 breath"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 7
 xp: 175
 nbr: 2d6
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Infernal, Erinyes
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 1 [18]
 hit_dice: 7+2*
 hp: 33
 thaco: 13 [+7]
+modifier: 0
 stats: ["7+2*", "33", "1 [18]", "13 [+7]"]
 attack: "1 dagger (special) or special"
 damage: "2d4 special dagger or special"
@@ -25,7 +25,6 @@ jds: [10, 11, 12, 14, 15]
 moral: 9
 xp: 735
 nbr: 1d4 Lair 2d8
-nbr_dj: 
 loot: Special
 roll_jds: 1d20
 roll-moral: 2d6

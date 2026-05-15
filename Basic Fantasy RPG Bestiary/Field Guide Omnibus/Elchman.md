@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Elchman
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 3 [16]
 hit_dice: 9 (+8)
 hp: 48
 thaco: 12 [+8]
+modifier: 1
 stats: ["9 (+8)", "48", "3 [16]", "12 [+8]"]
 attack: "1 gore or 1 weapon"
 damage: "2d6 gore, by weapon +3"
@@ -25,7 +25,6 @@ jds: [9, 10, 12, 13, 14]
 moral: 9
 xp: 1075
 nbr: 1d6, Wild 2d4, Lair 4d8
-nbr_dj: 
 loot: B
 roll_jds: 1d20
 roll-moral: 2d6

@@ -10,13 +10,13 @@ source: Field Guide Omnibus
 
 ```statblock
 name: Hivelings
-layout: OSE_en
+layout: BFRPG
 subtype: Field Guide Omnibus
-image:
 ac: 4 [15]
 hit_dice: 1* (Special)
 hp: 4
 thaco: 19 [+1]
+modifier: -1
 stats: ["1* (Special)", "4", "4 [15]", "19 [+1]"]
 attack: "2 claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
 damage: "1d4 claws, 1d6 or by weapon"
@@ -25,7 +25,6 @@ jds: [13, 14, 13, 16, 15]
 moral: Special
 xp: 37
 nbr: 3d6 Wild 3d6 Lair 8d10
-nbr_dj: 
 loot: A
 roll_jds: 1d20
 roll-moral: 2d6
