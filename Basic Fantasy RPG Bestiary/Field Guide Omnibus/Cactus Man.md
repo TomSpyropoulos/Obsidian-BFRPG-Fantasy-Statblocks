@@ -22,10 +22,10 @@ attack: "2 claws or hug"
 damage: "1d8 claw or 2d8 hug"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 360
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

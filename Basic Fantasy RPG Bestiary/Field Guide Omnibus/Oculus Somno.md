@@ -22,10 +22,10 @@ attack: "Gaze / 3 proboscis"
 damage: "Sleep Gaze, 1d6 + 1d6/round proboscis"
 speed: "Fly 40'"
 jds: [9, 10, 12, 13, 14]
-moral: 7
+moral: "7"
 xp: 945
-nbr: 1d4
-loot: D, I
+nbr: "1d4"
+loot: "D, I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

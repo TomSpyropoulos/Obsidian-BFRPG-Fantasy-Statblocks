@@ -22,10 +22,10 @@ attack: "1 shock (2d8)"
 damage: "-"
 speed: "Fly 50'"
 jds: [9, 10, 12, 13, 14]
-moral: 12
+moral: "12"
 xp: 1225
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

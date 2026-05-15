@@ -22,10 +22,10 @@ attack: "1 swarm of mirror butterflies"
 damage: "3d6 + blind"
 speed: "None'"
 jds: [10, 10, 9, 13, 11]
-moral: 6
+moral: "6"
 xp: 2075
-nbr: 1
-loot: special, see below
+nbr: "1"
+loot: "special, see below"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

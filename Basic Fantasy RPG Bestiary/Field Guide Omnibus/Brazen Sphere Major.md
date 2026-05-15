@@ -22,10 +22,10 @@ attack: "2 bludgeon or 2d4 sphere shots"
 damage: "1d6 bludgeon, 1d4 sphere shot"
 speed: "60'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
-xp: 1,975
-nbr: 2d10
-loot: 1,200 gp worth of sapphires
+moral: "12"
+xp: 1975
+nbr: "2d10"
+loot: "1,200 gp worth of sapphires"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

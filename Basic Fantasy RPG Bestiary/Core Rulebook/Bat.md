@@ -22,10 +22,10 @@ attack: "1 special"
 damage: "Confusion"
 speed: "30' Fly 40'"
 jds: [13, 14, 15, 16, 18]
-moral: 6
+moral: "6"
 xp: 10
-nbr: 1d100, Wild 1d100, Lair 1d100
-loot: None
+nbr: "1d100, Wild 1d100, Lair 1d100"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

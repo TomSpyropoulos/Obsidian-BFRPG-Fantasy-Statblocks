@@ -22,10 +22,10 @@ attack: "1 gore/1 bite or 1 weapon"
 damage: "1d6/1d6 , 1d6+2 or by weapon + 2"
 speed: "30' Unarmored 40'"
 jds: [10, 11, 12, 14, 15]
-moral: 11
+moral: "11"
 xp: 500
-nbr: 1d6, Wild 1d8, Lair 1d8
-loot: C
+nbr: "1d6, Wild 1d8, Lair 1d8"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

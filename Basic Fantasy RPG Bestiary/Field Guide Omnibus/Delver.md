@@ -22,10 +22,10 @@ attack: "2 flippers"
 damage: "1d6 + special"
 speed: "30' Burrow 10'"
 jds: [6, 7, 8, 10, 11]
-moral: 11
+moral: "11"
 xp: 4320
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

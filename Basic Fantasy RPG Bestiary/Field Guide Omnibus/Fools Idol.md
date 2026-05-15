@@ -22,10 +22,10 @@ attack: "2 claws or 1 spray of coins"
 damage: "2d4 claw, 1d12 spray of coins"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 10
+moral: "10"
 xp: 100
-nbr: 1d6
-loot: E
+nbr: "1d6"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

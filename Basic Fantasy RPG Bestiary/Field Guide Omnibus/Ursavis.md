@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite or special (hug or fire breath)"
 damage: "2d6 claw, 1d10 bite, or see below"
 speed: "30' Fly 60' (10')'"
 jds: [9, 10, 12, 13, 14]
-moral: 6
+moral: "6"
 xp: 940
-nbr: 1d2, Lair 1d4, wild 1d3
-loot: C x 2
+nbr: "1d2, Lair 1d4, wild 1d3"
+loot: "C x 2"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 touch or special"
 damage: "See below"
 speed: "Fly 10'"
 jds: [13, 14, 15, 16, 18]
-moral: 12
+moral: "12"
 xp: 13
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

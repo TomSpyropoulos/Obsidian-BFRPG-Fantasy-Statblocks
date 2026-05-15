@@ -22,10 +22,10 @@ attack: "1"
 damage: "1d10 + 1d8 cold"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 12 (8)
+moral: "12 (8)"
 xp: 240
-nbr: 1d4 x 2
-loot: None
+nbr: "1d4 x 2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

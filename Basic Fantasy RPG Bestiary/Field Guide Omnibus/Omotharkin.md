@@ -22,10 +22,10 @@ attack: "1 grab (1d4 + 1 pt. CON loss)"
 damage: "1d4 + 1 pt. CON loss"
 speed: "20'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 280
-nbr: 1d6, Lair 3d8
-loot: None
+nbr: "1d6, Lair 3d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

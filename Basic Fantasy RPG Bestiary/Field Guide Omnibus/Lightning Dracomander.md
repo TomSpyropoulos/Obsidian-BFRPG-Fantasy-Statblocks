@@ -22,10 +22,10 @@ attack: "2 bites or breath, 1 tail + lightning"
 damage: "2d8 bite, 9d8 breath, 1d6 tail, 1d8 per round lightning"
 speed: "30' Fly 80' (15')'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 1225
-nbr: 1, Wild 1, Lair 1d4
-loot: H
+nbr: "1, Wild 1, Lair 1d4"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

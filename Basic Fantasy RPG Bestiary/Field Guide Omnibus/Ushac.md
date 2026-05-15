@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon"
 speed: "30'"
 jds: [13, 14, 15, 16, 18]
-moral: 9
+moral: "9"
 xp: 13
-nbr: 1d8
-loot: Q each; C in lair
+nbr: "1d8"
+loot: "Q each; C in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

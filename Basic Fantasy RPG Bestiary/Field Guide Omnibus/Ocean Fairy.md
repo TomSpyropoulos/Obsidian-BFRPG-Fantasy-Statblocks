@@ -22,10 +22,10 @@ attack: "4 water jets or 1 flood"
 damage: "1d8 water jet, 4d6 flood"
 speed: "30' swim 60'"
 jds: [11, 10, 9, 13, 11]
-moral: 6
+moral: "6"
 xp: 1390
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

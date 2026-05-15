@@ -22,10 +22,10 @@ attack: "2 sabre claws / 1 bite / 1 breath weapon"
 damage: "1d6+3 claw, 4d4 bite or 6d6 breath"
 speed: "60'"
 jds: [9, 9, 11, 12, 13]
-moral: 9
+moral: "9"
 xp: 1390
-nbr: 1
-loot: V
+nbr: "1"
+loot: "V"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

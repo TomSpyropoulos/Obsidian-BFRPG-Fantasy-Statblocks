@@ -22,10 +22,10 @@ attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d10 bite, breath, 2d8 constrict*"
 speed: "30'"
 jds: [9, 9, 11, 12, 13]
-moral: 8
+moral: "8"
 xp: 1480
-nbr: Lair 1d3+1
-loot: H
+nbr: "Lair 1d3+1"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

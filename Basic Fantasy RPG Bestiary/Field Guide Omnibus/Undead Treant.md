@@ -22,10 +22,10 @@ attack: "2"
 damage: "2d6 fist"
 speed: "20'"
 jds: [9, 9, 11, 12, 13]
-moral: 12
+moral: "12"
 xp: 1300
-nbr: Wild 1d6, Lair 1d6
-loot: C
+nbr: "Wild 1d6, Lair 1d6"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

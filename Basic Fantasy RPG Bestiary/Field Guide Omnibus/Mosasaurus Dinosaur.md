@@ -22,10 +22,10 @@ attack: "2 claws / 1 tail lash"
 damage: "1d4 claw, 2d4 tail lash"
 speed: "20' Swim 90'"
 jds: [8, 9, 10, 12, 13]
-moral: 8
+moral: "8"
 xp: 1875
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

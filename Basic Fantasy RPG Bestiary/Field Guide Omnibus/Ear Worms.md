@@ -22,10 +22,10 @@ attack: "Special, see below"
 damage: "Special"
 speed: "10'"
 jds: [13, 14, 15, 16, 18]
-moral: 6
+moral: "6"
 xp: 10
-nbr: 3d8
-loot: None
+nbr: "3d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

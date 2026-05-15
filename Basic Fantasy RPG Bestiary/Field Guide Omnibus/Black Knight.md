@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
 speed: "30'"
 jds: [7, 8, 10, 11, 12]
-moral: 11
+moral: "11"
 xp: 2730
-nbr: 1
-loot: F + Black Knight's sword
+nbr: "1"
+loot: "F + Black Knight's sword"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

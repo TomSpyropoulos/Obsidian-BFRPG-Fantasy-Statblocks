@@ -22,10 +22,10 @@ attack: "2 claws (1d4) / 1 bite (1d4) + paralysis (1 per day)"
 damage: "1d4 claws, 1d4 bite + paralysis (1 per day), poison"
 speed: "Swim 30'"
 jds: [11, 12, 14, 15, 16]
-moral: 6
+moral: "6"
 xp: 125
-nbr: 1d2, Wild 1, Lair 1d6
-loot: C
+nbr: "1d2, Wild 1, Lair 1d6"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

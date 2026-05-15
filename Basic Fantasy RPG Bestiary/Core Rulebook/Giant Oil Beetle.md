@@ -22,10 +22,10 @@ attack: "1 bite + spray (see below)"
 damage: "2d4 bite, special spray"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 100
-nbr: 1d8, Wild 2d6, Lair 2d6
-loot: None
+nbr: "1d8, Wild 2d6, Lair 2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

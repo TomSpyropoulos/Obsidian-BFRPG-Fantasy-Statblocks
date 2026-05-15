@@ -22,10 +22,10 @@ attack: "1 dagger or 1 spell"
 damage: "1d4 or per spell"
 speed: "20'"
 jds: [11, 12, 14, 15, 16]
-moral: 9 to 12 (see below)
-xp: 100 (variable)
-nbr: 1
-loot: None
+moral: "9 to 12 (see below)"
+xp: 100
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

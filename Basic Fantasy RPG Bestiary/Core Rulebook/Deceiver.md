@@ -22,10 +22,10 @@ attack: "3 bites (1d6 snake bite, 1d8 panther bite)"
 damage: "1d6 snake bite, 1d8 panther bite"
 speed: "50'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 555
-nbr: 1d4, Wild 1d4
-loot: D
+nbr: "1d4, Wild 1d4"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

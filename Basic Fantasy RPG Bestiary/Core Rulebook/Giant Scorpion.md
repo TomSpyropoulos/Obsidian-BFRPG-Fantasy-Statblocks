@@ -22,10 +22,10 @@ attack: "2 claws/1 stinger"
 damage: "1d10/1d10/1d6 + poison"
 speed: "50' (10')'"
 jds: [11, 12, 14, 15, 16]
-moral: 11
+moral: "11"
 xp: 280
-nbr: 1d6, Wild 1d6
-loot: None
+nbr: "1d6, Wild 1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

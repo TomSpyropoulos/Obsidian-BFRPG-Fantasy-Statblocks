@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon + 2"
 speed: "40' Fly 80' (20')'"
 jds: [8, 9, 11, 13, 12]
-moral: 12
+moral: "12"
 xp: 1390
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

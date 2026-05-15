@@ -22,10 +22,10 @@ attack: "1"
 damage: "1"
 speed: "40'"
 jds: [13, 14, 15, 16, 18]
-moral: 12
+moral: "12"
 xp: 10
-nbr: 2d4
-loot: None
+nbr: "2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

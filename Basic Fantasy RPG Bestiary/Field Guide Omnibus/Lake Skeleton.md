@@ -22,10 +22,10 @@ attack: "1 weapon + special"
 damage: "1d6 or by weapon"
 speed: "30' Swim 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 100
-nbr: 3d4-2, Wild 3d8
-loot: None
+nbr: "3d4-2, Wild 3d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

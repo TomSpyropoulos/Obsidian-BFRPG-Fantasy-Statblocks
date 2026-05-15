@@ -22,10 +22,10 @@ attack: "1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 bite + poison, 1d10 claw, or breath"
 speed: "40'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 800
-nbr: 1d2
-loot: E
+nbr: "1d2"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

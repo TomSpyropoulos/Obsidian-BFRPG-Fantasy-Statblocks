@@ -22,10 +22,10 @@ attack: "2 fists"
 damage: "1d6"
 speed: "Unarmored 30' Climb 20'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 360
-nbr: 1d3, Lair 2d6
-loot: None
+nbr: "1d3, Lair 2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

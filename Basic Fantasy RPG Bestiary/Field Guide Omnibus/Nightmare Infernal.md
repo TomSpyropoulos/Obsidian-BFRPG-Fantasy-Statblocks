@@ -22,10 +22,10 @@ attack: "2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
 damage: "2d4+2 hoof, 2d4 bite, or special"
 speed: "80' (10') Fly 160' (10')'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 555
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

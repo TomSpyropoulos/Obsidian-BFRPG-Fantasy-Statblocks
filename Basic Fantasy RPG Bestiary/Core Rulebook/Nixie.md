@@ -22,10 +22,10 @@ attack: "1 dagger"
 damage: "1d4"
 speed: "40' Swim 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 6
+moral: "6"
 xp: 37
-nbr: Wild 2d20, Lair 2d20
-loot: B
+nbr: "Wild 2d20, Lair 2d20"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

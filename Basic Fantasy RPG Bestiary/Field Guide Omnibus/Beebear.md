@@ -22,10 +22,10 @@ attack: "2 claws + poison / 1 bite + hug + sting"
 damage: "1d4 + poison claw, 1d6 bite, 1d6 hug + 1d6 + poison sting"
 speed: "40' Fly 5'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 735
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

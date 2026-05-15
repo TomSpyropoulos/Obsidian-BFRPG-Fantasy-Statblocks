@@ -22,10 +22,10 @@ attack: "2 forelegs (1d8) / 1 bite (1d12)"
 damage: "-"
 speed: "40' Fly 120'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 360
-nbr: Wild 1-2, Lair 1
-loot: None
+nbr: "Wild 1-2, Lair 1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
 speed: "50' Human Form 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 405
-nbr: 1d4, Wild 1d4, Lair 1d4
-loot: C
+nbr: "1d4, Wild 1d4, Lair 1d4"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

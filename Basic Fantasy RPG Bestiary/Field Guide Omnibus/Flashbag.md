@@ -22,10 +22,10 @@ attack: "1 explosion"
 damage: "blindness"
 speed: "20'"
 jds: [12, 13, 14, 15, 17]
-moral: 12
+moral: "12"
 xp: 10
-nbr: 2d6
-loot: None
+nbr: "2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

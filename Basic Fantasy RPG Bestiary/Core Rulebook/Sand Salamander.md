@@ -22,10 +22,10 @@ attack: "-"
 damage: "1d6 + petrification"
 speed: "20'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 735
-nbr: 1d3, Wild 2d4, Lair 1d6
-loot: L
+nbr: "1d3, Wild 2d4, Lair 1d6"
+loot: "L"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

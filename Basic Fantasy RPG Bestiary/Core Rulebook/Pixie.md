@@ -22,10 +22,10 @@ attack: "1 dagger (1d4)"
 damage: "1d4"
 speed: "30' Fly 60'"
 jds: [12, 11, 13, 15, 15]
-moral: 7
+moral: "7"
 xp: 37
-nbr: 2d4, Wild 10d4, Lair 10d4
-loot: R, S
+nbr: "2d4, Wild 10d4, Lair 10d4"
+loot: "R, S"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

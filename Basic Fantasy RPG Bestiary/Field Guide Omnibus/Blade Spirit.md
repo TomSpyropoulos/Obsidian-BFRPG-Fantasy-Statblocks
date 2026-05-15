@@ -22,10 +22,10 @@ attack: "3/2 by weapon"
 damage: "By weapon +4"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 1075
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

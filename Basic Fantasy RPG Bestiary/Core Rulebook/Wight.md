@@ -22,10 +22,10 @@ attack: "1 touch"
 damage: "Energy drain (1 level)"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1d6, Wild 1d8, Lair 1d8
-loot: B
+nbr: "1d6, Wild 1d8, Lair 1d8"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

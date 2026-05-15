@@ -22,10 +22,10 @@ attack: "Engulf"
 damage: "Special"
 speed: "Fly 20'"
 jds: [9, 10, 12, 13, 14]
-moral: 12
+moral: "12"
 xp: 875
-nbr: 1
-loot: 800 gp worth of sapphires
+nbr: "1"
+loot: "800 gp worth of sapphires"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

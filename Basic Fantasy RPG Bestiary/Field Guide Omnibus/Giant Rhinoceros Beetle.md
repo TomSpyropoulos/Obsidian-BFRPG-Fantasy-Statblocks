@@ -22,10 +22,10 @@ attack: "1 horn or 1 trample"
 damage: "3d6 horn, 2d8 trample"
 speed: "60'"
 jds: [8, 9, 10, 12, 13]
-moral: 9
+moral: "9"
 xp: 1875
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

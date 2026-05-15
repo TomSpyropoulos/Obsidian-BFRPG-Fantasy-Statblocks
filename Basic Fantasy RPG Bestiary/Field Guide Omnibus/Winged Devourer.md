@@ -22,10 +22,10 @@ attack: "1 bite or 2 talons, special attack"
 damage: "2d6 bite, 2d4 talon, strip flesh"
 speed: "30' Fly 60'"
 jds: [10, 11, 12, 14, 15]
-moral: 11
+moral: "11"
 xp: 500
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

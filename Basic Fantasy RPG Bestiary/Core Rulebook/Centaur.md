@@ -22,10 +22,10 @@ attack: "2 hooves/1 weapon"
 damage: "1d6/1d6/1d6 or by weapon"
 speed: "50' Unarmored 60' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 240
-nbr: Wild 2d10
-loot: A
+nbr: "Wild 2d10"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

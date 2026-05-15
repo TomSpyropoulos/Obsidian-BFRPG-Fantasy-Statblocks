@@ -22,10 +22,10 @@ attack: "6 tentacles, 1 bite (special) / 2 tentacles (special)"
 damage: "Grab, 1d12 or constrict"
 speed: "60'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 670
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

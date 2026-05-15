@@ -22,10 +22,10 @@ attack: "2 pincers / 2 fists / 1 bite"
 damage: "2d6 pincer, 1d3 fist, 1d4+1 bite"
 speed: "60'"
 jds: [9, 9, 11, 12, 13]
-moral: 9
+moral: "9"
 xp: 1390
-nbr: 1d3 Lair 1d6
-loot: D
+nbr: "1d3 Lair 1d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

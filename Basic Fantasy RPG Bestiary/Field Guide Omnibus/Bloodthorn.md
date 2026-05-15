@@ -22,10 +22,10 @@ attack: "2 whip-like tendrils"
 damage: "1d6 + Grapple"
 speed: "0'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 240
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

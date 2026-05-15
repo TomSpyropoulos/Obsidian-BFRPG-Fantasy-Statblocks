@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "1d8+2 or by weapon +2"
 speed: "30' Unarmored 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 145
-nbr: Wild 2d20, Lair 3d20
-loot: Q, R, S each; A in groups of 30+
+nbr: "Wild 2d20, Lair 3d20"
+loot: "Q, R, S each; A in groups of 30+"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

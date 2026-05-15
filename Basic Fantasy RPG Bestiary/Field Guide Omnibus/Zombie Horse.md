@@ -22,10 +22,10 @@ attack: "2 hooves (1d6) / 1 bite (1d8)"
 damage: "-"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

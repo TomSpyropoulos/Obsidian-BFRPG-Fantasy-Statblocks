@@ -22,10 +22,10 @@ attack: "1 + suffocation"
 damage: "1d8"
 speed: "25'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

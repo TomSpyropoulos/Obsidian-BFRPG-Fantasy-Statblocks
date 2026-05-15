@@ -22,10 +22,10 @@ attack: "1 fire bolt or 1 incinerate or special"
 damage: "1d8 fire bolt, 12d6 incinerate, or special"
 speed: "Fly 50'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 2075
-nbr: 1d4
-loot: Nonel
+nbr: "1d4"
+loot: "Nonel"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

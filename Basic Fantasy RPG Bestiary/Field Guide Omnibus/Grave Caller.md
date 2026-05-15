@@ -22,10 +22,10 @@ attack: "1 beam + Save Drain"
 damage: "Save Drain (Death)"
 speed: "20'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 100
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

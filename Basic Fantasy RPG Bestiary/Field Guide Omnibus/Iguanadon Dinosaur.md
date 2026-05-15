@@ -22,10 +22,10 @@ attack: "2 claws / 1 tail lash"
 damage: "1d4 claw, 2d4 tail lash"
 speed: "90'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 500
-nbr: 3d6
-loot: None
+nbr: "3d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

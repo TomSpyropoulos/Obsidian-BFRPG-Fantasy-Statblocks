@@ -22,10 +22,10 @@ attack: "1 bite or 1 horn"
 damage: "3d8 bite, 2d10 horn"
 speed: "50' (20')'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
+moral: "10"
 xp: 1875
-nbr: 1
-loot: L
+nbr: "1"
+loot: "L"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

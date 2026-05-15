@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite, or 1 weapon"
 damage: "1d3 claw, 1d4 bite, or by weapon"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 175
-nbr: 1d6, Wild 4d6, Lair 4d6
-loot: Q individual, B & O in lair
+nbr: "1d6, Wild 4d6, Lair 4d6"
+loot: "Q individual, B & O in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

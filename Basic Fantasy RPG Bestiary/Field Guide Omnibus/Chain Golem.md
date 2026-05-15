@@ -22,10 +22,10 @@ attack: "3 lashes + special"
 damage: "4d6 lash, + special"
 speed: "50'"
 jds: [5, 6, 8, 9, 10]
-moral: 12
+moral: "12"
 xp: 5650
-nbr: 1
-loot: H
+nbr: "1"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

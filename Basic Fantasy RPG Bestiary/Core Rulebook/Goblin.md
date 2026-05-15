@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "20' Unarmored 30'"
 jds: [12, 13, 14, 15, 17]
-moral: 7 or see below
+moral: "7 or see below"
 xp: 10
-nbr: 2d4 ,Wild 6d10, Lair 6d10
-loot: R each; C in lair
+nbr: "2d4 ,Wild 6d10, Lair 6d10"
+loot: "R each; C in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

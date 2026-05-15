@@ -22,10 +22,10 @@ attack: "1 bite + gaze"
 damage: "1d3 + poison bite, charm gaze"
 speed: "60'"
 jds: [9, 10, 12, 13, 14]
-moral: 7
-xp: HD 9: 1,150; HD 10: 1,390; HD 11: 1,670
-nbr: 1d3
-loot: B, T, X
+moral: "7"
+xp: 1150
+nbr: "1d3"
+loot: "B, T, X"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

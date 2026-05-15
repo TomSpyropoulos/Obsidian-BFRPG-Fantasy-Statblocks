@@ -22,10 +22,10 @@ attack: "2 pincers"
 damage: "2d6/2d6"
 speed: "20' Swim 20'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 145
-nbr: 1d2, Wild 1d6, Lair 1d6
-loot: None
+nbr: "1d2, Wild 1d6, Lair 1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

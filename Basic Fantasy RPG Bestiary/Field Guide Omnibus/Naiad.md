@@ -22,10 +22,10 @@ attack: "1 special"
 damage: "-"
 speed: "40' Swim 80'"
 jds: [12, 12, 11, 14, 13]
-moral: 6
+moral: "6"
 xp: 175
-nbr: 1d6
-loot: A
+nbr: "1d6"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

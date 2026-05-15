@@ -22,10 +22,10 @@ attack: "1 punch or weapon"
 damage: "1d6 punch, by weapon"
 speed: "50'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 100
-nbr: 2d4
-loot: None
+nbr: "2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

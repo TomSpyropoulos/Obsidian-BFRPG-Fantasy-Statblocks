@@ -22,10 +22,10 @@ attack: "2 claws + paralysis, 1 bite or breath, 1 tail"
 damage: "1d8 claw, 4d8 bite, or breath, 1d8 tail"
 speed: "30' Fly 80' (15')'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
+moral: "10"
 xp: 1765
-nbr: 1
-loot: H
+nbr: "1"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

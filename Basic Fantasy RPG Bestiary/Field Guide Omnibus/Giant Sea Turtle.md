@@ -22,10 +22,10 @@ attack: "1 bite (4d4)"
 damage: "-"
 speed: "10' Swim 70'"
 jds: [7, 8, 10, 11, 12]
-moral: 7
+moral: "7"
 xp: 2850
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

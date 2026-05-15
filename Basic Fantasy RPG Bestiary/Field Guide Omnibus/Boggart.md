@@ -22,10 +22,10 @@ attack: "2 claws (1d6)"
 damage: "1d6"
 speed: "40'"
 jds: [12, 12, 11, 14, 13]
-moral: 7
+moral: "7"
 xp: 555
-nbr: 1, Lair 1
-loot: D
+nbr: "1, Lair 1"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

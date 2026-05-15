@@ -22,10 +22,10 @@ attack: "1 dagger or fist"
 damage: "1d4"
 speed: "40'"
 jds: [12, 13, 12, 15, 13]
-moral: 6
+moral: "6"
 xp: 100
-nbr: Lair 1d6
-loot: D
+nbr: "Lair 1d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

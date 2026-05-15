@@ -22,10 +22,10 @@ attack: "1 tail stinger (1d4 + poison)"
 damage: "1d4 + poison"
 speed: "20' Fly 60'"
 jds: [10, 11, 13, 15, 14]
-moral: 7
+moral: "7"
 xp: 125
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

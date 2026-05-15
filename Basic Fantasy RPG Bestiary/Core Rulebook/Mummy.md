@@ -22,10 +22,10 @@ attack: "1 touch + disease"
 damage: "1d12 + disease"
 speed: "20'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 450
-nbr: 1d4, Lair 1d12
-loot: D
+nbr: "1d4, Lair 1d12"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

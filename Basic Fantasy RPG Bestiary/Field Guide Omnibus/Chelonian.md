@@ -22,10 +22,10 @@ attack: "1 bite or weapon"
 damage: "1d6 bite or by weapon+ special"
 speed: "30' Swim 30'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 25
-nbr: 1d8, Wild 5d8, Lair 5d8
-loot: D
+nbr: "1d8, Wild 5d8, Lair 5d8"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

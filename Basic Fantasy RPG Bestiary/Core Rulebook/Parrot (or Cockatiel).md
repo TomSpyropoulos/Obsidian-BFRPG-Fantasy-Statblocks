@@ -22,10 +22,10 @@ attack: "1 talon or 1 beak"
 damage: "1d4 talon or 1d4 beak"
 speed: "10' Fly 100' (10')'"
 jds: [13, 14, 15, 16, 18]
-moral: 6
+moral: "6"
 xp: 10
-nbr: Wild 1d4
-loot: None
+nbr: "Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

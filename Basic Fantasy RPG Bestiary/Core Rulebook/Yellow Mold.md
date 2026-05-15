@@ -22,10 +22,10 @@ attack: "-"
 damage: "See below"
 speed: "0'"
 jds: [13, 14, 15, 16, 18]
-moral: N/A
+moral: "N/A"
 xp: 100
-nbr: 1d8
-loot: None
+nbr: "1d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

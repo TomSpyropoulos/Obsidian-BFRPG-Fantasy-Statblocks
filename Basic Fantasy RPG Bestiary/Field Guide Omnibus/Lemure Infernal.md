@@ -22,10 +22,10 @@ attack: "1 claw (1d4)"
 damage: "1d4"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 6 (11)
+moral: "6 (11)"
 xp: 145
-nbr: 5d6
-loot: None
+nbr: "5d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

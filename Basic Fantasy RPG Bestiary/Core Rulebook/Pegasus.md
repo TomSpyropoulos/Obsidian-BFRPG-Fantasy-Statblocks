@@ -22,10 +22,10 @@ attack: "2 hooves (1d6/1d6)"
 damage: "-"
 speed: "80' (10') Fly 160' (10')'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 240
-nbr: Wild 1d12
-loot: None
+nbr: "Wild 1d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Core Rulebook

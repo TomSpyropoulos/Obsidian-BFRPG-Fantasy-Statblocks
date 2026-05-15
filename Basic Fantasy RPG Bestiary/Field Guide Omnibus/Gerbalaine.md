@@ -22,10 +22,10 @@ attack: "1 punch or weapon (large form)"
 damage: "1d4 or by weapon (large form)"
 speed: "40'"
 jds: [8, 9, 10, 12, 13]
-moral: 6
+moral: "6"
 xp: 25
-nbr: 1d6, Wild 2d4, Lair 4d8
-loot: 1d4 random small gems
+nbr: "1d6, Wild 2d4, Lair 4d8"
+loot: "1d4 random small gems"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

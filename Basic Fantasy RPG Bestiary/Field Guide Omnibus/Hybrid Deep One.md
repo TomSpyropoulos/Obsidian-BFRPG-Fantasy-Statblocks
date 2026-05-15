@@ -22,10 +22,10 @@ attack: "2 claws or by weapon"
 damage: "1d2 claw, by weapon"
 speed: "30' Swim 20'"
 jds: [12, 13, 14, 15, 17]
-moral: 7
+moral: "7"
 xp: 25
-nbr: 2d4, Lair 4d8
-loot: C
+nbr: "2d4, Lair 4d8"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

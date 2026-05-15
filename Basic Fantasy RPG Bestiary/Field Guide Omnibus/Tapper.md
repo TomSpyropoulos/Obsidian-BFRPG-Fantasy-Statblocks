@@ -22,10 +22,10 @@ attack: "1 punch or mining pick"
 damage: "1d4 punch, 1d6 mining pick"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 145
-nbr: 1d6
-loot: Special
+nbr: "1d6"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

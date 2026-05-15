@@ -22,10 +22,10 @@ attack: "2 claws + rake + roar"
 damage: "2d6 claw, 2d6 rake"
 speed: "90', Fly 150'"
 jds: [9, 10, 12, 13, 14]
-moral: 7
-xp: 9 HD: 1,150; 10 HD: 1,390; 11 HD: 1,670; 12 HD: 1,975
-nbr: 1
-loot: E
+moral: "7"
+xp: 1150
+nbr: "1"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

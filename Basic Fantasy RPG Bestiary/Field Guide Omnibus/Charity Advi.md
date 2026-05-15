@@ -22,10 +22,10 @@ attack: "4 fireballs"
 damage: "1d6"
 speed: "10'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 555
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

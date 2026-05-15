@@ -22,10 +22,10 @@ attack: "1 bite/1 gaze"
 damage: "1d10/petrification"
 speed: "20' (10')'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 610
-nbr: 1d6, Wild 1d6, Lair 1d6
-loot: F
+nbr: "1d6, Wild 1d6, Lair 1d6"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

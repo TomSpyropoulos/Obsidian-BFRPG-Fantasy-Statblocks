@@ -22,10 +22,10 @@ attack: "2 tusks (1d6 each) / 1 stomp (3d8) / breath weapon (steam cloud, 8d8)"
 damage: "1d6 tusk, 3d8 stomp, 8d8 breath"
 speed: "30' Fly 60' (15')'"
 jds: [9, 10, 12, 13, 14]
-moral: 7 (8 with bull)
+moral: "7 (8 with bull)"
 xp: 1015
-nbr: Wild 1d4+1
-loot: F
+nbr: "Wild 1d4+1"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

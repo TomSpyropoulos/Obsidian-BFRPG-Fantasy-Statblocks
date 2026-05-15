@@ -22,10 +22,10 @@ attack: "1 touch"
 damage: "special"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 405
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

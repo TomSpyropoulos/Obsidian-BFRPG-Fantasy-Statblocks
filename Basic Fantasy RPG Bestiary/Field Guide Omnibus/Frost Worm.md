@@ -22,10 +22,10 @@ attack: "1 bite + cold or breath or death explosion"
 damage: "2d8 bite, 1d8 cold, 15d6 breath, 20d6 death explosion"
 speed: "30'"
 jds: [7, 7, 9, 10, 11]
-moral: 10
+moral: "10"
 xp: 3520
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

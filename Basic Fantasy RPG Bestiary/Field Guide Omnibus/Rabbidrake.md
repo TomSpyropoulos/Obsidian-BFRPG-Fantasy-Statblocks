@@ -22,10 +22,10 @@ attack: "1 bite, or Breath Weapon"
 damage: "1d4+1 bite or Breath Weapon"
 speed: "20' Fly 50'"
 jds: [12, 13, 14, 15, 17]
-moral: 6
+moral: "6"
 xp: 37
-nbr: 1d6, 2d8 Lair
-loot: M
+nbr: "1d6, 2d8 Lair"
+loot: "M"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

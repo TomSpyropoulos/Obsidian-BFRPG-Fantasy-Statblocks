@@ -22,10 +22,10 @@ attack: "1 giant weapon or 1 thrown lava rock"
 damage: "3d6 weapon or 2d6 thrown rock"
 speed: "40'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 735
-nbr: 1, Wild 1d3
-loot: E + 1d6x1,000 gp value ruby
+nbr: "1, Wild 1d3"
+loot: "E + 1d6x1,000 gp value ruby"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

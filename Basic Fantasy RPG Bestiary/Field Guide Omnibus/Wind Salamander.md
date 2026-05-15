@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "30' Fly 60'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
+moral: "10"
 xp: 1390
-nbr: 1d4, Wild 2d3, Lair 1d4
-loot: D
+nbr: "1d4, Wild 2d3, Lair 1d4"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 crooks"
 damage: "2d6"
 speed: "40'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 2285
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

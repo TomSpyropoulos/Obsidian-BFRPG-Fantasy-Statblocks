@@ -22,10 +22,10 @@ attack: "1 weapon, 1 beak, or special"
 damage: "1d6 or by weapon, 1d4 beak, or special"
 speed: "30' Fly 10'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 145
-nbr: 1d6, Wild 1d6, Lair 3d6
-loot: S each, D lair
+nbr: "1d6, Wild 1d6, Lair 3d6"
+loot: "S each, D lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

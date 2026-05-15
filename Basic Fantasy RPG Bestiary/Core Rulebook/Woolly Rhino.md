@@ -22,10 +22,10 @@ attack: "1 butt or 1 trample"
 damage: "2d8 or 2d12"
 speed: "40' (15')'"
 jds: [9, 10, 12, 13, 14]
-moral: 6
-xp: 1,875
-nbr: Wild 1d8
-loot: None
+moral: "6"
+xp: 1875
+nbr: "Wild 1d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

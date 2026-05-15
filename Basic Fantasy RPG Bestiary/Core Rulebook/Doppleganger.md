@@ -22,10 +22,10 @@ attack: "1 fist or Weapon"
 damage: "1d12 or by weapon"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 280
-nbr: 1d6, Wild 1d6, Lair 1d6
-loot: E
+nbr: "1d6, Wild 1d6, Lair 1d6"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

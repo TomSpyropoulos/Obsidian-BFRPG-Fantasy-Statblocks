@@ -22,10 +22,10 @@ attack: "1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 stomp, 2d6 bite, or eye beam (see below)"
 speed: "fly 20'"
 jds: [11, 10, 9, 13, 11]
-moral: 11
+moral: "11"
 xp: 1670
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

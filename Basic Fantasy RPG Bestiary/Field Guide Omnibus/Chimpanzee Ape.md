@@ -22,10 +22,10 @@ attack: "2 fists"
 damage: "1d4"
 speed: "50'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 25
-nbr: 1d4, Wild 2d8
-loot: None
+nbr: "1d4, Wild 2d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

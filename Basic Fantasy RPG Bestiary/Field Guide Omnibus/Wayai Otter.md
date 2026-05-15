@@ -22,10 +22,10 @@ attack: "2 punches"
 damage: "4d4 punch"
 speed: "20' Swim 40'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 875
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

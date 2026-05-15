@@ -22,10 +22,10 @@ attack: "2 hooves (1d4) / 1 bite (1d4)"
 damage: "-"
 speed: "60' Swim 80'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 100
-nbr: Wild 1
-loot: None
+nbr: "Wild 1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

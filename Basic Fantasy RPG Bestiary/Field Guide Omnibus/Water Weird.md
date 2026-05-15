@@ -22,10 +22,10 @@ attack: "1 grab"
 damage: "See description"
 speed: "Swim 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 10
+moral: "10"
 xp: 205
-nbr: 1d4
-loot: I, O
+nbr: "1d4"
+loot: "I, O"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

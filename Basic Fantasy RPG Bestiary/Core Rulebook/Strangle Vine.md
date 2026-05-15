@@ -22,10 +22,10 @@ attack: "1 entangle + special"
 damage: "1d8 entangle + special"
 speed: "5'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 500
-nbr: 1d4+1
-loot: U
+nbr: "1d4+1"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

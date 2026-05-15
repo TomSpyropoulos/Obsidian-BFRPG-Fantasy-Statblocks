@@ -22,10 +22,10 @@ attack: "2 claws or fire blast or spell"
 damage: "1d4 claw, 2d6 fire blast, by spell"
 speed: "50' Fly 90'"
 jds: [10, 9, 8, 12, 10]
-moral: 9
+moral: "9"
 xp: 1225
-nbr: 1
-loot: G, O + 1d4+1 non-weapon magical items
+nbr: "1"
+loot: "G, O + 1d4+1 non-weapon magical items"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

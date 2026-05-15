@@ -22,10 +22,10 @@ attack: "2 claws + constrict, or paralysis bite"
 damage: "2d6+5 claws, 3d6+5 constrict, or paralysis"
 speed: "30' Swim 20'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 1670
-nbr: 1
-loot: C
+nbr: "1"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

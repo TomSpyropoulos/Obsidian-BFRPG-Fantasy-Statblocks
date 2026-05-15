@@ -22,10 +22,10 @@ attack: "1 tentacle or 1 tentacle + bite (at +4)"
 damage: "1d6 tentacle, 1d10 bite"
 speed: "0' (immobile)'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 500
-nbr: 1d12
-loot: None
+nbr: "1d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 weapon / 1 screech or 2 claws"
 damage: "1d8 or by weapon, special screech or 1d4 claw"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 175
-nbr: 1d6
-loot: Q each; B in lair
+nbr: "1d6"
+loot: "Q each; B in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

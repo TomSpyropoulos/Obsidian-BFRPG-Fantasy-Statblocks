@@ -22,10 +22,10 @@ attack: "2 forelegs"
 damage: "1d6"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 450
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

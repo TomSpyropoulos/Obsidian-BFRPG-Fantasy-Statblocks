@@ -22,10 +22,10 @@ attack: "2 blades or 1 beam"
 damage: "2d8 blade, 4d6 beam"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 12
+moral: "12"
 xp: 1150
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

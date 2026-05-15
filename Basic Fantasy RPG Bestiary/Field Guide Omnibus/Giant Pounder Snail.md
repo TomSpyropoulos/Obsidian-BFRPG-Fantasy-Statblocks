@@ -22,10 +22,10 @@ attack: "1 tail blow or 1 bite"
 damage: "1d4 tail, 1d2 bite"
 speed: "10'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

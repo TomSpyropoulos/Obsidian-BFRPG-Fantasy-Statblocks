@@ -22,10 +22,10 @@ attack: "1 pseudopod (2d8)"
 damage: "2d8"
 speed: "1'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

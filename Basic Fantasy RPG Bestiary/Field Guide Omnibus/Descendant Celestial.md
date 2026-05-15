@@ -22,10 +22,10 @@ attack: "1 weapon or 1 unarmed"
 damage: "By weapon or 1d4"
 speed: "40' Fly 60'"
 jds: [9, 10, 13, 15, 14]
-moral: 9
+moral: "9"
 xp: 280
-nbr: 1d6
-loot: A
+nbr: "1d6"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 whip + special"
 damage: "2d6 + special"
 speed: "60' Fly 150'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 1225
-nbr: 1, Lair 1
-loot: A
+nbr: "1, Lair 1"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

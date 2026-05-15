@@ -22,10 +22,10 @@ attack: "Up to 8 whip or grab"
 damage: "1d4 whip, or 1d2 + bind grab"
 speed: "30' Climb 90' (trees)'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 280
-nbr: Wild 1
-loot: V
+nbr: "Wild 1"
+loot: "V"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 beak + special"
 damage: "1d6 + petrification"
 speed: "30' Fly 60' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 450
-nbr: 1d4, Wild 1d8, Lair 1d8
-loot: D
+nbr: "1d4, Wild 1d8, Lair 1d8"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

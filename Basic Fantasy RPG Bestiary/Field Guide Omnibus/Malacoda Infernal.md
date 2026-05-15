@@ -22,10 +22,10 @@ attack: "2 horns, 2 hands or tail"
 damage: "2d8 horn, 2d4 hand, 3d4 tail"
 speed: "30' Fly 50'"
 jds: [9, 10, 13, 15, 14]
-moral: 8
+moral: "8"
 xp: 450
-nbr: 1d2 Lair 1d4+1
-loot: I
+nbr: "1d2 Lair 1d4+1"
+loot: "I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

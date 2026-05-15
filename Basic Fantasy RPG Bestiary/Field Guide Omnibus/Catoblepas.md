@@ -22,10 +22,10 @@ attack: "1 tail or gaze"
 damage: "1d6 tail, save vs. Death Ray or die gaze"
 speed: "20'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 800
-nbr: 1d3
-loot: C
+nbr: "1d3"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

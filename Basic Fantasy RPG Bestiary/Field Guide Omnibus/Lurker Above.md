@@ -22,10 +22,10 @@ attack: "1 smother"
 damage: "1d6 + 1d6 per round"
 speed: "Fly 40'"
 jds: [9, 9, 11, 12, 13]
-moral: 7
+moral: "7"
 xp: 1300
-nbr: 1 Lair 1d4
-loot: C
+nbr: "1 Lair 1d4"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

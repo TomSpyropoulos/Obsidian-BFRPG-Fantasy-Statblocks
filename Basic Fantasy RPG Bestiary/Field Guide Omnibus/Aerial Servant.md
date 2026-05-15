@@ -22,10 +22,10 @@ attack: "1 (see below)"
 damage: "4d8"
 speed: "Fly 240'"
 jds: [6, 7, 8, 10, 11]
-moral: 9
+moral: "9"
 xp: 4320
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

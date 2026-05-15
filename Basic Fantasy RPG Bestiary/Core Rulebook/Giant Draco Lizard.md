@@ -22,10 +22,10 @@ attack: "1 bite (1d10)"
 damage: "1d10"
 speed: "40' Fly 70' (20', and see below)'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 240
-nbr: 1d4, Wild 1d8
-loot: None
+nbr: "1d4, Wild 1d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

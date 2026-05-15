@@ -22,10 +22,10 @@ attack: "1 gore, charge, or by weapon"
 damage: "1d6, charge, or by weapon"
 speed: "40' (subject to encumbrance)'"
 jds: [12, 13, 14, 15, 17]
-moral: 9
+moral: "9"
 xp: 25
-nbr: 1d8, Wild 5d8, Lair 5d8
-loot: D
+nbr: "1d8, Wild 5d8, Lair 5d8"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 kick"
 damage: "2d8 kick"
 speed: "20'"
 jds: [8, 9, 10, 12, 13]
-moral: 6
-xp: 1,875
-nbr: Wild 1d3
-loot: None
+moral: "6"
+xp: 1875
+nbr: "Wild 1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

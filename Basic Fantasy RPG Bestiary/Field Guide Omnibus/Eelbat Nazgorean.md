@@ -22,10 +22,10 @@ attack: "1 bite (1d6 + 1d6/round blood drain)"
 damage: "1d6 + 1d6/round (blood drain)"
 speed: "5' Fly 70'"
 jds: [12, 13, 14, 15, 17]
-moral: 10
+moral: "10"
 xp: 37
-nbr: 2d6
-loot: None
+nbr: "2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

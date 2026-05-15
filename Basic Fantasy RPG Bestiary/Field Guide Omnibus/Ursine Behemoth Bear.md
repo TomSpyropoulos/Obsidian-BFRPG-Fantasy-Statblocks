@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite or hug (vs. Large)"
 damage: "2d6 claw, 2d8 bite, 4d6 hug"
 speed: "40'"
 jds: [7, 8, 10, 11, 12]
-moral: 11
+moral: "11"
 xp: 2850
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite + 2 hind claws (rake)"
 damage: "1d2 claw, 1d4 bite, 1d3 hind claw"
 speed: "60' Leap 10'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

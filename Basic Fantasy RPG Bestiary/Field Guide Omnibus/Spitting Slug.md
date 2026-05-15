@@ -22,10 +22,10 @@ attack: "1 bite or spit"
 damage: "1d4 + special bite, 1d8 + special spit"
 speed: "10'"
 jds: [13, 14, 13, 15, 14]
-moral: 9
+moral: "9"
 xp: 125
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

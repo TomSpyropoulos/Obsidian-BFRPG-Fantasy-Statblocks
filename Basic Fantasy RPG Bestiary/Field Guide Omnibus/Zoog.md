@@ -22,10 +22,10 @@ attack: "1 dagger or 1 bite"
 damage: "1d4"
 speed: "30'"
 jds: [13, 14, 13, 16, 15]
-moral: 7
+moral: "7"
 xp: 10
-nbr: 3d4
-loot: P, J in lair
+nbr: "3d4"
+loot: "P, J in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

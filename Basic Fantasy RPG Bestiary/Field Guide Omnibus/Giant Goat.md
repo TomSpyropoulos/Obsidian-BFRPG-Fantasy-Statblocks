@@ -22,10 +22,10 @@ attack: "1 head butt (2d8)"
 damage: "2d8 head butt"
 speed: "50'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 145
-nbr: 1d12
-loot: None
+nbr: "1d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

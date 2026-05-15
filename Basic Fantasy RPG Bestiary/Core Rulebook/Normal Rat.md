@@ -22,10 +22,10 @@ attack: "1 bite per pack"
 damage: "1d6 + disease"
 speed: "20' Swim 10'"
 jds: [13, 14, 15, 16, 18]
-moral: 5
-xp: 360*
-nbr: 5d10, Wild 5d10, Lair 5d10
-loot: None
+moral: "5"
+xp: 360
+nbr: "5d10, Wild 5d10, Lair 5d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

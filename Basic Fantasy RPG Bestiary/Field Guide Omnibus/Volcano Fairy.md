@@ -22,10 +22,10 @@ attack: "4 bludgeon or 1 eruption"
 damage: "1d8 bludgeon, 4d6 eruption"
 speed: "30'"
 jds: [11, 10, 9, 13, 11]
-moral: 6
+moral: "6"
 xp: 1390
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

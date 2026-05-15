@@ -22,10 +22,10 @@ attack: "2 giant weapon"
 damage: "3d6 giant weapon (right hand), 2d8 giant weapon (left hand)"
 speed: "30'"
 jds: [8, 9, 10, 12, 13]
-moral: 7
+moral: "7"
 xp: 2175
-nbr: 1, Wild 1d2, Lair 1d4
-loot: J; E+1d10×1,000 gp in lair
+nbr: "1, Wild 1d2, Lair 1d4"
+loot: "J; E+1d10×1,000 gp in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

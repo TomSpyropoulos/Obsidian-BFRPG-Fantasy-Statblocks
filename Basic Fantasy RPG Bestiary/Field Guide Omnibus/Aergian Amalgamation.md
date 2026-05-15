@@ -22,10 +22,10 @@ attack: "1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 grasp, 1d6 weapon"
 speed: "20'"
 jds: [8, 9, 10, 12, 13]
-moral: 10
+moral: "10"
 xp: 2395
-nbr: 1
-loot: G
+nbr: "1"
+loot: "G"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

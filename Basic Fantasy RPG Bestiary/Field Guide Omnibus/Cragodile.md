@@ -22,10 +22,10 @@ attack: "1"
 damage: "2d8 bite, 3d6 tail"
 speed: "30' (10') Swim 30' (10')'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 875
-nbr: Wild 1d4
-loot: None
+nbr: "Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

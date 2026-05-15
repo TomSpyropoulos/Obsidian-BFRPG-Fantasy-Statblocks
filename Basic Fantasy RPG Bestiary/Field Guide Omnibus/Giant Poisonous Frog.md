@@ -22,10 +22,10 @@ attack: "1 bite (1 point plus poison bite)"
 damage: "1 point plus poison bite"
 speed: "30' Leap 30' Swim 60'"
 jds: [12, 13, 14, 15, 17]
-moral: 7
+moral: "7"
 xp: 37
-nbr: 2d6
-loot: None
+nbr: "2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

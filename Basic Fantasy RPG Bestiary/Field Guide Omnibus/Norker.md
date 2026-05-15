@@ -22,10 +22,10 @@ attack: "1 weapon + 1 bite"
 damage: "1d6 or by weapon, 1d4 bite"
 speed: "30' Unarmored 40'"
 jds: [12, 13, 14, 15, 17]
-moral: 9
+moral: "9"
 xp: 25
-nbr: 1d6, Wild 2d4, Lair 4d8
-loot: Q, R each; D, K in lair
+nbr: "1d6, Wild 2d4, Lair 4d8"
+loot: "Q, R each; D, K in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

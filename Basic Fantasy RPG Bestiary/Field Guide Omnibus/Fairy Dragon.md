@@ -22,10 +22,10 @@ attack: "1 bite or breath or spell"
 damage: "1d2 bite or special"
 speed: "30' Fly 120'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 175
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

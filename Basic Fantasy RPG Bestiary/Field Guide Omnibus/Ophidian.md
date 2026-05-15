@@ -22,10 +22,10 @@ attack: "1 bite or 1 weapon"
 damage: "1d4 + Poison or by weapon"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 175
-nbr: 1d8
-loot: D in Lair
+nbr: "1d8"
+loot: "D in Lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

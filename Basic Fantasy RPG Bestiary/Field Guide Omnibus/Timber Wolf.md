@@ -22,10 +22,10 @@ attack: "1 bite or 1 trample"
 damage: "3d8 bite, 4d10 trample"
 speed: "40' (10')'"
 jds: [6, 7, 8, 10, 11]
-moral: 11
+moral: "11"
 xp: 4160
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (large weapon), by weapon +3, by spell, 12d4 breath"
 speed: "40' Fly 40'"
 jds: [12, 12, 11, 14, 13]
-moral: 10
+moral: "10"
 xp: 450
-nbr: 1, Lair 1d6
-loot: E
+nbr: "1, Lair 1d6"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

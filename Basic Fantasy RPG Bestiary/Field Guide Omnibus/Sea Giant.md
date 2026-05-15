@@ -22,10 +22,10 @@ attack: "1 giant weapon or 1 thrown rock"
 damage: "4d6 giant weapon, 3d6 rock"
 speed: "20' Unarmored 40' Swim 30' Unarmored 60'"
 jds: [9, 9, 11, 12, 13]
-moral: 10 (12 if defending lair)
+moral: "10 (12 if defending lair)"
 xp: 1675
-nbr: 1d2, Wild 1d2, Lair 1d4
-loot: B + 3d6×900 gp
+nbr: "1d2, Wild 1d2, Lair 1d4"
+loot: "B + 3d6×900 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 horn (2d6)"
 damage: "2d6"
 speed: "Swim 60'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 1875
-nbr: Wild 1d4
-loot: Special
+nbr: "Wild 1d4"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

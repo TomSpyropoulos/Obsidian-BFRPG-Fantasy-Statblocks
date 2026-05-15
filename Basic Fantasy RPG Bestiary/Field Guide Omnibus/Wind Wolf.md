@@ -22,10 +22,10 @@ attack: "2 claws or 1 howl"
 damage: "2d12 claw, special"
 speed: "30' Fly 120'"
 jds: [9, 10, 12, 13, 14]
-moral: 11
+moral: "11"
 xp: 945
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 claws / 3 heads / 1 breath"
 damage: "1d6 claw, 2d4 head, 3d4 cold breath"
 speed: "40' (10') Fly 60' (15')'"
 jds: [9, 9, 11, 12, 13]
-moral: 9
+moral: "9"
 xp: 1765
-nbr: 1d2, Wild 1d4, Lair 1d4
-loot: F
+nbr: "1d2, Wild 1d4, Lair 1d4"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

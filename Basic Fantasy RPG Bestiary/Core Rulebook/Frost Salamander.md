@@ -22,10 +22,10 @@ attack: "4 claws/1 bite + cold"
 damage: "1d6/1d6/1d6/1d6/2d6 + 1d8/round"
 speed: "40'"
 jds: [8, 9, 10, 12, 13]
-moral: 9
+moral: "9"
 xp: 1975
-nbr: 1d3, Wild 1d3, Lair 1d3
-loot: E
+nbr: "1d3, Wild 1d3, Lair 1d3"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

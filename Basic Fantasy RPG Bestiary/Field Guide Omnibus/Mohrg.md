@@ -22,10 +22,10 @@ attack: "1 slam or 1 tongue"
 damage: "1d6 or special"
 speed: "30'"
 jds: [7, 8, 10, 11, 12]
-moral: 12
+moral: "12"
 xp: 2730
-nbr: Wild 1d4, Lair 1d4 (+ 5d4 zombies)
-loot: None
+nbr: "Wild 1d4, Lair 1d4 (+ 5d4 zombies)"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

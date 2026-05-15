@@ -22,10 +22,10 @@ attack: "2 bites + lightning"
 damage: "2d4 bite, 1d8/round lightning"
 speed: "40'"
 jds: [9, 9, 11, 12, 13]
-moral: 8
+moral: "8"
 xp: 1390
-nbr: 1d4, Wild 2d4, Lair 2d4
-loot: E
+nbr: "1d4, Wild 2d4, Lair 2d4"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

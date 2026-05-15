@@ -22,10 +22,10 @@ attack: "1 weapon + gaze or spell"
 damage: "1d8 + paralysis or by spell"
 speed: "40'"
 jds: [12, 13, 12, 15, 13]
-moral: 9
+moral: "9"
 xp: 320
-nbr: 1d4
-loot: U
+nbr: "1d4"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

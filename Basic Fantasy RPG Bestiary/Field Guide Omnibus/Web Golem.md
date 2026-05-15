@@ -22,10 +22,10 @@ attack: "1 grapple"
 damage: "special"
 speed: "50'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1d3
-loot: R each
+nbr: "1d3"
+loot: "R each"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

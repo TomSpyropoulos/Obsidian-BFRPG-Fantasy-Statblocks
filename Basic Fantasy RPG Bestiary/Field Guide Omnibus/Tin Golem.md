@@ -22,10 +22,10 @@ attack: "2 hands"
 damage: "Special"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 735
-nbr: 1d6
-loot: J, K
+nbr: "1d6"
+loot: "J, K"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

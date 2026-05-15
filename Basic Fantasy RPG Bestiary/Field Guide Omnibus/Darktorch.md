@@ -22,10 +22,10 @@ attack: "2 torch"
 damage: "1d6 + darkness"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 280
-nbr: 1, Lair 1d6
-loot: Special, Torch
+nbr: "1, Lair 1d6"
+loot: "Special, Torch"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 punch or weapon + special"
 damage: "1d6 punch by weapon + special"
 speed: "40'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 555
-nbr: 1d4
-loot: U
+nbr: "1d4"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

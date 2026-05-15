@@ -22,10 +22,10 @@ attack: "1 slam / 1 weapon"
 damage: "1d6+1 slam, by weapon"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 280
-nbr: 1, Wild 1d4
-loot: None
+nbr: "1, Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

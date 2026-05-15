@@ -22,10 +22,10 @@ attack: "1 tail/1 bite or 1 trample"
 damage: "2d8/1d6 or 2d8"
 speed: "20' (15')'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 1575
-nbr: Wild 1d4
-loot: None
+nbr: "Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

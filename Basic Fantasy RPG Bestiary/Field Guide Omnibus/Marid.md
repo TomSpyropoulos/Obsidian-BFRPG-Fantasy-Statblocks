@@ -22,10 +22,10 @@ attack: "1 slam or 1 water jet"
 damage: "2d8 slam, 2d6 water jet"
 speed: "30' Swim 80'"
 jds: [8, 9, 10, 12, 13]
-moral: 12 (8)
+moral: "12 (8)"
 xp: 1015
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

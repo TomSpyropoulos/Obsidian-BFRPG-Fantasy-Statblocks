@@ -22,10 +22,10 @@ attack: "1 touch + wail"
 damage: "level drain touch + wail"
 speed: "60'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 800
-nbr: 1
-loot: E
+nbr: "1"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

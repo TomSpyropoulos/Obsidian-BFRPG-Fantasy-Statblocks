@@ -22,10 +22,10 @@ attack: "1 dagger (special) or special"
 damage: "2d4 special dagger or special"
 speed: "30' Fly 120'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 735
-nbr: 1d4 Lair 2d8
-loot: Special
+nbr: "1d4 Lair 2d8"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

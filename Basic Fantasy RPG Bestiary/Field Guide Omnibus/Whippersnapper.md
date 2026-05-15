@@ -22,10 +22,10 @@ attack: "1 bite or 1 tail slap"
 damage: "1d6 bite, 1d8 tail slap"
 speed: "50' Swim 50'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

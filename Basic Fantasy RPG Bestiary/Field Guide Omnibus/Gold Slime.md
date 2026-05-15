@@ -22,10 +22,10 @@ attack: "1 dissolve"
 damage: "3d4"
 speed: "10'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

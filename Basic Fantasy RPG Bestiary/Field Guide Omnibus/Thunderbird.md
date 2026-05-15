@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite / lightning"
 damage: "1d6 claw, 1d8 bite, 5d6 lightning"
 speed: "10' Fly 90'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 405
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

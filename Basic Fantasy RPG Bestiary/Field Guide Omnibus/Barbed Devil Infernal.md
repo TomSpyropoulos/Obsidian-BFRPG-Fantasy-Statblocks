@@ -22,10 +22,10 @@ attack: "2 claws / 1 tail / plus special"
 damage: "2d4 claw, 3d4 tail plus special"
 speed: "60'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 944
-nbr: 1d2 Lair 3d4
-loot: None
+nbr: "1d2 Lair 3d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

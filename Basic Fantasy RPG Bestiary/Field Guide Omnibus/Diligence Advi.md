@@ -22,10 +22,10 @@ attack: "4 tools"
 damage: "1d4"
 speed: "30'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 1875
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

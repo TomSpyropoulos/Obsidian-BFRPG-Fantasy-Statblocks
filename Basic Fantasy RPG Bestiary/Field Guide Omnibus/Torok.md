@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon"
 speed: "50' (60' unarmored)'"
 jds: [11, 13, 11, 13, 13]
-moral: 8
+moral: "8"
 xp: 75
-nbr: wild 1d12+3, lair 3d10x2d6
-loot: None
+nbr: "wild 1d12+3, lair 3d10x2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

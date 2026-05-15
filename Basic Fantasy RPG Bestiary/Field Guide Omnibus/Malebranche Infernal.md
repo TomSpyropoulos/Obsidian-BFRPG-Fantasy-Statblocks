@@ -22,10 +22,10 @@ attack: "1 tail / 1 weapon or spell"
 damage: "1d4 tail, by weapon, by spell"
 speed: "30' Fly 20'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 450
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

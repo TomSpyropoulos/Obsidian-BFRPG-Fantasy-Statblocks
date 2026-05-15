@@ -22,10 +22,10 @@ attack: "1 bite (2d6) / 1 sting (1d3 + paralysis)"
 damage: "2d6 bite, 1d3 sting + paralysis"
 speed: "10' Fly 60' Swim 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 405
-nbr: 1, wild 1d3, lair 1d4+1
-loot: None
+nbr: "1, wild 1d3, lair 1d4+1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

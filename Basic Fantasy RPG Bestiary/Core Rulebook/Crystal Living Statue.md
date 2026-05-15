@@ -22,10 +22,10 @@ attack: "2 fists (1d6/1d6)"
 damage: "-"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 145
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Core Rulebook

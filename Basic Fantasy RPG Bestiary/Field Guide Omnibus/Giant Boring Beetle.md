@@ -22,10 +22,10 @@ attack: "1 bite (2d10)"
 damage: "2d10"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 360
-nbr: 1d8, Wild 2d6, Lair 3d6
-loot: None
+nbr: "1d8, Wild 2d6, Lair 3d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

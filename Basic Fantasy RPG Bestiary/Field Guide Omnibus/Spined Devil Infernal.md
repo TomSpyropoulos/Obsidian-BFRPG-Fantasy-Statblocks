@@ -22,10 +22,10 @@ attack: "1 bite or 2 blades or spines or by weapon"
 damage: "1d6 + poison or 1d8+2 or 4d6 or by weapon + 2"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 945
-nbr: 1d4+1
-loot: None
+nbr: "1d4+1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

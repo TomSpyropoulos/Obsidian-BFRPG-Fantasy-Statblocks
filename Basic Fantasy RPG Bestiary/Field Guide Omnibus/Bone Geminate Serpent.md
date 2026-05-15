@@ -22,10 +22,10 @@ attack: "2 bite or 1 spell or 1 constrict"
 damage: "2d10 bite, bone to blade, 3d6 constrict*"
 speed: "50'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
+moral: "10"
 xp: 1765
-nbr: Lair 1d3+1
-loot: H
+nbr: "Lair 1d3+1"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

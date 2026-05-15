@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon"
 speed: "30' Fly 60'"
 jds: [12, 11, 13, 15, 15]
-moral: 8
+moral: "8"
 xp: 25
-nbr: 2d4, Wild 3d6, Lair 10d6
-loot: D
+nbr: "2d4, Wild 3d6, Lair 10d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

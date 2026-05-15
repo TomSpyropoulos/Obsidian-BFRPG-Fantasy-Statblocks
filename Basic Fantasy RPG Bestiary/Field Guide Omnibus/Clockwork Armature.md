@@ -22,10 +22,10 @@ attack: "2 slash, 1 ray or steam"
 damage: "1d10 slash, 2d8 ray, 5d8 steam"
 speed: "40'"
 jds: [9, 9, 11, 12, 13]
-moral: 12
+moral: "12"
 xp: 1390
-nbr: 1
-loot: G
+nbr: "1"
+loot: "G"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

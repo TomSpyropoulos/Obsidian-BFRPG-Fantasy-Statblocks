@@ -22,10 +22,10 @@ attack: "1 gore or 1 breath"
 damage: "2d6 or petrification breath"
 speed: "40' (10')'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 945
-nbr: Wild 1d4
-loot: None
+nbr: "Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

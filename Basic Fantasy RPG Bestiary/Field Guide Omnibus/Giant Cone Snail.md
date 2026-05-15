@@ -22,10 +22,10 @@ attack: "1 dart (1d6 + paralysis)"
 damage: "1d6 + paralysis"
 speed: "10'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 175
-nbr: 1d3, Wild 1d3, Lair 1d3
-loot: None
+nbr: "1d3, Wild 1d3, Lair 1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

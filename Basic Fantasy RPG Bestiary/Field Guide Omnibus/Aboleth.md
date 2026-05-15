@@ -22,10 +22,10 @@ attack: "4 tentacles"
 damage: "1d6 tentacle"
 speed: "10' Swim 60'"
 jds: [11, 11, 10, 14, 12]
-moral: 9
+moral: "9"
 xp: 1015
-nbr: 1, Lair 1d3+1
-loot: E
+nbr: "1, Lair 1d3+1"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

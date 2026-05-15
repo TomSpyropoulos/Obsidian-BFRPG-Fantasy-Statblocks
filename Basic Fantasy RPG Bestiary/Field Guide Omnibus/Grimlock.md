@@ -22,10 +22,10 @@ attack: "1 battleaxe (1d8)"
 damage: "1d8"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d4, Wild 1d10+10, Lair 1d6 x10
-loot: D
+nbr: "1d4, Wild 1d10+10, Lair 1d6 x10"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 × punch, stomp, or special (1d12)"
 damage: "1d12"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 945
-nbr: special
-loot: None
+nbr: "special"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

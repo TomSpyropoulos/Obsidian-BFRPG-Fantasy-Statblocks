@@ -22,10 +22,10 @@ attack: "1 gore, or 1 bite, or charge"
 damage: "2d8+2 gore, 1d10+3 bite, 4d8+2 charge"
 speed: "swim 60'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 1200
-nbr: 1
-loot: D
+nbr: "1"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

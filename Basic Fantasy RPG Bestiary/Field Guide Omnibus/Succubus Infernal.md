@@ -22,10 +22,10 @@ attack: "2 claws or by weapon + special"
 damage: "1d4 claw or by weapon"
 speed: "30' Fly 50'"
 jds: [9, 10, 12, 14, 13]
-moral: 7
+moral: "7"
 xp: 800
-nbr: 1
-loot: I, L
+nbr: "1"
+loot: "I, L"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

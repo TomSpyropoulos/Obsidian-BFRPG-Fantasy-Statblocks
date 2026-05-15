@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "By weapon"
 speed: "40'"
 jds: [13, 12, 12, 16, 13]
-moral: 9
+moral: "9"
 xp: 37
-nbr: 1d6, Wild 2d6, Lair 5d10
-loot: S each; G in lair
+nbr: "1d6, Wild 2d6, Lair 5d10"
+loot: "S each; G in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 legs/1 bite"
 damage: "grab/grab/2d8"
 speed: "50'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 240
-nbr: 1d4, Wild 1d6, Lair 1d6
-loot: U
+nbr: "1d4, Wild 1d6, Lair 1d6"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

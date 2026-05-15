@@ -22,10 +22,10 @@ attack: "1 claw or weapon"
 damage: "1d6+1 or by weapon"
 speed: "40'"
 jds: [13, 14, 13, 15, 14]
-moral: 8
+moral: "8"
 xp: 100
-nbr: 1
-loot: U
+nbr: "1"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

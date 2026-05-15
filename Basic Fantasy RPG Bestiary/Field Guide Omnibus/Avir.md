@@ -22,10 +22,10 @@ attack: "2 kicks / 1 lance"
 damage: "1d4 kick, or by weapon"
 speed: "30' Fly 80'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 25
-nbr: Wild 5, Lair 10d10
-loot: U, E in lair
+nbr: "Wild 5, Lair 10d10"
+loot: "U, E in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

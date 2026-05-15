@@ -22,10 +22,10 @@ attack: "1 constrict / 1 bite or 1 spit"
 damage: "2d4 constrict, 1d6 + poison bite, or poison spit"
 speed: "60'"
 jds: [9, 9, 11, 12, 13]
-moral: 7
-xp: HD 11: 1,670; HD 12: 1,975; HD 13: 2,285
-nbr: 1d2
-loot: E
+moral: "7"
+xp: 1670
+nbr: "1d2"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

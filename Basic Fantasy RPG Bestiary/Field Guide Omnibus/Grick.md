@@ -22,10 +22,10 @@ attack: "4 tentacles / 1 bite"
 damage: "1d4 tentacle, 1d3 bite"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 75
-nbr: 1, Wild 1d4
-loot: V
+nbr: "1, Wild 1d4"
+loot: "V"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

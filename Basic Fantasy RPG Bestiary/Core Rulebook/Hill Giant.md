@@ -22,10 +22,10 @@ attack: "1 giant weapon (club)"
 damage: "2d8"
 speed: "30' Unarmored 40'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 875
-nbr: 1d4, Wild 2d4, Lair 2d4
-loot: E plus 1d8x1000 gp
+nbr: "1d4, Wild 2d4, Lair 2d4"
+loot: "E plus 1d8x1000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

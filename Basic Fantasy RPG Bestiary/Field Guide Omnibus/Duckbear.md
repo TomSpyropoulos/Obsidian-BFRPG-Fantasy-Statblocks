@@ -22,10 +22,10 @@ attack: "2 claws (1d8) / 1 peck (1d10) / 1 hug (3d6)"
 damage: "-"
 speed: "40'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 500
-nbr: Wild 1d4, Lair 1d6
-loot: C
+nbr: "Wild 1d4, Lair 1d6"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Field Guide Omnibus

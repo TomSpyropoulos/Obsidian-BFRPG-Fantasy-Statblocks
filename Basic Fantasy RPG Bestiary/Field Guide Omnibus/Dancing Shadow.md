@@ -22,10 +22,10 @@ attack: "1 claw + dance"
 damage: "1d6 claw, 1d6+CON modifier hours die of exhaustion dance"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 175
-nbr: 1d6-1
-loot: A
+nbr: "1d6-1"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

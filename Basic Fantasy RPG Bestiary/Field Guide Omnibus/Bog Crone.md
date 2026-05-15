@@ -22,10 +22,10 @@ attack: "2"
 damage: "1d4+2"
 speed: "30' Swim 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 450
-nbr: 1
-loot: U; E, N in lair
+nbr: "1"
+loot: "U; E, N in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

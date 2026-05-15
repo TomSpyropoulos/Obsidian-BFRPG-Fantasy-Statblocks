@@ -22,10 +22,10 @@ attack: "2 claws or 1 weapon"
 damage: "1d4 claw, by weapon"
 speed: "30' Glide 90' Climb 20'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 25
-nbr: 2d4, Wild 3d6, Lair 10d6
-loot: Q, R each; D in lair
+nbr: "2d4, Wild 3d6, Lair 10d6"
+loot: "Q, R each; D in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

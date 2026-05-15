@@ -22,10 +22,10 @@ attack: "1 bite or 2 kicks"
 damage: "3d6 bite, 1d6 kick"
 speed: "90'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 500
-nbr: 1d4
-loot: D
+nbr: "1d4"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

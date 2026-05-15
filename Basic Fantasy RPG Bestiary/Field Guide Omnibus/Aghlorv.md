@@ -22,10 +22,10 @@ attack: "1 claw (quadrupedal) / 2 claws + hold (bipedal)"
 damage: "1d8+1 claw"
 speed: "Quadrupedal 60' Bipedal 30'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 145
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

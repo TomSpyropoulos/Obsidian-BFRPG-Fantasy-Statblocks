@@ -22,10 +22,10 @@ attack: "1 touch"
 damage: "Energy drain 2 levels/touch"
 speed: "Fly 100'"
 jds: [10, 11, 12, 14, 15]
-moral: 11
+moral: "11"
 xp: 610
-nbr: 1d4, Lair 1d8
-loot: E
+nbr: "1d4, Lair 1d8"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

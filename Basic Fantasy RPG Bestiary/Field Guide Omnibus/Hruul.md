@@ -22,10 +22,10 @@ attack: "1 giant axe, 1 giant club or 1 ground slam"
 damage: "1d8 + 4 axe, 2d6 club or 1d10 to all surrounding enemies"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 500
-nbr: 1d4, Lair 2d6
-loot: K
+nbr: "1d4, Lair 2d6"
+loot: "K"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

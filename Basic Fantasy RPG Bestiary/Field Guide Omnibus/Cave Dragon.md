@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite or breath / 1 tail"
 damage: "1d6 claw, 3d8 bite or Sonic Breath, 1d6 tail"
 speed: "30' Fly 50' (10')'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 1225
-nbr: 1, Wild 1, Lair 1d3
-loot: H
+nbr: "1, Wild 1, Lair 1d3"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

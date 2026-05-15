@@ -22,10 +22,10 @@ attack: "1 bite or breath"
 damage: "1d6 bite, 4d6 breath"
 speed: "50'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 555
-nbr: 1d4, Lair 1d6
-loot: U in lair only
+nbr: "1d4, Lair 1d6"
+loot: "U in lair only"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

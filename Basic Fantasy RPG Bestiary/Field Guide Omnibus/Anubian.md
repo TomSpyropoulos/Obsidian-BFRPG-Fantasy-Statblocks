@@ -22,10 +22,10 @@ attack: "1 punch or 1 weapon"
 damage: "1d4 punch or by weapon"
 speed: "30', 40' unarmored'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 25
-nbr: 1d6, Wild 2d4, Lair 4d8
-loot: Q, R each; D, K in lair
+nbr: "1d6, Wild 2d4, Lair 4d8"
+loot: "Q, R each; D, K in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

@@ -22,10 +22,10 @@ attack: "1 bite or 1 sting"
 damage: "1 or 1 + poison"
 speed: "10' Fly 50'"
 jds: [11, 12, 14, 15, 16]
-moral: 6
+moral: "6"
 xp: 175
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

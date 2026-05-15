@@ -22,10 +22,10 @@ attack: "1 bite (3d4 + special) / 1 tail spine (2d10)"
 damage: "-"
 speed: "Swim 90'"
 jds: [9, 10, 12, 13, 14]
-moral: 7
+moral: "7"
 xp: 1075
-nbr: 1
-loot: A
+nbr: "1"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

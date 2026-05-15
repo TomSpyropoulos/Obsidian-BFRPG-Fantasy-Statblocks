@@ -22,10 +22,10 @@ attack: "1 touch or 1 bite"
 damage: "Save Drain (Poison) or 1d6 bite + Poison"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 280
-nbr: 2d4, Lair 4d8
-loot: None
+nbr: "2d4, Lair 4d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

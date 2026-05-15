@@ -22,10 +22,10 @@ attack: "1 bludgeon or weapon"
 damage: "1d6 or by weapon"
 speed: "50' or by armor +10'"
 jds: [11, 12, 14, 15, 16]
-moral: 11
+moral: "11"
 xp: 145
-nbr: 1d4, Wild 2d4
-loot: None
+nbr: "1d4, Wild 2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 fist + special"
 damage: "1d6 fist + special"
 speed: "30'"
 jds: [11, 11, 10, 14, 12]
-moral: 9
+moral: "9"
 xp: 945
-nbr: 1
-loot: U, V in lair
+nbr: "1"
+loot: "U, V in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

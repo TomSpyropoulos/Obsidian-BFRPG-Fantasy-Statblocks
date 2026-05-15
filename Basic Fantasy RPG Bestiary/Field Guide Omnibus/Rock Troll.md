@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite"
 damage: "1d6+6 claw, 1d12+2 bite"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 945
-nbr: 1d6
-loot: L
+nbr: "1d6"
+loot: "L"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 claw + special"
 damage: "1d8 + special"
 speed: "60'"
 jds: [8, 9, 10, 12, 13]
-moral: 7
+moral: "7"
 xp: 1975
-nbr: 1, Wild 1d3, Lair 1d3+3
-loot: None
+nbr: "1, Wild 1d3, Lair 1d3+3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 quill burst / 1 bite (see below)"
 damage: "See below for quill burst, 2d4 bite"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 6
+moral: "6"
 xp: 500
-nbr: 1d2
-loot: None
+nbr: "1d2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

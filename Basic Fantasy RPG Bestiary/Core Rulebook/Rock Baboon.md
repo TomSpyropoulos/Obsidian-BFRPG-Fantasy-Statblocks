@@ -22,10 +22,10 @@ attack: "1 club or Fist /1 bite"
 damage: "1d6 club or 1d4 fist/1d4 bite"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 75
-nbr: 2d6, Wild 2d6, Lair 5d6
-loot: None
+nbr: "2d6, Wild 2d6, Lair 5d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

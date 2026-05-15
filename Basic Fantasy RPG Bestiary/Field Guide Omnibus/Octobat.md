@@ -22,10 +22,10 @@ attack: "4 tentacles or acid ink"
 damage: "1d6 tentacle, 3d6 acid ink"
 speed: "Fly 60'"
 jds: [9, 10, 12, 13, 14]
-moral: 12
+moral: "12"
 xp: 945
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

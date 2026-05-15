@@ -22,10 +22,10 @@ attack: "2 tentacles / 1 bite + special"
 damage: "1d6 tentacle, 1d8 bite + special"
 speed: "20'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 555
-nbr: 1
-loot: U
+nbr: "1"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

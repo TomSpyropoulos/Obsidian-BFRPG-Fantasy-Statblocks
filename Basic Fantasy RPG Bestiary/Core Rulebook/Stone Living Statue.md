@@ -22,10 +22,10 @@ attack: "2 lava sprays (2d6/2d6)"
 damage: "2d6/2d6"
 speed: "20'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 405
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

@@ -22,10 +22,10 @@ attack: "1 bite / 1 Constrict / 1 weapon"
 damage: "1d6+poison bite, 2d6 constrict, by weapon"
 speed: "120'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 610
-nbr: 1
-loot: D
+nbr: "1"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

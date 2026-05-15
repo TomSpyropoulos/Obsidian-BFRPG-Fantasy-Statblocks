@@ -22,10 +22,10 @@ attack: "1 acid shot or 1 acid burst"
 damage: "1d6"
 speed: "20' Launch 60'"
 jds: [12, 13, 14, 15, 17]
-moral: 6
+moral: "6"
 xp: 145
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

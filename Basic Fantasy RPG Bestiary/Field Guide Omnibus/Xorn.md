@@ -22,10 +22,10 @@ attack: "1 bite (4d6)"
 damage: "4d6"
 speed: "20' Burrow 20'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 800
-nbr: 1d6
-loot: I, J, K, M
+nbr: "1d6"
+loot: "I, J, K, M"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

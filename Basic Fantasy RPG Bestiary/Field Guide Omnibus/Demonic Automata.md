@@ -22,10 +22,10 @@ attack: "6 blades or spell"
 damage: "2d12 blade, by spell"
 speed: "30'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 2075
-nbr: 1
-loot: A
+nbr: "1"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

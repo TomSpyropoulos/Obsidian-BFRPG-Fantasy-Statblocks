@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite"
 damage: "1d4 all + paralysis + stench"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 125
-nbr: 1d4, Wild 1d8, Lair 1d8
-loot: B
+nbr: "1d4, Wild 1d8, Lair 1d8"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

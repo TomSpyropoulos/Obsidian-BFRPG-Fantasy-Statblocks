@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite"
 damage: "1d4 claw, 1d4 bite"
 speed: "30' Leap 30' Swim 60'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 75
-nbr: 3d6
-loot: None
+nbr: "3d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

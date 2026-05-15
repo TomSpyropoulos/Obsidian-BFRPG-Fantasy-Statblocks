@@ -22,10 +22,10 @@ attack: "6 claws or 6 weapons + breath weapon"
 damage: "1d6 per claw or by weapon + 6d6 fire breath"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 800
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

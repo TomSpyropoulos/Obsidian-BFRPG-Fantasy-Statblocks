@@ -22,10 +22,10 @@ attack: "2 sphere shots (1d4)"
 damage: "1d4 sphere shot"
 speed: "80'"
 jds: [12, 13, 14, 15, 17]
-moral: 12
+moral: "12"
 xp: 37
-nbr: 1d3
-loot: 100 gp worth of sapphires
+nbr: "1d3"
+loot: "100 gp worth of sapphires"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

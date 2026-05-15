@@ -22,10 +22,10 @@ attack: "1 miniature weapon (1d2)"
 damage: "1d2"
 speed: "30'"
 jds: [13, 14, 13, 16, 15]
-moral: 5
+moral: "5"
 xp: 49
-nbr: 1
-loot: M (5,000 to 40,000 gp)
+nbr: "1"
+loot: "M (5,000 to 40,000 gp)"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

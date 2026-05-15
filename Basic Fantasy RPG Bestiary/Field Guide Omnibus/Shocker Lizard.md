@@ -22,10 +22,10 @@ attack: "1 bite + special"
 damage: "1d4 bite + special (see below)"
 speed: "40' Swim 20'"
 jds: [11, 12, 14, 15, 16]
-moral: 7 (4 if alone)
+moral: "7 (4 if alone)"
 xp: 100
-nbr: 1d6, Lair 2d6
-loot: None
+nbr: "1d6, Lair 2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

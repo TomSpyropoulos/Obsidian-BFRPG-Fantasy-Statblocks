@@ -22,10 +22,10 @@ attack: "1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 + poison bite, 1d6 + heals creature kiss, 1d4 + 2HP/round dagger"
 speed: "60'"
 jds: [12, 12, 11, 14, 13]
-moral: 8
+moral: "8"
 xp: 555
-nbr: 1
-loot: I
+nbr: "1"
+loot: "I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

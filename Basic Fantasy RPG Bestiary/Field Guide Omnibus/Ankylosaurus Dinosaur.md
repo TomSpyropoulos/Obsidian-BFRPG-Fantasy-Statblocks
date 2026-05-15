@@ -22,10 +22,10 @@ attack: "1 tail (3d6)"
 damage: "3d6"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 1075
-nbr: 1d4+1
-loot: None
+nbr: "1d4+1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

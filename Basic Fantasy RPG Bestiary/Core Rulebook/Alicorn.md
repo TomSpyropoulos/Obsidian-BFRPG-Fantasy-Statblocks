@@ -22,10 +22,10 @@ attack: "2 hooves/1 horn"
 damage: "2d4/2d4/2d6"
 speed: "70'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 280
-nbr: Wild 1d8
-loot: None
+nbr: "Wild 1d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

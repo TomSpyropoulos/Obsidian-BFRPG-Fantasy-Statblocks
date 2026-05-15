@@ -22,10 +22,10 @@ attack: "1 lance or 2 cannons"
 damage: "2d12 lance, 3d6 cannon"
 speed: "30'"
 jds: [9, 9, 11, 12, 13]
-moral: 11
+moral: "11"
 xp: 1390
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

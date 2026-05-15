@@ -22,10 +22,10 @@ attack: "2 fist / 1 bite + special"
 damage: "1d3 fist, 1d6 bite + 1d6 grab"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 240
-nbr: 1d6, Wild 2d4, Lair 2d4
-loot: None
+nbr: "1d6, Wild 2d4, Lair 2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 weapon (sword)"
 damage: "2d6"
 speed: "50' Leap 20'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
+moral: "10"
 xp: 1390
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "4 spells"
 damage: "By spell"
 speed: "Fly 50'"
 jds: [12, 13, 12, 15, 13]
-moral: 8
+moral: "8"
 xp: 405
-nbr: Lair 1d4
-loot: None
+nbr: "Lair 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 bite"
 damage: "1d12 + poison"
 speed: "50'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 735
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 scythe (1d8)"
 damage: "1d8"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 175
-nbr: 1, Lair 1d6
-loot: D
+nbr: "1, Lair 1d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 bite or spell"
 damage: "2d6"
 speed: "Swim 60'"
 jds: [11, 11, 13, 14, 15]
-moral: 10 (12 if defending lair)
-xp: 360, Priest 405, High Priest 450
-nbr: Wild 1d8+4, Lair 8d10+20
-loot: Special
+moral: "10 (12 if defending lair)"
+xp: 360
+nbr: "Wild 1d8+4, Lair 8d10+20"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

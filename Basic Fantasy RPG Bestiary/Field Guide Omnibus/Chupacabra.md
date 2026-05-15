@@ -22,10 +22,10 @@ attack: "1 bite (1d8)"
 damage: "1d8"
 speed: "Hop 30'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 75
-nbr: 3d6 (with Cheiropterans), Wild 1d2
-loot: None
+nbr: "3d6 (with Cheiropterans), Wild 1d2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

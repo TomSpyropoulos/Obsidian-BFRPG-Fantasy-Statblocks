@@ -22,10 +22,10 @@ attack: "3 thorn (1d4) / 1 acid (3d8) / 1 leaves (1d8)"
 damage: "1d4 thorn, 3d8 acid, 1d8 leaves"
 speed: "0' (immobile)'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 555
-nbr: Wild 1d6
-loot: None
+nbr: "Wild 1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

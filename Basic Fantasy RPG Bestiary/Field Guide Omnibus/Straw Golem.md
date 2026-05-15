@@ -22,10 +22,10 @@ attack: "1 weapon or 2 fists or 1 hug"
 damage: "by weapon or 1d4 fists or special"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

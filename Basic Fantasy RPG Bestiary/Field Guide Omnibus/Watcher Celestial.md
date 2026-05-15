@@ -22,10 +22,10 @@ attack: "2 slams (2d10)"
 damage: "-"
 speed: "40' Fly 80'"
 jds: [7, 8, 10, 11, 12]
-moral: 12
+moral: "12"
 xp: 2830
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

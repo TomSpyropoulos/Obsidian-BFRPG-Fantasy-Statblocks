@@ -22,10 +22,10 @@ attack: "1 bite (or 1 weapon)"
 damage: "2d4 (1d6 or by weapon)"
 speed: "60' Human Form 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 280
-nbr: 1d6, Wild 2d6, Lair 2d6
-loot: C
+nbr: "1d6, Wild 2d6, Lair 2d6"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

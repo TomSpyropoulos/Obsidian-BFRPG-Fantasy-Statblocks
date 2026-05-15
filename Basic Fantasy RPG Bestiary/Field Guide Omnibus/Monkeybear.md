@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite or 1 grab"
 damage: "1d3 claw, 1d6 bite or grab"
 speed: "40'"
 jds: [12, 13, 14, 15, 17]
-moral: 7
+moral: "7"
 xp: 37
-nbr: 1d10
-loot: B
+nbr: "1d10"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

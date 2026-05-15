@@ -22,10 +22,10 @@ attack: "1 huge weapon"
 damage: "2d6"
 speed: "30' Unarmored 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 240
-nbr: 1d6, Wild 2d6, Lair 2d6
-loot: C + 1d20x100 gp
+nbr: "1d6, Wild 2d6, Lair 2d6"
+loot: "C + 1d20x100 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

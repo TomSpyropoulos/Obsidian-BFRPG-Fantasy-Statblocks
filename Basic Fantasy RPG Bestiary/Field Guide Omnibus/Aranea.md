@@ -22,10 +22,10 @@ attack: "spider form: 1 bite, web, or spells / hybrid form: 1 bite, web, spells,
 damage: "1d6 bite+poison or by weapon"
 speed: "spider form: 50' Climb 30'"
 jds: [12, 13, 12, 15, 13]
-moral: 7
+moral: "7"
 xp: 320
-nbr: 1d6, Wild 1d6, Lair 1d6
-loot: D
+nbr: "1d6, Wild 1d6, Lair 1d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

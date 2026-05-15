@@ -22,10 +22,10 @@ attack: "2 claws / 1 beak"
 damage: "1d6 claw, 2d6 beak"
 speed: "50'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 240
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

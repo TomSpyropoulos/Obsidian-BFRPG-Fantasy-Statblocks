@@ -22,10 +22,10 @@ attack: "1 giant weapon or 1 lightning bolt"
 damage: "8d6 or 15d6"
 speed: "30' Unarmored 50' (10')'"
 jds: [7, 8, 10, 11, 12]
-moral: 10
+moral: "10"
 xp: 3100
-nbr: 1, Wild 1d3, Lair 1d3
-loot: E plus 1d20x1000 gp
+nbr: "1, Wild 1d3, Lair 1d3"
+loot: "E plus 1d20x1000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

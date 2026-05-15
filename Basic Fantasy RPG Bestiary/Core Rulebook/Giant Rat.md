@@ -22,10 +22,10 @@ attack: "1 bite"
 damage: "1d4 + disease"
 speed: "40' Swim 20'"
 jds: [12, 13, 14, 15, 17]
-moral: 8
+moral: "8"
 xp: 10
-nbr: 3d6, Wild 3d10, Lair 3d10
-loot: C
+nbr: "3d6, Wild 3d10, Lair 3d10"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

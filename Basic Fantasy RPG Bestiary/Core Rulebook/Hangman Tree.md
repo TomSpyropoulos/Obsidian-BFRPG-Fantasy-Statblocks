@@ -22,10 +22,10 @@ attack: "4 limbs + strangle"
 damage: "1d6 per limb + 1d6/round strangle"
 speed: "0'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 360
-nbr: Wild 1
-loot: None
+nbr: "Wild 1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

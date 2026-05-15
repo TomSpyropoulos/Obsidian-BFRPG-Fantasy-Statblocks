@@ -22,10 +22,10 @@ attack: "1 bite or gaze"
 damage: "1d8 bite, or Mind Swap"
 speed: "40' Swim 60'"
 jds: [9, 9, 11, 12, 13]
-moral: 10
-xp: 1,390
-nbr: 1d6, Wild 2d6, Lair 2d6
-loot: M
+moral: "10"
+xp: 1390
+nbr: "1d6, Wild 2d6, Lair 2d6"
+loot: "M"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

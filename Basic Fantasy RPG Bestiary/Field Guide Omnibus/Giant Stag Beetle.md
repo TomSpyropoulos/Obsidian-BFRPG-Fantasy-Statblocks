@@ -22,10 +22,10 @@ attack: "1 bite"
 damage: "1d6 bite (female) or 2d12 bite (male)"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 8
+moral: "8"
 xp: 1875
-nbr: 1d12
-loot: None
+nbr: "1d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

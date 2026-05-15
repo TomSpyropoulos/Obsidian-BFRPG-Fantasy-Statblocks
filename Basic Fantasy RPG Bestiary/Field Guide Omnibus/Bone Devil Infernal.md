@@ -22,10 +22,10 @@ attack: "1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
 damage: "3d4 hook, 2d4 plus 1d4 STR damage tail"
 speed: "90'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 1150
-nbr: 1d2 Lair 2d4
-loot: None
+nbr: "1d2 Lair 2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

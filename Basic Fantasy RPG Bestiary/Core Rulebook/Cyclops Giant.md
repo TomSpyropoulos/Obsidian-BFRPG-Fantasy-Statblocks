@@ -22,10 +22,10 @@ attack: "1 giant club or 1 rock (thrown)"
 damage: "3d10 or 3d6"
 speed: "20' Unarmored 30'"
 jds: [8, 9, 10, 12, 13]
-moral: 9
+moral: "9"
 xp: 2285
-nbr: 1, Wild 1d4, Lair 1d4
-loot: E plus 1d8x1000 gp
+nbr: "1, Wild 1d4, Lair 1d4"
+loot: "E plus 1d8x1000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

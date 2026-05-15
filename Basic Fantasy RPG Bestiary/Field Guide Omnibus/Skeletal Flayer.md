@@ -22,10 +22,10 @@ attack: "1 whip (1d3) / 1 shortsword (1d6)"
 damage: "-"
 speed: "40'"
 jds: [12, 13, 14, 15, 17]
-moral: 12
+moral: "12"
 xp: 37
-nbr: Wild 1d6, Lair 3d6
-loot: A
+nbr: "Wild 1d6, Lair 3d6"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

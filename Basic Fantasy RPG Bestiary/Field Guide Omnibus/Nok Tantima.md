@@ -22,10 +22,10 @@ attack: "1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 bite or 1d12 claw or by spell"
 speed: "60' Fly 120'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 2075
-nbr: 1d2
-loot: Magic Item
+nbr: "1d2"
+loot: "Magic Item"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

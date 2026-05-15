@@ -22,10 +22,10 @@ attack: "3 lightning bolts (1d4)"
 damage: "-"
 speed: "Fly 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 6
+moral: "6"
 xp: 100
-nbr: 2d6
-loot: None
+nbr: "2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

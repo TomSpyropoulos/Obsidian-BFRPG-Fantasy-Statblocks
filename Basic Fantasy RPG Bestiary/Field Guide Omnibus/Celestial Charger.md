@@ -22,10 +22,10 @@ attack: "2 hooves (1d8)"
 damage: "1d8 hoof"
 speed: "80' Fly 120'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 945
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

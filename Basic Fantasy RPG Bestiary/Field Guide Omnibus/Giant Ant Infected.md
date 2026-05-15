@@ -22,10 +22,10 @@ attack: "1 bite (2d6+1)"
 damage: "-"
 speed: "50' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 360
-nbr: 1d6
-loot: None
+nbr: "1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Field Guide Omnibus

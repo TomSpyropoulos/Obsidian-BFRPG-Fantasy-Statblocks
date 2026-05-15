@@ -22,10 +22,10 @@ attack: "1 fist (1d8)"
 damage: "1d8"
 speed: "40'"
 jds: [12, 13, 14, 15, 17]
-moral: 12
+moral: "12"
 xp: 100
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 antler or 1 rake (against large only)"
 damage: "2d4 antler, 2d6 rake"
 speed: "80' (5')'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 175
-nbr: Wild 1d4
-loot: None
+nbr: "Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 claws + hug or 2 spears"
 damage: "1d4+1 claw, 2d8 hug, 1d6 spear"
 speed: "40'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 945
-nbr: Wild 1d4, Patrol 2d4
-loot: None
+nbr: "Wild 1d4, Patrol 2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

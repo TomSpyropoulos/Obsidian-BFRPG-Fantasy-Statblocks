@@ -22,10 +22,10 @@ attack: "Special, see below"
 damage: "None"
 speed: "Swim 90'"
 jds: [13, 14, 15, 16, 18]
-moral: 7
+moral: "7"
 xp: 13
-nbr: 1d12
-loot: None
+nbr: "1d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

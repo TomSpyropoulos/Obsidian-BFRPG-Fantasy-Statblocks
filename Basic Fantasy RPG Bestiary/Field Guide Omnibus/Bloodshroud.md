@@ -22,10 +22,10 @@ attack: "1 whip + enshroud / 1 blood spray"
 damage: "1d4 whip +special, blinding blood spray"
 speed: "Fly 60'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 320
-nbr: 1d2
-loot: None
+nbr: "1d2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 sting (1d6 + poison)"
 damage: "1d6 + poison"
 speed: "20' Fly 60'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 25
-nbr: 1, Wild 1d4+1, Lair 1d10+10
-loot: None
+nbr: "1, Wild 1d4+1, Lair 1d10+10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

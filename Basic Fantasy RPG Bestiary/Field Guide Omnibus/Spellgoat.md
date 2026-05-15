@@ -22,10 +22,10 @@ attack: "1 charge (1d4)"
 damage: "-"
 speed: "20'"
 jds: [13, 14, 13, 16, 15]
-moral: 5
+moral: "5"
 xp: 13
-nbr: 3d8
-loot: None
+nbr: "3d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

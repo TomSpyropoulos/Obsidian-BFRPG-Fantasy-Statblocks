@@ -22,10 +22,10 @@ attack: "1 punch, 1 weapon or 1 trample"
 damage: "1d6 punch, by weapon, 3d6 trample"
 speed: "40'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 1075
-nbr: Wild 2d4, Lair 5d4
-loot: None
+nbr: "Wild 2d4, Lair 5d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

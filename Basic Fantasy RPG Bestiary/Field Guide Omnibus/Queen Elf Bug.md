@@ -22,10 +22,10 @@ attack: "1 weapon or magic missile"
 damage: "1d6 or by weapon or magic missile"
 speed: "Fly 60'"
 jds: [12, 12, 11, 14, 13]
-moral: 10
+moral: "10"
 xp: 735
-nbr: Wild 1, Lair 1
-loot: E or F
+nbr: "Wild 1, Lair 1"
+loot: "E or F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

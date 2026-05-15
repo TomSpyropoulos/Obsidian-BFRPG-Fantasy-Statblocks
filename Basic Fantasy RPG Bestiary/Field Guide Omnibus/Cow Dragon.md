@@ -22,10 +22,10 @@ attack: "1 gore or breath"
 damage: "3d8 gore or 7d8 breath"
 speed: "30' Fly 80' (15')'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 1015
-nbr: 1, Wild 1, Lair 1d4
-loot: E
+nbr: "1, Wild 1, Lair 1d4"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite + rake"
 damage: "2d4 claw, 1d10 bite, 2d4 rake"
 speed: "45', Fly 180'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
-xp: 9 HD: 1,150; 10 HD: 1,390; 11 HD: 1,670
-nbr: 1d6
-loot: E
+moral: "8"
+xp: 1150
+nbr: "1d6"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

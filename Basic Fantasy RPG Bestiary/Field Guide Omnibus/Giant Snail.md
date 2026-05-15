@@ -22,10 +22,10 @@ attack: "1 slam (1d8 + poison)"
 damage: "1d8 + poison (paralysis)"
 speed: "10'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 555
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

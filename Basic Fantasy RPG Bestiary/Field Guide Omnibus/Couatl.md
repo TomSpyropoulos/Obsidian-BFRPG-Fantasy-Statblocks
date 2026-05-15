@@ -22,10 +22,10 @@ attack: "1 bite / 1 constrict / or spells/powers"
 damage: "1d4 bite + poison, 2d4 constrict"
 speed: "20' Fly 60'"
 jds: [9, 10, 12, 13, 14]
-moral: 12
+moral: "12"
 xp: 1225
-nbr: 1d2, Lair 1d6
-loot: B, I
+nbr: "1d2, Lair 1d6"
+loot: "B, I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

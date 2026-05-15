@@ -22,10 +22,10 @@ attack: "Poison (if successful digest of victim)"
 damage: "1 HP (save vs. Paralysis) touch, if touch successful 1d6/round digestive acid"
 speed: "Fly 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 3d4
-loot: V
+nbr: "3d4"
+loot: "V"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 breath"
 damage: "2d6"
 speed: "Fly 20'"
 jds: [13, 14, 13, 15, 14]
-moral: 9
+moral: "9"
 xp: 175
-nbr: 1d6
-loot: U
+nbr: "1d6"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

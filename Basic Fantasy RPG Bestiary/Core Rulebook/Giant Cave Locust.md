@@ -22,10 +22,10 @@ attack: "1 bite or 1 bump or 1 spit"
 damage: "1d2 or 1d4* or special"
 speed: "20' Fly 60' (15')'"
 jds: [11, 12, 14, 15, 16]
-moral: 5
+moral: "5"
 xp: 125
-nbr: 2d10, Wild 1d10
-loot: None
+nbr: "2d10, Wild 1d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

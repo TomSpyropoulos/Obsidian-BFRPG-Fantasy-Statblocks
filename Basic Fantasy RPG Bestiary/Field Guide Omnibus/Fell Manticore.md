@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 claw, 2d4 bite, 1d4 spikes"
 speed: "60' Fly 100' (20')'"
 jds: [11, 11, 13, 14, 15]
-moral: 11
+moral: "11"
 xp: 455
-nbr: 1, Lair 1d2 see below
-loot: D
+nbr: "1, Lair 1d2 see below"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

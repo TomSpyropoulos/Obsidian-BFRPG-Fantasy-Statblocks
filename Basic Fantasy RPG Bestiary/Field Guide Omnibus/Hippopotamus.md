@@ -22,10 +22,10 @@ attack: "1 bite or 1 trample"
 damage: "2d6 bite, 4d6 trample"
 speed: "40' Swim 30'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 500
-nbr: Wild 3d10
-loot: None
+nbr: "Wild 3d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

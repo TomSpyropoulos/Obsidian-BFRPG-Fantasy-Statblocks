@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "1d8 or by weapon"
 speed: "30' Unarmored 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 100
-nbr: Special
-loot: Q, R, S each; special in lair
+nbr: "Special"
+loot: "Q, R, S each; special in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 bite (1d8 + poison)"
 damage: "-"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 100
-nbr: 1d2, Wild 1d2, Lair 1d2
-loot: None
+nbr: "1d2, Wild 1d2, Lair 1d2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Field Guide Omnibus

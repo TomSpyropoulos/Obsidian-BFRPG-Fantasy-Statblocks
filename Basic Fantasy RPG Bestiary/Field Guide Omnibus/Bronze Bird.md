@@ -22,10 +22,10 @@ attack: "1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4)"
 damage: "1d4 beak, 1d6 wing, 1d4 feather"
 speed: "30' Fly 120' Swim 30'"
 jds: [12, 13, 14, 15, 17]
-moral: 7
+moral: "7"
 xp: 25
-nbr: Wild 1d10, Lair 10d10
-loot: Special, see below
+nbr: "Wild 1d10, Lair 10d10"
+loot: "Special, see below"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

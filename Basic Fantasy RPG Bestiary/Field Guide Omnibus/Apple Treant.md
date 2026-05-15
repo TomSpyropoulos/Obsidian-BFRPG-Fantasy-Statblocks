@@ -22,10 +22,10 @@ attack: "2 fists or 1 projectile fruit"
 damage: "2d6 fist or 1d6 fruit"
 speed: "20'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 945
-nbr: Wild 1d8, Lair 1d8
-loot: C
+nbr: "Wild 1d8, Lair 1d8"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

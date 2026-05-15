@@ -22,10 +22,10 @@ attack: "1 weapon or 1 breath"
 damage: "By weapon or 2d4 breath"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 100
-nbr: Wild 3d8, Lair 10d10
-loot: Q, S, U individually; B in lair
+nbr: "Wild 3d8, Lair 10d10"
+loot: "Q, S, U individually; B in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 claws"
 damage: "1d3"
 speed: "50'"
 jds: [12, 13, 14, 15, 17]
-moral: 7
+moral: "7"
 xp: 10
-nbr: 1d6, Wild 2d10
-loot: None
+nbr: "1d6, Wild 2d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

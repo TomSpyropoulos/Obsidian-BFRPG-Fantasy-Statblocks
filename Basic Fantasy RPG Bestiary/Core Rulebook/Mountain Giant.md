@@ -22,10 +22,10 @@ attack: "1 giant weapon or 1 thrown rock"
 damage: "7d6 (8d6) weapon, 4d6 rock"
 speed: "40', Unarmored 50' (10')'"
 jds: [7, 7, 9, 10, 11]
-moral: 10
+moral: "10"
 xp: 3250
-nbr: 1d4, Wild 1d4, Lair 1d4+1
-loot: E + 1d12x1,000gp
+nbr: "1d4, Wild 1d4, Lair 1d4+1"
+loot: "E + 1d12x1,000gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

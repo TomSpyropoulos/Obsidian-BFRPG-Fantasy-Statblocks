@@ -22,10 +22,10 @@ attack: "1 weapon or 1 vocalization"
 damage: "1d8 or paralysis"
 speed: "40'"
 jds: [9, 10, 12, 14, 13]
-moral: 9
+moral: "9"
 xp: 500
-nbr: 1d8
-loot: U each; A in lair
+nbr: "1d8"
+loot: "U each; A in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

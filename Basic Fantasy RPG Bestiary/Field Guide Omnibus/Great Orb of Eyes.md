@@ -22,10 +22,10 @@ attack: "1d4 rays or spell-like ability"
 damage: "By ray or spell"
 speed: "Fly 30'"
 jds: [10, 10, 9, 13, 11]
-moral: 9
+moral: "9"
 xp: 1975
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

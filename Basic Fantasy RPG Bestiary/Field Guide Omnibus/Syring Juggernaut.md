@@ -22,10 +22,10 @@ attack: "6 legs or resin shot"
 damage: "2d6 leg or resin"
 speed: "40'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 1975
-nbr: Lair only 1
-loot: None
+nbr: "Lair only 1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

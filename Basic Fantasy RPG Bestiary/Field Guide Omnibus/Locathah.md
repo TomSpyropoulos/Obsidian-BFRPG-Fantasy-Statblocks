@@ -22,10 +22,10 @@ attack: "1 spear or 1 light crossbow"
 damage: "1d6 spear or light crossbow"
 speed: "10' Swim 60'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d4, Wild 1d20, Lair 3d10+70
-loot: D
+nbr: "1d4, Wild 1d20, Lair 3d10+70"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

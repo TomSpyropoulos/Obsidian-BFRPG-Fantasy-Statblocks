@@ -22,10 +22,10 @@ attack: "1 bite"
 damage: "1d8 bite + paralysis"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 9
+moral: "9"
 xp: 450
-nbr: 1, Lair 1
-loot: E
+nbr: "1, Lair 1"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

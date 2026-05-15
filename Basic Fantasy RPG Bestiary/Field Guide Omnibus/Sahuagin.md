@@ -22,10 +22,10 @@ attack: "1 trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
 damage: "1d8 trident, 1d4 bite, 1d4 talon, or by weapon"
 speed: "30' Swim 40'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 100
-nbr: 1d8, Lair 1d6 x10, Wild 1d10+10
-loot: Individuals N; Lair E, I, O
+nbr: "1d8, Lair 1d6 x10, Wild 1d10+10"
+loot: "Individuals N; Lair E, I, O"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

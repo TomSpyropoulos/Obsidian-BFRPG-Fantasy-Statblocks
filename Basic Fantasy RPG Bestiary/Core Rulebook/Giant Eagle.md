@@ -22,10 +22,10 @@ attack: "2 claws / 1 bite"
 damage: "1d6/1d6/1d8"
 speed: "10' fly 90'"
 jds: [11, 11, 13, 14, 15]
-moral: 7 (12 if defending a nest)
+moral: "7 (12 if defending a nest)"
 xp: 240
-nbr: 2d6
-loot: Nil
+nbr: "2d6"
+loot: "Nil"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

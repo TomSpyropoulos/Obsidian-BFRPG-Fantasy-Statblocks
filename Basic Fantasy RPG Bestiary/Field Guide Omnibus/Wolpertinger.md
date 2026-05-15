@@ -22,10 +22,10 @@ attack: "2 claws, 1 bite or 1 charge"
 damage: "1d3 claw, 1d4 bite, 2d4 charge"
 speed: "40' Fly 60'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 75
-nbr: 1d4
-loot: Special
+nbr: "1d4"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 ram"
 damage: "2d4"
 speed: "Swim 120'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 75
-nbr: Wild 2d10
-loot: None
+nbr: "Wild 2d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

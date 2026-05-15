@@ -22,10 +22,10 @@ attack: "2 claws or 1 rock"
 damage: "1d4 claw or 1d6 rock"
 speed: "40' Fly 40' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 7 (9 in flight)
+moral: "7 (9 in flight)"
 xp: 145
-nbr: 1d6, Wild 2d4, Lair 2d4
-loot: None
+nbr: "1d6, Wild 2d4, Lair 2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

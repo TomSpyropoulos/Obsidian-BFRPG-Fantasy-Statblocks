@@ -22,10 +22,10 @@ attack: "1 bite (1d6) / 1 tail (1d6) / special (crush)"
 damage: "1d6 bite, 1d6 crush + special"
 speed: "10' Fly 40'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 610
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

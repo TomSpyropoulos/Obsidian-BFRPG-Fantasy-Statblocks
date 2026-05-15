@@ -22,10 +22,10 @@ attack: "2 claws / 1 head butt / rake"
 damage: "2d4 claw, 3d6 head butt, 2d4 rake"
 speed: "60', Fly 120'"
 jds: [9, 9, 11, 12, 13]
-moral: 7
-xp: 10 HD: 1,390; 11 HD: 1,670; 12 HD: 1,975
-nbr: 1d4
-loot: F
+moral: "7"
+xp: 1390
+nbr: "1d4"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

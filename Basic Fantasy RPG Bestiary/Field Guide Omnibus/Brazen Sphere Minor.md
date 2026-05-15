@@ -22,10 +22,10 @@ attack: "2 bludgeon (1d6)"
 damage: "1d6 bludgeon"
 speed: "60'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 175
-nbr: 3d10
-loot: 300 gp worth of sapphires
+nbr: "3d10"
+loot: "300 gp worth of sapphires"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

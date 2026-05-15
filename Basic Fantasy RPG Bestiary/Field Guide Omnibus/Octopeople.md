@@ -22,10 +22,10 @@ attack: "1 tentacle or by weapon"
 damage: "1d10 + paralysis tentacle, by weapon"
 speed: "30' Unarmored 40'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 875
-nbr: 2d4, Wild 1d6
-loot: None
+nbr: "2d4, Wild 1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

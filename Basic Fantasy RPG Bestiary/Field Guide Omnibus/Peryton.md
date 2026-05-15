@@ -22,10 +22,10 @@ attack: "1 antler (+2 to hit)"
 damage: "4d4 antler"
 speed: "40' Fly 130' (10')'"
 jds: [9, 10, 13, 15, 14]
-moral: 10
+moral: "10"
 xp: 280
-nbr: Wild 2d4, Lair 2d6
-loot: D
+nbr: "Wild 2d4, Lair 2d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

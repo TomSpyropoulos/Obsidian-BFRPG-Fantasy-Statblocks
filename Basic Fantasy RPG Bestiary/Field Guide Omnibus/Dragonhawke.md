@@ -22,10 +22,10 @@ attack: "1 charge (dive) or 2 claws + 1 bite"
 damage: "2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 claw, 1d4 bite"
 speed: "10' Fly 120'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 75
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

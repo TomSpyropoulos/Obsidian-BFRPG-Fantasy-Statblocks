@@ -22,10 +22,10 @@ attack: "2 strikes (1d6 each)"
 damage: "1d6 strike"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 8
+moral: "8"
 xp: 405
-nbr: Wild 1d8, Lair 4d8
-loot: L
+nbr: "Wild 1d8, Lair 4d8"
+loot: "L"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

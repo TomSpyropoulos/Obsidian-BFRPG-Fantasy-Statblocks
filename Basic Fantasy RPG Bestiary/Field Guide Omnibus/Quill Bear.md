@@ -22,10 +22,10 @@ attack: "2 claws (1d6) / 1 bite (1d8) / 1 hug (2d8) / quill (1d8)"
 damage: "1d6 claw, 1d8 bite, 2d8 hug, 1d8 quill"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 5 (8)
+moral: "5 (8)"
 xp: 360
-nbr: 1d4
-loot: Quills 2d6×100 gp (if undamaged)
+nbr: "1d4"
+loot: "Quills 2d6×100 gp (if undamaged)"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

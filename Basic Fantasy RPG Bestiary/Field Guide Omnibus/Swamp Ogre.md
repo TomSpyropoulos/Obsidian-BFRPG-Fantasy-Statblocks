@@ -22,10 +22,10 @@ attack: "1 bite, Drowning Grasp"
 damage: "2d8 bite, 1d8 Drowning Grasp"
 speed: "15' Swim 30'"
 jds: [7, 8, 10, 11, 12]
-moral: 9
+moral: "9"
 xp: 2850
-nbr: 1
-loot: I +500 gp
+nbr: "1"
+loot: "I +500 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

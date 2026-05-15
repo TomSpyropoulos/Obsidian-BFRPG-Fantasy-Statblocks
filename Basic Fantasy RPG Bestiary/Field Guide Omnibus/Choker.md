@@ -22,10 +22,10 @@ attack: "1 choke"
 damage: "1d3 + special"
 speed: "20'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 145
-nbr: 1
-loot: U
+nbr: "1"
+loot: "U"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

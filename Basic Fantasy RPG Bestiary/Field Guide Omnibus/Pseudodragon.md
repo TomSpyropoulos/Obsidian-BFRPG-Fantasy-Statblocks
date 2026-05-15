@@ -22,10 +22,10 @@ attack: "1 bite or 1 sting + poison"
 damage: "1 point bite, 1d3 sting + poison (sleep)"
 speed: "10' Fly 60'"
 jds: [13, 14, 13, 15, 14]
-moral: 7
+moral: "7"
 xp: 100
-nbr: 1, Wild 1d2, Lair 1d4
-loot: None
+nbr: "1, Wild 1d2, Lair 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

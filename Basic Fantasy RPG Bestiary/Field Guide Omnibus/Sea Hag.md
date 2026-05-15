@@ -22,10 +22,10 @@ attack: "2 daggers"
 damage: "1d4+4"
 speed: "30' Swim 40'"
 jds: [11, 11, 13, 14, 15]
-moral: 11
+moral: "11"
 xp: 240
-nbr: 1
-loot: F
+nbr: "1"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

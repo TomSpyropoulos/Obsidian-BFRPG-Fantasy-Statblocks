@@ -22,10 +22,10 @@ attack: "1 bite"
 damage: "1d6 bite"
 speed: "50'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 240
-nbr: 1d4, Pack 1d6
-loot: U in lair only
+nbr: "1d4, Pack 1d6"
+loot: "U in lair only"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

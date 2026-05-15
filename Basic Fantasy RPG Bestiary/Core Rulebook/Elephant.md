@@ -22,10 +22,10 @@ attack: "2 tusks, 1 trunk grab, 2 tramples"
 damage: "2d4 tusk, 2d6 grab, 2d8 trample"
 speed: "40' (10')'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 1075
-nbr: Wild 1d20
-loot: special
+nbr: "Wild 1d20"
+loot: "special"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

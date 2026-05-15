@@ -22,10 +22,10 @@ attack: "1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
 damage: "1d6 toot, 1d4 bang, 2d8 clash, cause fear ding"
 speed: "Fly 30'"
 jds: [11, 11, 13, 14, 15]
-moral: 12
+moral: "12"
 xp: 280
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

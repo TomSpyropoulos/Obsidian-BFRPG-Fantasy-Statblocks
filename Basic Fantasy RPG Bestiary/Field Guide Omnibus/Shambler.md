@@ -22,10 +22,10 @@ attack: "2 slam + constrict"
 damage: "2d6 slam, 4d6 constrict"
 speed: "20' Swim 20'"
 jds: [8, 9, 10, 12, 13]
-moral: 12
+moral: "12"
 xp: 2395
-nbr: 1
-loot: B
+nbr: "1"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

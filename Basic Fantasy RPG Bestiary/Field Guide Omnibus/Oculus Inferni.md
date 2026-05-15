@@ -22,10 +22,10 @@ attack: "1 bite or fireball"
 damage: "2d6 bite or fireball"
 speed: "Fly 30'"
 jds: [9, 10, 12, 13, 14]
-moral: 8
+moral: "8"
 xp: 1150
-nbr: 1
-loot: I
+nbr: "1"
+loot: "I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

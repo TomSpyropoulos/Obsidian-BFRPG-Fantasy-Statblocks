@@ -22,10 +22,10 @@ attack: "1 stone club or 1 thrown rock"
 damage: "3d6 or 3d6"
 speed: "30' Unarmored 40'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 1075
-nbr: 1d2, Wild 1d6, Lair 1d6
-loot: E plus 1d8x1000 gp
+nbr: "1d2, Wild 1d6, Lair 1d6"
+loot: "E plus 1d8x1000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

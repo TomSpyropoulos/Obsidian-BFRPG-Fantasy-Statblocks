@@ -22,10 +22,10 @@ attack: "1 × weapon (by weapon) / 1 × tail (1d6)"
 damage: "by weapon, 1d6 tail"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 145
-nbr: 1d10
-loot: D
+nbr: "1d10"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

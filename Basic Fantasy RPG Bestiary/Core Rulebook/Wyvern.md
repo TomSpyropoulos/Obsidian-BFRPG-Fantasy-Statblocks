@@ -22,10 +22,10 @@ attack: "-"
 damage: "2d8/1d6 + poison or 1d10/1d10/1d6 + poison"
 speed: "30' (10') Fly 80' (15')'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 735
-nbr: Wild 1d6, Lair 1d6
-loot: E
+nbr: "Wild 1d6, Lair 1d6"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

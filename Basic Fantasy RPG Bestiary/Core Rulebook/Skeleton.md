@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "40'"
 jds: [12, 13, 14, 15, 17]
-moral: 12
+moral: "12"
 xp: 25
-nbr: 3d6, Wild 3d10
-loot: None
+nbr: "3d6, Wild 3d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

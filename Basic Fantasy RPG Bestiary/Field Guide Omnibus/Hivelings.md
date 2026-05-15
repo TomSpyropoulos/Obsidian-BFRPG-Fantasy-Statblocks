@@ -22,10 +22,10 @@ attack: "2 claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
 damage: "1d4 claws, 1d6 or by weapon"
 speed: "50'"
 jds: [13, 14, 13, 16, 15]
-moral: Special
+moral: "Special"
 xp: 37
-nbr: 3d6 Wild 3d6 Lair 8d10
-loot: A
+nbr: "3d6 Wild 3d6 Lair 8d10"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

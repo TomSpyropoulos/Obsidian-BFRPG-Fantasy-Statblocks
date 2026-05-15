@@ -22,10 +22,10 @@ attack: "1 weapon"
 damage: "1d6+1 or by weapon +1"
 speed: "20' Unarmored 30' Swim 40' (not armor)'"
 jds: [11, 12, 14, 15, 16]
-moral: 11
+moral: "11"
 xp: 75
-nbr: 2d4, Wild 2d4, Lair 6d6
-loot: D
+nbr: "2d4, Wild 2d4, Lair 6d6"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

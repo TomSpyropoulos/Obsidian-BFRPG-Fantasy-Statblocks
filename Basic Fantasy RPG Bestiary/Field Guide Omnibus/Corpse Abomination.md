@@ -22,10 +22,10 @@ attack: "3 × bludgeon (1d6)"
 damage: "1d6"
 speed: "10' Jump 60'"
 jds: [10, 11, 12, 14, 15]
-moral: 12
+moral: "12"
 xp: 610
-nbr: 1d3
-loot: None
+nbr: "1d3"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

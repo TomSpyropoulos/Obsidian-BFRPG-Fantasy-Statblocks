@@ -22,10 +22,10 @@ attack: "-"
 damage: "2d4/2d4/2d8 + 2d8"
 speed: "40'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 555
-nbr: 
-loot: C
+nbr: ""
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 source: Core Rulebook

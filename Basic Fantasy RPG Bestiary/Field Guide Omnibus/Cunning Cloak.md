@@ -22,10 +22,10 @@ attack: "2 claws + suffocation"
 damage: "1d4 claw + suffocation"
 speed: "1' Fly 20'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 500
-nbr: 1d4
-loot: C
+nbr: "1d4"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 bite or small weapon"
 damage: "1d2+poison bite, 1d4 or by weapon"
 speed: "30'"
 jds: [13, 14, 13, 16, 15]
-moral: 8
-xp: 13+
-nbr: Wild 1d4, Lair 2d4
-loot: Chance of magical wand
+moral: "8"
+xp: 13
+nbr: "Wild 1d4, Lair 2d4"
+loot: "Chance of magical wand"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

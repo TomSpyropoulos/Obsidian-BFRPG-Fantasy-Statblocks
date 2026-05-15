@@ -22,10 +22,10 @@ attack: "1 bite (1d10+2)"
 damage: "1d10+2"
 speed: "40' Swim 20'"
 jds: [10, 11, 12, 14, 15]
-moral: 9
+moral: "9"
 xp: 500
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

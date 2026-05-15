@@ -22,10 +22,10 @@ attack: "4 punches or 2 weapons"
 damage: "1d6 punch, by weapon"
 speed: "60'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 280
-nbr: Wild 2d6, Lair 6d6
-loot: S, I in lair
+nbr: "Wild 2d6, Lair 6d6"
+loot: "S, I in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

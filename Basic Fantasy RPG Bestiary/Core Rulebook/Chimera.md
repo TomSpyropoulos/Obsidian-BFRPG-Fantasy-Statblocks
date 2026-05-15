@@ -22,10 +22,10 @@ attack: "2 claws (1d4) / 1 lion bite (2d4) / 1 goat horns (1d8) / 1 dragon bite 
 damage: "1d4 claw, 2d4 bite (lion or dragon), 1d8 horns (goat), 3d4 dragon breath"
 speed: "40' (10') Fly 60' (15')'"
 jds: [9, 10, 12, 13, 14]
-moral: 9
+moral: "9"
 xp: 1225
-nbr: 1d2, Wild 1d4, Lair 1d4
-loot: F
+nbr: "1d2, Wild 1d4, Lair 1d4"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

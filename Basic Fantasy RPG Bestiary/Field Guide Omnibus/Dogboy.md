@@ -22,10 +22,10 @@ attack: "1"
 damage: "1d6 bite or 3d6 breath"
 speed: "40'"
 jds: [10, 11, 12, 14, 15]
-moral: 7
+moral: "7"
 xp: 175
-nbr: 2d6
-loot: A
+nbr: "2d6"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

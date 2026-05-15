@@ -22,10 +22,10 @@ attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d8/1d8/4d8 or breath/1d8"
 speed: "30' Fly 80' (20')'"
 jds: [9, 9, 11, 12, 13]
-moral: 8
+moral: "8"
 xp: 1480
-nbr: 1, Wild 1, Lair 1d4
-loot: H
+nbr: "1, Wild 1, Lair 1d4"
+loot: "H"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

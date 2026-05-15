@@ -22,10 +22,10 @@ attack: "1 pseudopod"
 damage: "Paralysis + special (see below)"
 speed: "60'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 360
-nbr: 1
-loot: C
+nbr: "1"
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

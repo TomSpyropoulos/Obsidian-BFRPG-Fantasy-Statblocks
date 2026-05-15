@@ -22,10 +22,10 @@ attack: "1 bite or buffet or 1 weapon"
 damage: "1d6 bite or 2d4 buffet or by weapon"
 speed: "30' Swim 30' Fly 90'"
 jds: [11, 11, 13, 14, 15]
-moral: 8
+moral: "8"
 xp: 280
-nbr: 1d4, Lair 2d4
-loot: Individuals S; Lair I
+nbr: "1d4, Lair 2d4"
+loot: "Individuals S; Lair I"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

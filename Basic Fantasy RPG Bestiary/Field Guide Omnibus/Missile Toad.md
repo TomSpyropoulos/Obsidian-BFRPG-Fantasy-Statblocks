@@ -22,10 +22,10 @@ attack: "1"
 damage: "1d4 + poison"
 speed: "30' Swim 30'"
 jds: [13, 14, 15, 16, 18]
-moral: 8
+moral: "8"
 xp: 10
-nbr: 1d4, Wild 1d4
-loot: None
+nbr: "1d4, Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

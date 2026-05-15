@@ -22,10 +22,10 @@ attack: "1 kick / 1 weapon"
 damage: "1d4 kick, by weapon"
 speed: "40' (10')'"
 jds: [11, 12, 14, 15, 16]
-moral: 10
+moral: "10"
 xp: 145
-nbr: 3d4
-loot: A
+nbr: "3d4"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

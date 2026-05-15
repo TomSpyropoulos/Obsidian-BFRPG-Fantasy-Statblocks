@@ -22,10 +22,10 @@ attack: "1 giant weapon or 1 thrown rock or Spell"
 damage: "7d6 giant weapon, 6d6 rock, or by spell"
 speed: "50' (or see below)'"
 jds: [7, 7, 9, 10, 11]
-moral: 8
-xp: 17 HD: 3,745; 18 HD: 4,160; 19 HD: 4,675; 20 HD: 5,450; 21 HD: 6,225; 22 HD: 7,000
-nbr: 1d8
-loot: None
+moral: "8"
+xp: 3745
+nbr: "1d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

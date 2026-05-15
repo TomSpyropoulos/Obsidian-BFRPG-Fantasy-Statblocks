@@ -22,10 +22,10 @@ attack: "1 tail lash (2d6)"
 damage: "2d6"
 speed: "60'"
 jds: [8, 9, 10, 12, 13]
-moral: 8
+moral: "8"
 xp: 1875
-nbr: 2d8
-loot: None
+nbr: "2d8"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

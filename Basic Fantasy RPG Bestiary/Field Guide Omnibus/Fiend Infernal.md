@@ -22,10 +22,10 @@ attack: "2 weapons (see below) or special"
 damage: "1d4+4 club, 1d6+6 mace (see below) or special"
 speed: "30' Fly 90'"
 jds: [8, 9, 10, 12, 13]
-moral: 9
+moral: "9"
 xp: 2395
-nbr: 1 Lair 1d4
-loot: Special
+nbr: "1 Lair 1d4"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

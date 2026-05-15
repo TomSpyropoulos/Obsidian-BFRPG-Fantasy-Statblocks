@@ -22,10 +22,10 @@ attack: "-"
 damage: "1d8 + 1d8/round if swallowed"
 speed: "20' (10')'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 555
-nbr: 1d3, Lair 1d3
-loot: B
+nbr: "1d3, Lair 1d3"
+loot: "B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

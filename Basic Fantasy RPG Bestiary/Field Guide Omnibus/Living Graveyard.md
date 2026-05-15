@@ -22,10 +22,10 @@ attack: "1 tombstone + special"
 damage: "2d6 tombstone + special"
 speed: "N/A'"
 jds: [9, 8, 7, 12, 9]
-moral: 12
+moral: "12"
 xp: 21650
-nbr: 1
-loot: None
+nbr: "1"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

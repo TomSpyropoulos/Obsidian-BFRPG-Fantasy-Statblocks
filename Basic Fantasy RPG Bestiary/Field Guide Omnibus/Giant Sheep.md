@@ -22,10 +22,10 @@ attack: "1"
 damage: "2d6 heat butt + special"
 speed: "40'"
 jds: [11, 11, 13, 14, 15]
-moral: 7 (ewe) 8 (ram)
+moral: "7 (ewe) 8 (ram)"
 xp: 240
-nbr: 2d4
-loot: None
+nbr: "2d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

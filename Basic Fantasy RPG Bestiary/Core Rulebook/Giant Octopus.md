@@ -22,10 +22,10 @@ attack: "8 tentacles/1 bite"
 damage: "1d4 per tentacle/1d6"
 speed: "Swim 30'"
 jds: [9, 10, 12, 13, 14]
-moral: 7
+moral: "7"
 xp: 875
-nbr: Wild 1d2
-loot: None
+nbr: "Wild 1d2"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

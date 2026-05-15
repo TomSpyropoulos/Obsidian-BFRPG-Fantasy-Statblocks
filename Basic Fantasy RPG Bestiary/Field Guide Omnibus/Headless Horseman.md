@@ -22,10 +22,10 @@ attack: "1 weapon (also see mount)"
 damage: "1d8 or by weapon (also see mount)"
 speed: "30' (also see mount)'"
 jds: [10, 11, 12, 14, 15]
-moral: special
-xp: 800 (or more per HD) (plus XP of mount)
-nbr: 1 (plus mount)
-loot: None
+moral: "special"
+xp: 800
+nbr: "1 (plus mount)"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

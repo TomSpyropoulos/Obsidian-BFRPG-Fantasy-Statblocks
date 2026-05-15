@@ -22,10 +22,10 @@ attack: "1 tongue or 1 bite"
 damage: "grab or 2d6"
 speed: "40' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 7
+moral: "7"
 xp: 360
-nbr: 1d3, Wild 1d6
-loot: None
+nbr: "1d3, Wild 1d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

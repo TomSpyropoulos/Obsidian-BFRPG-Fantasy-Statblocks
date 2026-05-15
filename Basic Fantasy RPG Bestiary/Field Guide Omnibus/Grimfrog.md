@@ -22,10 +22,10 @@ attack: "1 special"
 damage: "Special"
 speed: "40' Swim 40'"
 jds: [12, 13, 14, 15, 17]
-moral: 10
+moral: "10"
 xp: 500
-nbr: 1 swarm
-loot: None
+nbr: "1 swarm"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 hooves (1d4)"
 damage: "1d4 hoof"
 speed: "Swim 80'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: Wild 10d10
-loot: None
+nbr: "Wild 10d10"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

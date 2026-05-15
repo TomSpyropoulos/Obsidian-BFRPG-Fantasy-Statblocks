@@ -22,10 +22,10 @@ attack: "2 claws/1 bite or breath"
 damage: "2d8/2d8/10d6 or 30d8"
 speed: "10' (10') Swim 30' (15')'"
 jds: [5, 6, 8, 9, 10]
-moral: 10
+moral: "10"
 xp: 13650
-nbr: Wild 1
-loot: H (calculated at one-quarter hit dice)
+nbr: "Wild 1"
+loot: "H (calculated at one-quarter hit dice)"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

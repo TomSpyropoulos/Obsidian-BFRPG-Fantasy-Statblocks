@@ -22,10 +22,10 @@ attack: "1 weapon or 2 claws"
 damage: "by weapon or 1d4 claw"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 75
-nbr: 1d4, Wild 2d4, Lair 3d6
-loot: U, Lair B
+nbr: "1d4, Wild 2d4, Lair 3d6"
+loot: "U, Lair B"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

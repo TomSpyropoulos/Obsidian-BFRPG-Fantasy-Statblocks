@@ -22,10 +22,10 @@ attack: "1 thorn or bite"
 damage: "3d4 thorn or 1d8 bite"
 speed: "Fly 60'"
 jds: [12, 14, 12, 15, 14]
-moral: 8
+moral: "8"
 xp: 145
-nbr: 1 swarm, Wild 1d3 swarms, Lair 1d3 swarms
-loot: None, E, or F
+nbr: "1 swarm, Wild 1d3 swarms, Lair 1d3 swarms"
+loot: "None, E, or F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "1 bite/1 sting"
 damage: "2d8/1d8+poison"
 speed: "20' (15') Burrow 20' (15')'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
-xp: 1,670 – 5,450
-nbr: 1d2, Wild 1d4
-loot: None
+moral: "10"
+xp: 1670
+nbr: "1d2, Wild 1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

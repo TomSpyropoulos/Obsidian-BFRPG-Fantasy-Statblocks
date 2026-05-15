@@ -22,10 +22,10 @@ attack: "2 trample"
 damage: "5d4 trample"
 speed: "60'"
 jds: [7, 8, 10, 11, 12]
-moral: 7
+moral: "7"
 xp: 2500
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

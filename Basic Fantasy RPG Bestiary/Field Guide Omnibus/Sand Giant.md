@@ -22,10 +22,10 @@ attack: "1 giant weapon or 2 fists"
 damage: "3d6 giant weapon, 3d6 fist"
 speed: "50'"
 jds: [8, 9, 10, 12, 13]
-moral: 8
+moral: "8"
 xp: 2175
-nbr: Wild 2d10
-loot: E + 1d12×1,000 gp
+nbr: "Wild 2d10"
+loot: "E + 1d12×1,000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

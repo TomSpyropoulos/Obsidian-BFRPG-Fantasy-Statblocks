@@ -22,10 +22,10 @@ attack: "2 claws + choke"
 damage: "1d4 claw + 1d6 choke"
 speed: "30' Swim 30'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 100
-nbr: Wild 2d6 Lair 8d6
-loot: -- C in Lair --
+nbr: "Wild 2d6 Lair 8d6"
+loot: "-- C in Lair --"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

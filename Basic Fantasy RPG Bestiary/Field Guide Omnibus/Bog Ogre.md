@@ -22,10 +22,10 @@ attack: "2 fists + swallow"
 damage: "1d8 fist + special"
 speed: "30'"
 jds: [11, 11, 13, 14, 15]
-moral: 10
+moral: "10"
 xp: 280
-nbr: 1d6, Lair 2d6
-loot: D + 2d10x100 gp
+nbr: "1d6, Lair 2d6"
+loot: "D + 2d10x100 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

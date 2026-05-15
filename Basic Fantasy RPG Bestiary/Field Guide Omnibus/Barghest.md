@@ -22,10 +22,10 @@ attack: "2 claws (humanoid) / 1 bite (dog)"
 damage: "1d6 claw or 2d4 bite"
 speed: "40' or 60'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 555
-nbr: 1d6, Wild 1d8
-loot: D
+nbr: "1d6, Wild 1d8"
+loot: "D"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

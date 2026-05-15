@@ -22,10 +22,10 @@ attack: "4 or 2"
 damage: "1d8 or by weapons"
 speed: "30'"
 jds: [10, 11, 12, 14, 15]
-moral: 10
+moral: "10"
 xp: 555
-nbr: 1d4
-loot: E
+nbr: "1d4"
+loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

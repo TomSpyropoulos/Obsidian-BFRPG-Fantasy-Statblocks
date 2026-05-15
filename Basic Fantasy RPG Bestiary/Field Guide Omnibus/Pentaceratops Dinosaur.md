@@ -22,10 +22,10 @@ attack: "1 gore / 1 trample"
 damage: "2d10 gore or 2d10 (+ special) trample"
 speed: "40'"
 jds: [9, 9, 11, 12, 13]
-moral: 8
+moral: "8"
 xp: 1300
-nbr: 2d6
-loot: None
+nbr: "2d6"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

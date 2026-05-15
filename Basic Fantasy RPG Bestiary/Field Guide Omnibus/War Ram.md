@@ -22,10 +22,10 @@ attack: "1 horns or 2 hooves"
 damage: "1d6 horn, 1d4 hoof"
 speed: "40' Climb 20'"
 jds: [11, 12, 14, 15, 16]
-moral: 9
+moral: "9"
 xp: 145
-nbr: Domestic only
-loot: None
+nbr: "Domestic only"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

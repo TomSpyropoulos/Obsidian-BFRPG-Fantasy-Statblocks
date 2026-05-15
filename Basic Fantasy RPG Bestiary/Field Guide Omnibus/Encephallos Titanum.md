@@ -22,10 +22,10 @@ attack: "1 spore spray"
 damage: "Special"
 speed: "0'"
 jds: [9, 10, 12, 13, 14]
-moral: 10
+moral: "10"
 xp: 1075
-nbr: 1
-loot: A
+nbr: "1"
+loot: "A"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

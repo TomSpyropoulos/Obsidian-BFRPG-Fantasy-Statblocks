@@ -22,10 +22,10 @@ attack: "1 horn/head butt or 1 trample"
 damage: "1d4 butt, 2d4 trample"
 speed: "50' (10')'"
 jds: [11, 11, 13, 14, 15]
-moral: 7(9)
+moral: "7(9)"
 xp: 240
-nbr: Special, Wild 10d12
-loot: None
+nbr: "Special, Wild 10d12"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

@@ -22,10 +22,10 @@ attack: "-"
 damage: "1d4/1d4/1d6 or by weapon + special"
 speed: "20' Fly 50' (10')'"
 jds: [11, 12, 14, 15, 16]
-moral: 7
+moral: "7"
 xp: 100
-nbr: 
-loot: C
+nbr: ""
+loot: "C"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

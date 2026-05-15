@@ -22,10 +22,10 @@ attack: "2 claws or 1 sting"
 damage: "1d6+3 claw or 1d4+poison sting"
 speed: "20' Possible Fly 30'"
 jds: [9, 10, 13, 15, 14]
-moral: 12
+moral: "12"
 xp: 280
-nbr: 1d4
-loot: None
+nbr: "1d4"
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

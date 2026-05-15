@@ -22,10 +22,10 @@ attack: "1 touch"
 damage: "1d4 + 1 point Strength loss"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
-moral: 12
+moral: "12"
 xp: 100
-nbr: 1d10, Wild 1d10, Lair 1d10
-loot: F
+nbr: "1d10, Wild 1d10, Lair 1d10"
+loot: "F"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

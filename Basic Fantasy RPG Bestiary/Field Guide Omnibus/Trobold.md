@@ -22,10 +22,10 @@ attack: "2 claws (1d2) / 1 bite (1d4)"
 damage: "-"
 speed: "30'"
 jds: [13, 14, 15, 16, 18]
-moral: 9 (6, 3)
+moral: "9 (6, 3)"
 xp: 16
-nbr: 4d4, Lair 6d10
-loot: P individual, Lair J
+nbr: "4d4, Lair 6d10"
+loot: "P individual, Lair J"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -22,10 +22,10 @@ attack: "2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
 damage: "-"
 speed: "120' Fly 180'"
 jds: [8, 9, 10, 12, 13]
-moral: 8
+moral: "8"
 xp: 2075
-nbr: 1
-loot: Special
+nbr: "1"
+loot: "Special"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:
