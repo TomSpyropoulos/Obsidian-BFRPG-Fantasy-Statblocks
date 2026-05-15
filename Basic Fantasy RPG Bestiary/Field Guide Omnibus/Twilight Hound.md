@@ -13,11 +13,11 @@ name: Twilight Hound
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 2 [17]
-hit_dice: 5* to 9* (+8)
-hp: 30
+hit_dice: 5*
+hp: 22
 thaco: 15 [+5]
 modifier: 0
-stats: ["5* to 9* (+8)", "30", "2 [17]", "15 [+5]"]
+stats: ["5*", "22", "2 [17]", "15 [+5]"]
 attack: "2 bites or 1 bite + poison"
 damage: "1d10 bite or 1d4 bite + poison"
 speed: "40'"

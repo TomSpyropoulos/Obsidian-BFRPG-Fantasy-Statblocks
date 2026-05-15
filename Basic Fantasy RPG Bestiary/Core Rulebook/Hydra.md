@@ -13,11 +13,11 @@ name: Hydra
 layout: BFRPG
 subtype: Core Rulebook
 ac: 3 [16]
-hit_dice: 5 to 12 (+10)
-hp: 32
+hit_dice: 5
+hp: 22
 thaco: 15 [+5]
 modifier: 0
-stats: ["5 to 12 (+10)", "32", "3 [16]", "15 [+5]"]
+stats: ["5", "22", "3 [16]", "15 [+5]"]
 attack: "5 to 12 bites"
 damage: "1d10 per bite"
 speed: "40' (10')'"

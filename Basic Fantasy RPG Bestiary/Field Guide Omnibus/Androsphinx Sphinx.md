@@ -13,11 +13,11 @@ name: Androsphinx Sphinx
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: -3 [22]
-hit_dice: 9* (+8) to 12* (+10)
-hp: 58
+hit_dice: 9* (+8)
+hp: 48
 thaco: 12 [+8]
 modifier: 1
-stats: ["9* (+8) to 12* (+10)", "58", "-3 [22]", "12 [+8]"]
+stats: ["9* (+8)", "48", "-3 [22]", "12 [+8]"]
 attack: "2 claws + rake + roar"
 damage: "2d6 claw, 2d6 rake"
 speed: "90', Fly 150'"

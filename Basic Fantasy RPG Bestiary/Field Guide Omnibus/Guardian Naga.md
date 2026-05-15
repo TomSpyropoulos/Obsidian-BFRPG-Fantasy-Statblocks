@@ -13,11 +13,11 @@ name: Guardian Naga
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 2 [17]
-hit_dice: 11* (+9) to 13* (+10)
-hp: 68
+hit_dice: 11* (+9)
+hp: 58
 thaco: 11 [+9]
 modifier: 1
-stats: ["11* (+9) to 13* (+10)", "68", "2 [17]", "11 [+9]"]
+stats: ["11* (+9)", "58", "2 [17]", "11 [+9]"]
 attack: "1 constrict / 1 bite or 1 spit"
 damage: "2d4 constrict, 1d6 + poison bite, or poison spit"
 speed: "60'"

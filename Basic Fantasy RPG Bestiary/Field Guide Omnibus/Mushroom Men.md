@@ -13,11 +13,11 @@ name: Mushroom Men
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 6 [13]
-hit_dice: 1 to 10 (+9)
-hp: 13
+hit_dice: 1
+hp: 4
 thaco: 19 [+1]
 modifier: 0
-stats: ["1 to 10 (+9)", "13", "6 [13]", "19 [+1]"]
+stats: ["1", "4", "6 [13]", "19 [+1]"]
 attack: "1"
 damage: "1-2 HD: 1d4 or by weapon -1; 3-5 HD: 1d6 or by weapon; 6-8 HD: 1d8 or by weapon +1; 9+ HD: 1d10 or by weapon +2"
 speed: "40'"

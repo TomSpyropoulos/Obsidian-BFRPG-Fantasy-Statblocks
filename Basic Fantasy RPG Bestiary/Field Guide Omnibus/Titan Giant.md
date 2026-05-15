@@ -13,11 +13,11 @@ name: Titan Giant
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 3 [16]
-hit_dice: 17* (+12) to 22* (+13)
-hp: 101
+hit_dice: 17* (+12)
+hp: 88
 thaco: 8 [+12]
 modifier: 2
-stats: ["17* (+12) to 22* (+13)", "101", "3 [16]", "8 [+12]"]
+stats: ["17* (+12)", "88", "3 [16]", "8 [+12]"]
 attack: "1 giant weapon or 1 thrown rock or Spell"
 damage: "7d6 giant weapon, 6d6 rock, or by spell"
 speed: "50' (or see below)'"

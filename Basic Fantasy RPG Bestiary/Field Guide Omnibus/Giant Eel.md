@@ -13,11 +13,11 @@ name: Giant Eel
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 7 [12]
-hit_dice: 2, 4, or 6 (*)
+hit_dice: 2, 4,
 hp: 9
 thaco: 18 [+2]
 modifier: 0
-stats: ["2, 4, or 6 (*)", "9", "7 [12]", "18 [+2]"]
+stats: ["2, 4,", "9", "7 [12]", "18 [+2]"]
 attack: "1 bite"
 damage: "1d8, 1d10, or 1d12"
 speed: "Swim 60'"

@@ -13,11 +13,11 @@ name: Lich
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 0 [19]
-hit_dice: 10** (+9) or more see below
+hit_dice: 10** (+9)
 hp: 54
 thaco: 11 [+9]
 modifier: 1
-stats: ["10** (+9) or more see below", "54", "0 [19]", "11 [+9]"]
+stats: ["10** (+9)", "54", "0 [19]", "11 [+9]"]
 attack: "1 touch, weapon, or spell"
 damage: "1d8 + drain, by weapon, or by spell"
 speed: "30'"

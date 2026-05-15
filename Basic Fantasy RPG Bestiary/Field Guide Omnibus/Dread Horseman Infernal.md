@@ -13,11 +13,11 @@ name: Dread Horseman Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 1 [18]
-hit_dice: 6** to 8**
+hit_dice: 6**
 hp: 27
 thaco: 14 [+6]
 modifier: 0
-stats: ["6** to 8**", "27", "1 [18]", "14 [+6]"]
+stats: ["6**", "27", "1 [18]", "14 [+6]"]
 attack: "1 slam or 1 weapon"
 damage: "1d6 slam, by weapon"
 speed: "40'"

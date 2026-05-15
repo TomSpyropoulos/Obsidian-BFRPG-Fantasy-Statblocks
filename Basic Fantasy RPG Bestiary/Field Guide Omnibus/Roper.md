@@ -13,11 +13,11 @@ name: Roper
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: -1 [20]
-hit_dice: 10* (+9) to 12* (+10)
-hp: 64
+hit_dice: 10* (+9)
+hp: 54
 thaco: 11 [+9]
 modifier: 1
-stats: ["10* (+9) to 12* (+10)", "64", "-1 [20]", "11 [+9]"]
+stats: ["10* (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "1 bite + special"
 damage: "3d6"
 speed: "10'"

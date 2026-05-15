@@ -13,11 +13,11 @@ name: Boglin
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 8 [11]
-hit_dice: 1* to 5*
+hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
 modifier: 0
-stats: ["1* to 5*", "4", "8 [11]", "19 [+1]"]
+stats: ["1*", "4", "8 [11]", "19 [+1]"]
 attack: "1 weapon or spell"
 damage: "1d6 or by weapon, or per spell"
 speed: "30'"

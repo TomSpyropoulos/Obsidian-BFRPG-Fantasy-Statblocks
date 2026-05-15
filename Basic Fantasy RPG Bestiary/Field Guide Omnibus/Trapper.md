@@ -13,11 +13,11 @@ name: Trapper
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 2 [17]
-hit_dice: 9* (+8) to 12* (+10)
-hp: 58
+hit_dice: 9* (+8)
+hp: 48
 thaco: 12 [+8]
 modifier: 1
-stats: ["9* (+8) to 12* (+10)", "58", "2 [17]", "12 [+8]"]
+stats: ["9* (+8)", "48", "2 [17]", "12 [+8]"]
 attack: "Special, see below"
 damage: "Special, see below"
 speed: "10'"

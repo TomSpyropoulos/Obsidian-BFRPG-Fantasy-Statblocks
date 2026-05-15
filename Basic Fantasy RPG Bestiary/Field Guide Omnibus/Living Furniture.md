@@ -13,11 +13,11 @@ name: Living Furniture
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 6 [13]
-hit_dice: 2 to 4
+hit_dice: 2
 hp: 9
 thaco: 18 [+2]
 modifier: 0
-stats: ["2 to 4", "9", "6 [13]", "18 [+2]"]
+stats: ["2", "9", "6 [13]", "18 [+2]"]
 attack: "1"
 damage: "1d6"
 speed: "Small 10' Medium 20' Large 30'"

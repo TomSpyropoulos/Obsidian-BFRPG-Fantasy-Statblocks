@@ -13,11 +13,11 @@ name: Shadow Fiend Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 1 [18]
-hit_dice: 6*, 8*, 10*, or 12*
+hit_dice: 6*, 8*, 10*,
 hp: 27
 thaco: 14 [+6]
 modifier: 3
-stats: ["6*, 8*, 10*, or 12*", "27", "1 [18]", "14 [+6]"]
+stats: ["6*, 8*, 10*,", "27", "1 [18]", "14 [+6]"]
 attack: "1 touch or 1 magic throw"
 damage: "1d6 touch, 2d6 magic throw"
 speed: "Fly 180'"

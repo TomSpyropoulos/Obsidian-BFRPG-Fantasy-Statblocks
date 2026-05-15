@@ -13,11 +13,11 @@ name: Fire Lizard
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 2 [17]
-hit_dice: 7* to 12* (+10)
-hp: 41
+hit_dice: 7*
+hp: 31
 thaco: 13 [+7]
 modifier: 0
-stats: ["7* to 12* (+10)", "41", "2 [17]", "13 [+7]"]
+stats: ["7*", "31", "2 [17]", "13 [+7]"]
 attack: "2 claws / 1 bite or 1 breath"
 damage: "1d8 claw, 2d8 bite, 2d6 breath"
 speed: "40'"

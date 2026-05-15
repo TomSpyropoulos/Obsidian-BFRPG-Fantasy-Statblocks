@@ -13,11 +13,11 @@ name: Deceiver Kitten
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 6 [13]
-hit_dice: 1* to 4*
+hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
 modifier: 0
-stats: ["1* to 4*", "4", "6 [13]", "19 [+1]"]
+stats: ["1*", "4", "6 [13]", "19 [+1]"]
 attack: "3 bites (see below)"
 damage: "1 pt snake bite, 1d2 panther bite for 1 HD
 1d2 snake bite, 1d3 panther bite for 2 HD

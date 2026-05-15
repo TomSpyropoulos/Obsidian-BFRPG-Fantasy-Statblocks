@@ -13,11 +13,11 @@ name: Insect Swarm
 layout: BFRPG
 subtype: Core Rulebook
 ac: 9 [10]
-hit_dice: 2* to 4*
+hit_dice: 2*
 hp: 9
 thaco: 18 [+2]
 modifier: 0
-stats: ["2* to 4*", "9", "9 [10]", "18 [+2]"]
+stats: ["2*", "9", "9 [10]", "18 [+2]"]
 attack: "1 swarm"
 damage: "1d3 (double against no armor)"
 speed: "10' Fly 20'"

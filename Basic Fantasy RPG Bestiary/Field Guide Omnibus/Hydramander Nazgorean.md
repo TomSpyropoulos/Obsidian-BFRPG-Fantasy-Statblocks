@@ -13,11 +13,11 @@ name: Hydramander Nazgorean
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 1 [18]
-hit_dice: 8 to 12 (+10)
-hp: 46
+hit_dice: 8
+hp: 36
 thaco: 12 [+8]
 modifier: 1
-stats: ["8 to 12 (+10)", "46", "1 [18]", "12 [+8]"]
+stats: ["8", "36", "1 [18]", "12 [+8]"]
 attack: "5 to 8 bites (2d6)"
 damage: "-"
 speed: "20' (10')'"

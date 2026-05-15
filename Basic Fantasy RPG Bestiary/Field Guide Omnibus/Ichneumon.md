@@ -13,11 +13,11 @@ name: Ichneumon
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: -2 [21]
-hit_dice: 12 (+10) or 15 (+11)
-hp: 75
+hit_dice: 12 (+10)
+hp: 64
 thaco: 10 [+10]
 modifier: 2
-stats: ["12 (+10) or 15 (+11)", "75", "-2 [21]", "10 [+10]"]
+stats: ["12 (+10)", "64", "-2 [21]", "10 [+10]"]
 attack: "1 bite, 2 claws, or 1 bite + special"
 damage: "1d12 bite, 2d6 claw"
 speed: "50'"

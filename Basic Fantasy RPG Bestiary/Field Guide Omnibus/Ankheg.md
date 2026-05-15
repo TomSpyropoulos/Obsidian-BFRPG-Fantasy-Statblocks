@@ -13,11 +13,11 @@ name: Ankheg
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 0 [19]
-hit_dice: 4* or 5*
+hit_dice: 4*
 hp: 18
 thaco: 16 [+4]
 modifier: 0
-stats: ["4* or 5*", "18", "0 [19]", "16 [+4]"]
+stats: ["4*", "18", "0 [19]", "16 [+4]"]
 attack: "1 bite + hold or 1 spit"
 damage: "3d6 + 1d4/round or 4d8 (acid)"
 speed: "120' Burrow 60'"

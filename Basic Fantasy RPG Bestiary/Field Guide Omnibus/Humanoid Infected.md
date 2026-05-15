@@ -13,11 +13,11 @@ name: Humanoid Infected
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 8 [11]
-hit_dice: 2 or higher
+hit_dice: 2
 hp: 9
 thaco: 18 [+2]
 modifier: 0
-stats: ["2 or higher", "9", "8 [11]", "18 [+2]"]
+stats: ["2", "9", "8 [11]", "18 [+2]"]
 attack: "1 weapon"
 damage: "By weapon +1"
 speed: "30'"

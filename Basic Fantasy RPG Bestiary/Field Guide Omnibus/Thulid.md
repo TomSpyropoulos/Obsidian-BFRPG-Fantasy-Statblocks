@@ -13,11 +13,11 @@ name: Thulid
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: 4 [15]
-hit_dice: 1* to 8* (1** to 8** if a Magic-user)
+hit_dice: 1*
 hp: 4
 thaco: 19 [+1]
 modifier: -1
-stats: ["1* to 8* (1** to 8** if a Magic-user)", "4", "4 [15]", "19 [+1]"]
+stats: ["1*", "4", "4 [15]", "19 [+1]"]
 attack: "1 weapon or special"
 damage: "By weapon or special"
 speed: "40'"

@@ -13,11 +13,11 @@ name: Criosphinx Sphinx
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: -1 [20]
-hit_dice: 10* (+9) to 12* (+10)
-hp: 64
+hit_dice: 10* (+9)
+hp: 54
 thaco: 11 [+9]
 modifier: 1
-stats: ["10* (+9) to 12* (+10)", "64", "-1 [20]", "11 [+9]"]
+stats: ["10* (+9)", "54", "-1 [20]", "11 [+9]"]
 attack: "2 claws / 1 head butt / rake"
 damage: "2d4 claw, 3d6 head butt, 2d4 rake"
 speed: "60', Fly 120'"

@@ -13,11 +13,11 @@ name: Remorhaz
 layout: BFRPG
 subtype: Field Guide Omnibus
 ac: -1 [20]
-hit_dice: 7* to 14* (+11)
-hp: 42
+hit_dice: 7*
+hp: 31
 thaco: 13 [+7]
 modifier: 0
-stats: ["7* to 14* (+11)", "42", "-1 [20]", "13 [+7]"]
+stats: ["7*", "31", "-1 [20]", "13 [+7]"]
 attack: "1 bite (+ special on 20)"
 damage: "4d6 (7-8 HD), 5d6 (9-12 HD), or 6d6 (13-14 HD) (+ possible special)"
 speed: "30' Burrow 20'"
