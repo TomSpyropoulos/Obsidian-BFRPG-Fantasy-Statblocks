@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Ice (White Dragon) Dragon
+name: Ice Dragon (White)
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Ice (White Dragon) Dragon
+name: Ice Dragon (White)
 layout: BFRPG
 subtype: Core Rulebook
 ac: 2 [17]

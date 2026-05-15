@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Plains (Yellow Dragon) Dragon
+name: Plains Dragon (Yellow)
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Plains (Yellow Dragon) Dragon
+name: Plains Dragon (Yellow)
 layout: BFRPG
 subtype: Core Rulebook
 ac: 3 [16]

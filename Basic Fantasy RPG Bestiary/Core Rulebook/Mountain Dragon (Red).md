@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Mountain (Red Dragon) Dragon
+name: Mountain Dragon (Red)
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Mountain (Red Dragon) Dragon
+name: Mountain Dragon (Red)
 layout: BFRPG
 subtype: Core Rulebook
 ac: -2 [21]

@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Giant) Giant (or Ferret Weasel
+name: Giant Weasel
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Giant) Giant (or Ferret Weasel
+name: Giant Weasel
 layout: BFRPG
 subtype: Core Rulebook
 ac: 2 [17]

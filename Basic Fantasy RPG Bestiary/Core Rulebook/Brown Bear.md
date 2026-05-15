@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Grizzly (or Brown) Bear
+name: Brown Bear
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Grizzly (or Brown) Bear
+name: Brown Bear
 layout: BFRPG
 subtype: Core Rulebook
 ac: 5 [14]

@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Swamp (Black Dragon) Dragon
+name: Swamp Dragon (Black)
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Swamp (Black Dragon) Dragon
+name: Swamp Dragon (Black)
 layout: BFRPG
 subtype: Core Rulebook
 ac: 1 [18]

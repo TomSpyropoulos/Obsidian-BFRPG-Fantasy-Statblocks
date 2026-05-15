@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Giant) Giant (and Toad Frog
+name: Giant Frog
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Giant) Giant (and Toad Frog
+name: Giant Frog
 layout: BFRPG
 subtype: Core Rulebook
 ac: 6 [13]

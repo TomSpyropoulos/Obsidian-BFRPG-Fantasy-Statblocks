@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Sea (Gray Dragon) Dragon
+name: Sea Dragon (Gray)
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,7 +9,7 @@ source: Core Rulebook
 ---
 
 ```statblock
-name: Sea (Gray Dragon) Dragon
+name: Sea Dragon (Gray)
 layout: BFRPG
 subtype: Core Rulebook
 ac: 0 [19]
