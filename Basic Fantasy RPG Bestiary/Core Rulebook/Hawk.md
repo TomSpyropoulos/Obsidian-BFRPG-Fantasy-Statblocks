@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Hawk
 layout: BFRPG
 subtype: Core Rulebook
-ac: 7 [12]
-hit_dice: 1d4 Hit Points
+ac: 11
+hit_dice: "1d4 Hit Points"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1d4 Hit Points", "2", "7 [12]", "19 [+1]"]
+stats: ["1d4 Hit Points", "2", "11", "+1"]
 attack: "1 claw or bite"
 damage: "1d2"
 speed: "Fly 160'"

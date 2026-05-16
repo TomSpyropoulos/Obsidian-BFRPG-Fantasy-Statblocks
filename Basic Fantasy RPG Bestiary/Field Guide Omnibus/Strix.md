@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Strix
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 1+1**
+ac: 11
+hit_dice: "1+1**"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1**", "5", "7 [12]", "19 [+1]"]
+stats: ["1+1**", "5", "11", "+1"]
 attack: "1 bite (1d4)"
 damage: "-"
 speed: "Fly, 60'"

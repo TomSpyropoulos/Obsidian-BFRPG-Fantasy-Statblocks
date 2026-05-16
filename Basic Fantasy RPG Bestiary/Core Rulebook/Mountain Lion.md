@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Mountain Lion
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 3+2
+ac: 13
+hit_dice: "3+2"
 hp: 15
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+2", "15", "5 [14]", "17 [+3]"]
+stats: ["3+2", "15", "13", "+3"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/1d6"
 speed: "50'"

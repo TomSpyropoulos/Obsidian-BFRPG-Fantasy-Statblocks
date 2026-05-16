@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Telethia
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 7**
+ac: 19
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 1
-stats: ["7**", "31", "-1 [20]", "13 [+7]"]
+stats: ["7**", "31", "19", "+7"]
 attack: "2 claws / 2 bites or special"
 damage: "2d4 claw, 3d6 bite, special"
 speed: "30' Fly 120'"

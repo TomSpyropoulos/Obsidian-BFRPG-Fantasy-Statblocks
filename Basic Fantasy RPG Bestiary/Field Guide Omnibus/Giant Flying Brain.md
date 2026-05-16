@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Flying Brain
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 5+1*
+ac: 11
+hit_dice: "5+1*"
 hp: 23
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+1*", "23", "7 [12]", "15 [+5]"]
+stats: ["5+1*", "23", "11", "+5"]
 attack: "4 spells"
 damage: "By spell"
 speed: "Fly 50'"

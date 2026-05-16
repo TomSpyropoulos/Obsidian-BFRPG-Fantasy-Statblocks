@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Krong Reap
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 6*
+ac: 17
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "1 [18]", "14 [+6]"]
+stats: ["6*", "27", "17", "+6"]
 attack: "4 or 2"
 damage: "1d8 or by weapons"
 speed: "30'"

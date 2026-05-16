@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sewer Boar
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 7
+ac: 17
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "1 [18]", "13 [+7]"]
+stats: ["7", "31", "17", "+7"]
 attack: "1 bite or 1 charge"
 damage: "1d10 bite, 1d12 charge"
 speed: "30' Charge 90'"

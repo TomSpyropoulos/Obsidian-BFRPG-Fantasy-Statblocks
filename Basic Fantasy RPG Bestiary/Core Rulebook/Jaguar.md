@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Jaguar
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 4
+ac: 15
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "3 [16]", "16 [+4]"]
+stats: ["4", "18", "15", "+4"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/2d4"
 speed: "70' Swim 30'"

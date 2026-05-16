@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Stag Beetle
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 7
+ac: 17
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "1 [18]", "13 [+7]"]
+stats: ["7", "31", "17", "+7"]
 attack: "1 bite"
 damage: "1d6 bite (female) or 2d12 bite (male)"
 speed: "30'"

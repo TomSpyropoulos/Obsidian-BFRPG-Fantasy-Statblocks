@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Cloud Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: -3 [22]
-hit_dice: 11** (+9)
+ac: 21
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11** (+9)", "58", "-3 [22]", "11 [+9]"]
+stats: ["11** (+9)", "58", "21", "+9"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "2d4 claw, 6d6 bite or breath, 2d4 tail"
 speed: "30' Fly 80' (20')'"
@@ -25,7 +25,7 @@ jds: [9, 9, 11, 12, 13]
 moral: "10"
 xp: 1765
 nbr: "1, Wild 1, Lair 1d4"
-loot: ""
+loot: "None"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

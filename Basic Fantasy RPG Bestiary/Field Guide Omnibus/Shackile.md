@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Shackile
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 3
+ac: 15
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "3 [16]", "17 [+3]"]
+stats: ["3", "13", "15", "+3"]
 attack: "1 weapon, 1 beak, or special"
 damage: "1d6 or by weapon, 1d4 beak, or special"
 speed: "30' Fly 10'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Trollkin
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 1* – 2*
+ac: 13
+hit_dice: "1* \u2013 2*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1* \u2013 2*", "4", "5 [14]", "19 [+1]"]
+stats: ["1* \u2013 2*", "4", "13", "+1"]
 attack: "2 claws, 1 bite"
 damage: "1d4 claw, 1d4 bite"
 speed: "30'"

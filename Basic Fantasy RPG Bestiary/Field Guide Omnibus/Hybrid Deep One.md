@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hybrid Deep One
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 1+1
+ac: 13
+hit_dice: "1+1"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1", "5", "5 [14]", "19 [+1]"]
+stats: ["1+1", "5", "13", "+1"]
 attack: "2 claws or by weapon"
 damage: "1d2 claw, by weapon"
 speed: "30' Swim 20'"

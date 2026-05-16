@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rakshasa
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 7**
+ac: 23
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "-5 [24]", "13 [+7]"]
+stats: ["7**", "31", "23", "+7"]
 attack: "2 claws, 1 bite or special"
 damage: "1d4 claw, 1d4+1 bite or special"
 speed: "40'"

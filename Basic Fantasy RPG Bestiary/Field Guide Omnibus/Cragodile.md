@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Cragodile
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 8
+ac: 19
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "-1 [20]", "12 [+8]"]
+stats: ["8", "36", "19", "+8"]
 attack: "1"
 damage: "2d8 bite, 3d6 tail"
 speed: "30' (10') Swim 30' (10')'"

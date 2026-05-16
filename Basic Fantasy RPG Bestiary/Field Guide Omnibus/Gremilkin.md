@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gremilkin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 12 [7]
-hit_dice: 2
+ac: 6
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "12 [7]", "18 [+2]"]
+stats: ["2", "9", "6", "+2"]
 attack: "1 bite (1d4) / 2 claw (1d4)"
 damage: "-"
 speed: "40'"

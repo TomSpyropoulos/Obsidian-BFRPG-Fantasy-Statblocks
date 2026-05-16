@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grim
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 6+6**
+ac: 19
+hit_dice: "6+6**"
 hp: 33
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 1
-stats: ["6+6**", "33", "-1 [20]", "14 [+6]"]
+stats: ["6+6**", "33", "19", "+6"]
 attack: "1 bite"
 damage: "2d6"
 speed: "60'"

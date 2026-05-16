@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Lightning Salamander
 layout: BFRPG
 subtype: Core Rulebook
-ac: -1 [20]
-hit_dice: 10* (+9)
+ac: 19
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "-1 [20]", "11 [+9]"]
+stats: ["10* (+9)", "54", "19", "+9"]
 attack: "2 bites + lightning"
 damage: "2d4 bite, 1d8/round lightning"
 speed: "40'"

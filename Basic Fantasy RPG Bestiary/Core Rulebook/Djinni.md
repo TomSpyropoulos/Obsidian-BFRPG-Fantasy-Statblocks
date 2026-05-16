@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Djinni
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 7+1**
+ac: 14
+hit_dice: "7+1**"
 hp: 32
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 1
-stats: ["7+1**", "32", "4 [15]", "13 [+7]"]
+stats: ["7+1**", "32", "14", "+7"]
 attack: "1 fist or 1 whirlwind"
 damage: "2d8 or 2d6"
 speed: "30' Fly 80'"

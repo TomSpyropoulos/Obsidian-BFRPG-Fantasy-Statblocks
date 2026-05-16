@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Living Graveyard
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 40** (+15)
+ac: 20
+hit_dice: "40** (+15)"
 hp: 195
-thaco: 4 [+16]
+thaco: "+16"
 modifier: 1
-stats: ["40** (+15)", "195", "-2 [21]", "4 [+16]"]
+stats: ["40** (+15)", "195", "20", "+16"]
 attack: "1 tombstone + special"
 damage: "2d6 tombstone + special"
 speed: "N/A'"

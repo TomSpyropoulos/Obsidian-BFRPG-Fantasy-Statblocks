@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Catoblepas
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 7**
+ac: 12
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "6 [13]", "13 [+7]"]
+stats: ["7**", "31", "12", "+7"]
 attack: "1 tail or gaze"
 damage: "1d6 tail, save vs. Death Ray or die gaze"
 speed: "20'"

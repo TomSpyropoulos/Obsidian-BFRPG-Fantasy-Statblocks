@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Kobold
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 1d4 Hit Points
+ac: 12
+hit_dice: "1d4 Hit Points"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1d4 Hit Points", "2", "6 [13]", "19 [+1]"]
+stats: ["1d4 Hit Points", "2", "12", "+1"]
 attack: "1 weapon"
 damage: "1d4 or by weapon"
 speed: "20' Unarmored 30'"

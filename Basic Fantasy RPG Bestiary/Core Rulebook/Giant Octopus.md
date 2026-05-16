@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Octopus
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 8
+ac: 18
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "0 [19]", "12 [+8]"]
+stats: ["8", "36", "18", "+8"]
 attack: "8 tentacles/1 bite"
 damage: "1d4 per tentacle/1d6"
 speed: "Swim 30'"

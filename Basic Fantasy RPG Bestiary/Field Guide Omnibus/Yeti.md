@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Yeti
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4+4*
+ac: 13
+hit_dice: "4+4*"
 hp: 22
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+4*", "22", "5 [14]", "16 [+4]"]
+stats: ["4+4*", "22", "13", "+4"]
 attack: "2 claws + hug (see below)"
 damage: "1d6 claw, 2d8 hug"
 speed: "70'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Spellgoat
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: ½* (1d4 points)
+ac: 12
+hit_dice: "\u00bd* (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["\u00bd* (1d4 points)", "2", "6 [13]", "20 [+0]"]
+stats: ["\u00bd* (1d4 points)", "2", "12", "+0"]
 attack: "1 charge (1d4)"
 damage: "-"
 speed: "20'"

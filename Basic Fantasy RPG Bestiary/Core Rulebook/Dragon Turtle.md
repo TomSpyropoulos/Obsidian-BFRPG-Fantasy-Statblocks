@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Dragon Turtle
 layout: BFRPG
 subtype: Core Rulebook
-ac: -3 [22]
-hit_dice: 30** (AB +15)
+ac: 21
+hit_dice: "30** (AB +15)"
 hp: 150
-thaco: 5 [+15]
+thaco: "+15"
 modifier: 3
-stats: ["30** (AB +15)", "150", "-3 [22]", "5 [+15]"]
+stats: ["30** (AB +15)", "150", "21", "+15"]
 attack: "2 claws/1 bite or breath"
 damage: "2d8/2d8/10d6 or 30d8"
 speed: "10' (10') Swim 30' (15')'"

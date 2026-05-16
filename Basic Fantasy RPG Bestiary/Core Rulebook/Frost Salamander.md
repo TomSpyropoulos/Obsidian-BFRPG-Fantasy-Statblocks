@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Frost Salamander
 layout: BFRPG
 subtype: Core Rulebook
-ac: -2 [21]
-hit_dice: 12* (+10)
+ac: 20
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "-2 [21]", "10 [+10]"]
+stats: ["12* (+10)", "64", "20", "+10"]
 attack: "4 claws/1 bite + cold"
 damage: "1d6/1d6/1d6/1d6/2d6 + 1d8/round"
 speed: "40'"

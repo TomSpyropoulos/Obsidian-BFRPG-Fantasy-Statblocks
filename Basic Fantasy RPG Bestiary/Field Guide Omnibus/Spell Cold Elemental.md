@@ -12,20 +12,20 @@ source: Field Guide Omnibus
 name: Spell Cold Elemental
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -3 [22]
-hit_dice: 16* (+12)
+ac: 21
+hit_dice: "16* (+12)"
 hp: 84
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["16* (+12)", "84", "-3 [22]", "8 [+12]"]
+stats: ["16* (+12)", "84", "21", "+12"]
 attack: "1"
 damage: "3d6"
 speed: "40'"
 jds: [7, 7, 9, 10, 11]
 moral: "10"
 xp: 3385
-nbr: "– special –"
-loot: "– None –"
+nbr: "\u2013 special \u2013"
+loot: "\u2013 None \u2013"
 roll_jds: 1d20
 roll-moral: 2d6
 actions:

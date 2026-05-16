@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Cow Dragon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8**
+ac: 18
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "0 [19]", "12 [+8]"]
+stats: ["8**", "36", "18", "+8"]
 attack: "1 gore or breath"
 damage: "3d8 gore or 7d8 breath"
 speed: "30' Fly 80' (15')'"

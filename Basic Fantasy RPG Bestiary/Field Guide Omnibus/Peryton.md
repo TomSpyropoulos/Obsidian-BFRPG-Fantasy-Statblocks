@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Peryton
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 4*
+ac: 12
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "6 [13]", "16 [+4]"]
+stats: ["4*", "18", "12", "+4"]
 attack: "1 antler (+2 to hit)"
 damage: "4d4 antler"
 speed: "40' Fly 130' (10')'"

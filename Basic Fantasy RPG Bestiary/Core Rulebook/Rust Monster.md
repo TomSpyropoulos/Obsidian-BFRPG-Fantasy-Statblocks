@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Rust Monster
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 5*
+ac: 17
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "1 [18]", "15 [+5]"]
+stats: ["5*", "22", "17", "+5"]
 attack: "1 touch"
 damage: "special"
 speed: "40'"

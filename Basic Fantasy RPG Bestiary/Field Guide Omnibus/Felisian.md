@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Felisian
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 3
+ac: 15
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "3 [16]", "17 [+3]"]
+stats: ["3", "13", "15", "+3"]
 attack: "2 claw / 1 bite or 1 weapon"
 damage: "1d4 claw, 1d4 bite, or by weapon"
 speed: "50'"

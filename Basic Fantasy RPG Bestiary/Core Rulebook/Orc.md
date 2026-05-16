@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Orc
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 1
+ac: 13
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "5 [14]", "19 [+1]"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 weapon"
 damage: "1d8 or by weapon"
 speed: "30' Unarmored 40'"

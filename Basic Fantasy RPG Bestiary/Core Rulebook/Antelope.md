@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Antelope
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 1
+ac: 12
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "19 [+1]"]
+stats: ["1", "4", "12", "+1"]
 attack: "1 butt"
 damage: "1d4 or 1d6 or 1d8"
 speed: "80' (10')'"

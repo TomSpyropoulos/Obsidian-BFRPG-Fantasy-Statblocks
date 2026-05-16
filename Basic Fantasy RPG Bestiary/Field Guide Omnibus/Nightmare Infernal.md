@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Nightmare Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 6+6*
+ac: 23
+hit_dice: "6+6*"
 hp: 33
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+6*", "33", "-5 [24]", "14 [+6]"]
+stats: ["6+6*", "33", "23", "+6"]
 attack: "2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
 damage: "2d4+2 hoof, 2d4 bite, or special"
 speed: "80' (10') Fly 160' (10')'"

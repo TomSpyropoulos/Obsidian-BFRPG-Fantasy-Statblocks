@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Magnystic Mite
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 1 hit point*
+ac: 15
+hit_dice: "1 hit point*"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1 hit point*", "1", "3 [16]", "19 [+1]"]
+stats: ["1 hit point*", "1", "15", "+1"]
 attack: "1 bite + Save Drain"
 damage: "Save Drain (Wands)"
 speed: "40'"

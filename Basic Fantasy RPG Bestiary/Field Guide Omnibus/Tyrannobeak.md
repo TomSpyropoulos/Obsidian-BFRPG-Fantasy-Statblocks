@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Tyrannobeak
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -4 [23]
-hit_dice: 18 (+12)
+ac: 22
+hit_dice: "18 (+12)"
 hp: 93
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["18 (+12)", "93", "-4 [23]", "8 [+12]"]
+stats: ["18 (+12)", "93", "22", "+12"]
 attack: "2 claws / 1 beak"
 damage: "2d8 claw, 4d6 bite"
 speed: "50' (10') Leap 10'"

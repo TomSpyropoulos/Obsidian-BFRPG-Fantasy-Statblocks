@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wind Salamander
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 10* (+7)
+ac: 23
+hit_dice: "10* (+7)"
 hp: 52
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+7)", "52", "-5 [24]", "11 [+9]"]
+stats: ["10* (+7)", "52", "23", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "30' Fly 60'"

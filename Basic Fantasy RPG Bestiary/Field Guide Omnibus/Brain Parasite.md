@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Brain Parasite
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 9 [10]
-hit_dice: 1 HP
+ac: 9
+hit_dice: "1 HP"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1 HP", "1", "9 [10]", "19 [+1]"]
+stats: ["1 HP", "1", "9", "+1"]
 attack: "1 bite"
 damage: "special"
 speed: "5'"

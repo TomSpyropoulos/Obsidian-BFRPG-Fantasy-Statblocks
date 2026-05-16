@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Lion
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 5
+ac: 13
+hit_dice: "5"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5", "22", "5 [14]", "15 [+5]"]
+stats: ["5", "22", "13", "+5"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/1d10"
 speed: "50'"

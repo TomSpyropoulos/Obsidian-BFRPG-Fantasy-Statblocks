@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Dream Bear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 8*
+ac: 16
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "2 [17]", "12 [+8]"]
+stats: ["8*", "36", "16", "+8"]
 attack: "2 claws + hug / 1 bite"
 damage: "1d4 claw, 2d8 hug, 1d8 bite"
 speed: "40'"

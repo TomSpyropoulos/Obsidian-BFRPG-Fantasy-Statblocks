@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Drat
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: ½* (1d4 hit points)
+ac: 10
+hit_dice: "\u00bd* (1d4 hit points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: 0
-stats: ["\u00bd* (1d4 hit points)", "2", "8 [11]", "20 [+0]"]
+stats: ["\u00bd* (1d4 hit points)", "2", "10", "+0"]
 attack: "Special"
 damage: "Special"
 speed: "30'"

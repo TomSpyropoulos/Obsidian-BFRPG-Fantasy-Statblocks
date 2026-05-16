@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sabre Worm
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 10*
+ac: 17
+hit_dice: "10*"
 hp: 45
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10*", "45", "1 [18]", "11 [+9]"]
+stats: ["10*", "45", "17", "+9"]
 attack: "2 sabre claws / 1 bite / 1 breath weapon"
 damage: "1d6+3 claw, 4d4 bite or 6d6 breath"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Roc
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 6
+ac: 17
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "1 [18]", "14 [+6]"]
+stats: ["6", "27", "17", "+6"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
 speed: "20' Fly 160' (10')'"

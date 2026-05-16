@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Amalgam
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8*
+ac: 17
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "1 [18]", "12 [+8]"]
+stats: ["8*", "36", "17", "+8"]
 attack: "1 engulf"
 damage: "1d6 + energy drain (1 level)"
 speed: "Fly 90'"

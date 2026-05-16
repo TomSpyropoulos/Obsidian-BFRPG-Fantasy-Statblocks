@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Fiend Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -4 [23]
-hit_dice: 13** (+10)
+ac: 22
+hit_dice: "13** (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13** (+10)", "68", "-4 [23]", "10 [+10]"]
+stats: ["13** (+10)", "68", "22", "+10"]
 attack: "2 weapons (see below) or special"
 damage: "1d4+4 club, 1d6+6 mace (see below) or special"
 speed: "30' Fly 90'"

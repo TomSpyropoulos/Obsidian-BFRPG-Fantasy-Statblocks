@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Manticore
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 6+1*
+ac: 17
+hit_dice: "6+1*"
 hp: 28
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+1*", "28", "1 [18]", "14 [+6]"]
+stats: ["6+1*", "28", "17", "+6"]
 attack: "2 claws/1 bite or 1d8 spikes (180' range)"
 damage: "1d4/1d4/2d4 or 1d6 per spike"
 speed: "40' Fly 60' (10')'"

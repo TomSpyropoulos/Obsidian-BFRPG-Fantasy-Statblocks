@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Yellow Mold
 layout: BFRPG
 subtype: Core Rulebook
-ac: 9 [10]
-hit_dice: 2*
+ac: 9
+hit_dice: "2*"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: -1
-stats: ["2*", "9", "9 [10]", "18 [+2]"]
+stats: ["2*", "9", "9", "+2"]
 attack: "-"
 damage: "See below"
 speed: "0'"

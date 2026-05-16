@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grave Dancer
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: Special
+ac: 15
+hit_dice: "Special"
 hp: Special
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 1
-stats: ["Special", "Special", "3 [16]", "19 [+1]"]
+stats: ["Special", "Special", "15", "+1"]
 attack: "None"
 damage: "None"
 speed: "20'"

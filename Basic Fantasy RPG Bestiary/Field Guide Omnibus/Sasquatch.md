@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sasquatch
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 5+5
+ac: 14
+hit_dice: "5+5"
 hp: 27
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+5", "27", "4 [15]", "15 [+5]"]
+stats: ["5+5", "27", "14", "+5"]
 attack: "2 fists"
 damage: "1d6"
 speed: "Unarmored 30' Climb 20'"

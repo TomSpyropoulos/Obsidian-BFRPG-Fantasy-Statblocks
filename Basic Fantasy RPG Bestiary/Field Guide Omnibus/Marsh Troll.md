@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Marsh Troll
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 7*
+ac: 13
+hit_dice: "7*"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*", "31", "5 [14]", "13 [+7]"]
+stats: ["7*", "31", "13", "+7"]
 attack: "2 claws / 1 bite / special"
 damage: "1d4+2 claw, 1d8+2 bite"
 speed: "30' Swim 50'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Chain Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 20** (+13)
+ac: 23
+hit_dice: "20** (+13)"
 hp: 103
-thaco: 7 [+13]
+thaco: "+13"
 modifier: 3
-stats: ["20** (+13)", "103", "-5 [24]", "7 [+13]"]
+stats: ["20** (+13)", "103", "23", "+13"]
 attack: "3 lashes + special"
 damage: "4d6 lash, + special"
 speed: "50'"

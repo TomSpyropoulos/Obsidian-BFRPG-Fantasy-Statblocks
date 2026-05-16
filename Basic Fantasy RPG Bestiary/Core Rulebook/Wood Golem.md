@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Wood* Golem
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 2+2*
+ac: 12
+hit_dice: "2+2*"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2*", "11", "6 [13]", "18 [+2]"]
+stats: ["2+2*", "11", "12", "+2"]
 attack: "1 fist (1d8)"
 damage: "1d8"
 speed: "40'"

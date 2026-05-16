@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Darkmantle
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 1+2*
+ac: 16
+hit_dice: "1+2*"
 hp: 6
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+2*", "6", "2 [17]", "19 [+1]"]
+stats: ["1+2*", "6", "16", "+1"]
 attack: "1 constriction (1d4)"
 damage: "1d4"
 speed: "20' Fly 60'"

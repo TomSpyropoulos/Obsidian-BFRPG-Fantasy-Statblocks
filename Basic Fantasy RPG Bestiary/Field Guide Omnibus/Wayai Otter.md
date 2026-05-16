@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wayai Otter
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 8
+ac: 15
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "3 [16]", "12 [+8]"]
+stats: ["8", "36", "15", "+8"]
 attack: "2 punches"
 damage: "4d4 punch"
 speed: "20' Swim 40'"

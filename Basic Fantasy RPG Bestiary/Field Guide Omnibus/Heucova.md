@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Heucova
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 2**
+ac: 15
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "3 [16]", "18 [+2]"]
+stats: ["2**", "9", "15", "+2"]
 attack: "2 claws or 1 weapon"
 damage: "1d4 claw or by weapon"
 speed: "40'"

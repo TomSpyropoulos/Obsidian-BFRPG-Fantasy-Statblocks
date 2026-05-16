@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Phaerim
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1d6 hp (1 HD)
+ac: 14
+hit_dice: "1d6 hp (1 HD)"
 hp: 3
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1d6 hp (1 HD)", "3", "4 [15]", "19 [+1]"]
+stats: ["1d6 hp (1 HD)", "3", "14", "+1"]
 attack: "1 weapon"
 damage: "By weapon"
 speed: "30' Fly 60'"

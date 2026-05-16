@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bisren
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1+2
+ac: 14
+hit_dice: "1+2"
 hp: 6
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+2", "6", "4 [15]", "19 [+1]"]
+stats: ["1+2", "6", "14", "+1"]
 attack: "1 gore, charge, or by weapon"
 damage: "1d6, charge, or by weapon"
 speed: "40' (subject to encumbrance)'"

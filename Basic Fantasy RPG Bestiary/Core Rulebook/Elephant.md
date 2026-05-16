@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Elephant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 9 (+8)
+ac: 15
+hit_dice: "9 (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9 (+8)", "48", "3 [16]", "12 [+8]"]
+stats: ["9 (+8)", "48", "15", "+8"]
 attack: "2 tusks, 1 trunk grab, 2 tramples"
 damage: "2d4 tusk, 2d6 grab, 2d8 trample"
 speed: "40' (10')'"

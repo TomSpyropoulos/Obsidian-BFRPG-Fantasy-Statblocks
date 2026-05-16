@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Squid
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 6
+ac: 15
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "3 [16]", "14 [+6]"]
+stats: ["6", "27", "15", "+6"]
 attack: "8 tentacles/1 bite"
 damage: "1d4 per tentacle/1d10"
 speed: "Swim 40'"

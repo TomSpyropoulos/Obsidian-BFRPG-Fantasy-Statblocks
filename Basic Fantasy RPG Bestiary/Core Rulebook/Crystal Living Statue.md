@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Crystal Living Statue
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 3
+ac: 15
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "3 [16]", "17 [+3]"]
+stats: ["3", "13", "15", "+3"]
 attack: "2 fists (1d6/1d6)"
 damage: "-"
 speed: "30'"

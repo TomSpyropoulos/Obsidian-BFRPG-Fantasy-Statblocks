@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Anubian
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 1+1
+ac: 13
+hit_dice: "1+1"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1", "5", "5 [14]", "19 [+1]"]
+stats: ["1+1", "5", "13", "+1"]
 attack: "1 punch or 1 weapon"
 damage: "1d4 punch or by weapon"
 speed: "30', 40' unarmored'"

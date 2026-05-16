@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Devouring Serpent
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 36**
+ac: 23
+hit_dice: "36**"
 hp: 162
-thaco: 4 [+16]
+thaco: "+16"
 modifier: 3
-stats: ["36**", "162", "-5 [24]", "4 [+16]"]
+stats: ["36**", "162", "23", "+16"]
 attack: "1 bite, 1 tail or special"
 damage: "5d8 + poison bite, 5d12 tail, special"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Hyenodon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 3+1
+ac: 12
+hit_dice: "3+1"
 hp: 14
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+1", "14", "6 [13]", "17 [+3]"]
+stats: ["3+1", "14", "12", "+3"]
 attack: "1 bite (1d8)"
 damage: "1d8"
 speed: "40'"

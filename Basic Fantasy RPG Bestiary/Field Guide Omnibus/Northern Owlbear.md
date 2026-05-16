@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Northern Owlbear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 8
+ac: 15
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "3 [16]", "12 [+8]"]
+stats: ["8", "36", "15", "+8"]
 attack: "2 claws / 1 bite / 1 hug"
 damage: "1d8 claw, 1d10 bite, 2d8 hug"
 speed: "40' Fly 60'"

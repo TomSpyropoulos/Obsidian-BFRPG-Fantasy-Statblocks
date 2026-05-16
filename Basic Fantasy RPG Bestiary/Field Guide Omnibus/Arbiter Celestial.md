@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Arbiter Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 18** (+12)
+ac: 20
+hit_dice: "18** (+12)"
 hp: 93
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["18** (+12)", "93", "-2 [21]", "8 [+12]"]
+stats: ["18** (+12)", "93", "20", "+12"]
 attack: "1 weapon"
 damage: "By weapon +3"
 speed: "40' Fly 80'"

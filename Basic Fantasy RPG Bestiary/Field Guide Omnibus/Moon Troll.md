@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Moon Troll
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 12** (+10)
+ac: 15
+hit_dice: "12** (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12** (+10)", "64", "3 [16]", "10 [+10]"]
+stats: ["12** (+10)", "64", "15", "+10"]
 attack: "2 claws, 1 bite"
 damage: "2d6 claw, 3d4 bite"
 speed: "40'"

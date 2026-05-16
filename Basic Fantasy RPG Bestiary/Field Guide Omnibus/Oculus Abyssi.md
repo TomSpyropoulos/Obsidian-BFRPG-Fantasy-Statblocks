@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Oculus Abyssi
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 11** (+9)
+ac: 14
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11** (+9)", "58", "4 [15]", "11 [+9]"]
+stats: ["11** (+9)", "58", "14", "+9"]
 attack: "2 claws, 1 bite"
 damage: "2d4 claw, 1d8 bite"
 speed: "Swim 30' Fly 10'"

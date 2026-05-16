@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bone Horror
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4*
+ac: 13
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "5 [14]", "16 [+4]"]
+stats: ["4*", "18", "13", "+4"]
 attack: "2 claws or 1 sting"
 damage: "1d6+3 claw or 1d4+poison sting"
 speed: "20' Possible Fly 30'"

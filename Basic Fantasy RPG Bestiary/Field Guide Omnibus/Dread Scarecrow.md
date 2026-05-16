@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Dread Scarecrow
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4 + 2**
+ac: 13
+hit_dice: "4 + 2**"
 hp: 20
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4 + 2**", "20", "5 [14]", "16 [+4]"]
+stats: ["4 + 2**", "20", "13", "+4"]
 attack: "1 slam or 1 weapon"
 damage: "1d6+1 slam, by weapon"
 speed: "40'"

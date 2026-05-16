@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Vermen
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 1+1
+ac: 15
+hit_dice: "1+1"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1", "5", "3 [16]", "19 [+1]"]
+stats: ["1+1", "5", "15", "+1"]
 attack: "1 bite or 1 weapon"
 damage: "1d3 bite, by weapon"
 speed: "30'"

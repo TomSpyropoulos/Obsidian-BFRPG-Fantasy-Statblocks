@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ear Worms
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 1 hit point
+ac: 10
+hit_dice: "1 hit point"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1 hit point", "1", "8 [11]", "19 [+1]"]
+stats: ["1 hit point", "1", "10", "+1"]
 attack: "Special, see below"
 damage: "Special"
 speed: "10'"

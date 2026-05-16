@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ankylosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 9 (+8)
+ac: 19
+hit_dice: "9 (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9 (+8)", "48", "-1 [20]", "12 [+8]"]
+stats: ["9 (+8)", "48", "19", "+8"]
 attack: "1 tail (3d6)"
 damage: "3d6"
 speed: "30'"

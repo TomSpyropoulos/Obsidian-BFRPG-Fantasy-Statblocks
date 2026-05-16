@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Efreeti
 layout: BFRPG
 subtype: Core Rulebook
-ac: -2 [21]
-hit_dice: 10* (+9)
+ac: 20
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 2
-stats: ["10* (+9)", "54", "-2 [21]", "11 [+9]"]
+stats: ["10* (+9)", "54", "20", "+9"]
 attack: "-"
 damage: "2d8 or special"
 speed: "30' Fly 80' (10')'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Monitor Lizard
 layout: BFRPG
 subtype: Core Rulebook
-ac: 7 [12]
-hit_dice: 3*
+ac: 11
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "7 [12]", "17 [+3]"]
+stats: ["3*", "13", "11", "+3"]
 attack: "1 bite"
 damage: "1d4 + poison"
 speed: "40' (special)'"

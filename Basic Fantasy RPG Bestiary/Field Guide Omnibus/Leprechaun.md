@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Leprechaun
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 1**
+ac: 18
+hit_dice: "1**"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1**", "4", "0 [19]", "19 [+1]"]
+stats: ["1**", "4", "18", "+1"]
 attack: "1 miniature weapon (1d2)"
 damage: "1d2"
 speed: "30'"

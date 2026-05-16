@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Oculus Rex
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 7**
+ac: 19
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "-1 [20]", "13 [+7]"]
+stats: ["7**", "31", "19", "+7"]
 attack: "1 bite"
 damage: "1d6 bite"
 speed: "Fly 20'"

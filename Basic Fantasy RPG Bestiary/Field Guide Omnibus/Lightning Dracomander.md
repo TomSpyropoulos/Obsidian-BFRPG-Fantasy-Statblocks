@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lightning Dracomander
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 9** (+8)
+ac: 19
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "-1 [20]", "12 [+8]"]
+stats: ["9** (+8)", "48", "19", "+8"]
 attack: "2 bites or breath, 1 tail + lightning"
 damage: "2d8 bite, 9d8 breath, 1d6 tail, 1d8 per round lightning"
 speed: "30' Fly 80' (15')'"

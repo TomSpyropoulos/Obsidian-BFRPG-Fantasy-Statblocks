@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Plains Dragon (Yellow)
+name: Plains Dragon
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Yellow Dragon"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Plains Dragon (Yellow)
+name: Plains Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 5**
+ac: 15
+hit_dice: "5**"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5**", "22", "3 [16]", "15 [+5]"]
+stats: ["5**", "22", "15", "+5"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "1d6 claw, 2d10 or breath, 1d8 tail"
 speed: "50' Fly 80' (10')'"

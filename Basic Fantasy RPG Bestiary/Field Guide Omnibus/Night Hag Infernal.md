@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Night Hag Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 8**
+ac: 10
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "8 [11]", "12 [+8]"]
+stats: ["8**", "36", "10", "+8"]
 attack: "1 claw (2d6)"
 damage: "2d6"
 speed: "40'"

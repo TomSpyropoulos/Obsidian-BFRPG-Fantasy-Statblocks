@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Wererat* Lycanthrope
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 3*
+ac: 12
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "6 [13]", "17 [+3]"]
+stats: ["3*", "13", "12", "+3"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 or 1d6 or by weapon"
 speed: "40'"

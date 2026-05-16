@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Celestial Charger
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "2 hooves (1d8)"
 damage: "1d8 hoof"
 speed: "80' Fly 120'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Decempus
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 4+4*
+ac: 14
+hit_dice: "4+4*"
 hp: 22
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+4*", "22", "4 [15]", "16 [+4]"]
+stats: ["4+4*", "22", "14", "+4"]
 attack: "Up to 8 whip or grab"
 damage: "1d4 whip, or 1d2 + bind grab"
 speed: "30' Climb 90' (trees)'"

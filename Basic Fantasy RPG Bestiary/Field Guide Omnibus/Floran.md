@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Floran
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 1
+ac: 13
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "5 [14]", "19 [+1]"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 claws or 1 weapon"
 damage: "1d4 or by weapon"
 speed: "40'"

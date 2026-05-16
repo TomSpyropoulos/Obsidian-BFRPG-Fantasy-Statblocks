@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lagoon Creature Deep One
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 5+5
+ac: 17
+hit_dice: "5+5"
 hp: 27
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+5", "27", "1 [18]", "15 [+5]"]
+stats: ["5+5", "27", "17", "+5"]
 attack: "2 claws (2d4) / 1 bite (1d6)"
 damage: "2d4 claw, 1d6 bite"
 speed: "20' Swim 30'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Octopeople
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 8
+ac: 12
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "6 [13]", "12 [+8]"]
+stats: ["8", "36", "12", "+8"]
 attack: "1 tentacle or by weapon"
 damage: "1d10 + paralysis tentacle, by weapon"
 speed: "30' Unarmored 40'"

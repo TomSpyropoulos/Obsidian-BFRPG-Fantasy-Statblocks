@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Couatl
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 9** (+8)
+ac: 15
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "3 [16]", "12 [+8]"]
+stats: ["9** (+8)", "48", "15", "+8"]
 attack: "1 bite / 1 constrict / or spells/powers"
 damage: "1d4 bite + poison, 2d4 constrict"
 speed: "20' Fly 60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Linnorm
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 7**
+ac: 16
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 1
-stats: ["7**", "31", "2 [17]", "13 [+7]"]
+stats: ["7**", "31", "16", "+7"]
 attack: "1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 bite + poison, 1d10 claw, or breath"
 speed: "40'"

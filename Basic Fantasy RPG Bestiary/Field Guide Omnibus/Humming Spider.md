@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Humming Spider
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 1*
+ac: 11
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "7 [12]", "19 [+1]"]
+stats: ["1*", "4", "11", "+1"]
 attack: "12 leg strikes"
 damage: "1d3 leg"
 speed: "60' Jump 15'"

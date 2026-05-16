@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Swamp Monster
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 5*
+ac: 15
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "3 [16]", "15 [+5]"]
+stats: ["5*", "22", "15", "+5"]
 attack: "2 strikes (1d6 each)"
 damage: "1d6 strike"
 speed: "40'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Goat
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 3+1
+ac: 12
+hit_dice: "3+1"
 hp: 14
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+1", "14", "6 [13]", "17 [+3]"]
+stats: ["3+1", "14", "12", "+3"]
 attack: "1 head butt (2d8)"
 damage: "2d8 head butt"
 speed: "50'"

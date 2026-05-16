@@ -12,13 +12,13 @@ source: Core Rulebook
 name: Metal Elemental
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 8*
+ac: 17
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "1 [18]", "12 [+8]"]
-attack: "1 × punch, stomp, or special (1d12)"
+stats: ["8*", "36", "17", "+8"]
+attack: "1 \u00d7 punch, stomp, or special (1d12)"
 damage: "1d12"
 speed: "30'"
 jds: [9, 10, 12, 13, 14]

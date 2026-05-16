@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sea Hag
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4+1
+ac: 13
+hit_dice: "4+1"
 hp: 19
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+1", "19", "5 [14]", "16 [+4]"]
+stats: ["4+1", "19", "13", "+4"]
 attack: "2 daggers"
 damage: "1d4+4"
 speed: "30' Swim 40'"

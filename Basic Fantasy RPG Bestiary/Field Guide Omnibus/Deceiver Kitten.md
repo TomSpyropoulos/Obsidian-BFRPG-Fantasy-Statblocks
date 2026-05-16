@@ -12,17 +12,14 @@ source: Field Guide Omnibus
 name: Deceiver Kitten
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 1*
+ac: 12
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "6 [13]", "19 [+1]"]
+stats: ["1*", "4", "12", "+1"]
 attack: "3 bites (see below)"
-damage: "1 pt snake bite, 1d2 panther bite for 1 HD
-1d2 snake bite, 1d3 panther bite for 2 HD
-1d3 snake bite, 1d4 panther bite for 3 HD
-1d4 snake bite, 1d6 panther bite for 4 HD"
+damage: "1 pt snake bite, 1d2 panther bite for 1 HD\n1d2 snake bite, 1d3 panther bite for 2 HD\n1d3 snake bite, 1d4 panther bite for 3 HD\n1d4 snake bite, 1d6 panther bite for 4 HD"
 speed: "50'"
 jds: [12, 13, 14, 15, 17]
 moral: "8"

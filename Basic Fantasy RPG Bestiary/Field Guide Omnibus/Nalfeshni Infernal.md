@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Nalfeshni Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 11**
+ac: 20
+hit_dice: "11**"
 hp: 49
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11**", "49", "-2 [21]", "11 [+9]"]
+stats: ["11**", "49", "20", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 2d4 bite"
 speed: "40' Fly 60'"

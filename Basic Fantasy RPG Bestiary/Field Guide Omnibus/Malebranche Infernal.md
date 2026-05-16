@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Malebranche Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 5+5**
+ac: 23
+hit_dice: "5+5**"
 hp: 27
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+5**", "27", "-5 [24]", "15 [+5]"]
+stats: ["5+5**", "27", "23", "+5"]
 attack: "1 tail / 1 weapon or spell"
 damage: "1d4 tail, by weapon, by spell"
 speed: "30' Fly 20'"

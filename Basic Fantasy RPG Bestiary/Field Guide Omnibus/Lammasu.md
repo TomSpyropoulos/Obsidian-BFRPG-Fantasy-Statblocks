@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lammasu
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 6+2*
+ac: 13
+hit_dice: "6+2*"
 hp: 29
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+2*", "29", "5 [14]", "14 [+6]"]
+stats: ["6+2*", "29", "13", "+6"]
 attack: "2 claws"
 damage: "1d6 claw + special"
 speed: "60' fly 120'"

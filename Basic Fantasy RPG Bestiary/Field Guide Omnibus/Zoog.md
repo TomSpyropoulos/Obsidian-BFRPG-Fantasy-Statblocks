@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Zoog
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: ½ (1d4 points)
+ac: 13
+hit_dice: "\u00bd (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["\u00bd (1d4 points)", "2", "5 [14]", "20 [+0]"]
+stats: ["\u00bd (1d4 points)", "2", "13", "+0"]
 attack: "1 dagger or 1 bite"
 damage: "1d4"
 speed: "30'"

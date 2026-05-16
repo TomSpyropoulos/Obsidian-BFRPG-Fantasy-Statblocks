@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Pangotherium
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7
+ac: 15
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "3 [16]", "13 [+7]"]
+stats: ["7", "31", "15", "+7"]
 attack: "2 claws"
 damage: "2d4"
 speed: "40'"

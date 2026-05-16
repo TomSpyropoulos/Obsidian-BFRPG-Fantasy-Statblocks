@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rot Vulture
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 2
+ac: 11
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "18 [+2]"]
+stats: ["2", "9", "11", "+2"]
 attack: "1 flogging (1d6)"
 damage: "1d6"
 speed: "10' Fly 120'"

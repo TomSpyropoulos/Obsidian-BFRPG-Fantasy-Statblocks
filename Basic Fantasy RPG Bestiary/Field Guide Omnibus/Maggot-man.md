@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Maggot-man
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 4* (or more)
+ac: 16
+hit_dice: "4* (or more)"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4* (or more)", "18", "2 [17]", "16 [+4]"]
+stats: ["4* (or more)", "18", "16", "+4"]
 attack: "1 fist + special"
 damage: "1d6 fist + special"
 speed: "30'"

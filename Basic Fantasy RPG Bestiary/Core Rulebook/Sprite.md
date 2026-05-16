@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Sprite
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 1d4 Hit Points *
+ac: 14
+hit_dice: "1d4 Hit Points *"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1d4 Hit Points *", "2", "4 [15]", "19 [+1]"]
+stats: ["1d4 Hit Points *", "2", "14", "+1"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or by spell"
 speed: "20' Fly 60'"

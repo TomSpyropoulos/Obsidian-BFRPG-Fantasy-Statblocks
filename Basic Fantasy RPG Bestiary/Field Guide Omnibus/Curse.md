@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Curse
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 7*
+ac: 14
+hit_dice: "7*"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*", "31", "4 [15]", "13 [+7]"]
+stats: ["7*", "31", "14", "+7"]
 attack: "1 devour (2d6)"
 damage: "2d6"
 speed: "40'"

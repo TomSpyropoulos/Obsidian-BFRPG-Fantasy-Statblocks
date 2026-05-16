@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Hill Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 8
+ac: 14
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "4 [15]", "12 [+8]"]
+stats: ["8", "36", "14", "+8"]
 attack: "1 giant weapon (club)"
 damage: "2d8"
 speed: "30' Unarmored 40'"

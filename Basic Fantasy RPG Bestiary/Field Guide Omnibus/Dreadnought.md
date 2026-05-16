@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Dreadnought
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 10* (+9)
+ac: 23
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "-5 [24]", "11 [+9]"]
+stats: ["10* (+9)", "54", "23", "+9"]
 attack: "1 lance or 2 cannons"
 damage: "2d12 lance, 3d6 cannon"
 speed: "30'"

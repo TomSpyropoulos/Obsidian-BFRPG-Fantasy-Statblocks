@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Satyr
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 5*
+ac: 14
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "4 [15]", "15 [+5]"]
+stats: ["5*", "22", "14", "+5"]
 attack: "1 head butt (1d6) / 1 dagger (1d4) / 1 weapon (by weapon)"
 damage: "1d6 head butt, 1d4 dagger, or by weapon"
 speed: "40'"

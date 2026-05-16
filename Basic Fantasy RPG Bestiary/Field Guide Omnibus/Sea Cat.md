@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sea Cat
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 11 (+9)
+ac: 17
+hit_dice: "11 (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11 (+9)", "58", "1 [18]", "11 [+9]"]
+stats: ["11 (+9)", "58", "17", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "10' Swim 60'"

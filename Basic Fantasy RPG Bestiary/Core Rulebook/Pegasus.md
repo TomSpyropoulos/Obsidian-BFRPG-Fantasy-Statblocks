@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Pegasus
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 4
+ac: 14
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "4 [15]", "16 [+4]"]
+stats: ["4", "18", "14", "+4"]
 attack: "2 hooves (1d6/1d6)"
 damage: "-"
 speed: "80' (10') Fly 160' (10')'"

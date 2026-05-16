@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Parrot (or Cockatiel)
+name: Parrot
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Cockatiel"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Parrot (or Cockatiel)
+name: Parrot
 layout: BFRPG
 subtype: Core Rulebook
-ac: 8 [11]
-hit_dice: ½ (1d4 hit points)
+ac: 10
+hit_dice: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["\u00bd (1d4 hit points)", "2", "8 [11]", "20 [+0]"]
+stats: ["\u00bd (1d4 hit points)", "2", "10", "+0"]
 attack: "1 talon or 1 beak"
 damage: "1d4 talon or 1d4 beak"
 speed: "10' Fly 100' (10')'"

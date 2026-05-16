@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Aerial Servant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 16** (+12)
+ac: 17
+hit_dice: "16** (+12)"
 hp: 84
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["16** (+12)", "84", "1 [18]", "8 [+12]"]
+stats: ["16** (+12)", "84", "17", "+12"]
 attack: "1 (see below)"
 damage: "4d8"
 speed: "Fly 240'"

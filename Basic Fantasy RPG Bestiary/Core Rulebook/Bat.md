@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Bat
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 1 Hit Point
+ac: 13
+hit_dice: "1 Hit Point"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1 Hit Point", "1", "5 [14]", "19 [+1]"]
+stats: ["1 Hit Point", "1", "13", "+1"]
 attack: "1 special"
 damage: "Confusion"
 speed: "30' Fly 40'"

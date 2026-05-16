@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Death Dragon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -3 [22]
-hit_dice: 11** (+9)
+ac: 21
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11** (+9)", "58", "-3 [22]", "11 [+9]"]
+stats: ["11** (+9)", "58", "21", "+9"]
 attack: "2 claws + paralysis, 1 bite or breath, 1 tail"
 damage: "1d8 claw, 4d8 bite, or breath, 1d8 tail"
 speed: "30' Fly 80' (15')'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ettin Giant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 13 (+10)
+ac: 16
+hit_dice: "13 (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13 (+10)", "68", "2 [17]", "10 [+10]"]
+stats: ["13 (+10)", "68", "16", "+10"]
 attack: "2 giant weapon"
 damage: "3d6 giant weapon (right hand), 2d8 giant weapon (left hand)"
 speed: "30'"
@@ -25,7 +25,7 @@ jds: [8, 9, 10, 12, 13]
 moral: "7"
 xp: 2175
 nbr: "1, Wild 1d2, Lair 1d4"
-loot: "J; E+1d10×1,000 gp in lair"
+loot: "J; E+1d10\u00d71,000 gp in lair"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

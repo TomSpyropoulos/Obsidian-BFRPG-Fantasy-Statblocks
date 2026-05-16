@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hivelings
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1* (Special)
+ac: 14
+hit_dice: "1* (Special)"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1* (Special)", "4", "4 [15]", "19 [+1]"]
+stats: ["1* (Special)", "4", "14", "+1"]
 attack: "2 claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
 damage: "1d4 claws, 1d6 or by weapon"
 speed: "50'"

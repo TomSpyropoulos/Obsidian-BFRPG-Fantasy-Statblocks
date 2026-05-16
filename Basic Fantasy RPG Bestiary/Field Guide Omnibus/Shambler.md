@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Shambler
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 13** (+10)
+ac: 19
+hit_dice: "13** (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13** (+10)", "68", "-1 [20]", "10 [+10]"]
+stats: ["13** (+10)", "68", "19", "+10"]
 attack: "2 slam + constrict"
 damage: "2d6 slam, 4d6 constrict"
 speed: "20' Swim 20'"

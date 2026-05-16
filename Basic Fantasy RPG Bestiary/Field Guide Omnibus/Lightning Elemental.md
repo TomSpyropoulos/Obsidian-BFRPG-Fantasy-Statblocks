@@ -12,20 +12,20 @@ source: Field Guide Omnibus
 name: Lightning Elemental
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "special"
 damage: "1d12"
 speed: "40' Fly 80'"
 jds: [9, 10, 12, 13, 14]
 moral: "10"
 xp: 945
-nbr: "– special –"
-loot: "– None –"
+nbr: "\u2013 special \u2013"
+loot: "\u2013 None \u2013"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

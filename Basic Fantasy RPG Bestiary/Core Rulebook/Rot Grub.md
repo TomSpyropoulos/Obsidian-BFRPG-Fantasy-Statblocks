@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Rot Grub
 layout: BFRPG
 subtype: Core Rulebook
-ac: 9 [10]
-hit_dice: 1 hp
+ac: 9
+hit_dice: "1 hp"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1 hp", "1", "9 [10]", "19 [+1]"]
+stats: ["1 hp", "1", "9", "+1"]
 attack: "1 bite"
 damage: "special"
 speed: "5'"

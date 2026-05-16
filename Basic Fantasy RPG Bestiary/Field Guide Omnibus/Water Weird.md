@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Water Weird
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 3+3** (+6)
+ac: 15
+hit_dice: "3+3** (+6)"
 hp: 22
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+3** (+6)", "22", "3 [16]", "17 [+3]"]
+stats: ["3+3** (+6)", "22", "15", "+3"]
 attack: "1 grab"
 damage: "See description"
 speed: "Swim 40'"

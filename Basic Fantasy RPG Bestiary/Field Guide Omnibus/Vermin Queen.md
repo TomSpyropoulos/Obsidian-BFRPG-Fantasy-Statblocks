@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Vermin Queen
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 6**
+ac: 12
+hit_dice: "6**"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6**", "27", "6 [13]", "14 [+6]"]
+stats: ["6**", "27", "12", "+6"]
 attack: "2 claws or weapon"
 damage: "1d6 claw, by weapon"
 speed: "40' Fly 20'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ascended Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 10* (+9)
+ac: 17
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "1 [18]", "11 [+9]"]
+stats: ["10* (+9)", "54", "17", "+9"]
 attack: "1 weapon"
 damage: "By weapon + 2"
 speed: "40' Fly 80' (20')'"

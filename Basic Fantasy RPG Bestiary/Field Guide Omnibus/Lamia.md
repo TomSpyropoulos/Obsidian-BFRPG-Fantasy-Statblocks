@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lamia
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 6+1**
+ac: 17
+hit_dice: "6+1**"
 hp: 28
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+1**", "28", "1 [18]", "14 [+6]"]
+stats: ["6+1**", "28", "17", "+6"]
 attack: "1 bite / 1 Constrict / 1 weapon"
 damage: "1d6+poison bite, 2d6 constrict, by weapon"
 speed: "120'"

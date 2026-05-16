@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grawl
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2+2*
+ac: 13
+hit_dice: "2+2*"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2*", "11", "5 [14]", "18 [+2]"]
+stats: ["2+2*", "11", "13", "+2"]
 attack: "2 claws / 1 bite or 1 weapon"
 damage: "1d4 claw, 1d6 bite, by weapon +1"
 speed: "40' Climb 30'"

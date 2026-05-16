@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Fire Beetle
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 1+2
+ac: 15
+hit_dice: "1+2"
 hp: 6
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+2", "6", "3 [16]", "19 [+1]"]
+stats: ["1+2", "6", "15", "+1"]
 attack: "1 bite (2d4)"
 damage: "2d4"
 speed: "40'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Avir
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1+3
+ac: 14
+hit_dice: "1+3"
 hp: 7
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+3", "7", "4 [15]", "19 [+1]"]
+stats: ["1+3", "7", "14", "+1"]
 attack: "2 kicks / 1 lance"
 damage: "1d4 kick, or by weapon"
 speed: "30' Fly 80'"

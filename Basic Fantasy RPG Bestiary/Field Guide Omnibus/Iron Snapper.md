@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Iron Snapper
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 6*
+ac: 16
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "2 [17]", "14 [+6]"]
+stats: ["6*", "27", "16", "+6"]
 attack: "1 bite (2d8)"
 damage: "2d8"
 speed: "40'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Baluchitherium
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 14 (+11)
+ac: 15
+hit_dice: "14 (+11)"
 hp: 74
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["14 (+11)", "74", "3 [16]", "9 [+11]"]
+stats: ["14 (+11)", "74", "15", "+11"]
 attack: "2 trample"
 damage: "5d4 trample"
 speed: "60'"

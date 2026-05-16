@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Centrosaurus (Monoclonius) Dinosaur
+name: Centrosaurus Dinosaur
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Monoclonius"]
 source: Field Guide Omnibus
 ---
 
 ```statblock
-name: Centrosaurus (Monoclonius) Dinosaur
+name: Centrosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 8
+ac: 16
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "2 [17]", "12 [+8]"]
+stats: ["8", "36", "16", "+8"]
 attack: "1 gore or 1 trample"
 damage: "2d8 or 3d4 (special, see below)"
 speed: "30'"

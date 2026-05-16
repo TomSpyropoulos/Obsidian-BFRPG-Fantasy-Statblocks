@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Vrock Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 8*
+ac: 12
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "6 [13]", "12 [+8]"]
+stats: ["8*", "36", "12", "+8"]
 attack: "2 claws (1d4) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d4 claw, 1d8 talon, 1d6 bite"
 speed: "40' Fly 120'"

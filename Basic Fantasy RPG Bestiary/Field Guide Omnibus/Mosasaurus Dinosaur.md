@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Mosasaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 12 (+10)
+ac: 12
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "6 [13]", "10 [+10]"]
+stats: ["12 (+10)", "64", "12", "+10"]
 attack: "2 claws / 1 tail lash"
 damage: "1d4 claw, 2d4 tail lash"
 speed: "20' Swim 90'"

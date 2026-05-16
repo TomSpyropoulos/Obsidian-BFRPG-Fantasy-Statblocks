@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Red Cap
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 3*
+ac: 13
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 1
-stats: ["3*", "13", "5 [14]", "17 [+3]"]
+stats: ["3*", "13", "13", "+3"]
 attack: "1 weapon"
 damage: "By weapon"
 speed: "60'"

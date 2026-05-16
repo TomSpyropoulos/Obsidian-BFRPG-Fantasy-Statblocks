@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Winter Wolf
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 6*
+ac: 14
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "4 [15]", "14 [+6]"]
+stats: ["6*", "27", "14", "+6"]
 attack: "1 bite or breath"
 damage: "1d6 bite, 4d6 breath"
 speed: "50'"

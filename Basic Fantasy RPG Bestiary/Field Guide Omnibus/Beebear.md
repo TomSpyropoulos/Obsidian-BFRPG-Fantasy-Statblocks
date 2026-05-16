@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Beebear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7*
+ac: 15
+hit_dice: "7*"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*", "31", "3 [16]", "13 [+7]"]
+stats: ["7*", "31", "15", "+7"]
 attack: "2 claws + poison / 1 bite + hug + sting"
 damage: "1d4 + poison claw, 1d6 bite, 1d6 hug + 1d6 + poison sting"
 speed: "40' Fly 5'"

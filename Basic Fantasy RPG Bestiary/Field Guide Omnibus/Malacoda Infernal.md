@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Malacoda Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 5**
+ac: 19
+hit_dice: "5**"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5**", "22", "-1 [20]", "15 [+5]"]
+stats: ["5**", "22", "19", "+5"]
 attack: "2 horns, 2 hands or tail"
 damage: "2d8 horn, 2d4 hand, 3d4 tail"
 speed: "30' Fly 50'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Dog
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 1+1
+ac: 13
+hit_dice: "1+1"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1", "5", "5 [14]", "19 [+1]"]
+stats: ["1+1", "5", "13", "+1"]
 attack: "1 bite"
 damage: "1d4 + hold"
 speed: "50'"

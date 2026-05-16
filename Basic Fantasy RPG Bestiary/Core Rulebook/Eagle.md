@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Eagle
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 2
+ac: 12
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "18 [+2]"]
+stats: ["2", "9", "12", "+2"]
 attack: "2 talons / 1 beak"
 damage: "1d6/1d6/1d4"
 speed: "10' fly 160 (10')'"

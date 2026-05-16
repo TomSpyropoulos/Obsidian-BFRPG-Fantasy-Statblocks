@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Mountain Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 16 (+12)
+ac: 14
+hit_dice: "16 (+12)"
 hp: 84
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["16 (+12)", "84", "4 [15]", "8 [+12]"]
+stats: ["16 (+12)", "84", "14", "+12"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "7d6 (8d6) weapon, 4d6 rock"
 speed: "40', Unarmored 50' (10')'"

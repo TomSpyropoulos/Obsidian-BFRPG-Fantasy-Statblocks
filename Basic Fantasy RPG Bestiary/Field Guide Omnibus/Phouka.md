@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Phouka
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 5*
+ac: 15
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "3 [16]", "15 [+5]"]
+stats: ["5*", "22", "15", "+5"]
 attack: "1 bite, or weapon"
 damage: "1d6 bite, or by weapon"
 speed: "40' Fly 60'"

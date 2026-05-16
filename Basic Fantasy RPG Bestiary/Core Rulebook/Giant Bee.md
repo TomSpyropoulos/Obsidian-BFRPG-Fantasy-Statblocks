@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Bee
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 1/2* (1d4 HP)*
+ac: 12
+hit_dice: "1/2* (1d4 HP)*"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1/2* (1d4 HP)*", "2", "6 [13]", "19 [+1]"]
+stats: ["1/2* (1d4 HP)*", "2", "12", "+1"]
 attack: "1 sting"
 damage: "1d4 + poison"
 speed: "10' Fly 50'"

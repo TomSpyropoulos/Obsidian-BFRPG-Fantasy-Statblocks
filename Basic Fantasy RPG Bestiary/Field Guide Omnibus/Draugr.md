@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Draugr
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 9** (+8)
+ac: 16
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "2 [17]", "12 [+8]"]
+stats: ["9** (+8)", "48", "16", "+8"]
 attack: "1 weapon"
 damage: "1d10+3"
 speed: "30'"

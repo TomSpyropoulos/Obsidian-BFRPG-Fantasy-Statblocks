@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Edmontosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 12 (+10)
+ac: 14
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "4 [15]", "10 [+10]"]
+stats: ["12 (+10)", "64", "14", "+10"]
 attack: "1 tail lash (1d4)"
 damage: "1d4"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bone Chimera
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 5
+ac: 16
+hit_dice: "5"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5", "22", "2 [17]", "15 [+5]"]
+stats: ["5", "22", "16", "+5"]
 attack: "2 bites, 2 claws or 2 tails"
 damage: "2d6 bite,1d6 claw, 1d10 tail"
 speed: "60'"

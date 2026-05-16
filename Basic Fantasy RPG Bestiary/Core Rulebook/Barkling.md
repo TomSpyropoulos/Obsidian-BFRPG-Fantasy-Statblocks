@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Barkling
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 1/2 (1d4 HP)
+ac: 14
+hit_dice: "1/2 (1d4 HP)"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1/2 (1d4 HP)", "2", "4 [15]", "19 [+1]"]
+stats: ["1/2 (1d4 HP)", "2", "14", "+1"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 bite, or by weapon"
 speed: "20' Unarmored, 40'"

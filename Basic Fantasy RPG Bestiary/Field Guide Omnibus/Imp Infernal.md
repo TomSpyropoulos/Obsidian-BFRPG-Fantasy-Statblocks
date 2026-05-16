@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Imp Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 2**
+ac: 18
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "0 [19]", "18 [+2]"]
+stats: ["2**", "9", "18", "+2"]
 attack: "1 tail stinger (1d4 + poison)"
 damage: "1d4 + poison"
 speed: "20' Fly 60'"

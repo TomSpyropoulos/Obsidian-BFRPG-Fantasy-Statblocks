@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Cloud Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 12+3* (+10)
+ac: 18
+hit_dice: "12+3* (+10)"
 hp: 67
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12+3* (+10)", "67", "0 [19]", "10 [+10]"]
+stats: ["12+3* (+10)", "67", "18", "+10"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "6d6 or 3d6"
 speed: "20' Unarmored 40' (10')'"

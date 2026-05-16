@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Minotaur
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 6
+ac: 13
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "5 [14]", "14 [+6]"]
+stats: ["6", "27", "13", "+6"]
 attack: "1 gore/1 bite or 1 weapon"
 damage: "1d6/1d6 , 1d6+2 or by weapon + 2"
 speed: "30' Unarmored 40'"

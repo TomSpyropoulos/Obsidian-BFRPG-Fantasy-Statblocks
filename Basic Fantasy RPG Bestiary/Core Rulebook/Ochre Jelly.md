@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Ochre Jelly
 layout: BFRPG
 subtype: Core Rulebook
-ac: 7 [12]
-hit_dice: 5*
+ac: 11
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "7 [12]", "15 [+5]"]
+stats: ["5*", "22", "11", "+5"]
 attack: "1 pseudopod (2d6)"
 damage: "2d6"
 speed: "10'"

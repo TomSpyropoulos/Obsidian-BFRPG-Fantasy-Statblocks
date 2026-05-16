@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Yellow Mold
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 9 [10]
-hit_dice: 2*
+ac: 9
+hit_dice: "2*"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2*", "9", "9 [10]", "18 [+2]"]
+stats: ["2*", "9", "9", "+2"]
 attack: "1"
 damage: "Special"
 speed: "None'"

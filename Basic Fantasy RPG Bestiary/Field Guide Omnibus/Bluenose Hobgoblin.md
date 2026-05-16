@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bluenose Hobgoblin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2
+ac: 13
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "18 [+2]"]
+stats: ["2", "9", "13", "+2"]
 attack: "1 weapon"
 damage: "1d8 or by weapon"
 speed: "30' Unarmored 40'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Vort Snake
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1+2*
+ac: 14
+hit_dice: "1+2*"
 hp: 6
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+2*", "6", "4 [15]", "19 [+1]"]
+stats: ["1+2*", "6", "14", "+1"]
 attack: "1 bite (1d3 + poison)"
 damage: "1d3 + poison"
 speed: "50'"

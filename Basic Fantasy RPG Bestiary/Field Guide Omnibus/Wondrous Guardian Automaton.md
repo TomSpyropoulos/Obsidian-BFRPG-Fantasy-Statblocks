@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wondrous Guardian Automaton
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 4*
+ac: 17
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "1 [18]", "16 [+4]"]
+stats: ["4*", "18", "17", "+4"]
 attack: "1 weapon or special"
 damage: "By weapon or special"
 speed: "40'"

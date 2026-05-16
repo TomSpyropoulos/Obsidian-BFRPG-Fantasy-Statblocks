@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Sabre-Tooth Cat
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 8
+ac: 13
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "5 [14]", "12 [+8]"]
+stats: ["8", "36", "13", "+8"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d8"
 speed: "50'"

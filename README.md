@@ -2,22 +2,27 @@
 
 This repository contains a comprehensive collection of monster statblocks for the **Basic Fantasy Role-Playing Game (BFRPG)**, specifically formatted for use with the [Obsidian TTRPG Statblocks](https://plugins.javalent.com/statblocks) plugin.
 
-## Features
+## Features (Shadowdark Edition)
 
 * **Obsidian Ready:** Formatted in Markdown with YAML frontmatter compatible with TTRPG Statblocks.
-* **Descending AC:** Computed descending AC and THAC0 and formatted them like OSE statblocks (ascending in []).
-* **Saves in statblock:** No reference to Core Rulebook Save Tables (like "Save As Fighter: 4").
-* **Custom Layouts:** Two layouts are provided for Fantasy Statblocks, `BFRPG.json` which contains just the statblock layout and is compatible with ITS Theme and `BFRPG_Styled.json` which is the same but with some extra styling (dark mode) for the default Obsidian themes.
-* **Optional Initiative:** Included "modifier:" property for each monster calculated as (15- Save vs Breath)/2 rounded down for games like Shadowdark. (If you don't need this delete %mod% from Initiative Tracker)
+* **Shadowdark Stats:** 
+    * **Ascending AC:** Uses Shadowdark's base 10 (calculated as BFRPG Ascending AC - 1).
+    * **Attack Bonus:** Uses standard BFRPG/OSE attack bonus (THAC0 removed).
+* **Natural Naming:** Automatically reordered names from database format (e.g., "Beetle, Giant Fire") to natural format (**Giant Fire Beetle**).
+* **Automatic Aliases:** Alternative names found in parentheses are moved to the YAML `aliases` field for better searchability.
+* **Consolidated Stats:** Core vitals are provided in a clean list field: `stats: [HD, HP, AC, ATK]`.
+* **Saves in Statblock:** Full saving throw arrays included (mapped from BFRPG tables, including racial bonuses).
+* **Calculated Initiative:** Includes a `modifier:` field for use with Shadowdark initiative or the Initiative Tracker plugin, calculated as `(15 - Breath Save) / 2`.
+* **Sanitized Layout:** Descriptions, traits, and movement values are sanitized to prevent YAML parsing errors and preserve formatting.
 
 ## Installation
 
-1. Ensure you have the **TTRPG Statblocks** plugin installed in your Obsidian vault.
-2. Download the bestiary files from this repository.
-3. Place the Bestiary into your Obsidian vault.
-4. Import the `.json` layout you want to use.
-5. Activate "Automatically Parse Frontmatter for Creatures" in Fantasy Statblocks settings.
-6. Point Fantasy Statblocks to the Bestiary Folder (this ensures faster startup since files are indexed each time you open obsidian)
+1. Ensure you have the **Fantasy Statblocks** (formerly TTRPG Statblocks) plugin installed in your Obsidian vault.
+2. Download the bestiary folders from this branch.
+3. Place the **Basic Fantasy RPG Bestiary** folder into your Obsidian vault.
+4. Import the provided `BFRPG.json` or `BFRPG_Styled.json` layout.
+5. Activate "Automatically Parse Frontmatter for Creatures" in settings.
+6. Point the plugin to the Bestiary folder for faster indexing.
 
 ## Caveats
 

@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Apatosaurus (Brontosaurus) Dinosaur
+name: Apatosaurus Dinosaur
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Brontosaurus"]
 source: Field Guide Omnibus
 ---
 
 ```statblock
-name: Apatosaurus (Brontosaurus) Dinosaur
+name: Apatosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 30 (+15)
+ac: 14
+hit_dice: "30 (+15)"
 hp: 150
-thaco: 5 [+15]
+thaco: "+15"
 modifier: 3
-stats: ["30 (+15)", "150", "4 [15]", "5 [+15]"]
+stats: ["30 (+15)", "150", "14", "+15"]
 attack: "1 trample"
 damage: "3d6"
 speed: "30'"

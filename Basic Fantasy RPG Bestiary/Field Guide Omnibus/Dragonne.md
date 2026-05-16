@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Dragonne
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 9* (+8)
+ac: 17
+hit_dice: "9* (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9* (+8)", "48", "1 [18]", "12 [+8]"]
+stats: ["9* (+8)", "48", "17", "+8"]
 attack: "2 claws / 1 bite"
 damage: "2d6 claw, 2d4 bite"
 speed: "40' Fly 30'"

@@ -12,19 +12,19 @@ source: Field Guide Omnibus
 name: Barrode
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2+2
+ac: 13
+hit_dice: "2+2"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2", "11", "5 [14]", "18 [+2]"]
+stats: ["2+2", "11", "13", "+2"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "30'"
 jds: [12, 13, 14, 15, 17]
 moral: "9"
 xp: 75
-nbr: "3d6, Lair 3d6×5"
+nbr: "3d6, Lair 3d6\u00d75"
 loot: "P, Q"
 roll_jds: 1d20
 roll-moral: 2d6

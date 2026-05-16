@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Titanothere
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 12 (+10)
+ac: 14
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "4 [15]", "10 [+10]"]
+stats: ["12 (+10)", "64", "14", "+10"]
 attack: "1 butt or 1 trample"
 damage: "2d6 or 3d8"
 speed: "40' (10')'"

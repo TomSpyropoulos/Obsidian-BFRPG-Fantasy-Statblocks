@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Egregor Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -6 [25]
-hit_dice: 12** (+13)
+ac: 24
+hit_dice: "12** (+13)"
 hp: 67
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12** (+13)", "67", "-6 [25]", "10 [+10]"]
+stats: ["12** (+13)", "67", "24", "+10"]
 attack: "1 weapon"
 damage: "By weapon +3"
 speed: "50'"

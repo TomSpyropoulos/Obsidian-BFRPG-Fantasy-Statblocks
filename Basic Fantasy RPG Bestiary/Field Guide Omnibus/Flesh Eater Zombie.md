@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Flesh Eater Zombie
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2
+ac: 13
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "18 [+2]"]
+stats: ["2", "9", "13", "+2"]
 attack: "2 claws (1d3) / 1 bite (1d6)"
 damage: "-"
 speed: "40'"

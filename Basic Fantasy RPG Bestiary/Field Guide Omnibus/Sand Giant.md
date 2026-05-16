@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sand Giant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 13 (+10)
+ac: 14
+hit_dice: "13 (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13 (+10)", "68", "4 [15]", "10 [+10]"]
+stats: ["13 (+10)", "68", "14", "+10"]
 attack: "1 giant weapon or 2 fists"
 damage: "3d6 giant weapon, 3d6 fist"
 speed: "50'"
@@ -25,7 +25,7 @@ jds: [8, 9, 10, 12, 13]
 moral: "8"
 xp: 2175
 nbr: "Wild 2d10"
-loot: "E + 1d12×1,000 gp"
+loot: "E + 1d12\u00d71,000 gp"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

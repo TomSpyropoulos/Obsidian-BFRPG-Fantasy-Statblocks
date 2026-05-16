@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Fell Manticore
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 5**
+ac: 15
+hit_dice: "5**"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5**", "22", "3 [16]", "15 [+5]"]
+stats: ["5**", "22", "15", "+5"]
 attack: "2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 claw, 2d4 bite, 1d4 spikes"
 speed: "60' Fly 100' (20')'"

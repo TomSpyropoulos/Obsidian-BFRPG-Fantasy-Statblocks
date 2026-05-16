@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Huge Deer
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 7
+ac: 13
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "5 [14]", "13 [+7]"]
+stats: ["7", "31", "13", "+7"]
 attack: "1 kick (2d4)"
 damage: "2d4"
 speed: "60'"

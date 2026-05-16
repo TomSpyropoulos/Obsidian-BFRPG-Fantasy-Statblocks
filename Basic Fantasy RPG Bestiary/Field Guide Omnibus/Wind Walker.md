@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wind Walker
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 6+3**
+ac: 12
+hit_dice: "6+3**"
 hp: 30
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+3**", "30", "6 [13]", "14 [+6]"]
+stats: ["6+3**", "30", "12", "+6"]
 attack: "Special"
 damage: "3d6"
 speed: "Fly 120'"

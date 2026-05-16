@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Kraken
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 36** (+16)
+ac: 19
+hit_dice: "36** (+16)"
 hp: 178
-thaco: 4 [+16]
+thaco: "+16"
 modifier: 3
-stats: ["36** (+16)", "178", "-1 [20]", "4 [+16]"]
+stats: ["36** (+16)", "178", "19", "+16"]
 attack: "5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
 speed: "Swim 40'"

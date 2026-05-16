@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Wasp
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 4+1*
+ac: 14
+hit_dice: "4+1*"
 hp: 19
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+1*", "19", "4 [15]", "16 [+4]"]
+stats: ["4+1*", "19", "14", "+4"]
 attack: "1 sting (1d6 + poison)"
 damage: "1d6 + poison"
 speed: "20' Fly 60'"

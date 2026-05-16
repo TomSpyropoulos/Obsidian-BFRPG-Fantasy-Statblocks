@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Chimpanzee Ape
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 1+1
+ac: 12
+hit_dice: "1+1"
 hp: 5
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1+1", "5", "6 [13]", "19 [+1]"]
+stats: ["1+1", "5", "12", "+1"]
 attack: "2 fists"
 damage: "1d4"
 speed: "50'"

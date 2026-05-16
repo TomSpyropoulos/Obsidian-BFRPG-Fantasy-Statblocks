@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sea Ghast
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 2**
+ac: 12
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "6 [13]", "18 [+2]"]
+stats: ["2**", "9", "12", "+2"]
 attack: "2 claws (1d4) / 1 bite (1d4) + paralysis (1d4+1 per day)"
 damage: "1d4 claws, 1d4 bite, + paralysis (1d4+1 per day), poison"
 speed: "Swim 30'"

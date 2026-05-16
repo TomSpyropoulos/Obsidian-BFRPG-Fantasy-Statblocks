@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Snow Orycleo
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 5
+ac: 13
+hit_dice: "5"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5", "22", "5 [14]", "15 [+5]"]
+stats: ["5", "22", "13", "+5"]
 attack: "2 claws (1d10) / 1 bite (1d12)"
 damage: "-"
 speed: "50'"

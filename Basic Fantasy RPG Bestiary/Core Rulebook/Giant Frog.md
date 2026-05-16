@@ -4,7 +4,7 @@ name: Giant Frog
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Giant and Toad"]
 source: Core Rulebook
 ---
 
@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Frog
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 2
+ac: 12
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "18 [+2]"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 tongue or 1 bite"
 damage: "grab or 1d4+1"
 speed: "30' Swim 30'"

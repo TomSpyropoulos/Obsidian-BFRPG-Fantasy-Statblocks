@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Lizard Man
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 2
+ac: 14
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "4 [15]", "18 [+2]"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon"
 damage: "1d6+1 or by weapon +1"
 speed: "20' Unarmored 30' Swim 40' (not armor)'"

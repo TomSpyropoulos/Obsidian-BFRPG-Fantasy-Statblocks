@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Swamp Ogre
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 16+11 (+12)
+ac: 14
+hit_dice: "16+11 (+12)"
 hp: 95
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["16+11 (+12)", "95", "4 [15]", "8 [+12]"]
+stats: ["16+11 (+12)", "95", "14", "+12"]
 attack: "1 bite, Drowning Grasp"
 damage: "2d8 bite, 1d8 Drowning Grasp"
 speed: "15' Swim 30'"

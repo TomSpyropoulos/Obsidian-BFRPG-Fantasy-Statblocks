@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Black Rhino
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 8
+ac: 16
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 0
-stats: ["8", "36", "2 [17]", "12 [+8]"]
+stats: ["8", "36", "16", "+8"]
 attack: "1 butt or 1 trample"
 damage: "2d6 or 2d8"
 speed: "40' (15')'"

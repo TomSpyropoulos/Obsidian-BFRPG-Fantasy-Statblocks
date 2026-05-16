@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Centipede
 layout: BFRPG
 subtype: Core Rulebook
-ac: 8 [11]
-hit_dice: 1d4 Hit Points*
+ac: 10
+hit_dice: "1d4 Hit Points*"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1d4 Hit Points*", "2", "8 [11]", "19 [+1]"]
+stats: ["1d4 Hit Points*", "2", "10", "+1"]
 attack: "1 bite"
 damage: "poison bite"
 speed: "40'"

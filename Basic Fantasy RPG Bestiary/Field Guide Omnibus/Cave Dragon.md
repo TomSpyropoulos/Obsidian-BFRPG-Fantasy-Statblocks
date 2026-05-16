@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Cave Dragon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 9** (+8)
+ac: 20
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "-2 [21]", "12 [+8]"]
+stats: ["9** (+8)", "48", "20", "+8"]
 attack: "2 claws / 1 bite or breath / 1 tail"
 damage: "1d6 claw, 3d8 bite or Sonic Breath, 1d6 tail"
 speed: "30' Fly 50' (10')'"

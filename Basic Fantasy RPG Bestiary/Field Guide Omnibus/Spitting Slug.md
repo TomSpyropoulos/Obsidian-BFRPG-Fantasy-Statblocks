@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Spitting Slug
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 2**
+ac: 10
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "8 [11]", "18 [+2]"]
+stats: ["2**", "9", "10", "+2"]
 attack: "1 bite or spit"
 damage: "1d4 + special bite, 1d8 + special spit"
 speed: "10'"

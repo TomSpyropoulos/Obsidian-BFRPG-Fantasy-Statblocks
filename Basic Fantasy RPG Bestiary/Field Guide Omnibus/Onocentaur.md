@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Onocentaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 3+3
+ac: 16
+hit_dice: "3+3"
 hp: 16
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+3", "16", "2 [17]", "17 [+3]"]
+stats: ["3+3", "16", "16", "+3"]
 attack: "1 kick / 1 weapon"
 damage: "1d4 kick, by weapon"
 speed: "40' (10')'"

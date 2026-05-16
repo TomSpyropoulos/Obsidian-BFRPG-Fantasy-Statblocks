@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Baubas Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7**
+ac: 15
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 2
-stats: ["7**", "31", "3 [16]", "13 [+7]"]
+stats: ["7**", "31", "15", "+7"]
 attack: "2 claws or 1 bite or 1 spell"
 damage: "1d6 claw + hold or 2d6 bite"
 speed: "50'"

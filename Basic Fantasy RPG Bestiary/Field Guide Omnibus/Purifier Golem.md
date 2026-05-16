@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Purifier Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8**
+ac: 17
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "1 [18]", "12 [+8]"]
+stats: ["8**", "36", "17", "+8"]
 attack: "2 fists or 1 flame"
 damage: "2d10 fist, 3d6 flame"
 speed: "20'"

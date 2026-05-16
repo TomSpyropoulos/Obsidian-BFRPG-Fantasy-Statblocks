@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sylph
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 3**
+ac: 10
+hit_dice: "3**"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3**", "13", "8 [11]", "17 [+3]"]
+stats: ["3**", "13", "10", "+3"]
 attack: "None (special, see below)"
 damage: "None"
 speed: "60', Fly 180'"

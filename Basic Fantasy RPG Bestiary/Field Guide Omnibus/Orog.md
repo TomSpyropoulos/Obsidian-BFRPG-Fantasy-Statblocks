@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Orog
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 3
+ac: 14
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "4 [15]", "17 [+3]"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 weapon"
 damage: "1d10+1 or by weapon +1"
 speed: "20' Unarmored 40'"

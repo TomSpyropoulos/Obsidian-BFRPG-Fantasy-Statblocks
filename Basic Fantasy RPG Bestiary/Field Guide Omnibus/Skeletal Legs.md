@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Skeletal Legs
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: ½ (1d4 points)
+ac: 10
+hit_dice: "\u00bd (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: 0
-stats: ["\u00bd (1d4 points)", "2", "8 [11]", "20 [+0]"]
+stats: ["\u00bd (1d4 points)", "2", "10", "+0"]
 attack: "2"
 damage: "1d3"
 speed: "50'"

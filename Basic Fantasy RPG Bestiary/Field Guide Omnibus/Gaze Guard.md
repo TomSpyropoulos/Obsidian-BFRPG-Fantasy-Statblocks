@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gaze Guard
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 5*
+ac: 19
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "-1 [20]", "15 [+5]"]
+stats: ["5*", "22", "19", "+5"]
 attack: "1 ray"
 damage: "special"
 speed: "0'"

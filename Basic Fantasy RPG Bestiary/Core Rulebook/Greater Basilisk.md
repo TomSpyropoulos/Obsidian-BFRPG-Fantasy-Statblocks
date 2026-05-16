@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Greater Basilisk
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 8***
+ac: 16
+hit_dice: "8***"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8***", "36", "2 [17]", "12 [+8]"]
+stats: ["8***", "36", "16", "+8"]
 attack: "1 bite/ 1 gaze"
 damage: "1d12 + poison, bite, petrification gaze"
 speed: "20' (10')'"

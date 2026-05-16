@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Monkeybear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 1
+ac: 13
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "5 [14]", "19 [+1]"]
+stats: ["1", "4", "13", "+1"]
 attack: "2 claws, 1 bite or 1 grab"
 damage: "1d3 claw, 1d6 bite or grab"
 speed: "40'"

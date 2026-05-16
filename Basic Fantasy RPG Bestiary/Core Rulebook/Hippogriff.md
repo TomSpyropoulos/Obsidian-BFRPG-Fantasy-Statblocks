@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Hippogriff
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 3
+ac: 14
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "4 [15]", "17 [+3]"]
+stats: ["3", "13", "14", "+3"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/1d10"
 speed: "60' (10') Fly 120' (10')'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hexcore Zombie
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 3*
+ac: 16
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "2 [17]", "17 [+3]"]
+stats: ["3*", "13", "16", "+3"]
 attack: "2 claws + special"
 damage: "1d8 claw + special"
 speed: "20'"

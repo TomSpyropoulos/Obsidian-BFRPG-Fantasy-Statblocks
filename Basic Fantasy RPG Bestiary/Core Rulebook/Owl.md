@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Owl
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 1
+ac: 14
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "4 [15]", "19 [+1]"]
+stats: ["1", "4", "14", "+1"]
 attack: "2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
 speed: "10' Fly 160' (10')'"

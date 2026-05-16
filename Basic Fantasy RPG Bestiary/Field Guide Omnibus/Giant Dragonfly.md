@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Dragonfly
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 4
+ac: 19
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 1
-stats: ["4", "18", "-1 [20]", "16 [+4]"]
+stats: ["4", "18", "19", "+4"]
 attack: "1 bite (2d10)"
 damage: "2d10"
 speed: "60' Fly 240' (0')'"

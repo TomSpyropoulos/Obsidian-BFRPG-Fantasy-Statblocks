@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Mountain Dragon (Red)
+name: Mountain Dragon
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Red Dragon"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Mountain Dragon (Red)
+name: Mountain Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: -2 [21]
-hit_dice: 10** (+9)
+ac: 20
+hit_dice: "10** (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10** (+9)", "54", "-2 [21]", "11 [+9]"]
+stats: ["10** (+9)", "54", "20", "+9"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d8/1d8/4d8 or breath/1d8"
 speed: "30' Fly 80' (20')'"

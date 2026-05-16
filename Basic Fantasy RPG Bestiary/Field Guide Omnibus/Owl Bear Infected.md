@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Owl Bear Infected
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 6
+ac: 14
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "4 [15]", "14 [+6]"]
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws / 1 bite / 1 hug"
 damage: "1d8 claw, 1d8 bite, 2d8 hug"
 speed: "30'"

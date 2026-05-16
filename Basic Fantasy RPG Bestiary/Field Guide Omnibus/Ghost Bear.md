@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ghost Bear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 9*
+ac: 15
+hit_dice: "9*"
 hp: 40
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9*", "40", "3 [16]", "12 [+8]"]
+stats: ["9*", "40", "15", "+8"]
 attack: "2 claws + hug, 1 bite"
 damage: "1d6 claw, 1d6 bite, 2d6 hug"
 speed: "40'"

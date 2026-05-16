@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Cloaker
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 6**
+ac: 18
+hit_dice: "6**"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6**", "27", "0 [19]", "14 [+6]"]
+stats: ["6**", "27", "18", "+6"]
 attack: "1 bite (1d6) / 1 tail (1d6) / special (crush)"
 damage: "1d6 bite, 1d6 crush + special"
 speed: "10' Fly 40'"

@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Brown Bear
+name: Grizzly Bear
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Brown"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Brown Bear
+name: Grizzly Bear
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 5
+ac: 13
+hit_dice: "5"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5", "22", "5 [14]", "15 [+5]"]
+stats: ["5", "22", "13", "+5"]
 attack: "2 claws/1 bite + hug"
 damage: "1d4/1d4/1d8 + 2d8 hug"
 speed: "40'"

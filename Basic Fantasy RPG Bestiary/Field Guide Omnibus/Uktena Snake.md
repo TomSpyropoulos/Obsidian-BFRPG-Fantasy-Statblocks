@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Uktena Snake
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 9* (+8)
+ac: 14
+hit_dice: "9* (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9* (+8)", "48", "4 [15]", "12 [+8]"]
+stats: ["9* (+8)", "48", "14", "+8"]
 attack: "1 bite"
 damage: "2d6 + poison"
 speed: "40' Swim 30'"

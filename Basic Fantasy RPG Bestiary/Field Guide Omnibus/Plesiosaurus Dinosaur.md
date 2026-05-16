@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Plesiosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 20 (+13)
+ac: 12
+hit_dice: "20 (+13)"
 hp: 103
-thaco: 7 [+13]
+thaco: "+13"
 modifier: 3
-stats: ["20 (+13)", "103", "6 [13]", "7 [+13]"]
+stats: ["20 (+13)", "103", "12", "+13"]
 attack: "1 bite"
 damage: "2d10"
 speed: "Swim 90'"

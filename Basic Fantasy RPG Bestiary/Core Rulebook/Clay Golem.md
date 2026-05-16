@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Clay* Golem
 layout: BFRPG
 subtype: Core Rulebook
-ac: -3 [22]
-hit_dice: 11** (+9)
+ac: 21
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 0
-stats: ["11** (+9)", "58", "-3 [22]", "11 [+9]"]
+stats: ["11** (+9)", "58", "21", "+9"]
 attack: "1 fist"
 damage: "3d10"
 speed: "20'"

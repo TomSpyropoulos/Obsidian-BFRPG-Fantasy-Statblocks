@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Fyrenewt
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 2+2*
+ac: 15
+hit_dice: "2+2*"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2*", "11", "3 [16]", "18 [+2]"]
+stats: ["2+2*", "11", "15", "+2"]
 attack: "1 weapon or 1 breath"
 damage: "By weapon or 2d4 breath"
 speed: "30'"

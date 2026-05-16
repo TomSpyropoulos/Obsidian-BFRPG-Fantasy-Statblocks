@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Mountain Fairy
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 10* (+9)
+ac: 17
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "1 [18]", "11 [+9]"]
+stats: ["10* (+9)", "54", "17", "+9"]
 attack: "4 bludgeon"
 damage: "1d10 bludgeon"
 speed: "30'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Wyvern
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 7*
+ac: 17
+hit_dice: "7*"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*", "31", "1 [18]", "13 [+7]"]
+stats: ["7*", "31", "17", "+7"]
 attack: "-"
 damage: "2d8/1d6 + poison or 1d10/1d10/1d6 + poison"
 speed: "30' (10') Fly 80' (15')'"

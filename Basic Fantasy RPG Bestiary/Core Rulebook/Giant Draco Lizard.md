@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Draco Lizard
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 4+2
+ac: 14
+hit_dice: "4+2"
 hp: 20
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+2", "20", "4 [15]", "16 [+4]"]
+stats: ["4+2", "20", "14", "+4"]
 attack: "1 bite (1d10)"
 damage: "1d10"
 speed: "40' Fly 70' (20', and see below)'"

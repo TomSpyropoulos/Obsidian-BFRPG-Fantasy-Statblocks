@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ramfrog
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 1 HP*
+ac: 16
+hit_dice: "1 HP*"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1 HP*", "1", "2 [17]", "19 [+1]"]
+stats: ["1 HP*", "1", "16", "+1"]
 attack: "1 ramming (1d4+1)"
 damage: "1d4+1"
 speed: "10' Jump 30'"

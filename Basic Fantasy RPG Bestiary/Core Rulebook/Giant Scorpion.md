@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Scorpion
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 4*
+ac: 14
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "4 [15]", "16 [+4]"]
+stats: ["4*", "18", "14", "+4"]
 attack: "2 claws/1 stinger"
 damage: "1d10/1d10/1d6 + poison"
 speed: "50' (10')'"

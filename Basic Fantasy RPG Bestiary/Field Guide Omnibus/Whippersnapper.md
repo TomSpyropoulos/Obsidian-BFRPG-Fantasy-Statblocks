@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Whippersnapper
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 2+1
+ac: 11
+hit_dice: "2+1"
 hp: 10
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+1", "10", "7 [12]", "18 [+2]"]
+stats: ["2+1", "10", "11", "+2"]
 attack: "1 bite or 1 tail slap"
 damage: "1d6 bite, 1d8 tail slap"
 speed: "50' Swim 50'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Unicorn
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 4*
+ac: 18
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 1
-stats: ["4*", "18", "0 [19]", "16 [+4]"]
+stats: ["4*", "18", "18", "+4"]
 attack: "2 hooves/1 horn (+3 attack bonus)"
 damage: "1d8/1d8/1d6+3"
 speed: "80'"

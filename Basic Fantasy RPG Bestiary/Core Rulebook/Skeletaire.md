@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Skeletaire
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 1* (variable)
+ac: 12
+hit_dice: "1* (variable)"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1* (variable)", "4", "6 [13]", "19 [+1]"]
+stats: ["1* (variable)", "4", "12", "+1"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or per spell"
 speed: "40'"

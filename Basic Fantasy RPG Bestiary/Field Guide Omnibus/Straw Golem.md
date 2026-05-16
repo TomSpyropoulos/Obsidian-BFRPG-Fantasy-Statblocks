@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Straw Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 3*
+ac: 10
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "8 [11]", "17 [+3]"]
+stats: ["3*", "13", "10", "+3"]
 attack: "1 weapon or 2 fists or 1 hug"
 damage: "by weapon or 1d4 fists or special"
 speed: "40'"

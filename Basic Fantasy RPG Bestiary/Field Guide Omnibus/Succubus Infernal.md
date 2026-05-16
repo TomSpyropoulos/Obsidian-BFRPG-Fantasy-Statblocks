@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Succubus Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 7**
+ac: 19
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "-1 [20]", "13 [+7]"]
+stats: ["7**", "31", "19", "+7"]
 attack: "2 claws or by weapon + special"
 damage: "1d4 claw or by weapon"
 speed: "30' Fly 50'"

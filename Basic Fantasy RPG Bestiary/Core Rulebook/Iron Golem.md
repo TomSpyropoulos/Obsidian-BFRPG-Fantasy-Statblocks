@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Iron* Golem
 layout: BFRPG
 subtype: Core Rulebook
-ac: -6 [25]
-hit_dice: 17** (+12)
+ac: 24
+hit_dice: "17** (+12)"
 hp: 88
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 1
-stats: ["17** (+12)", "88", "-6 [25]", "8 [+12]"]
+stats: ["17** (+12)", "88", "24", "+12"]
 attack: "1 + special"
 damage: "4d10 + special"
 speed: "20' (10')'"

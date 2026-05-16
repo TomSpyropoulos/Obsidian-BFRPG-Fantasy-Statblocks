@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Woolly Rhino
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 12 (+10)
+ac: 18
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "0 [19]", "10 [+10]"]
+stats: ["12 (+10)", "64", "18", "+10"]
 attack: "1 butt or 1 trample"
 damage: "2d8 or 2d12"
 speed: "40' (15')'"

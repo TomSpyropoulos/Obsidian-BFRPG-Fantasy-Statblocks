@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gorgosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 13 (+10)
+ac: 14
+hit_dice: "13 (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13 (+10)", "68", "4 [15]", "10 [+10]"]
+stats: ["13 (+10)", "68", "14", "+10"]
 attack: "2 claws, 1 bite"
 damage: "1d4 claw, 3d10 bite"
 speed: "90'"

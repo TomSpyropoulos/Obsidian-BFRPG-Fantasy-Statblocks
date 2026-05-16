@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Catfish Fish
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 8
+ac: 15
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "3 [16]", "12 [+8]"]
+stats: ["8", "36", "15", "+8"]
 attack: "1 bite/2 fins"
 damage: "2d8/1d4+poison/1d4+poison"
 speed: "Swim 30' (10')'"

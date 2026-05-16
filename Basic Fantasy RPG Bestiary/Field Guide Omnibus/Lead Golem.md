@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lead Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 12* (+10)
+ac: 15
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "3 [16]", "10 [+10]"]
+stats: ["12* (+10)", "64", "15", "+10"]
 attack: "1 club"
 damage: "3d6"
 speed: "30'"

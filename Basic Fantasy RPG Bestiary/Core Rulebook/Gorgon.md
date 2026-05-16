@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Gorgon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "1 gore or 1 breath"
 damage: "2d6 or petrification breath"
 speed: "40' (10')'"

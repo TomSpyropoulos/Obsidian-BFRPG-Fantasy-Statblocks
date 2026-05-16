@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Sperm Whale
 layout: BFRPG
 subtype: Core Rulebook
-ac: -3 [22]
-hit_dice: 36* (+16)
+ac: 21
+hit_dice: "36* (+16)"
 hp: 178
-thaco: 4 [+16]
+thaco: "+16"
 modifier: 1
-stats: ["36* (+16)", "178", "-3 [22]", "4 [+16]"]
+stats: ["36* (+16)", "178", "21", "+16"]
 attack: "1 bite or special"
 damage: "3d20"
 speed: "Swim 60' (20')'"

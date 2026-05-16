@@ -12,13 +12,13 @@ source: Field Guide Omnibus
 name: Blood Elemental
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8* / 12* (+10) / 16* (+12)
+ac: 17
+hit_dice: "8* / 12* (+10) / 16* (+12)"
 hp: 58
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8* / 12* (+10) / 16* (+12)", "58", "1 [18]", "12 [+8]"]
-attack: "2 × fist (1d6 / 1d8 / 1d8)"
+stats: ["8* / 12* (+10) / 16* (+12)", "58", "17", "+8"]
+attack: "2 \u00d7 fist (1d6 / 1d8 / 1d8)"
 damage: "-"
 speed: "30' (10')'"
 jds: [9, 10, 12, 13, 14]

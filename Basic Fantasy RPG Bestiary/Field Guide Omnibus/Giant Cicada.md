@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Cicada
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 4*
+ac: 16
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "2 [17]", "16 [+4]"]
+stats: ["4*", "18", "16", "+4"]
 attack: "1 bite or special"
 damage: "1d6 or special"
 speed: "30' Fly 60'"

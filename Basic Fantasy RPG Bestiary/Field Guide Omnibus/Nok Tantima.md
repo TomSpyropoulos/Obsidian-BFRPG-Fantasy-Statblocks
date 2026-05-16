@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Nok Tantima
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 12** (+10)
+ac: 19
+hit_dice: "12** (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12** (+10)", "64", "-1 [20]", "10 [+10]"]
+stats: ["12** (+10)", "64", "19", "+10"]
 attack: "1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 bite or 1d12 claw or by spell"
 speed: "60' Fly 120'"

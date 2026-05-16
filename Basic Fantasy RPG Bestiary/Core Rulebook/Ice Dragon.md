@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Ice Dragon (White)
+name: Ice Dragon
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["White Dragon"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Ice Dragon (White)
+name: Ice Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 6**
+ac: 16
+hit_dice: "6**"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6**", "27", "2 [17]", "14 [+6]"]
+stats: ["6**", "27", "16", "+6"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d4/1d4/2d8 or breath/1d4"
 speed: "30' Fly 80' (10')'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Gar Fish
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 8
+ac: 16
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "2 [17]", "12 [+8]"]
+stats: ["8", "36", "16", "+8"]
 attack: "1 bite (5d4)"
 damage: "5d4"
 speed: "Swim 120'"

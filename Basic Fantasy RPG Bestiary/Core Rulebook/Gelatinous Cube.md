@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Gelatinous Cube
 layout: BFRPG
 subtype: Core Rulebook
-ac: 7 [12]
-hit_dice: 4*
+ac: 11
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "7 [12]", "16 [+4]"]
+stats: ["4*", "18", "11", "+4"]
 attack: "1"
 damage: "2d4 + paralysis"
 speed: "20'"

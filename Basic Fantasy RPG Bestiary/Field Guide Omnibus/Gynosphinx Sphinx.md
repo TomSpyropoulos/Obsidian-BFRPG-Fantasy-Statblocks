@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gynosphinx Sphinx
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 8*
+ac: 20
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "-2 [21]", "12 [+8]"]
+stats: ["8*", "36", "20", "+8"]
 attack: "2 claws + rake"
 damage: "2d4 claw, 2d4 rake"
 speed: "70', Fly 120'"

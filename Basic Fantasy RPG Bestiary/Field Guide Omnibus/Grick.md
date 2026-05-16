@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grick
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 2
+ac: 15
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "3 [16]", "18 [+2]"]
+stats: ["2", "9", "15", "+2"]
 attack: "4 tentacles / 1 bite"
 damage: "1d4 tentacle, 1d3 bite"
 speed: "30'"

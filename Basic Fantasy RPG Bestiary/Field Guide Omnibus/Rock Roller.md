@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rock Roller
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 4*
+ac: 15
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "3 [16]", "16 [+4]"]
+stats: ["4*", "18", "15", "+4"]
 attack: "1 bite or 1 crush + special"
 damage: "1d8 bite, 1d6 crush + special"
 speed: "180' (60')'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Glabrezu Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 10* (+9)
+ac: 23
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "-5 [24]", "11 [+9]"]
+stats: ["10* (+9)", "54", "23", "+9"]
 attack: "2 pincers / 2 fists / 1 bite"
 damage: "2d6 pincer, 1d3 fist, 1d4+1 bite"
 speed: "60'"

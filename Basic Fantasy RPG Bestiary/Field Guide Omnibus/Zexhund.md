@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Zexhund
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 2
+ac: 17
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "1 [18]", "18 [+2]"]
+stats: ["2", "9", "17", "+2"]
 attack: "1 bludgeon (3d6)"
 damage: "3d6"
 speed: "20'"

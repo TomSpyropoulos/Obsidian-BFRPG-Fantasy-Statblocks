@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Eel
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 2, 4,
+ac: 11
+hit_dice: "2, 4,"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2, 4,", "9", "7 [12]", "18 [+2]"]
+stats: ["2, 4,", "9", "11", "+2"]
 attack: "1 bite"
 damage: "1d8, 1d10, or 1d12"
 speed: "Swim 60'"

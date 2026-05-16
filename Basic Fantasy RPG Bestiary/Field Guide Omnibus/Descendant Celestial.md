@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Descendant Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 4*
+ac: 14
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "4 [15]", "16 [+4]"]
+stats: ["4*", "18", "14", "+4"]
 attack: "1 weapon or 1 unarmed"
 damage: "By weapon or 1d4"
 speed: "40' Fly 60'"

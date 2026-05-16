@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Snapping Turtle
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 1
+ac: 15
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "3 [16]", "19 [+1]"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 bite"
 damage: "1d6"
 speed: "5' Swim 20'"

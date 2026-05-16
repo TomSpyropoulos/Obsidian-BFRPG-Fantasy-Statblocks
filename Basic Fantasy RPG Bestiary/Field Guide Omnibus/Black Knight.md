@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Black Knight
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 14** (+11)
+ac: 19
+hit_dice: "14** (+11)"
 hp: 74
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["14** (+11)", "74", "-1 [20]", "9 [+11]"]
+stats: ["14** (+11)", "74", "19", "+11"]
 attack: "1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
 speed: "30'"

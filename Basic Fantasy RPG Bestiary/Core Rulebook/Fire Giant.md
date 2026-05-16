@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Fire Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 11+2* (+9)
+ac: 16
+hit_dice: "11+2* (+9)"
 hp: 60
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11+2* (+9)", "60", "2 [17]", "11 [+9]"]
+stats: ["11+2* (+9)", "60", "16", "+9"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "5d6 or 3d6"
 speed: "20' Unarmored 40' (10')'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Black Pudding
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 10* (+9)
+ac: 13
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "5 [14]", "11 [+9]"]
+stats: ["10* (+9)", "54", "13", "+9"]
 attack: "1 pseudopod"
 damage: "3d8"
 speed: "20'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Tigersquid Nazgorean
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7
+ac: 15
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "3 [16]", "13 [+7]"]
+stats: ["7", "31", "15", "+7"]
 attack: "6 tentacles, 1 bite (special) / 2 tentacles (special)"
 damage: "Grab, 1d12 or constrict"
 speed: "60'"

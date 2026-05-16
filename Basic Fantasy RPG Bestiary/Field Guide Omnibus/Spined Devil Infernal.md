@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Spined Devil Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "1 bite or 2 blades or spines or by weapon"
 damage: "1d6 + poison or 1d8+2 or 4d6 or by weapon + 2"
 speed: "30'"

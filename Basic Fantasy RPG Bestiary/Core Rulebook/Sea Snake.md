@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Sea Snake
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 3*
+ac: 13
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "5 [14]", "17 [+3]"]
+stats: ["3*", "13", "13", "+3"]
 attack: "1 bite (1 + poison)"
 damage: "-"
 speed: "10' Swim 30'"

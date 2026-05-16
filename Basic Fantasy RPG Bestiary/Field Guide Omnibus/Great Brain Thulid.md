@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Great Brain Thulid
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 9** (+8)
+ac: 10
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 0
-stats: ["9** (+8)", "48", "8 [11]", "12 [+8]"]
+stats: ["9** (+8)", "48", "10", "+8"]
 attack: "Special"
 damage: "Special"
 speed: "1'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Duckbear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 6
+ac: 14
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "4 [15]", "14 [+6]"]
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws (1d8) / 1 peck (1d10) / 1 hug (3d6)"
 damage: "-"
 speed: "40'"

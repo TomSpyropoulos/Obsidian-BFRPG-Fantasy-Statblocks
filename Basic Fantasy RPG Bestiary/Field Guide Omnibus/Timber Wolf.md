@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Timber Wolf
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 18* (+12)
+ac: 23
+hit_dice: "18* (+12)"
 hp: 93
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["18* (+12)", "93", "-5 [24]", "8 [+12]"]
+stats: ["18* (+12)", "93", "23", "+12"]
 attack: "1 bite or 1 trample"
 damage: "3d8 bite, 4d10 trample"
 speed: "40' (10')'"

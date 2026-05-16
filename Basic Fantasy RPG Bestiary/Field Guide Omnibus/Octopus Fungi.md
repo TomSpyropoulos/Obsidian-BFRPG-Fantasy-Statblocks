@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Octopus Fungi
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 6
+ac: 14
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "4 [15]", "14 [+6]"]
+stats: ["6", "27", "14", "+6"]
 attack: "1 tentacle or 1 tentacle + bite (at +4)"
 damage: "1d6 tentacle, 1d10 bite"
 speed: "0' (immobile)'"

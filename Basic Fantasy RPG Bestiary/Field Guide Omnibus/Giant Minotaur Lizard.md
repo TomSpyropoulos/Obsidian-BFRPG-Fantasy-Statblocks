@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Minotaur Lizard
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 8
+ac: 14
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "4 [15]", "12 [+8]"]
+stats: ["8", "36", "14", "+8"]
 attack: "2 claws (2d6) / 1 bite (3d6)"
 damage: "2d6 claw, 3d6 bite"
 speed: "30'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Girallon Ape
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7
+ac: 15
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "3 [16]", "13 [+7]"]
+stats: ["7", "31", "15", "+7"]
 attack: "4 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "40'"

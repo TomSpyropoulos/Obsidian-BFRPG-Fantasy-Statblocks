@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Bronze* Golem
 layout: BFRPG
 subtype: Core Rulebook
-ac: -1 [20]
-hit_dice: 20** (+13)
+ac: 19
+hit_dice: "20** (+13)"
 hp: 103
-thaco: 7 [+13]
+thaco: "+13"
 modifier: 1
-stats: ["20** (+13)", "103", "-1 [20]", "7 [+13]"]
+stats: ["20** (+13)", "103", "19", "+13"]
 attack: "1 fist + special"
 damage: "3d10 + special"
 speed: "80' (10')'"

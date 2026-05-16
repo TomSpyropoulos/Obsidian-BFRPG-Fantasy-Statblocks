@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Cave Bear
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 7
+ac: 14
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "4 [15]", "13 [+7]"]
+stats: ["7", "31", "14", "+7"]
 attack: "2 claws/1 bite + hug"
 damage: "1d8/1d8/2d6 + 2d8 hug"
 speed: "40'"

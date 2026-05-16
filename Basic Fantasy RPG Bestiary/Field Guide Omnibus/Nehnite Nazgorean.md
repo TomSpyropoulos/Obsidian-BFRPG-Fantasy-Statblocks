@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Nehnite Nazgorean
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 1d4* per MU level (AB +1 per MU level)
+ac: 10
+hit_dice: "1d4* per MU level (AB +1 per MU level)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["1d4* per MU level (AB +1 per MU level)", "2", "8 [11]", "20 [+0]"]
+stats: ["1d4* per MU level (AB +1 per MU level)", "2", "10", "+0"]
 attack: "1 bite or small weapon"
 damage: "1d2+poison bite, 1d4 or by weapon"
 speed: "30'"

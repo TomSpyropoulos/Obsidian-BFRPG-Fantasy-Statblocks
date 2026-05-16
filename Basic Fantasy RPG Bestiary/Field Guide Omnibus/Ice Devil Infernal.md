@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ice Devil Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 3**
+ac: 17
+hit_dice: "3**"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3**", "13", "1 [18]", "17 [+3]"]
+stats: ["3**", "13", "17", "+3"]
 attack: "1 claw, cold aura, or breath weapon"
 damage: "1d3 claw +1d4 cold, or breath weapon"
 speed: "30' Fly 50'"

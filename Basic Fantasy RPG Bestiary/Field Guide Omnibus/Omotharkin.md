@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Omotharkin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 4
+ac: 10
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "8 [11]", "16 [+4]"]
+stats: ["4", "18", "10", "+4"]
 attack: "1 grab (1d4 + 1 pt. CON loss)"
 damage: "1d4 + 1 pt. CON loss"
 speed: "20'"

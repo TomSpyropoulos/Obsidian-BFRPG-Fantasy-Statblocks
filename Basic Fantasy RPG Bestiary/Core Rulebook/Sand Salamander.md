@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Sand* Salamander
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 7* (+4)
+ac: 17
+hit_dice: "7* (+4)"
 hp: 35
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7* (+4)", "35", "1 [18]", "13 [+7]"]
+stats: ["7* (+4)", "35", "17", "+7"]
 attack: "-"
 damage: "1d6 + petrification"
 speed: "20'"

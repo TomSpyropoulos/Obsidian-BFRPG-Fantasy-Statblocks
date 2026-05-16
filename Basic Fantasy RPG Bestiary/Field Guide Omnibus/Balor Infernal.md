@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Balor Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -3 [22]
-hit_dice: 8+8*
+ac: 21
+hit_dice: "8+8*"
 hp: 44
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8+8*", "44", "-3 [22]", "12 [+8]"]
+stats: ["8+8*", "44", "21", "+8"]
 attack: "1 sword, or 1 whip, + special"
 damage: "1d12+1 sword, 2d6+1 whip, + special"
 speed: "30' Fly 60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Great Orb of Eyes
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 12* (+10)
+ac: 18
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "0 [19]", "10 [+10]"]
+stats: ["12* (+10)", "64", "18", "+10"]
 attack: "1d4 rays or spell-like ability"
 damage: "By ray or spell"
 speed: "Fly 30'"

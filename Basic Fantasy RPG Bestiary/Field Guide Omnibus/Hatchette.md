@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hatchette
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 4
+ac: 12
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "6 [13]", "16 [+4]"]
+stats: ["4", "18", "12", "+4"]
 attack: "2 claws / 1 beak"
 damage: "1d6 claw, 2d6 beak"
 speed: "50'"

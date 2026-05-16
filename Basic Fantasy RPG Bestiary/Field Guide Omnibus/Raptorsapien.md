@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Raptorsapien
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 6
+ac: 16
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "2 [17]", "14 [+6]"]
+stats: ["6", "27", "16", "+6"]
 attack: "1 weapon / 1 bite or 1 tail"
 damage: "1d8 or by weapon, 1d8 bite or 1d10 tail"
 speed: "60'"

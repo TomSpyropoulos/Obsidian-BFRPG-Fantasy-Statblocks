@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Warden Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -6 [25]
-hit_dice: 12** (+10)
+ac: 24
+hit_dice: "12** (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12** (+10)", "64", "-6 [25]", "10 [+10]"]
+stats: ["12** (+10)", "64", "24", "+10"]
 attack: "1 weapon"
 damage: "By weapon +3"
 speed: "50' Fly 60'"

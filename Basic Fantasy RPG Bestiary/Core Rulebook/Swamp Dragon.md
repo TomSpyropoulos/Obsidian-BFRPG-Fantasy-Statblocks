@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Swamp Dragon (Black)
+name: Swamp Dragon
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Black Dragon"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Swamp Dragon (Black)
+name: Swamp Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 7**
+ac: 17
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "1 [18]", "13 [+7]"]
+stats: ["7**", "31", "17", "+7"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d6/1d6/2d10 or breath/1d6"
 speed: "30' Fly 80' (15')'"

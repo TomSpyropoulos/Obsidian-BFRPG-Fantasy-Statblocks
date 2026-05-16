@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Tyrannosaurus Rex Dinosaur
 layout: BFRPG
 subtype: Core Rulebook
-ac: -4 [23]
-hit_dice: 18 (+12)
+ac: 22
+hit_dice: "18 (+12)"
 hp: 93
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 1
-stats: ["18 (+12)", "93", "-4 [23]", "8 [+12]"]
+stats: ["18 (+12)", "93", "22", "+12"]
 attack: "1 bite"
 damage: "6d6"
 speed: "40' (10')'"

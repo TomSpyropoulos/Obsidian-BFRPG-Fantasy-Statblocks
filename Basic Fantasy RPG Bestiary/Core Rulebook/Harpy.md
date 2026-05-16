@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Harpy
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 2*
+ac: 12
+hit_dice: "2*"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2*", "9", "6 [13]", "18 [+2]"]
+stats: ["2*", "9", "12", "+2"]
 attack: "-"
 damage: "1d4/1d4/1d6 or by weapon + special"
 speed: "20' Fly 50' (10')'"

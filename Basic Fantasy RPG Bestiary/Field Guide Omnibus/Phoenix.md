@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Phoenix
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 9**
+ac: 16
+hit_dice: "9**"
 hp: 40
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9**", "40", "2 [17]", "12 [+8]"]
+stats: ["9**", "40", "16", "+8"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 2d6 bite"
 speed: "10' Fly 90'"

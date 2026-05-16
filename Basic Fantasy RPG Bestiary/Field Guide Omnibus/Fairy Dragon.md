@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Fairy Dragon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 3*
+ac: 14
+hit_dice: "3*"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3*", "13", "4 [15]", "17 [+3]"]
+stats: ["3*", "13", "14", "+3"]
 attack: "1 bite or breath or spell"
 damage: "1d2 bite or special"
 speed: "30' Fly 120'"

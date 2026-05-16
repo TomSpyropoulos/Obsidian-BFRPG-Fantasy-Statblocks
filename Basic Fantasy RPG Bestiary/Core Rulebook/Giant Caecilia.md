@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Caecilia
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 6*
+ac: 13
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "5 [14]", "14 [+6]"]
+stats: ["6*", "27", "13", "+6"]
 attack: "-"
 damage: "1d8 + 1d8/round if swallowed"
 speed: "20' (10')'"

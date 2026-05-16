@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Chimera
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 9** (+8)
+ac: 15
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "3 [16]", "12 [+8]"]
+stats: ["9** (+8)", "48", "15", "+8"]
 attack: "2 claws (1d4) / 1 lion bite (2d4) / 1 goat horns (1d8) / 1 dragon bite (2d4) or breath (3d6)"
 damage: "1d4 claw, 2d4 bite (lion or dragon), 1d8 horns (goat), 3d4 dragon breath"
 speed: "40' (10') Fly 60' (15')'"

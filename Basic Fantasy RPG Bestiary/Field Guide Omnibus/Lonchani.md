@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lonchani
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 4*
+ac: 15
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "3 [16]", "16 [+4]"]
+stats: ["4*", "18", "15", "+4"]
 attack: "2 claws, 1 bite (or 1 weapon, 1 claw, 1 bite)"
 damage: "1d6 claw, 1d8 bite or by weapon"
 speed: "40' Leap 60'"

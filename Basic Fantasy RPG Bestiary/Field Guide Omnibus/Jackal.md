@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Jackal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: ½ (1d4 points)
+ac: 11
+hit_dice: "\u00bd (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["\u00bd (1d4 points)", "2", "7 [12]", "20 [+0]"]
+stats: ["\u00bd (1d4 points)", "2", "11", "+0"]
 attack: "1 bite (1d2)"
 damage: "-"
 speed: "90'"

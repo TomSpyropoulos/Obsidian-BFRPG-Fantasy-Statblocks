@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Living Scarecrow
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 4 + 2*
+ac: 12
+hit_dice: "4 + 2*"
 hp: 20
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4 + 2*", "20", "6 [13]", "16 [+4]"]
+stats: ["4 + 2*", "20", "12", "+4"]
 attack: "1 slam / 1 weapon"
 damage: "1d6+1 slam, by weapon"
 speed: "30'"

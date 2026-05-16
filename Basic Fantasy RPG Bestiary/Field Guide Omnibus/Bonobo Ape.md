@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bonobo Ape
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 1-1
+ac: 12
+hit_dice: "1-1"
 hp: 3
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1-1", "3", "6 [13]", "19 [+1]"]
+stats: ["1-1", "3", "12", "+1"]
 attack: "2 claws"
 damage: "1d3"
 speed: "50'"

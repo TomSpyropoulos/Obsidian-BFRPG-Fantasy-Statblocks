@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Brachiosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 36 (+16)
+ac: 14
+hit_dice: "36 (+16)"
 hp: 178
-thaco: 4 [+16]
+thaco: "+16"
 modifier: 3
-stats: ["36 (+16)", "178", "4 [15]", "4 [+16]"]
+stats: ["36 (+16)", "178", "14", "+16"]
 attack: "1 trample"
 damage: "4d6"
 speed: "30'"

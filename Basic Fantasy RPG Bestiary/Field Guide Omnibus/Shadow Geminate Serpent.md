@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Shadow Geminate Serpent
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 8**
+ac: 20
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "-2 [21]", "12 [+8]"]
+stats: ["8**", "36", "20", "+8"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d12+energy drain (1 level), breath, 2d4 constrict*"
 speed: "10'"

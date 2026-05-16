@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Frost Dracomander
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 10** (+9)
+ac: 20
+hit_dice: "10** (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10** (+9)", "54", "-2 [21]", "11 [+9]"]
+stats: ["10** (+9)", "54", "20", "+9"]
 attack: "1 bite or breath / 4 claws / 1 tail + cold"
 damage: "2d10 bite, 10d8 breath 1d8 claw, 1d6 tail, 1d8 per round cold"
 speed: "30' Fly 80' (15')'"

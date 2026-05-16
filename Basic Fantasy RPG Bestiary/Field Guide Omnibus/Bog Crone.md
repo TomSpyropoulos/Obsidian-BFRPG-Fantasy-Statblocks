@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bog Crone
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 5+2**
+ac: 14
+hit_dice: "5+2**"
 hp: 24
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+2**", "24", "4 [15]", "15 [+5]"]
+stats: ["5+2**", "24", "14", "+5"]
 attack: "2"
 damage: "1d4+2"
 speed: "30' Swim 40'"

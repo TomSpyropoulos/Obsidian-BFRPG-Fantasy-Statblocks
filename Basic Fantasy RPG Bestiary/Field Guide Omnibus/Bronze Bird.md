@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bronze Bird
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 1
+ac: 17
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "1 [18]", "19 [+1]"]
+stats: ["1", "4", "17", "+1"]
 attack: "1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4)"
 damage: "1d4 beak, 1d6 wing, 1d4 feather"
 speed: "30' Fly 120' Swim 30'"

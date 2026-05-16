@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Doppleganger
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 4*
+ac: 14
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "4 [15]", "16 [+4]"]
+stats: ["4*", "18", "14", "+4"]
 attack: "1 fist or Weapon"
 damage: "1d12 or by weapon"
 speed: "30'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Pipe Beast
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 6+6*
+ac: 17
+hit_dice: "6+6*"
 hp: 33
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+6*", "33", "1 [18]", "14 [+6]"]
+stats: ["6+6*", "33", "17", "+6"]
 attack: "2 claws (2d6) / 1 tail (1d10) / acid spray (4d8)"
 damage: "2d6 claw, 1d10 tail, 4d8 acid spray"
 speed: "30'"

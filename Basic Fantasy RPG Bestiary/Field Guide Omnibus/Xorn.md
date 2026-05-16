@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Xorn
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 7+1**
+ac: 20
+hit_dice: "7+1**"
 hp: 32
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7+1**", "32", "-2 [21]", "13 [+7]"]
+stats: ["7+1**", "32", "20", "+7"]
 attack: "1 bite (4d6)"
 damage: "4d6"
 speed: "20' Burrow 20'"

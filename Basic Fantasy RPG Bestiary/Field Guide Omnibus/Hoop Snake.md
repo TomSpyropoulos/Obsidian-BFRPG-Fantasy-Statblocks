@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hoop Snake
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 1*
+ac: 13
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "5 [14]", "19 [+1]"]
+stats: ["1*", "4", "13", "+1"]
 attack: "1 bite or 1 tail sting"
 damage: "1d4 bite, 1d4 + poison sting"
 speed: "30' (60' see below)'"

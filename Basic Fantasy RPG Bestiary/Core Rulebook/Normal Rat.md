@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Normal Rat
 layout: BFRPG
 subtype: Core Rulebook
-ac: 8 [11]
-hit_dice: 1 Hit Point
+ac: 10
+hit_dice: "1 Hit Point"
 hp: 1
-thaco: 19 [+1]
+thaco: "+1"
 modifier: -1
-stats: ["1 Hit Point", "1", "8 [11]", "19 [+1]"]
+stats: ["1 Hit Point", "1", "10", "+1"]
 attack: "1 bite per pack"
 damage: "1d6 + disease"
 speed: "20' Swim 10'"

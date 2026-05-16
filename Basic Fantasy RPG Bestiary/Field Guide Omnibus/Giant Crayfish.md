@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Crayfish
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 4+4
+ac: 15
+hit_dice: "4+4"
 hp: 22
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4+4", "22", "3 [16]", "16 [+4]"]
+stats: ["4+4", "22", "15", "+4"]
 attack: "2 claws"
 damage: "2d6"
 speed: "30' Swim 60'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Crab
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 3
+ac: 17
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "1 [18]", "17 [+3]"]
+stats: ["3", "13", "17", "+3"]
 attack: "2 pincers"
 damage: "2d6/2d6"
 speed: "20' Swim 20'"

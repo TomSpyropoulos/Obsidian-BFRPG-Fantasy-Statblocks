@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Frost Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 10+1* (+9)
+ac: 16
+hit_dice: "10+1* (+9)"
 hp: 55
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10+1* (+9)", "55", "2 [17]", "11 [+9]"]
+stats: ["10+1* (+9)", "55", "16", "+9"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "4d6 or 3d6"
 speed: "20' Unarmored 40' (10')'"

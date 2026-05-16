@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lambeosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 12 (+10)
+ac: 13
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "5 [14]", "10 [+10]"]
+stats: ["12 (+10)", "64", "13", "+10"]
 attack: "1 tail lash (2d6)"
 damage: "2d6"
 speed: "60'"

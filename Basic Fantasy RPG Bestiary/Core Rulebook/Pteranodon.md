@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Pteranodon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 6 [13]
-hit_dice: 5
+ac: 12
+hit_dice: "5"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5", "22", "6 [13]", "15 [+5]"]
+stats: ["5", "22", "12", "+5"]
 attack: "1 bite (2d6)"
 damage: "2d6"
 speed: "Fly 60' (15')'"

@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Giant Prehistoric (Dinichthys) Fish
+name: Giant Prehistoric Fish
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Dinichthys"]
 source: Field Guide Omnibus
 ---
 
 ```statblock
-name: Giant Prehistoric (Dinichthys) Fish
+name: Giant Prehistoric Fish
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 10 (+9)
+ac: 12
+hit_dice: "10 (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10 (+9)", "54", "6 [13]", "11 [+9]"]
+stats: ["10 (+9)", "54", "12", "+9"]
 attack: "1 bite"
 damage: "2d10"
 speed: "Swim 90'"

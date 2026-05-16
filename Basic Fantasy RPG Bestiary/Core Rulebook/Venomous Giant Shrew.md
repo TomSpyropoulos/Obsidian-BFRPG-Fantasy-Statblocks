@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Venomous Giant Shrew
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 1*
+ac: 15
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "3 [16]", "19 [+1]"]
+stats: ["1*", "4", "15", "+1"]
 attack: "2 bites"
 damage: "1d6/1d6 + poison"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Mastodon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 15 *(+11)
+ac: 17
+hit_dice: "15 *(+11)"
 hp: 78
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 1
-stats: ["15 *(+11)", "78", "1 [18]", "9 [+11]"]
+stats: ["15 *(+11)", "78", "17", "+11"]
 attack: "2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
 damage: "-"
 speed: "50' (15')'"

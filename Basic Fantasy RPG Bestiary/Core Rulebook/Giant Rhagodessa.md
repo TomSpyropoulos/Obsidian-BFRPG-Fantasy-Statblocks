@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Rhagodessa
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 4
+ac: 15
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "3 [16]", "16 [+4]"]
+stats: ["4", "18", "15", "+4"]
 attack: "2 legs/1 bite"
 damage: "grab/grab/2d8"
 speed: "50'"

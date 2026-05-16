@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ward Pixie
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 1*
+ac: 16
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "2 [17]", "19 [+1]"]
+stats: ["1*", "4", "16", "+1"]
 attack: "2 claws"
 damage: "1d4 claw + special"
 speed: "30' Fly 60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Mohrg
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -4 [23]
-hit_dice: 14** (+11)
+ac: 22
+hit_dice: "14** (+11)"
 hp: 74
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["14** (+11)", "74", "-4 [23]", "9 [+11]"]
+stats: ["14** (+11)", "74", "22", "+11"]
 attack: "1 slam or 1 tongue"
 damage: "1d6 or special"
 speed: "30'"

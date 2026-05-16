@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Manta Ray
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 9
+ac: 13
+hit_dice: "9"
 hp: 40
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9", "40", "5 [14]", "12 [+8]"]
+stats: ["9", "40", "13", "+8"]
 attack: "1 bite (3d4 + special) / 1 tail spine (2d10)"
 damage: "-"
 speed: "Swim 90'"

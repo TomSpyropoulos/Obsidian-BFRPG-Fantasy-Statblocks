@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Tymera
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 11** (+9)
+ac: 16
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11** (+9)", "58", "2 [17]", "11 [+9]"]
+stats: ["11** (+9)", "58", "16", "+9"]
 attack: "2 claws / 3 heads / 1 breath"
 damage: "1d6 claw, 2d4 head, 3d4 cold breath"
 speed: "40' (10') Fly 60' (15')'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Demonic Automata
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 12**
+ac: 19
+hit_dice: "12**"
 hp: 54
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12**", "54", "-1 [20]", "10 [+10]"]
+stats: ["12**", "54", "19", "+10"]
 attack: "6 blades or spell"
 damage: "2d12 blade, by spell"
 speed: "30'"

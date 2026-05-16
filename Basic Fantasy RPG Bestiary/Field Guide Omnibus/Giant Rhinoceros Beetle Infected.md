@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Rhinoceros Beetle Infected
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 12 (+10)
+ac: 17
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "1 [18]", "10 [+10]"]
+stats: ["12 (+10)", "64", "17", "+10"]
 attack: "1 bite or 1 horn"
 damage: "3d8 bite, 2d10 horn"
 speed: "50' (20')'"

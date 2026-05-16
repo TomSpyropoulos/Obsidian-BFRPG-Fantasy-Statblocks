@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Shedu
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 9+9* (+8)
+ac: 15
+hit_dice: "9+9* (+8)"
 hp: 57
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9+9* (+8)", "57", "3 [16]", "12 [+8]"]
+stats: ["9+9* (+8)", "57", "15", "+8"]
 attack: "2 hooves (1d6)"
 damage: "1d6 hoof"
 speed: "60' Fly 120'"

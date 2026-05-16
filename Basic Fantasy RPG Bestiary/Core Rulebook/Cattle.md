@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Cattle
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 2+2
+ac: 13
+hit_dice: "2+2"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2", "11", "5 [14]", "18 [+2]"]
+stats: ["2+2", "11", "13", "+2"]
 attack: "1 horn/head butt or 1 trample"
 damage: "1d4 butt, 2d4 trample"
 speed: "50' (10')'"

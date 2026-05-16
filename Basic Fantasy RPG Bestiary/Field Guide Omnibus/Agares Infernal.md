@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Agares Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 7+7*
+ac: 20
+hit_dice: "7+7*"
 hp: 38
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7+7*", "38", "-2 [21]", "13 [+7]"]
+stats: ["7+7*", "38", "20", "+7"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "30'"

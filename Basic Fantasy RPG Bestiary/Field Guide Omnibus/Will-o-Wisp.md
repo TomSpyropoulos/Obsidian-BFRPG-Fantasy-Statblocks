@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Will-o'-Wisp
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -10 [29]
-hit_dice: 9** (+8)
+ac: 28
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "-10 [29]", "12 [+8]"]
+stats: ["9** (+8)", "48", "28", "+8"]
 attack: "1 shock (2d8)"
 damage: "-"
 speed: "Fly 50'"

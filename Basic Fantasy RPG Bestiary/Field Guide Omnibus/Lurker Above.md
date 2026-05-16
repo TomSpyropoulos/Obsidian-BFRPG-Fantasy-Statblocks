@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lurker Above
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 10 (+9)
+ac: 13
+hit_dice: "10 (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10 (+9)", "54", "5 [14]", "11 [+9]"]
+stats: ["10 (+9)", "54", "13", "+9"]
 attack: "1 smother"
 damage: "1d6 + 1d6 per round"
 speed: "Fly 40'"

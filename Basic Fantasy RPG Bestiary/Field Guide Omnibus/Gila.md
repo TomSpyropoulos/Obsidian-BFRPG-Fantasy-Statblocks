@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gila
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1-1
+ac: 14
+hit_dice: "1-1"
 hp: 3
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1-1", "3", "4 [15]", "19 [+1]"]
+stats: ["1-1", "3", "14", "+1"]
 attack: "1 bite / 1 weapon"
 damage: "1d4 bite, by weapon"
 speed: "30'"

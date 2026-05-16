@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rubicante Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 4**
+ac: 19
+hit_dice: "4**"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4**", "18", "-1 [20]", "16 [+4]"]
+stats: ["4**", "18", "19", "+4"]
 attack: "2 claws, or weapon"
 damage: "1d4 claw, or by weapon"
 speed: "20' Fly 40'"

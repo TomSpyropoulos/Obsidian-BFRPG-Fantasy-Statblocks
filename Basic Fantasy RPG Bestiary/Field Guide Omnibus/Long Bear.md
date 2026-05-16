@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Long Bear
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7
+ac: 15
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "3 [16]", "13 [+7]"]
+stats: ["7", "31", "15", "+7"]
 attack: "2 claws / 1 bite / hug / additional set of legs"
 damage: "2d4 claw, 2d6 bite, 2d6 hug, use of additional sets of legs until a claw attack misses"
 speed: "40' (20')'"

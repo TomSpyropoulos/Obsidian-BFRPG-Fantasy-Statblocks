@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lesser Chimera
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 7 + 4**
+ac: 13
+hit_dice: "7 + 4**"
 hp: 35
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7 + 4**", "35", "5 [14]", "13 [+7]"]
+stats: ["7 + 4**", "35", "13", "+7"]
 attack: "2 claws, 1 bite, or 1 snake bite, or breath"
 damage: "1d6 claw, 1d10 bite, 1d6 snake bite + poison, or 3d4 breath"
 speed: "50'"

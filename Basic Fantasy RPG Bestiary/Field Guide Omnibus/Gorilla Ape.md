@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gorilla Ape
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4
+ac: 13
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "5 [14]", "16 [+4]"]
+stats: ["4", "18", "13", "+4"]
 attack: "2 fist / 1 bite + special"
 damage: "1d3 fist, 1d6 bite + 1d6 grab"
 speed: "40'"

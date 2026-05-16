@@ -1,0 +1,21 @@
+{
+  "monster_attack_bonus_table": [
+    { "monster_hit_dice": "less than 1", "attack_bonus": 0 },
+    { "monster_hit_dice": "1", "attack_bonus": 1 },
+    { "monster_hit_dice": "2", "attack_bonus": 2 },
+    { "monster_hit_dice": "3", "attack_bonus": 3 },
+    { "monster_hit_dice": "4", "attack_bonus": 4 },
+    { "monster_hit_dice": "5", "attack_bonus": 5 },
+    { "monster_hit_dice": "6", "attack_bonus": 6 },
+    { "monster_hit_dice": "7", "attack_bonus": 7 },
+    { "monster_hit_dice": "8-9", "attack_bonus": 8 },
+    { "monster_hit_dice": "10-11", "attack_bonus": 9 },
+    { "monster_hit_dice": "12-13", "attack_bonus": 10 },
+    { "monster_hit_dice": "14-15", "attack_bonus": 11 },
+    { "monster_hit_dice": "16-19", "attack_bonus": 12 },
+    { "monster_hit_dice": "20-23", "attack_bonus": 13 },
+    { "monster_hit_dice": "24-27", "attack_bonus": 14 },
+    { "monster_hit_dice": "28-31", "attack_bonus": 15 },
+    { "monster_hit_dice": "32 or more", "attack_bonus": 16 }
+  ]
+}

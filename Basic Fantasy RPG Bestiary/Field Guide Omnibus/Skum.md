@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Skum
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 2*
+ac: 12
+hit_dice: "2*"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2*", "9", "6 [13]", "18 [+2]"]
+stats: ["2*", "9", "12", "+2"]
 attack: "1 bite, 2 claws, or 1 weapon"
 damage: "2d6 bite, 1d4 claw or by weapon"
 speed: "20' Swim 40'"

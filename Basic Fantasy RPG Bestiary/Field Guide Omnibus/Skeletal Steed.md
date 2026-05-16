@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Skeletal Steed
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 3
+ac: 12
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "6 [13]", "17 [+3]"]
+stats: ["3", "13", "12", "+3"]
 attack: "2 hooves (1d4) / 1 bite (1d6)"
 damage: "-"
 speed: "60' (10')'"

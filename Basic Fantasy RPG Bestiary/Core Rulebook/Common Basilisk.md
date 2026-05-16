@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Common Basilisk
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 6**
+ac: 15
+hit_dice: "6**"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6**", "27", "3 [16]", "14 [+6]"]
+stats: ["6**", "27", "15", "+6"]
 attack: "1 bite/1 gaze"
 damage: "1d10/petrification"
 speed: "20' (10')'"

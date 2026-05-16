@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bone Geminate Serpent
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -4 [23]
-hit_dice: 11** (+9)
+ac: 22
+hit_dice: "11** (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11** (+9)", "58", "-4 [23]", "11 [+9]"]
+stats: ["11** (+9)", "58", "22", "+9"]
 attack: "2 bite or 1 spell or 1 constrict"
 damage: "2d10 bite, bone to blade, 3d6 constrict*"
 speed: "50'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bestomper
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 11*
+ac: 19
+hit_dice: "11*"
 hp: 49
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["11*", "49", "-1 [20]", "11 [+9]"]
+stats: ["11*", "49", "19", "+9"]
 attack: "1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 stomp, 2d6 bite, or eye beam (see below)"
 speed: "fly 20'"

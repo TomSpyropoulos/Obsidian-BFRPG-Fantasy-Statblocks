@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bulette
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -3 [22]
-hit_dice: 9** (+8)
+ac: 21
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "-3 [22]", "12 [+8]"]
+stats: ["9** (+8)", "48", "21", "+8"]
 attack: "1 bite, 2 claws or 4 claws"
 damage: "3d8 bite, 2d6 claw"
 speed: "40' Burrow 10'"

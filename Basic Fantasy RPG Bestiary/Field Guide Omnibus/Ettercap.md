@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ettercap
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 6+1
+ac: 13
+hit_dice: "6+1"
 hp: 28
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+1", "28", "5 [14]", "14 [+6]"]
+stats: ["6+1", "28", "13", "+6"]
 attack: "2 claws, 1 bite + poison"
 damage: "1d3 claw, 1d8 bite + poison"
 speed: "30'"

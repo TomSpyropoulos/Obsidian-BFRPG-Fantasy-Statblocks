@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Headless Horseman
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 9 [10]
-hit_dice: 7** (or more)
+ac: 9
+hit_dice: "7** (or more)"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7** (or more)", "31", "9 [10]", "13 [+7]"]
+stats: ["7** (or more)", "31", "9", "+7"]
 attack: "1 weapon (also see mount)"
 damage: "1d8 or by weapon (also see mount)"
 speed: "30' (also see mount)'"

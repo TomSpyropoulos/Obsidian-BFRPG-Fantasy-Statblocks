@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Stone Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 9 (+8)
+ac: 16
+hit_dice: "9 (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9 (+8)", "48", "2 [17]", "12 [+8]"]
+stats: ["9 (+8)", "48", "16", "+8"]
 attack: "1 stone club or 1 thrown rock"
 damage: "3d6 or 3d6"
 speed: "30' Unarmored 40'"

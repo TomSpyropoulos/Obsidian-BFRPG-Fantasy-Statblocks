@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Bison
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 4
+ac: 15
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "3 [16]", "16 [+4]"]
+stats: ["4", "18", "15", "+4"]
 attack: "1 horn/head butt or 1 trample"
 damage: "1d4 butt, 2d4 trample"
 speed: "50' (10')'"

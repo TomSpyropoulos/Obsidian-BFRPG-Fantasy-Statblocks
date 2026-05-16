@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Stone* Golem
 layout: BFRPG
 subtype: Core Rulebook
-ac: -6 [25]
-hit_dice: 14** (+11)
+ac: 24
+hit_dice: "14** (+11)"
 hp: 74
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 0
-stats: ["14** (+11)", "74", "-6 [25]", "9 [+11]"]
+stats: ["14** (+11)", "74", "24", "+11"]
 attack: "1 + special"
 damage: "3d8 + special"
 speed: "20' (10')'"

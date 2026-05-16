@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Triceratops Dinosaur
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 11 (+9)
+ac: 18
+hit_dice: "11 (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 0
-stats: ["11 (+9)", "58", "0 [19]", "11 [+9]"]
+stats: ["11 (+9)", "58", "18", "+9"]
 attack: "1 gore or 1 trample"
 damage: "3d6 or 3d6 (special, see below)"
 speed: "30' (15')'"

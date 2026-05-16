@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sahuagin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 2+2*
+ac: 15
+hit_dice: "2+2*"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2*", "11", "3 [16]", "18 [+2]"]
+stats: ["2+2*", "11", "15", "+2"]
 attack: "1 trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
 damage: "1d8 trident, 1d4 bite, 1d4 talon, or by weapon"
 speed: "30' Swim 40'"

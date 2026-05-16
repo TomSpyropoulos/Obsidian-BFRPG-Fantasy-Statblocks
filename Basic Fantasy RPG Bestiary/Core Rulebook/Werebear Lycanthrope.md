@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Werebear* Lycanthrope
 layout: BFRPG
 subtype: Core Rulebook
-ac: 1 [18]
-hit_dice: 6*
+ac: 17
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "1 [18]", "14 [+6]"]
+stats: ["6*", "27", "17", "+6"]
 attack: "-"
 damage: "2d4/2d4/2d8 + 2d8"
 speed: "40'"

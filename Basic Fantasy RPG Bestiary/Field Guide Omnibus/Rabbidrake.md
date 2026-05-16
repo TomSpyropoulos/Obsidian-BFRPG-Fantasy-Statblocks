@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rabbidrake
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 1*
+ac: 12
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "6 [13]", "19 [+1]"]
+stats: ["1*", "4", "12", "+1"]
 attack: "1 bite, or Breath Weapon"
 damage: "1d4+1 bite or Breath Weapon"
 speed: "20' Fly 50'"

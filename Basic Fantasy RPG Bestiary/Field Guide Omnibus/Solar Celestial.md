@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Solar Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 7**
+ac: 16
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 1
-stats: ["7**", "31", "2 [17]", "13 [+7]"]
+stats: ["7**", "31", "16", "+7"]
 attack: "1 weapon"
 damage: "By weapon + 2"
 speed: "50' Fly 90'"

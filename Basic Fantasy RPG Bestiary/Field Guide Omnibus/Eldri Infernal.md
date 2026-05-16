@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Eldri Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 9** (+7)
+ac: 15
+hit_dice: "9** (+7)"
 hp: 47
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+7)", "47", "3 [16]", "12 [+8]"]
+stats: ["9** (+7)", "47", "15", "+8"]
 attack: "2 claws or fire blast or spell"
 damage: "1d4 claw, 2d6 fire blast, by spell"
 speed: "50' Fly 90'"

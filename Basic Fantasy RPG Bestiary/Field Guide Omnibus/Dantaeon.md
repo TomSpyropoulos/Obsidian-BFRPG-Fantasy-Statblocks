@@ -12,13 +12,13 @@ source: Field Guide Omnibus
 name: Dantaeon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 3
+ac: 12
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "6 [13]", "17 [+3]"]
-attack: "1 × weapon (by weapon) / 1 × tail (1d6)"
+stats: ["3", "13", "12", "+3"]
+attack: "1 \u00d7 weapon (by weapon) / 1 \u00d7 tail (1d6)"
 damage: "by weapon, 1d6 tail"
 speed: "40'"
 jds: [11, 12, 14, 15, 16]

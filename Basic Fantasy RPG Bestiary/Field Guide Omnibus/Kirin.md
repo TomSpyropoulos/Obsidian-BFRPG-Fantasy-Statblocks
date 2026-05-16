@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Kirin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -6 [25]
-hit_dice: 12**
+ac: 24
+hit_dice: "12**"
 hp: 54
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12**", "54", "-6 [25]", "10 [+10]"]
+stats: ["12**", "54", "24", "+10"]
 attack: "2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
 damage: "-"
 speed: "120' Fly 180'"

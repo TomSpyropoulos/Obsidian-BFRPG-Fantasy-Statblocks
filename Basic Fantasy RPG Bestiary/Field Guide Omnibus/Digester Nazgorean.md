@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Digester Nazgorean
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 12* (+10)
+ac: 16
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "2 [17]", "10 [+10]"]
+stats: ["12* (+10)", "64", "16", "+10"]
 attack: "1 claw + special"
 damage: "1d8 + special"
 speed: "60'"

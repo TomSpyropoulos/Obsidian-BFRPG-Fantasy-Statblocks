@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Imperial Griffon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 9 (+8)
+ac: 18
+hit_dice: "9 (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9 (+8)", "48", "0 [19]", "12 [+8]"]
+stats: ["9 (+8)", "48", "18", "+8"]
 attack: "2 claws / 1 bite"
 damage: "2d4 claw, 3d6 bite"
 speed: "40' (10') Fly 120' (10')'"

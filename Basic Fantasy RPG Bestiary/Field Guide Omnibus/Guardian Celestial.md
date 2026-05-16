@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Guardian Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 9* (+8)
+ac: 16
+hit_dice: "9* (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9* (+8)", "48", "2 [17]", "12 [+8]"]
+stats: ["9* (+8)", "48", "16", "+8"]
 attack: "2 claws"
 damage: "1d10 claw"
 speed: "40' Fly 80' (20')'"

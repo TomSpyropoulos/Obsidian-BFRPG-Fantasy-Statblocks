@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Aghar
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 9+2** (+8)
+ac: 17
+hit_dice: "9+2** (+8)"
 hp: 50
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9+2** (+8)", "50", "1 [18]", "12 [+8]"]
+stats: ["9+2** (+8)", "50", "17", "+8"]
 attack: "2 fists or 1 boulder"
 damage: "1d10+4 fist, 3d6 boulder"
 speed: "40' Tunnel 40'"

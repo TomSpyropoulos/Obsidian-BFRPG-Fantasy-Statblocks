@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Goblin
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 1-1
+ac: 13
+hit_dice: "1-1"
 hp: 3
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1-1", "3", "5 [14]", "19 [+1]"]
+stats: ["1-1", "3", "13", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "20' Unarmored 30'"

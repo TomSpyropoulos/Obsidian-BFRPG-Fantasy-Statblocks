@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Hippopotamus
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 6
+ac: 16
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "2 [17]", "14 [+6]"]
+stats: ["6", "27", "16", "+6"]
 attack: "1 bite or 1 trample"
 damage: "2d6 bite, 4d6 trample"
 speed: "40' Swim 30'"

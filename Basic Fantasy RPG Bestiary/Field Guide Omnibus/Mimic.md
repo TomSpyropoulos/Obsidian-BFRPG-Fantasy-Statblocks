@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Mimic
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 7**
+ac: 14
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "4 [15]", "13 [+7]"]
+stats: ["7**", "31", "14", "+7"]
 attack: "1 slam"
 damage: "3d4"
 speed: "10'"

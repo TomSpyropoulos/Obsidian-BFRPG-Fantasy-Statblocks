@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Mink
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: ½ (1d4 points)
+ac: 14
+hit_dice: "\u00bd (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: -1
-stats: ["\u00bd (1d4 points)", "2", "4 [15]", "20 [+0]"]
+stats: ["\u00bd (1d4 points)", "2", "14", "+0"]
 attack: "1 bite"
 damage: "1-2 points"
 speed: "30' Swim 50'"

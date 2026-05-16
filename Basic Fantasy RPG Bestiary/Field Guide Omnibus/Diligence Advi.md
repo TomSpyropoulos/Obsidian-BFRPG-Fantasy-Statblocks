@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Diligence Advi
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -7 [26]
-hit_dice: 12 (+10)
+ac: 25
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "-7 [26]", "10 [+10]"]
+stats: ["12 (+10)", "64", "25", "+10"]
 attack: "4 tools"
 damage: "1d4"
 speed: "30'"

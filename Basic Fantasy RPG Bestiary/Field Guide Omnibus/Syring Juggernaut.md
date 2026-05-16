@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Syring Juggernaut
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 12* (+10)
+ac: 23
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "-5 [24]", "10 [+10]"]
+stats: ["12* (+10)", "64", "23", "+10"]
 attack: "6 legs or resin shot"
 damage: "2d6 leg or resin"
 speed: "40'"

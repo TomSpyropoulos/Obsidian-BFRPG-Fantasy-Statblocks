@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Shield Guardian
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 15+20** (+5)
+ac: 19
+hit_dice: "15+20** (+5)"
 hp: 92
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 1
-stats: ["15+20** (+5)", "92", "-1 [20]", "9 [+11]"]
+stats: ["15+20** (+5)", "92", "19", "+11"]
 attack: "1 fist"
 damage: "1d6"
 speed: "30'"

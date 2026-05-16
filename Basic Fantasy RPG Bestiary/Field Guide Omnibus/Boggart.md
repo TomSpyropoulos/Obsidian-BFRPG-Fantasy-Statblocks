@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Boggart
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 6*
+ac: 13
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "5 [14]", "14 [+6]"]
+stats: ["6*", "27", "13", "+6"]
 attack: "2 claws (1d6)"
 damage: "1d6"
 speed: "40'"

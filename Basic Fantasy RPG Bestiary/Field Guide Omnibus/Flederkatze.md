@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Flederkatze
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 2**
+ac: 18
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "0 [19]", "18 [+2]"]
+stats: ["2**", "9", "18", "+2"]
 attack: "2 claws / 1 bite + poison"
 damage: "1d2 claw, 1d3 bite + poison"
 speed: "40' Fly 60'"

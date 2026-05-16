@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ophidian
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 3+1*
+ac: 13
+hit_dice: "3+1*"
 hp: 14
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+1*", "14", "5 [14]", "17 [+3]"]
+stats: ["3+1*", "14", "13", "+3"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 + Poison or by weapon"
 speed: "30'"

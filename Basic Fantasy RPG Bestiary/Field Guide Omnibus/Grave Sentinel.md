@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grave Sentinel
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 3**
+ac: 19
+hit_dice: "3**"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3**", "13", "-1 [20]", "17 [+3]"]
+stats: ["3**", "13", "19", "+3"]
 attack: "1 weapon"
 damage: "by weapon"
 speed: "30'"

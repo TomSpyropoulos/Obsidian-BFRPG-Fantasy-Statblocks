@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Kappa
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4
+ac: 13
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "5 [14]", "16 [+4]"]
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws + choke"
 damage: "1d4 claw + 1d6 choke"
 speed: "30' Swim 30'"

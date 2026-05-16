@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wolverine
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 3
+ac: 13
+hit_dice: "3"
 hp: 13
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3", "13", "5 [14]", "17 [+3]"]
+stats: ["3", "13", "13", "+3"]
 attack: "2 claws / 1 bite"
 damage: "1d4+2 claw, 1d6 bite"
 speed: "30' Climb 10' Burrow 1'"

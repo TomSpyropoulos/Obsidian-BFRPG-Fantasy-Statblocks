@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ceratosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 8
+ac: 14
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "4 [15]", "12 [+8]"]
+stats: ["8", "36", "14", "+8"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 2d8 bite"
 speed: "90'"

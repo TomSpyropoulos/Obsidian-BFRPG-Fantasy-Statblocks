@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Wanstrow
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 4 (+9 see below)
+ac: 17
+hit_dice: "4 (+9 see below)"
 hp: 27
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4 (+9 see below)", "27", "1 [18]", "16 [+4]"]
+stats: ["4 (+9 see below)", "27", "17", "+4"]
 attack: "2"
 damage: "1d8+5 strike"
 speed: "40'"

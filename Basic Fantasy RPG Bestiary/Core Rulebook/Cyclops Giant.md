@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Cyclops Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 13* (+10)
+ac: 14
+hit_dice: "13* (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13* (+10)", "68", "4 [15]", "10 [+10]"]
+stats: ["13* (+10)", "68", "14", "+10"]
 attack: "1 giant club or 1 rock (thrown)"
 damage: "3d10 or 3d6"
 speed: "20' Unarmored 30'"

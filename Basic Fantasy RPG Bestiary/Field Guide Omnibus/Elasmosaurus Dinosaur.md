@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Elasmosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 15 (+11)
+ac: 12
+hit_dice: "15 (+11)"
 hp: 78
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["15 (+11)", "78", "6 [13]", "9 [+11]"]
+stats: ["15 (+11)", "78", "12", "+11"]
 attack: "1 bite (2d12)"
 damage: "-"
 speed: "Swim 90'"

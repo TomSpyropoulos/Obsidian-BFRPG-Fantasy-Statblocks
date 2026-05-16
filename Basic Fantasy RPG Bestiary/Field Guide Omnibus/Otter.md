@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Otter
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: ½* (1d4 points)
+ac: 15
+hit_dice: "\u00bd* (1d4 points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: 0
-stats: ["\u00bd* (1d4 points)", "2", "3 [16]", "20 [+0]"]
+stats: ["\u00bd* (1d4 points)", "2", "15", "+0"]
 attack: "1 bite"
 damage: "1d2"
 speed: "30' Swim 50'"

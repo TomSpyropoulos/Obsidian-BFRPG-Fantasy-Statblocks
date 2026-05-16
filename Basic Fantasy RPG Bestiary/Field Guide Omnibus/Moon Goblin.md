@@ -12,19 +12,19 @@ source: Field Guide Omnibus
 name: Moon Goblin
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 2
+ac: 15
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "3 [16]", "18 [+2]"]
+stats: ["2", "9", "15", "+2"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "30'"
 jds: [11, 12, 14, 15, 16]
 moral: "8"
 xp: 75
-nbr: "Wild 2d10, Lair 4d8×10"
+nbr: "Wild 2d10, Lair 4d8\u00d710"
 loot: "E"
 roll_jds: 1d20
 roll-moral: 2d6

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Barghest
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 6+3*
+ac: 15
+hit_dice: "6+3*"
 hp: 30
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+3*", "30", "3 [16]", "14 [+6]"]
+stats: ["6+3*", "30", "15", "+6"]
 attack: "2 claws (humanoid) / 1 bite (dog)"
 damage: "1d6 claw or 2d4 bite"
 speed: "40' or 60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Piercer
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 1
+ac: 15
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "3 [16]", "19 [+1]"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 stab"
 damage: "1d6 per HD"
 speed: "10'"

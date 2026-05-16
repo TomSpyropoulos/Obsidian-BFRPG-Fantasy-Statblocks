@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Leucrotta
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 6+1
+ac: 15
+hit_dice: "6+1"
 hp: 28
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+1", "28", "3 [16]", "14 [+6]"]
+stats: ["6+1", "28", "15", "+6"]
 attack: "1 bite or 2 kicks"
 damage: "3d6 bite, 1d6 kick"
 speed: "90'"

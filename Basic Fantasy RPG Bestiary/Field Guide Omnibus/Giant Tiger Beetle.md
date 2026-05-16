@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Tiger Beetle
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 3+1
+ac: 16
+hit_dice: "3+1"
 hp: 14
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+1", "14", "2 [17]", "17 [+3]"]
+stats: ["3+1", "14", "16", "+3"]
 attack: "1 bite (2d6)"
 damage: "-"
 speed: "60' (10')'"

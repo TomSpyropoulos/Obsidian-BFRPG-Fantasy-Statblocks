@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Oil Beetle
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 2
+ac: 15
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "3 [16]", "18 [+2]"]
+stats: ["2", "9", "15", "+2"]
 attack: "1 bite + spray (see below)"
 damage: "2d4 bite, special spray"
 speed: "40'"

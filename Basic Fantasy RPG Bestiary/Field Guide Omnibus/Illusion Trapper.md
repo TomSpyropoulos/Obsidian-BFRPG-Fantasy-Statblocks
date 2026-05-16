@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Illusion Trapper
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 9** (+8)
+ac: 17
+hit_dice: "9** (+8)"
 hp: 48
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9** (+8)", "48", "1 [18]", "12 [+8]"]
+stats: ["9** (+8)", "48", "17", "+8"]
 attack: "1 bite"
 damage: "5d4"
 speed: "30'"

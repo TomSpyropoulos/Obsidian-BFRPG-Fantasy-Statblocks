@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Quinotaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8+3*
+ac: 17
+hit_dice: "8+3*"
 hp: 39
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8+3*", "39", "1 [18]", "12 [+8]"]
+stats: ["8+3*", "39", "17", "+8"]
 attack: "1 gore, or 1 bite, or charge"
 damage: "2d8+2 gore, 1d10+3 bite, 4d8+2 charge"
 speed: "swim 60'"

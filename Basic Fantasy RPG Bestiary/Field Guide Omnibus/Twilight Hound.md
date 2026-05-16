@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Twilight Hound
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 5*
+ac: 16
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "2 [17]", "15 [+5]"]
+stats: ["5*", "22", "16", "+5"]
 attack: "2 bites or 1 bite + poison"
 damage: "1d10 bite or 1d4 bite + poison"
 speed: "40'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Deceiver
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 6*
+ac: 15
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "3 [16]", "14 [+6]"]
+stats: ["6*", "27", "15", "+6"]
 attack: "3 bites (1d6 snake bite, 1d8 panther bite)"
 damage: "1d6 snake bite, 1d8 panther bite"
 speed: "50'"

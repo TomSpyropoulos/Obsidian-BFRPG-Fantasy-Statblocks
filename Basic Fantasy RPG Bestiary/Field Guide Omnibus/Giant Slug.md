@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Slug
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 12 (+10)
+ac: 11
+hit_dice: "12 (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12 (+10)", "64", "7 [12]", "10 [+10]"]
+stats: ["12 (+10)", "64", "11", "+10"]
 attack: "1 bite or 1 spit"
 damage: "1d12 bite or 2d6 spit"
 speed: "30'"

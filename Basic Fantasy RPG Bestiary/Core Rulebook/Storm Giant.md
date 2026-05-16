@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Storm Giant
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 15** (+11)
+ac: 18
+hit_dice: "15** (+11)"
 hp: 78
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["15** (+11)", "78", "0 [19]", "9 [+11]"]
+stats: ["15** (+11)", "78", "18", "+11"]
 attack: "1 giant weapon or 1 lightning bolt"
 damage: "8d6 or 15d6"
 speed: "30' Unarmored 50' (10')'"

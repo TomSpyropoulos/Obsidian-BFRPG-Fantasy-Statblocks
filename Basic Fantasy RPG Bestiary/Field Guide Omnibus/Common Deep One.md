@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Common Deep One
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 3+3
+ac: 15
+hit_dice: "3+3"
 hp: 16
-thaco: 17 [+3]
+thaco: "+3"
 modifier: 0
-stats: ["3+3", "16", "3 [16]", "17 [+3]"]
+stats: ["3+3", "16", "15", "+3"]
 attack: "2 claws or by weapon"
 damage: "1d4 claw, by weapon"
 speed: "20' Swim 30'"

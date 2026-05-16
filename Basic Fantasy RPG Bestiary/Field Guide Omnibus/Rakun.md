@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Rakun
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 1d6 HP
+ac: 11
+hit_dice: "1d6 HP"
 hp: 3
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1d6 HP", "3", "7 [12]", "19 [+1]"]
+stats: ["1d6 HP", "3", "11", "+1"]
 attack: "1 weapon or one bite"
 damage: "1d4 or by weapon or 1d3 bite"
 speed: "30' Unarmored 40'"

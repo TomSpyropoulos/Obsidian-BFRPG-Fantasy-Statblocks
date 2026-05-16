@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Flame Salamander
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "2 claws/1 bite + heat"
 damage: "1d4/1d4/1d8 + 1d8/round"
 speed: "40'"

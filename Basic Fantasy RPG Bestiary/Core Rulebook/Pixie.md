@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Pixie
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 1*
+ac: 16
+hit_dice: "1*"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1*", "4", "2 [17]", "19 [+1]"]
+stats: ["1*", "4", "16", "+1"]
 attack: "1 dagger (1d4)"
 damage: "1d4"
 speed: "30' Fly 60'"

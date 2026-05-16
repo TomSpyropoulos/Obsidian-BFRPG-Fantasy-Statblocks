@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Yowie
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 6+2*
+ac: 15
+hit_dice: "6+2*"
 hp: 29
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6+2*", "29", "3 [16]", "14 [+6]"]
+stats: ["6+2*", "29", "15", "+6"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 1d8 bite"
 speed: "40'"

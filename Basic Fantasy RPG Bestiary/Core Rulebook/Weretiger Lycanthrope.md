@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Weretiger* Lycanthrope
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 5*
+ac: 16
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "2 [17]", "15 [+5]"]
+stats: ["5*", "22", "16", "+5"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
 speed: "50' Human Form 40'"

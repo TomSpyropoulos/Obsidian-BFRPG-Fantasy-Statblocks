@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Bone Devil Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 9*
+ac: 20
+hit_dice: "9*"
 hp: 40
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9*", "40", "-2 [21]", "12 [+8]"]
+stats: ["9*", "40", "20", "+8"]
 attack: "1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
 damage: "3d4 hook, 2d4 plus 1d4 STR damage tail"
 speed: "90'"

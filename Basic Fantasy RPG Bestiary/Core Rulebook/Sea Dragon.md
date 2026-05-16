@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Sea Dragon (Gray)
+name: Sea Dragon
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Gray Dragon"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Sea Dragon (Gray)
+name: Sea Dragon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 8**
+ac: 18
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "0 [19]", "12 [+8]"]
+stats: ["8**", "36", "18", "+8"]
 attack: "2 claws/1 bite or breath"
 damage: "1d6/1d6/3d8 or breath"
 speed: "10' Fly 60' (20') Swim 60' (15')'"

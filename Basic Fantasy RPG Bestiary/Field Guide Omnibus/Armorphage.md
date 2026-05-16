@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Armorphage
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 4*
+ac: 15
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "3 [16]", "16 [+4]"]
+stats: ["4*", "18", "15", "+4"]
 attack: "2 tendrils or 1 constrict"
 damage: "1d6 tendrils, 2d4 constrict"
 speed: "20'"

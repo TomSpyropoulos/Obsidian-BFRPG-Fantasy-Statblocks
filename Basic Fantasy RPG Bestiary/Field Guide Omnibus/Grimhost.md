@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Grimhost
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 5**
+ac: 17
+hit_dice: "5**"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 1
-stats: ["5**", "22", "1 [18]", "15 [+5]"]
+stats: ["5**", "22", "17", "+5"]
 attack: "By weapon"
 damage: "By weapon"
 speed: "40'"

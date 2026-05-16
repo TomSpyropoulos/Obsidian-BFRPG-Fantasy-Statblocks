@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Living Darkness
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 4**
+ac: 11
+hit_dice: "4**"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4**", "18", "7 [12]", "16 [+4]"]
+stats: ["4**", "18", "11", "+4"]
 attack: "1 shroud + drain"
 damage: "1d4 + special"
 speed: "10'"

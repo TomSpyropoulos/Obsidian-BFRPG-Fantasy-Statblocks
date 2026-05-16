@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Crusher Fish
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 1
+ac: 10
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "8 [11]", "19 [+1]"]
+stats: ["1", "4", "10", "+1"]
 attack: "1 bite plus spines (special)"
 damage: "1d8 bite plus poison"
 speed: "Swim 60'"

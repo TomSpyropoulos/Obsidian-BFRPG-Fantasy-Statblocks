@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Giant Cave Locust
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 2**
+ac: 15
+hit_dice: "2**"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2**", "9", "3 [16]", "18 [+2]"]
+stats: ["2**", "9", "15", "+2"]
 attack: "1 bite or 1 bump or 1 spit"
 damage: "1d2 or 1d4* or special"
 speed: "20' Fly 60' (15')'"

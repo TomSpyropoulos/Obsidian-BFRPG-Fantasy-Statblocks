@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Phase Spider
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 9+1 (+8)
+ac: 14
+hit_dice: "9+1 (+8)"
 hp: 49
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["9+1 (+8)", "49", "4 [15]", "12 [+8]"]
+stats: ["9+1 (+8)", "49", "14", "+8"]
 attack: "1 bite + poison"
 damage: "1d6 + poison"
 speed: "40'"

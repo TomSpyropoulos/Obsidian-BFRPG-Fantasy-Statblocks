@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sun's Child
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 10* (+9)
+ac: 15
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "3 [16]", "11 [+9]"]
+stats: ["10* (+9)", "54", "15", "+9"]
 attack: "Special"
 damage: "3d6"
 speed: "Fly 40'"

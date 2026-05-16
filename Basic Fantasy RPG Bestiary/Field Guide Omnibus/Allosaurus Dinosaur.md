@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Allosaurus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 15 (+11)
+ac: 14
+hit_dice: "15 (+11)"
 hp: 78
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["15 (+11)", "78", "4 [15]", "9 [+11]"]
+stats: ["15 (+11)", "78", "14", "+11"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 4d6 bite"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gump
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4*
+ac: 13
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "5 [14]", "16 [+4]"]
+stats: ["4*", "18", "13", "+4"]
 attack: "2 fists or 1 weapon"
 damage: "1d8+3 fist or by weapon +3"
 speed: "30'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Glyptodon
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 4
+ac: 18
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "0 [19]", "16 [+4]"]
+stats: ["4", "18", "18", "+4"]
 attack: "1 tail or trample"
 damage: "1d8 tail or trample"
 speed: "20' (10')'"

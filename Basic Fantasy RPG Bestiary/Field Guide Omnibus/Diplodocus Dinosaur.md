@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Diplodocus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 24 (+14)
+ac: 13
+hit_dice: "24 (+14)"
 hp: 122
-thaco: 6 [+14]
+thaco: "+14"
 modifier: 3
-stats: ["24 (+14)", "122", "5 [14]", "6 [+14]"]
+stats: ["24 (+14)", "122", "13", "+14"]
 attack: "1 trample"
 damage: "3d6"
 speed: "30'"

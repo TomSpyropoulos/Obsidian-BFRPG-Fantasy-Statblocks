@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Euoplocephalus Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -4 [23]
-hit_dice: 8
+ac: 22
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "-4 [23]", "12 [+8]"]
+stats: ["8", "36", "22", "+8"]
 attack: "1 tail (2d6)"
 damage: "2d6"
 speed: "20'"

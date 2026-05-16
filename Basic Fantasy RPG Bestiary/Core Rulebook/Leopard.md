@@ -1,23 +1,23 @@
 ---
 statblock: inline
-name: Leopard (Panther)
+name: Leopard
 obsidianUIMode: preview
 tags:
   - monster
-aliases: []
+aliases: ["Panther"]
 source: Core Rulebook
 ---
 
 ```statblock
-name: Leopard (Panther)
+name: Leopard
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 4
+ac: 15
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "3 [16]", "16 [+4]"]
+stats: ["4", "18", "15", "+4"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 2d4 bite"
 speed: "60' (10')'"

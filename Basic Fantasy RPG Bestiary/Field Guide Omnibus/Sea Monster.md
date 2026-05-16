@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Sea Monster
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 7
+ac: 14
+hit_dice: "7"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7", "31", "4 [15]", "13 [+7]"]
+stats: ["7", "31", "14", "+7"]
 attack: "1 bite or 1-8 tentacles or 1-4 claws"
 damage: "from 3d8 to 5d10 bite, or 2d6 to 4d6 tentacle, or 2d4 to 4d4 claw"
 speed: "Swim 40' to 120'"

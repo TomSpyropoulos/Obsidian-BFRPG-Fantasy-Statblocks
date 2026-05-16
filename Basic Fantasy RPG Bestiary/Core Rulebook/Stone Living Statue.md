@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Stone Living Statue
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 5*
+ac: 15
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "3 [16]", "15 [+5]"]
+stats: ["5*", "22", "15", "+5"]
 attack: "2 lava sprays (2d6/2d6)"
 damage: "2d6/2d6"
 speed: "20'"

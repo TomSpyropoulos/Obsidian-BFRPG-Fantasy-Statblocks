@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Marilith Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 7**
+ac: 15
+hit_dice: "7**"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7**", "31", "3 [16]", "13 [+7]"]
+stats: ["7**", "31", "15", "+7"]
 attack: "6 claws or 6 weapons + breath weapon"
 damage: "1d6 per claw or by weapon + 6d6 fire breath"
 speed: "30'"

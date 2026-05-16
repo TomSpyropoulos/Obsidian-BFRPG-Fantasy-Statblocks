@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Falcon
 layout: BFRPG
 subtype: Core Rulebook
-ac: 8 [11]
-hit_dice: 1/2 (1d4 HP)
+ac: 10
+hit_dice: "1/2 (1d4 HP)"
 hp: 2
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1/2 (1d4 HP)", "2", "8 [11]", "19 [+1]"]
+stats: ["1/2 (1d4 HP)", "2", "10", "+1"]
 attack: "2 talons / 1 beak"
 damage: "1d4 talon, 1d4 beak"
 speed: "10' fly 160' (10')'"

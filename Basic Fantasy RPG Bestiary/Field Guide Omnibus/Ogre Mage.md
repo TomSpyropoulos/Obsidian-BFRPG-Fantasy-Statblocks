@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ogre Mage
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 5+2**
+ac: 16
+hit_dice: "5+2**"
 hp: 24
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5+2**", "24", "2 [17]", "15 [+5]"]
+stats: ["5+2**", "24", "16", "+5"]
 attack: "1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (large weapon), by weapon +3, by spell, 12d4 breath"
 speed: "40' Fly 40'"

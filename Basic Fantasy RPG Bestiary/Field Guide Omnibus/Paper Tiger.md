@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Paper Tiger
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 7*, 9*,
+ac: 14
+hit_dice: "7*, 9*,"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*, 9*,", "31", "4 [15]", "13 [+7]"]
+stats: ["7*, 9*,", "31", "14", "+7"]
 attack: "2 claws, 1 bite"
 damage: "1d8 claw, 2d6 bite"
 speed: "60'"

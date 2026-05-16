@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ghost Shroom
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 7 [12]
-hit_dice: 4 (main stalk), 2 (small stalk)
+ac: 11
+hit_dice: "4 (main stalk), 2 (small stalk)"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4 (main stalk), 2 (small stalk)", "18", "7 [12]", "16 [+4]"]
+stats: ["4 (main stalk), 2 (small stalk)", "18", "11", "+4"]
 attack: "1 per patch"
 damage: "1d4 + special"
 speed: "0'"

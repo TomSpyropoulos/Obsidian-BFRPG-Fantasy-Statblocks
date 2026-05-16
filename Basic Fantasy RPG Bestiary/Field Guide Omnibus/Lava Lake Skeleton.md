@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Lava Lake Skeleton
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 7+2*
+ac: 16
+hit_dice: "7+2*"
 hp: 33
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7+2*", "33", "2 [17]", "13 [+7]"]
+stats: ["7+2*", "33", "16", "+7"]
 attack: "1 giant weapon or 1 thrown lava rock"
 damage: "3d6 weapon or 2d6 thrown rock"
 speed: "40'"

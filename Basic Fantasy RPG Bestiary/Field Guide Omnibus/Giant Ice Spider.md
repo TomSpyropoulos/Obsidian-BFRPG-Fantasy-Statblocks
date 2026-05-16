@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Ice Spider
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 6*
+ac: 15
+hit_dice: "6*"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6*", "27", "3 [16]", "14 [+6]"]
+stats: ["6*", "27", "15", "+6"]
 attack: "1 bite + poison"
 damage: "1d10"
 speed: "50'"

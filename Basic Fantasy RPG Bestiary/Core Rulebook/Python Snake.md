@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Python Snake
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 5*
+ac: 13
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "5 [14]", "15 [+5]"]
+stats: ["5*", "22", "13", "+5"]
 attack: "1 bite/1 constrict"
 damage: "1d4/2d4"
 speed: "30'"

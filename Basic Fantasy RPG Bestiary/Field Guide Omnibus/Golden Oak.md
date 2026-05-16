@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Golden Oak
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 8 [11]
-hit_dice: 12** (+10)
+ac: 10
+hit_dice: "12** (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12** (+10)", "64", "8 [11]", "10 [+10]"]
+stats: ["12** (+10)", "64", "10", "+10"]
 attack: "1 swarm of mirror butterflies"
 damage: "3d6 + blind"
 speed: "None'"

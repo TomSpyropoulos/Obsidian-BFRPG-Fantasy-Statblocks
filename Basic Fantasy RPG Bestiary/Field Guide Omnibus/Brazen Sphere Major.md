@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Brazen Sphere Major
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 12* (+10)
+ac: 19
+hit_dice: "12* (+10)"
 hp: 64
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12* (+10)", "64", "-1 [20]", "10 [+10]"]
+stats: ["12* (+10)", "64", "19", "+10"]
 attack: "2 bludgeon or 2d4 sphere shots"
 damage: "1d6 bludgeon, 1d4 sphere shot"
 speed: "60'"

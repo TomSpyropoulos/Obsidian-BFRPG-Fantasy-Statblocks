@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Green Geminate Serpent
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -2 [21]
-hit_dice: 10** (+8)
+ac: 20
+hit_dice: "10** (+8)"
 hp: 53
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10** (+8)", "53", "-2 [21]", "11 [+9]"]
+stats: ["10** (+8)", "53", "20", "+9"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d10 bite, breath, 2d8 constrict*"
 speed: "30'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Mummy
 layout: BFRPG
 subtype: Core Rulebook
-ac: 2 [17]
-hit_dice: 5**
+ac: 16
+hit_dice: "5**"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5**", "22", "2 [17]", "15 [+5]"]
+stats: ["5**", "22", "16", "+5"]
 attack: "1 touch + disease"
 damage: "1d12 + disease"
 speed: "20'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Purple Worm
 layout: BFRPG
 subtype: Core Rulebook
-ac: 3 [16]
-hit_dice: 11* (+9)
+ac: 15
+hit_dice: "11* (+9)"
 hp: 58
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 0
-stats: ["11* (+9)", "58", "3 [16]", "11 [+9]"]
+stats: ["11* (+9)", "58", "15", "+9"]
 attack: "1 bite/1 sting"
 damage: "2d8/1d8+poison"
 speed: "20' (15') Burrow 20' (15')'"

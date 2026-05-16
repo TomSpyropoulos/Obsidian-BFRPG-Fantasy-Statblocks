@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Clockwork Armature
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 10* (+9)
+ac: 18
+hit_dice: "10* (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10* (+9)", "54", "0 [19]", "11 [+9]"]
+stats: ["10* (+9)", "54", "18", "+9"]
 attack: "2 slash, 1 ray or steam"
 damage: "1d10 slash, 2d8 ray, 5d8 steam"
 speed: "40'"

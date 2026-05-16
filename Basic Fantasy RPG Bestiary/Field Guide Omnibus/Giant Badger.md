@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Badger
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 10 (+9)
+ac: 16
+hit_dice: "10 (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10 (+9)", "54", "2 [17]", "11 [+9]"]
+stats: ["10 (+9)", "54", "16", "+9"]
 attack: "2 claws / 1 bite"
 damage: "2d4 claw, 4d4 bite"
 speed: "60' burrow 30'"

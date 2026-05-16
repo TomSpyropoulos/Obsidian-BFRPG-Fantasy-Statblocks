@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Erinyes Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 7+2*
+ac: 17
+hit_dice: "7+2*"
 hp: 33
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7+2*", "33", "1 [18]", "13 [+7]"]
+stats: ["7+2*", "33", "17", "+7"]
 attack: "1 dagger (special) or special"
 damage: "2d4 special dagger or special"
 speed: "30' Fly 120'"

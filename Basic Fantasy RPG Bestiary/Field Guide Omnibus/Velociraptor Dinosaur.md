@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Velociraptor Dinosaur
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 1
+ac: 14
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 0
-stats: ["1", "4", "4 [15]", "19 [+1]"]
+stats: ["1", "4", "14", "+1"]
 attack: "2 claws or 1 bite"
 damage: "1d4 claw or 1d6 bite"
 speed: "80'"

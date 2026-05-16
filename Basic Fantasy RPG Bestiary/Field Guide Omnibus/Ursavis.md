@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Ursavis
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8*
+ac: 17
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "1 [18]", "12 [+8]"]
+stats: ["8*", "36", "17", "+8"]
 attack: "2 claws, 1 bite or special (hug or fire breath)"
 damage: "2d6 claw, 1d10 bite, or see below"
 speed: "30' Fly 60' (10')'"

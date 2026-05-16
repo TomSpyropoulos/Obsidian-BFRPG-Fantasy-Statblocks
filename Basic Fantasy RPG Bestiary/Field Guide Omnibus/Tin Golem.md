@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Tin Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 7*
+ac: 18
+hit_dice: "7*"
 hp: 31
-thaco: 13 [+7]
+thaco: "+7"
 modifier: 0
-stats: ["7*", "31", "0 [19]", "13 [+7]"]
+stats: ["7*", "31", "18", "+7"]
 attack: "2 hands"
 damage: "Special"
 speed: "30'"

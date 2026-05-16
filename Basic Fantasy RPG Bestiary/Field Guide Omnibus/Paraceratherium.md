@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Paraceratherium
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: 12
+ac: 12
+hit_dice: "12"
 hp: 54
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["12", "54", "6 [13]", "10 [+10]"]
+stats: ["12", "54", "12", "+10"]
 attack: "1 kick"
 damage: "2d8 kick"
 speed: "20'"

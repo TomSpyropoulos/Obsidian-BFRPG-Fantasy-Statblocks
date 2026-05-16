@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Frost Worm
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 16** (+12)
+ac: 17
+hit_dice: "16** (+12)"
 hp: 84
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["16** (+12)", "84", "1 [18]", "8 [+12]"]
+stats: ["16** (+12)", "84", "17", "+12"]
 attack: "1 bite + cold or breath or death explosion"
 damage: "2d8 bite, 1d8 cold, 15d6 breath, 20d6 death explosion"
 speed: "30'"

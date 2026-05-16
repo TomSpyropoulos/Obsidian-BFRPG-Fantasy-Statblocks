@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Loadstar
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 2 [17]
-hit_dice: 2
+ac: 16
+hit_dice: "2"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2", "9", "2 [17]", "18 [+2]"]
+stats: ["2", "9", "16", "+2"]
 attack: "1 spike + incubation"
 damage: "1d6"
 speed: "20'"

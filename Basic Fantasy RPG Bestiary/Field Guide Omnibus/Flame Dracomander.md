@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Flame Dracomander
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8**
+ac: 18
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "0 [19]", "12 [+8]"]
+stats: ["8**", "36", "18", "+8"]
 attack: "1 bite or breath / 2 claws / 1 tail + heat"
 damage: "2d6 bite, 8d8 breath, 1d6 claw, 1d6 tail, 1d8 per round heat"
 speed: "30' Fly 80' (15')'"

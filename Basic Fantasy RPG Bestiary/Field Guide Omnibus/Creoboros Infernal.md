@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Creoboros Infernal
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8**, 12** (+10), 16** (+12), 20** (+13)
+ac: 17
+hit_dice: "8**, 12** (+10), 16** (+12), 20** (+13)"
 hp: 71
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**, 12** (+10), 16** (+12), 20** (+13)", "71", "1 [18]", "12 [+8]"]
+stats: ["8**, 12** (+10), 16** (+12), 20** (+13)", "71", "17", "+8"]
 attack: "3 claws, 3 bites, 1 tail, or special"
 damage: "1d8 claw, 1d10 bite, 1d4 + constriction 2d8 tail, or special"
 speed: "40'"

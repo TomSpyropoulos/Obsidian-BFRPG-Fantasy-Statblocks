@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Moonshiner
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2*
+ac: 13
+hit_dice: "2*"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "18 [+2]"]
+stats: ["2*", "9", "13", "+2"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 1d8 bite"
 speed: "60'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Great White Shark
 layout: BFRPG
 subtype: Core Rulebook
-ac: 0 [19]
-hit_dice: 8
+ac: 18
+hit_dice: "8"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8", "36", "0 [19]", "12 [+8]"]
+stats: ["8", "36", "18", "+8"]
 attack: "1 bite (2d10)"
 damage: "-"
 speed: "Swim 60' (10')'"

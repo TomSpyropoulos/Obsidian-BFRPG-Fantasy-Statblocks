@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Dragophant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 8**
+ac: 17
+hit_dice: "8**"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8**", "36", "1 [18]", "12 [+8]"]
+stats: ["8**", "36", "17", "+8"]
 attack: "2 tusks (1d6 each) / 1 stomp (3d8) / breath weapon (steam cloud, 8d8)"
 damage: "1d6 tusk, 3d8 stomp, 8d8 breath"
 speed: "30' Fly 60' (15')'"

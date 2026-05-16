@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Baldander
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 4 [15]
-hit_dice: 5*
+ac: 14
+hit_dice: "5*"
 hp: 22
-thaco: 15 [+5]
+thaco: "+5"
 modifier: 0
-stats: ["5*", "22", "4 [15]", "15 [+5]"]
+stats: ["5*", "22", "14", "+5"]
 attack: "1 weapon"
 damage: "By weapon or 1d4"
 speed: "30' Swim 40'"

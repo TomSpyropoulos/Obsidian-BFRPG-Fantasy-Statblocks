@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Catspider
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 6 [13]
-hit_dice: ½* (1d4 hit points)
+ac: 12
+hit_dice: "\u00bd* (1d4 hit points)"
 hp: 2
-thaco: 20 [+0]
+thaco: "+0"
 modifier: 0
-stats: ["\u00bd* (1d4 hit points)", "2", "6 [13]", "20 [+0]"]
+stats: ["\u00bd* (1d4 hit points)", "2", "12", "+0"]
 attack: "1 bite (1d4 + poison) / 4 claws (1d2 + poison)"
 damage: "-"
 speed: "50'"

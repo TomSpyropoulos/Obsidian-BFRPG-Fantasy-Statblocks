@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Gnome
 layout: BFRPG
 subtype: Core Rulebook
-ac: 4 [15]
-hit_dice: 1
+ac: 14
+hit_dice: "1"
 hp: 4
-thaco: 19 [+1]
+thaco: "+1"
 modifier: 1
-stats: ["1", "4", "4 [15]", "19 [+1]"]
+stats: ["1", "4", "14", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
 speed: "20' Unarmored 40'"

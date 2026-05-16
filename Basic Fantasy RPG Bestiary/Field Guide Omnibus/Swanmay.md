@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Swanmay
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 4*
+ac: 13
+hit_dice: "4*"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4*", "18", "5 [14]", "16 [+4]"]
+stats: ["4*", "18", "13", "+4"]
 attack: "1 bite or buffet or 1 weapon"
 damage: "1d6 bite or 2d4 buffet or by weapon"
 speed: "30' Swim 30' Fly 90'"

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Polar Bear
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 6
+ac: 13
+hit_dice: "6"
 hp: 27
-thaco: 14 [+6]
+thaco: "+6"
 modifier: 0
-stats: ["6", "27", "5 [14]", "14 [+6]"]
+stats: ["6", "27", "13", "+6"]
 attack: "2 claws/1 bite + hug"
 damage: "1d6/1d6/1d10 + 2d8 hug"
 speed: "40'"

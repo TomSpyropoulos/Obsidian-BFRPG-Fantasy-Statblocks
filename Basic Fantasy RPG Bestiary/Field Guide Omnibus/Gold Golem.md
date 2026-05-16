@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Gold Golem
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 3 [16]
-hit_dice: 13* (+10)
+ac: 15
+hit_dice: "13* (+10)"
 hp: 68
-thaco: 10 [+10]
+thaco: "+10"
 modifier: 1
-stats: ["13* (+10)", "68", "3 [16]", "10 [+10]"]
+stats: ["13* (+10)", "68", "15", "+10"]
 attack: "2 crooks"
 damage: "2d6"
 speed: "40'"

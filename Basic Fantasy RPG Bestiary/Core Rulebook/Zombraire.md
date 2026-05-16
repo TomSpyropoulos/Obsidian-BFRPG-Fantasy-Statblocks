@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Zombraire
 layout: BFRPG
 subtype: Core Rulebook
-ac: 7 [12]
-hit_dice: 2* (variable)
+ac: 11
+hit_dice: "2* (variable)"
 hp: 9
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2* (variable)", "9", "7 [12]", "18 [+2]"]
+stats: ["2* (variable)", "9", "11", "+2"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or per spell"
 speed: "20'"

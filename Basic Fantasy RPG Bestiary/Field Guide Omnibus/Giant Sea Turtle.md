@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Sea Turtle
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 1 [18]
-hit_dice: 15 (+11)
+ac: 17
+hit_dice: "15 (+11)"
 hp: 78
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["15 (+11)", "78", "1 [18]", "9 [+11]"]
+stats: ["15 (+11)", "78", "17", "+11"]
 attack: "1 bite (4d4)"
 damage: "-"
 speed: "10' Swim 70'"

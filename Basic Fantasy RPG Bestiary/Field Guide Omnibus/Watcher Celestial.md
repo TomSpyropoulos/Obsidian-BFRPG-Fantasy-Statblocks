@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Watcher Celestial
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 14** (+11)
+ac: 18
+hit_dice: "14** (+11)"
 hp: 74
-thaco: 9 [+11]
+thaco: "+11"
 modifier: 2
-stats: ["14** (+11)", "74", "0 [19]", "9 [+11]"]
+stats: ["14** (+11)", "74", "18", "+11"]
 attack: "2 slams (2d10)"
 damage: "-"
 speed: "40' Fly 80'"

@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Marid
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 8*
+ac: 19
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "-1 [20]", "12 [+8]"]
+stats: ["8*", "36", "19", "+8"]
 attack: "1 slam or 1 water jet"
 damage: "2d8 slam, 2d6 water jet"
 speed: "30' Swim 80'"

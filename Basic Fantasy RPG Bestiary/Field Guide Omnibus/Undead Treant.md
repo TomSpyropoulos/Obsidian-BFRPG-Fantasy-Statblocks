@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Undead Treant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 10 (+9)
+ac: 19
+hit_dice: "10 (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10 (+9)", "54", "-1 [20]", "11 [+9]"]
+stats: ["10 (+9)", "54", "19", "+9"]
 attack: "2"
 damage: "2d6 fist"
 speed: "20'"

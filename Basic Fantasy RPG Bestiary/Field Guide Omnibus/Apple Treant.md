@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Apple Treant
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 0 [19]
-hit_dice: 8*
+ac: 18
+hit_dice: "8*"
 hp: 36
-thaco: 12 [+8]
+thaco: "+8"
 modifier: 1
-stats: ["8*", "36", "0 [19]", "12 [+8]"]
+stats: ["8*", "36", "18", "+8"]
 attack: "2 fists or 1 projectile fruit"
 damage: "2d6 fist or 1d6 fruit"
 speed: "20'"

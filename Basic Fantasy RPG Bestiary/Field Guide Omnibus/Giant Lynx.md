@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Giant Lynx
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 2+2
+ac: 13
+hit_dice: "2+2"
 hp: 11
-thaco: 18 [+2]
+thaco: "+2"
 modifier: 0
-stats: ["2+2", "11", "5 [14]", "18 [+2]"]
+stats: ["2+2", "11", "13", "+2"]
 attack: "2 claws, 1 bite + 2 hind claws (rake)"
 damage: "1d2 claw, 1d4 bite, 1d3 hind claw"
 speed: "60' Leap 10'"

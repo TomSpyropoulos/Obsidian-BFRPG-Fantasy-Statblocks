@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Delver
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -5 [24]
-hit_dice: 18** (+12)
+ac: 23
+hit_dice: "18** (+12)"
 hp: 93
-thaco: 8 [+12]
+thaco: "+12"
 modifier: 2
-stats: ["18** (+12)", "93", "-5 [24]", "8 [+12]"]
+stats: ["18** (+12)", "93", "23", "+12"]
 attack: "2 flippers"
 damage: "1d6 + special"
 speed: "30' Burrow 10'"

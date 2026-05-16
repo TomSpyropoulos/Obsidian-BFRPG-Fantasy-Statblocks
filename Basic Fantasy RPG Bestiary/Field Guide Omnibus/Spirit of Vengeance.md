@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Spirit of Vengeance
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: -1 [20]
-hit_dice: 10** (+9)
+ac: 19
+hit_dice: "10** (+9)"
 hp: 54
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10** (+9)", "54", "-1 [20]", "11 [+9]"]
+stats: ["10** (+9)", "54", "19", "+9"]
 attack: "1 weapon plus energy drain"
 damage: "1d10+3 plus energy"
 speed: "20'"
@@ -25,7 +25,7 @@ jds: [9, 9, 11, 12, 13]
 moral: "12"
 xp: 1480
 nbr: "1"
-loot: "Weapon + 3, 2 red diamonds worth 1d10×100 pp each"
+loot: "Weapon + 3, 2 red diamonds worth 1d10\u00d7100 pp each"
 roll_jds: 1d20
 roll-moral: 2d6
 traits:

@@ -12,12 +12,12 @@ source: Core Rulebook
 name: Black Bear
 layout: BFRPG
 subtype: Core Rulebook
-ac: 5 [14]
-hit_dice: 4
+ac: 13
+hit_dice: "4"
 hp: 18
-thaco: 16 [+4]
+thaco: "+4"
 modifier: 0
-stats: ["4", "18", "5 [14]", "16 [+4]"]
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws/1 bite + hug"
 damage: "1d4/1d4/1d6 + 2d6 hug"
 speed: "40'"

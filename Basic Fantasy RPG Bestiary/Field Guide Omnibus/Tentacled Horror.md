@@ -12,12 +12,12 @@ source: Field Guide Omnibus
 name: Tentacled Horror
 layout: BFRPG
 subtype: Field Guide Omnibus
-ac: 5 [14]
-hit_dice: 10+20* (+9)
+ac: 13
+hit_dice: "10+20* (+9)"
 hp: 74
-thaco: 11 [+9]
+thaco: "+9"
 modifier: 1
-stats: ["10+20* (+9)", "74", "5 [14]", "11 [+9]"]
+stats: ["10+20* (+9)", "74", "13", "+9"]
 attack: "5 tentacles + crush"
 damage: "1d6 tentacle, 3d6 crush"
 speed: "30'"
