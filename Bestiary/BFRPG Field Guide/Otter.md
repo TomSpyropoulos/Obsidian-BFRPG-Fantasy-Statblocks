@@ -1,0 +1,37 @@
+---
+statblock: inline
+name: Otter
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Otter
+layout: BFRPG
+ac: "4 [15]"
+hit_dice: "\u00bd* (1d4 points)"
+hp: 2
+thaco: "+0"
+modifier: 0
+stats: ["\u00bd* (1d4 points)", "2", "4 [15]", "+0"]
+attack: "1 bite"
+damage: "1d2"
+speed: "30' Swim 50'"
+jds: [12, 13, 14, 15, 17]
+moral: "7"
+xp: 10
+nbr: "1d4+2"
+loot: "None"
+roll_jds: 1d20
+roll-moral: 2d6
+actions:
+  - name: bite
+    desc: "D20 to hit, 1d2"
+source: BFRPG Field Guide
+```
+
+An Otter is a small or medium-sized semi-aquatic mammal with a long body. They are fast, maneuverable swimmers, and are playful and social.
+

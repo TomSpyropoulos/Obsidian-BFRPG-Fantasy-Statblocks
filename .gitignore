@@ -1,4 +1,3 @@
-extraction/json/
-extraction/sourcebooks/
-extraction/formats/
-extraction/Basic Fantasy RPG Bestiary/
+extraction_scripts/json/
+__pycache__/
+*.pyc
