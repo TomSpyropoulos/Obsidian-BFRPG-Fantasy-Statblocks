@@ -8,7 +8,7 @@ This repository contains a comprehensive collection of monster statblocks for th
 * **OSE/BX Compatible Stats:**
     * **Dual AC Formatting:** Features OSE-compatible dual AC format displayed as `descending [ascending]` (e.g., `6 [13]`), automatically calculated using standard base-11 BFRPG AC with (+1/-1) offsets.
     * **Attack Bonus:** Uses standard BFRPG/OSE attack bonus (THAC0).
-* **Natural Naming:** Automatically reordered names from database format (e.g., "Beetle, Giant Fire") to natural format (**Giant Fire Beetle**).
+* **Natural Naming:** Automatically reordered names from database format (e.g., "Beetle, Giant Fire") to natural format (**Giant Fire Beetle**) to make it compatible with initiative tracker.
 * **Automatic Aliases:** Alternative names found in parentheses are moved to the YAML `aliases` field for better searchability.
 * **Consolidated Stats:** Core vitals are provided in a clean list field: `stats: [HD, HP, AC, ATK]`.
 * **Saves in Statblock:** Full saving throw arrays included (mapped from BFRPG tables, including racial bonuses).
