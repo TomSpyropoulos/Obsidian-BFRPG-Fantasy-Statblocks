@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aergian Amalgamation
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "13** (+10)"
+layout: shadowdark
+ac: "13"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13** (+10)", "68", "6 [13]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "13", "+10"]
 attack: "1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 grasp, 1d6 weapon"
-speed: "20'"
-jds: [8, 9, 10, 12, 13]
-moral: "10"
-xp: 2395
-nbr: "1"
-loot: "G"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Tentacle Reach
     desc: "Its tentacle-like appendages can reach up to 10 feet in any direction but lack precision, making it unclear how many weapons it can attack with each round. Roll the 1d3 each round to see how many weapon attacks it can make, however its appendages are relatively weak, so any weapon it wields only does 1d6 points of damage."
   - name: Magical Staff
     desc: "One of its appendages usually holds a magical staff which it can use instead of making attacks with its weapons."
   - name: Energy Drain
-    desc: "When the aergian amalgamation is draining a victim, the victim must save vs. Death Ray for each round in its grasp, or lose 1 energy level."
+    desc: "When the aergian amalgamation is draining a victim, the victim must succeed on a DC 14 CON check for each round in its grasp, or lose 1 energy level."
   - name: Immune to Poison
     desc: "An aergian amalgamation is immune to all poison."
   - name: Darkvision

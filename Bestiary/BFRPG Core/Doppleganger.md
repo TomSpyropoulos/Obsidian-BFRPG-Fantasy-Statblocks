@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Doppleganger
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "1 fist or Weapon"
 damage: "1d12 or by weapon"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 280
-nbr: "1d6, Wild 1d6, Lair 1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Shapechange
     desc: "Can take on the appearance of nearly any other humanoid ranging from 3 feet up to 7 feet in height. Can duplicate the appearance of clothing and equipment worn by a creature, but such items are part of the creature and cannot be laid down or handed to someone."

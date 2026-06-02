@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Dryad
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 dagger or fist"
 damage: "1d4"
-speed: "40'"
-jds: [12, 13, 12, 15, 13]
-moral: "6"
-xp: 100
-nbr: "Lair 1d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+0", "+0", "+2", "+0", "-1"]
 traits:
   - name: Tree Bond
     desc: "Mystically bound to a single enormous oak tree. Must never stray more than 300 yards from it or become ill and die within 4d6 hours. Lives as long as her tree; if the dryad dies, her tree dies also, and vice versa."

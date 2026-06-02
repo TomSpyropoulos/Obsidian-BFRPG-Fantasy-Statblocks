@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gibbering Mouther
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "18"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "18", "+8"]
 attack: "6 bites + special"
 damage: "1d6 + special"
-speed: "10'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 1225
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Gibbering
-    desc: "As soon as a mouther spots something edible, it begins a constant gibbering. All creatures (other than mouthers) within 60 feet must save vs. Paralysis or be affected as though by a confusion spell for 1d2 rounds."
+    desc: "As soon as a mouther spots something edible, it begins a constant gibbering. All creatures (other than mouthers) within 60 feet must succeed on a DC 13 STR check or be affected as though by a confusion spell for 1d2 rounds."
   - name: Spittle
-    desc: "A gibbering mouther may fire a stream of spittle at one opponent within 30 feet. The mouther makes an attack against AC 10 + Dex bonus of the target; if it hits, it deals 1d4 points of acid damage, and the target must save vs. Poison or be blinded for 1d4 rounds."
+    desc: "A gibbering mouther may fire a stream of spittle at one opponent within 30 feet. The mouther makes an attack against AC 10 + Dex bonus of the target; if it hits, it deals 1d4 points of acid damage, and the target must succeed on a DC 13 CON check or be blinded for 1d4 rounds."
   - name: Engulf
     desc: "Any creature bit by 3 or more of its mouths will be engulfed on the next round. The mouther will be able to make 12 subsequent bite attacks on the engulfed creature. A swallowed creature can cut its way out by dealing 5 points of damage with a small edged weapon such as a dagger."
 actions:

@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Darktorch
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "2 torch"
 damage: "1d6 + darkness"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "1, Lair 1d6"
-loot: "Special, Torch"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Invisible in Darkness
     desc: "While in complete darkness, the darktorch is invisible, however even the slightest glimmer of light will reveal it."
   - name: Darkvision
     desc: "A darktorch is unaffected by magical darkness, and can see perfectly well in both natural and magical darkness."
   - name: Darkness Touch
-    desc: "The darktorches torch causes 1d6 points of damage and the target is rendered under the effects of a **darkness** spell, effectively blinding them, unless they make a save vs. Death Ray to avoid the effect."
+    desc: "The darktorches torch causes 1d6 points of damage and the target is rendered under the effects of a **darkness** spell, effectively blinding them, unless they make a DC 12 CON check to avoid the effect."
   - name: Create Spawn
     desc: "Any individual killed by a darktorch rises as a darktorch itself after 1d3 days."
   - name: Cursed Torch

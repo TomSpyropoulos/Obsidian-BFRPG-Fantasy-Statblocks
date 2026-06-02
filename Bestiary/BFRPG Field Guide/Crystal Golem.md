@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Crystal Golem
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "2 fists"
 damage: "2d4"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 555
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Invisibility
     desc: "Can cast an **invisibility** spell upon itself as a full-round action."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Common Deep One
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "3+3"
+layout: shadowdark
+ac: "15"
+level: "3"
 hp: 16
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+3", "16", "4 [15]", "+3"]
+stats: ["3", "16", "15", "+3"]
 attack: "2 claws or by weapon"
 damage: "1d4 claw, by weapon"
-speed: "20' Swim 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1d8, Lair 5d8"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 60' and superior eyesight while underwater."

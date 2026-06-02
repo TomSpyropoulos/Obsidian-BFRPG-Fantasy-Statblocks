@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Awful Offal
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 bite or spit"
 damage: "1d8 bite or 1d8 spit"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Acid Spit
     desc: "Can spit bile up to 30 feet, causing 1d8 points of acid damage and dissolving any organic matter it contacts (particularly wood) in 1d3 rounds."

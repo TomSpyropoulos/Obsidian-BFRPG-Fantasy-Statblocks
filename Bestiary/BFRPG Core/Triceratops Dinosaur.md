@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Triceratops Dinosaur
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "11 (+9)"
+layout: shadowdark
+ac: "18"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 0
-stats: ["11 (+9)", "58", "1 [18]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "58", "18", "+9"]
 attack: "1 gore or 1 trample"
 damage: "3d6 or 3d6 (special, see below)"
-speed: "30' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 1575
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Trample
     desc: "Up to two adjacent man-sized or up to four smaller opponents may be trampled simultaneously; the triceratops rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit."

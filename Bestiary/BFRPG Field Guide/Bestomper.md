@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bestomper
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "11*"
+layout: shadowdark
+ac: "19"
+level: "11"
 hp: 49
-thaco: "+9"
-modifier: 1
-stats: ["11*", "49", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["11", "49", "19", "+9"]
 attack: "1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 stomp, 2d6 bite, or eye beam (see below)"
-speed: "fly 20'"
-jds: [11, 10, 9, 13, 11]
-moral: "11"
-xp: 1670
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+3", "+2", "+4", "+2", "+6"]
 traits:
   - name: Wail
-    desc: "While agitated, emits a wail in a 90-degree arc. All creatures within 40 feet must save vs. Magic or fall prone for 1d6 rounds."
+    desc: "While agitated, emits a wail in a 90-degree arc. All creatures within 40 feet must succeed on a DC 14 INT check or fall prone for 1d6 rounds."
   - name: Levitation
     desc: "Hovers over the ground by magical levitation. Can leap 20 feet in any direction."
   - name: Decapitation
@@ -50,7 +44,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-The bestomper resembles a giant foot, about 8 feet long and 4 feet wide, except that each toe bears an unblinking eye, and on the ball of the foot a slobbering mouth gapes to reveal jagged teeth. While the bestomper is agitated, a wail emits from its mouth in a 90-degree arc. All creatures with 40 feet must save vs. Magic or fall prone for 1d6 rounds.
+The bestomper resembles a giant foot, about 8 feet long and 4 feet wide, except that each toe bears an unblinking eye, and on the ball of the foot a slobbering mouth gapes to reveal jagged teeth. While the bestomper is agitated, a wail emits from its mouth in a 90-degree arc. All creatures with 40 feet must succeed on a DC 14 INT check or fall prone for 1d6 rounds.
 
 The bestomper hovers over the ground by magical levitation. Suddenly, it leaps 20 feet in any direction to bring down the full force of its heel on an unlucky victim. Alternatively, it may tilt forward to apply its mouth to a victim, usually targeting the head of humanoids. 5% of the time when it bites down, it decapitates the victim (on a natural 20). Any successful bite attack heals the bestomper by 1d6 points of damage.
 

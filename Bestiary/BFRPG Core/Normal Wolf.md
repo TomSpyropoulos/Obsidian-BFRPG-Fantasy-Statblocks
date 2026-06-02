@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Normal Wolf
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 bite (1d6)"
 damage: "1d6"
-speed: "60'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "2d6, Wild 3d6, Lair 3d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: bite (1d6)
     desc: "D20 to hit, 1d6"

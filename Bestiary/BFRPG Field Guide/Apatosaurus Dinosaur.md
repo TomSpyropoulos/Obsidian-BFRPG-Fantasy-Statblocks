@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Apatosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "30 (+15)"
+layout: shadowdark
+ac: "14"
+level: "30 ()"
 hp: 150
-thaco: "+15"
-modifier: 3
-stats: ["30 (+15)", "150", "5 [14]", "+15"]
+atk_bonus: "+15"
+modifier: 7
+stats: ["30 ()", "150", "14", "+15"]
 attack: "1 trample"
 damage: "3d6"
-speed: "30'"
-jds: [5, 6, 8, 9, 10]
-moral: "8"
-xp: 10250
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+9", "+7", "+8", "+7", "+7", "+8"]
 actions:
   - name: trample
     desc: "D20 to hit, 3d6"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hezrou Infernal
-layout: BFRPG
-ac: "-2 [21]"
-hit_dice: "10** (+9)"
+layout: shadowdark
+ac: "21"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10** (+9)", "54", "-2 [21]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "21", "+9"]
 attack: "2 claws / 1 bite or spell"
 damage: "1d4 claw, 4d4 bite, by spell"
-speed: "30'"
-jds: [9, 9, 11, 12, 13]
-moral: "11"
-xp: 1480
-nbr: "1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Grab
     desc: "If a hezrou hits with both claws it automatically grabs its opponent, preventing any normal man-sized or smaller foe from moving as well as gaining a +2 with all subsequent bite attacks. A victim held in this way cannot generally attack, but may break free with a normal roll to open doors."
@@ -37,7 +31,7 @@ traits:
   - name: Darkvision
     desc: "Darkvision to 60 feet."
   - name: Teleport
-    desc: "At-will (as a 10th-level Magic-user)."
+    desc: "At-will (as a 10th-level Wizard)."
   - name: Cause Fear
     desc: "Can cause fear (remove fear spell reversed) as its action for a round of combat."
   - name: Summon Hezrou
@@ -54,7 +48,7 @@ source: BFRPG Field Guide
 
 Hezrou are infernals in the form of humanoid toads with a mouth full of sharp teeth. They prefer to attack with their claws and bite, and if a hezrou hits with both claws it automatically grabs its opponent, preventing any normal man-sized or smaller foe from moving as well as gaining a +2 with all subsequent bite attacks. A victim held in this way cannot generally attack, but may break free with a normal roll to open doors. As with most infernals, a hezrou can only be damaged by magical weapons.
 
-Hezrou can freely communicate telepathically, and have Darkvision to 60 feet. Each can **teleport** at-will (as a 10th-level Magic-user). Additionally, a hezrou can **cause fear** (remove fear spell reversed) as its action for a round of combat.
+Hezrou can freely communicate telepathically, and have Darkvision to 60 feet. Each can **teleport** at-will (as a 10th-level Wizard). Additionally, a hezrou can **cause fear** (remove fear spell reversed) as its action for a round of combat.
 
 Once per day a hezrou can summon another hezrou, but this has only a 20% chance of success; if the attempt fails, the hezrou can try again as often as desired (once per round maximum) until it succeeds.
 

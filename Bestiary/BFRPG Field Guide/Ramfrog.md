@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ramfrog
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "1 HP*"
+layout: shadowdark
+ac: "16"
+level: "1 HP"
 hp: 1
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["1 HP*", "1", "3 [16]", "+0"]
+stats: ["1 HP", "1", "16", "+0"]
 attack: "1 ramming (1d4+1)"
 damage: "1d4+1"
-speed: "10' Jump 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 13
-nbr: "Wild 2d4, Lair 3d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Ramming
     desc: "Can propel towards opponents up to 90 feet away in order to headbutt them."

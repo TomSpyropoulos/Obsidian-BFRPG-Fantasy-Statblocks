@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Fire Lizard
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "7*"
+layout: shadowdark
+ac: "16"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7*", "31", "3 [16]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "16", "+7"]
 attack: "2 claws / 1 bite or 1 breath"
 damage: "1d8 claw, 2d8 bite, 2d6 breath"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 735
-nbr: "1d4"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Breath Weapon
     desc: "Engulfs a volume about 10 feet wide by 15 feet long. Normal saving throw allowed for half damage."

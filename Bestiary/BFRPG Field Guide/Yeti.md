@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Yeti
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4+4*"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 22
-thaco: "+4"
-modifier: 0
-stats: ["4+4*", "22", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "22", "13", "+4"]
 attack: "2 claws + hug (see below)"
 damage: "1d6 claw, 2d8 hug"
-speed: "70'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+2", "+1", "+1", "+2"]
 traits:
   - name: Hug
     desc: "If a yeti hits with both of its claw attacks, it is able to subject the victim to a hug attack (similar to bears) which does an additional automatic 2d8 points of damage. Only man-sized or smaller opponents can be hugged in this way."
   - name: Camouflage
     desc: "Yeti are very well camouflaged in snowy areas, surprising on a roll of 1-5 on 1d6."
   - name: Frightful Appearance
-    desc: "Any character surprised by one must save vs. Paralysis or be frozen in fright for 1d4 rounds, allowing the yeti to hit automatically."
+    desc: "Any character surprised by one must succeed on a DC 12 STR check or be frozen in fright for 1d4 rounds, allowing the yeti to hit automatically."
   - name: Cold Resistance
     desc: "Their adaptation to cold is such that they suffer half-damage from any cold-based attack."
   - name: Fire Vulnerability

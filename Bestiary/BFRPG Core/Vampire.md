@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Vampire*
+name: Vampire
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,27 +9,21 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Vampire*
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "7**"
+name: Vampire
+layout: shadowdark
+ac: "17"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "2 [17]", "+7"]
+atk_bonus: "+7"
+modifier: 2
+stats: ["7", "31", "17", "+7"]
 attack: "1 weapon or special"
 damage: "1d8 or by weapon or special"
-speed: "40' Fly 60'"
-jds: [10, 11, 12, 14, 15]
-moral: "11"
-xp: 800
-nbr: "1d6, Wild 1d6, Lair 1d6"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
 traits:
   - name: Charm Gaze
-    desc: "A vampire can charm anyone who meets its gaze; a save vs. Spells is allowed to resist, but at a penalty of -2 due to the power of the charm. This charm is so powerful that the victim will not resist being bitten by the vampire."
+    desc: "A vampire can charm anyone who meets its gaze; a DC 13 INT check is allowed to resist, but at a penalty of -2 due to the power of the charm. This charm is so powerful that the victim will not resist being bitten by the vampire."
   - name: Bite Attack
     desc: "The bite inflicts 1d3 points of damage, then each round thereafter one energy level is drained from the victim. The vampire regenerates (i.e. is healed) for up to 1d6 hit points for each energy level drained. If the victim dies from the energy drain, they will arise as a vampire at the next sunset (but not less than 12 hours later) and thereafter will be under the complete control of the 'parent' vampire (but is freed if that vampire is ever destroyed). If using the bite attack, the vampire suffers a penalty of -5 to Armor Class due to the vulnerable position it must assume. For this reason, the bite is rarely used in combat."
   - name: Great Strength

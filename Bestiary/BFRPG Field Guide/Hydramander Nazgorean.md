@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hydramander Nazgorean
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "8"
+layout: shadowdark
+ac: "17"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "17", "+8"]
 attack: "5 to 8 bites (2d6)"
 damage: "-"
-speed: "20' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 825
-nbr: "1, Lair 1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+6"]
 traits:
   - name: Sound-based Perception
     desc: "Depends on sound to locate prey (treat as Darkvision out to 60 feet). A silent opponent is as good as invisible to the monster."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Ice Dragon
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 3
+stats: ["6", "27", "16", "+6"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d4/1d4/2d8 or breath/1d4"
-speed: "30' Fly 80' (10')'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 610
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Breath Weapon
     desc: "Cold (Cone). Length and width vary by age (see Age Table)."

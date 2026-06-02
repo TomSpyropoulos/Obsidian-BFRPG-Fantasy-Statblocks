@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Humming Spider
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "8 [11]", "+1"]
+stats: ["1", "4", "11", "+1"]
 attack: "12 leg strikes"
 damage: "1d3 leg"
-speed: "60' Jump 15'"
-jds: [12, 13, 14, 15, 17]
-moral: "4"
-xp: 37
-nbr: "2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-3"]
 traits:
   - name: Armor Piercing
     desc: "The front legs are long, thin, and unrealistically sharp to the point of ignoring any non-magical armor."

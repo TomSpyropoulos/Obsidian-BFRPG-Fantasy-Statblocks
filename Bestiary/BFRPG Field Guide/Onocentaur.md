@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Onocentaur
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3+3"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 16
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+3", "16", "3 [16]", "+3"]
+stats: ["3", "16", "16", "+3"]
 attack: "1 kick / 1 weapon"
 damage: "1d4 kick, by weapon"
-speed: "40' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "10"
-xp: 145
-nbr: "3d4"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+3"]
 traits:
   - name: Mule Kick
     desc: "Agile enough to deliver a mule kick to an opponent facing them."

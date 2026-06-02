@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Sea Turtle
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "15 (+11)"
+layout: shadowdark
+ac: "17"
+level: "15 ()"
 hp: 78
-thaco: "+11"
-modifier: 2
-stats: ["15 (+11)", "78", "2 [17]", "+11"]
+atk_bonus: "+11"
+modifier: 4
+stats: ["15 ()", "78", "17", "+11"]
 attack: "1 bite (4d4)"
 damage: "-"
-speed: "10' Swim 70'"
-jds: [7, 8, 10, 11, 12]
-moral: "7"
-xp: 2850
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 traits:
   - name: Swallow Whole
     desc: "Can swallow a victim of man-size or smaller whole on any natural roll of 19 or 20 on the attack die (assuming the attack hits); such victims can attack the creature's AC 13 interior only with short stabbing or cutting weapons such as daggers, but they suffer 2d8 points of damage per round from the creature's digestive secretions."

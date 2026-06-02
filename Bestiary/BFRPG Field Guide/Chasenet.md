@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Chasenet
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "5 [14]", "+1"]
+stats: ["1", "4", "14", "+1"]
 attack: "1 spines (1d12) / 1 bite (1d4)"
 damage: "-"
-speed: "60'"
-jds: [12, 13, 14, 15, 17]
-moral: "5"
-xp: 25
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-2"]
 traits:
   - name: Defensive Spines
     desc: "When cornered, launches itself at attackers with long porcupine-like spines erupting from its fur."

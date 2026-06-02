@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Arachnea Infernal
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "15", "+6"]
 attack: "1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 + poison bite, 1d6 + heals creature kiss, 1d4 + 2HP/round dagger"
-speed: "60'"
-jds: [12, 12, 11, 14, 13]
-moral: "8"
-xp: 555
-nbr: "1"
-loot: "I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+1", "+1", "+3", "+1", "+2"]
 traits:
   - name: Spell-like Abilities
     desc: "Can use at will, in either form: **web**, **charm person**, **teleport**, **hold person**, **darkness 15' radius**, **mind reading**, and **clairaudience** (as the potion)."

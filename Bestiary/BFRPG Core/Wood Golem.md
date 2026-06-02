@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Wood* Golem
+name: Wood Golem
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Wood* Golem
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2+2*"
+name: Wood Golem
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2*", "11", "7 [12]", "+2"]
+stats: ["2", "11", "12", "+2"]
 attack: "1 fist (1d8)"
 damage: "1d8"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 100
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+5"]
 traits:
   - name: Vulnerability to Fire
     desc: "Suffer one extra point of damage per die from fire; any saving throws against such effects are at a penalty of -2."

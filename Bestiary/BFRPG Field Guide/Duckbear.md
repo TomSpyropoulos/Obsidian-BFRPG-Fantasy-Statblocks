@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Duckbear
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws (1d8) / 1 peck (1d10) / 1 hug (3d6)"
 damage: "-"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 500
-nbr: "Wild 1d4, Lair 1d6"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 source: BFRPG Field Guide
 ```
 

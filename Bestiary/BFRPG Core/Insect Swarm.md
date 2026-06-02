@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Insect Swarm
-layout: BFRPG
-ac: "10 [9]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "9"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2*", "9", "10 [9]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "9", "+2"]
 attack: "1 swarm"
 damage: "1d3 (double against no armor)"
-speed: "10' Fly 20'"
-jds: [11, 12, 14, 15, 16]
-moral: "11"
-xp: 100
-nbr: "1 swarm, Wild 1d3 swarms"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+4"]
 actions:
   - name: swarm
     desc: "D20 to hit, 1d3 (double against no armor)"

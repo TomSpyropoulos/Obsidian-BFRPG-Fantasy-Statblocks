@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Queen Elf Bug
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "7*"
+layout: shadowdark
+ac: "14"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7*", "31", "5 [14]", "+7"]
+atk_bonus: "+7"
+modifier: 2
+stats: ["7", "31", "14", "+7"]
 attack: "1 weapon or magic missile"
 damage: "1d6 or by weapon or magic missile"
-speed: "Fly 60'"
-jds: [12, 12, 11, 14, 13]
-moral: "10"
-xp: 735
-nbr: "Wild 1, Lair 1"
-loot: "E or F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+1", "+2", "+1", "+3", "+1", "+4"]
 traits:
   - name: Energy Bolts
-    desc: "Elf bug queens have the ability to fire energy bolts every other round; these energy bolts are exactly the same as the magic missile spell, as if it was cast by a 7th-level Magic-user."
+    desc: "Elf bug queens have the ability to fire energy bolts every other round; these energy bolts are exactly the same as the magic missile spell, as if it was cast by a 7th-level Wizard."
   - name: Armed Defense
     desc: "They also collect small weapons like shortswords, hand-axes, or other small hand weapons to defend themselves."
 actions:

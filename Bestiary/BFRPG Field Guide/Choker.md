@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Choker
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3+3"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 16
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+3", "16", "3 [16]", "+3"]
+stats: ["3", "16", "16", "+3"]
 attack: "1 choke"
 damage: "1d3 + special"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 145
-nbr: "1"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Choke
     desc: "Deals 1d3 points of damage as it grabs its target, and continues to deal 1d3 points of damage each round by choking and tearing at its prey until its victim is dead or it is forced to release. Because it seizes its victim by the neck, a creature in the choker's grasp cannot speak or cast spells."

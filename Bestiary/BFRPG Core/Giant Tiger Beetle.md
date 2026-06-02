@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Tiger Beetle
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3+1"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1", "14", "3 [16]", "+3"]
+stats: ["3", "14", "16", "+3"]
 attack: "1 bite (2d6)"
 damage: "-"
-speed: "60' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "1d6, Wild 2d4, Lair 2d4"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: All-around Vision
     desc: "Suffer no penalty to Armor Class when attacked from behind."

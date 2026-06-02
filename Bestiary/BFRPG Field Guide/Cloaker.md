@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cloaker
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "18"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "1 [18]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "18", "+6"]
 attack: "1 bite (1d6) / 1 tail (1d6) / special (crush)"
 damage: "1d6 bite, 1d6 crush + special"
-speed: "10' Fly 40'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 610
-nbr: "1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Surprise
     desc: "A cloaker lies in wait, surprising on a roll of 1-4 on 1d6."

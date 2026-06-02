@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Fool's Idol
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "2 claws or 1 spray of coins"
 damage: "2d4 claw, 1d12 spray of coins"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "10"
-xp: 100
-nbr: "1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Spray of Coins
     desc: "May grab and throw a shower of gold pieces at foes up to 40 feet away, doing 1d12 damage due to their great strength."

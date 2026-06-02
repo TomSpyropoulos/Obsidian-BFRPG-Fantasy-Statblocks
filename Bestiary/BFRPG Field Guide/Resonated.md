@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Resonated
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "15"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "4 [15]", "+3"]
+stats: ["3", "13", "15", "+3"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 175
-nbr: "2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Regeneration
     desc: "Heals 1d8 hit points per hour. Even after being destroyed it will keep regenerating and will rise once its full HP are recovered."

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Digester Nazgorean
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "12* (+10)"
+layout: shadowdark
+ac: "16"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12* (+10)", "64", "3 [16]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "16", "+10"]
 attack: "1 claw + special"
 damage: "1d8 + special"
-speed: "60'"
-jds: [8, 9, 10, 12, 13]
-moral: "7"
-xp: 1975
-nbr: "1, Wild 1d3, Lair 1d3+3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Acid Spray
-    desc: "Sprays a gout of acid in a cone 20 feet long and 20 feet wide at the far end, causing 8d8 points of damage to everything in the area. A successful save vs. Dragon Breath will reduce damage by half. The digester can spray again every 1d4 rounds."
+    desc: "Sprays a gout of acid in a cone 20 feet long and 20 feet wide at the far end, causing 8d8 points of damage to everything in the area. a successful DC 14 DEX check will reduce damage by half. The digester can spray again every 1d4 rounds."
   - name: Sound-based Vision
     desc: "Locates prey by sound (treat as Darkvision to 60 feet); magical silence effectively blinds it."
 actions:

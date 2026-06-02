@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Northern Owlbear
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "8"
+layout: shadowdark
+ac: "15"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["8", "36", "15", "+8"]
 attack: "2 claws / 1 bite / 1 hug"
 damage: "1d8 claw, 1d10 bite, 2d8 hug"
-speed: "40' Fly 60'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 875
-nbr: "1, Wild 1d2, Lair 1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+4"]
 traits:
   - name: Hug
     desc: "Must hit with both claws in order to deal the listed 'hug' damage (2d8)."

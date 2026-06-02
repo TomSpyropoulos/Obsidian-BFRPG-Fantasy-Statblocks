@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Jotenkin
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3+3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 16
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+3", "16", "5 [14]", "+3"]
+stats: ["3", "16", "14", "+3"]
 attack: "1 weapon"
 damage: "1d8 or by weapon +1"
-speed: "30' Unarmored 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1d6, Wild 2d4, Lair 4d8"
-loot: "Q, R each; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Cold Resistance
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, a jotenkin receives a +4 bonus."

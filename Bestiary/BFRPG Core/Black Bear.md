@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Black Bear
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws/1 bite + hug"
 damage: "1d4/1d4/1d6 + 2d6 hug"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "1d4, Wild 1d4, Lair 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Hug
     desc: "If both claws hit, the bear hugs for an additional 2d6 damage."

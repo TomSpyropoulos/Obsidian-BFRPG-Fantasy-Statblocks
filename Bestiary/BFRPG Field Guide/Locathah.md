@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Locathah
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "1 spear or 1 light crossbow"
 damage: "1d6 spear or light crossbow"
-speed: "10' Swim 60'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d4, Wild 1d20, Lair 3d10+70"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Unique Crossbow
     desc: "Special crossbow has a range of 60 feet underwater as well as normal ranges on the surface."

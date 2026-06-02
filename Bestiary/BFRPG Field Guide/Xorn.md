@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Xorn
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "7+1**"
+layout: shadowdark
+ac: "20"
+level: "7"
 hp: 32
-thaco: "+7"
-modifier: 0
-stats: ["7+1**", "32", "-1 [20]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "32", "20", "+7"]
 attack: "1 bite (4d6)"
 damage: "4d6"
-speed: "20' Burrow 20'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 800
-nbr: "1d6"
-loot: "I, J, K, M"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Cannot be flanked
     desc: "Because a xorn's symmetrically-placed eyes allow it to look in any direction, it cannot be flanked."
@@ -35,7 +29,7 @@ traits:
   - name: Smell precious metals
     desc: "A xorn can smell food (precious metals or minerals) up to 20 feet away."
   - name: Vulnerability to move earth
-    desc: "A move earth spell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it saves vs. Spells."
+    desc: "A move earth spell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 13 INT check."
   - name: Languages
     desc: "Speaks Common along with its own elemental language."
 actions:

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Decempus
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4+4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 22
-thaco: "+4"
-modifier: 0
-stats: ["4+4*", "22", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "22", "14", "+4"]
 attack: "Up to 8 whip or grab"
 damage: "1d4 whip, or 1d2 + bind grab"
-speed: "30' Climb 90' (trees)'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 280
-nbr: "Wild 1"
-loot: "V"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+2", "+1", "+1", "+4"]
 traits:
   - name: Whip and Grab
     desc: "Normally attacks by alternating whips and grabs motions from each free limb. The whip attack does 1d4 points of damage. The grab attack only does 1d2 points of damage, but the victim finds themself bound. A bound victim has a chance to free themself each round (1+Strength bonus on 1d8). A limb might be severed with 8 points of damage, which do not count against the creature's hit points."
@@ -35,7 +29,7 @@ traits:
   - name: Swallow
     desc: "If successful in swallowing a prey, the decempus will try to retreat to the top of the trees where it will rest for up to one week."
   - name: Undigested Treasure
-    desc: "The creature is known for accumulating undigested objects that have resisted a save vs. Wands due to the gastric acid."
+    desc: "The creature is known for accumulating undigested objects that have resisted a DC 12 WIS check due to the gastric acid."
 actions:
   - name: Up to 8 whip or grab
     desc: "D20 to hit, 1d4 whip, or 1d2 + bind grab"

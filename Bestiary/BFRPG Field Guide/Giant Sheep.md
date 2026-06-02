@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Sheep
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "1"
 damage: "2d6 heat butt + special"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "7 (ewe) 8 (ram)"
-xp: 240
-nbr: "2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Charge
     desc: "A ram may charge to attack, and if it hits damage is doubled."
@@ -38,5 +32,5 @@ source: BFRPG Field Guide
 
 Giant Sheep roam wild only in hills or mountains far from human lands, but domesticated varieties may be herded by various giants for food or wool. Both male and female (ram and ewe) have the statistics given above, but generally only rams will attack without provocation. A ram may charge to attack, and if it hits damage is doubled.
 
-Out of any flock encountered, one will be a ram, half of the remainder rounded down will be ewes, and the rest will be young having 1d3 hit dice each and doing 1d4, 1d6, or 2d4 points of damage respectively on a successful hit.
+Out of any flock encountered, one will be a ram, half of the remainder rounded down will be ewes, and the rest will be young having 1d3 levels each and doing 1d4, 1d6, or 2d4 points of damage respectively on a successful hit.
 

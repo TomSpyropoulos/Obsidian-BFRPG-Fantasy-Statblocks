@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Chelonian
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 bite or weapon"
 damage: "1d6 bite or by weapon+ special"
-speed: "30' Swim 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "1d8, Wild 5d8, Lair 5d8"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+2", "+0", "+0", "+1"]
 traits:
   - name: Natural Armor
     desc: "A chelonian's thick skin grants it a base AC of 13, and its back is especially tough (AC 17). Use these figures unless armor worn grants better AC."

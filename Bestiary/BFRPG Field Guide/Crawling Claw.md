@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Crawling Claw
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "\u00bd (1d4 hit points)"
+layout: shadowdark
+ac: "11"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["\u00bd (1d4 hit points)", "2", "8 [11]", "+0"]
+stats: ["\u00bd (1d4 hit points)", "2", "11", "+0"]
 attack: "1 strangle (1d4 + Special)"
 damage: "1d4 + Special"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 10
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Strangle
     desc: "A crawling claw deals 1d4 points of damage as it grabs its target and continues to deal 1d4 points of damage each round by strangling. Because it seizes its victim by the neck, a creature in the crawling claw's grasp cannot speak or cast spells."

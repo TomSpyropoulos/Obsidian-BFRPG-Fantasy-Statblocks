@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Bat
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1 Hit Point"
+layout: shadowdark
+ac: "13"
+level: "1 Hit Point"
 hp: 1
-thaco: "+0"
-modifier: -1
-stats: ["1 Hit Point", "1", "6 [13]", "+0"]
+atk_bonus: "+0"
+modifier: 1
+stats: ["1 Hit Point", "1", "13", "+0"]
 attack: "1 special"
 damage: "Confusion"
-speed: "30' Fly 40'"
-jds: [13, 14, 15, 16, 18]
-moral: "6"
-xp: 10
-nbr: "1d100, Wild 1d100, Lair 1d100"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Darkvision
     desc: "Natural sonar allows them to operate in total darkness."

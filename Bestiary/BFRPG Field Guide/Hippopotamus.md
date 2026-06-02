@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hippopotamus
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "16", "+6"]
 attack: "1 bite or 1 trample"
 damage: "2d6 bite, 4d6 trample"
-speed: "40' Swim 30'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 500
-nbr: "Wild 3d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: bite or 1 trample
     desc: "D20 to hit, 2d6 bite, 4d6 trample"

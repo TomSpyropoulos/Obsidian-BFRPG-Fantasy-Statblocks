@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Deinonychus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "5 [14]", "+3"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 bite (1d8)"
 damage: "1d8"
-speed: "50'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1d3, Wild 2d3, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: bite (1d8)
     desc: "D20 to hit, 1d8"

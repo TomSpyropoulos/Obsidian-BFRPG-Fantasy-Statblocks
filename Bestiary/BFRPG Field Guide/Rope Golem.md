@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Rope Golem
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "12"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "12", "+4"]
 attack: "1 grapple"
 damage: "Special"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Grapple and Throttle
     desc: "Wrestles and holds (as explained in the wrestling rules in the **Basic Fantasy RPG Core Rules**). Once the target is grappled, on the next round the rope golem will pass a loop around whichever appendage it believes to be its target's neck. The target then has one round to cut the rope with a dagger or it will be throttled. For most creatures throttling is fatal, but anyone wearing plate mail armor and a helm is also presumed to have a gorget that provides protection from this attack."

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Odeum
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "15", "+4"]
 attack: "1 touch"
 damage: "1d6 + Wisdom drain"
-speed: "Fly 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "1"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
 traits:
   - name: Icy Touch
     desc: "An odeum attacks the minds of living creatures, damaging them with its icy touch. In addition to normal damage done, any living creature touched by an odeum takes 1d4 points of Wisdom damage. A creature reduced to less than 3 points of Wisdom by this attack is driven insane and acts as if under the effects of a **confusion** spell until its Wisdom is restored to at least 3 points. (Assume that non-character monsters have a Wisdom of 9 for this purpose)."
   - name: Possession
-    desc: "Instead of attacking, an odeum can attempt to possess a living creature using a magical ability similar to **magic jar** (as if cast by a 10th-level Magic-user), except that no receptacle is required. The target is allowed a save vs. Spells modified with its Wisdom bonus to resist this attack. A creature who successfully saves is immune to possession by that odeum for a full day; for this reason, an odeum may delay using this power until its victim has suffered several attacks, and thus has a Wisdom penalty. If this attack succeeds the odeum disappears into the target's body and assumes control. Once an odeum has possessed a host, it has complete control of the host's actions, though the host remains awake and aware. Attacking a host creature will damage the victim, not the odeum; if the host dies, the odeum leaves its body and resumes its normal nebulous form."
+    desc: "Instead of attacking, an odeum can attempt to possess a living creature using a magical ability similar to **magic jar** (as if cast by a 10th-level Wizard), except that no receptacle is required. The target is allowed a DC 12 INT check modified with its Wisdom bonus to resist this attack. A creature who successfully saves is immune to possession by that odeum for a full day; for this reason, an odeum may delay using this power until its victim has suffered several attacks, and thus has a Wisdom penalty. If this attack succeeds the odeum disappears into the target's body and assumes control. Once an odeum has possessed a host, it has complete control of the host's actions, though the host remains awake and aware. Attacking a host creature will damage the victim, not the odeum; if the host dies, the odeum leaves its body and resumes its normal nebulous form."
   - name: Undead Immunities
     desc: "Immune to **sleep**, **charm**, and **hold** spells. Can only be struck by magical weapons and spells."
   - name: Turn Undead

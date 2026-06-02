@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Vrock Infernal
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "12"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "7 [12]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "12", "+8"]
 attack: "2 claws (1d4) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d4 claw, 1d8 talon, 1d6 bite"
-speed: "40' Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 945
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+6"]
 traits:
   - name: Immunity to non-magical weapons
     desc: "A vrock is immune to non-magical weapons."

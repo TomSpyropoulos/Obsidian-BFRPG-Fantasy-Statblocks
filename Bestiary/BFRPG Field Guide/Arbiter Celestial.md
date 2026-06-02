@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Arbiter Celestial
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "18** (+12)"
+layout: shadowdark
+ac: "20"
+level: "18 ()"
 hp: 93
-thaco: "+12"
-modifier: 2
-stats: ["18** (+12)", "93", "-1 [20]", "+12"]
+atk_bonus: "+12"
+modifier: 6
+stats: ["18 ()", "93", "20", "+12"]
 attack: "1 weapon"
 damage: "By weapon +3"
-speed: "40' Fly 80'"
-jds: [6, 7, 8, 10, 11]
-moral: "11"
-xp: 4320
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+6", "+6", "+5", "+4", "+4", "+8"]
 traits:
   - name: Enhanced Combat
     desc: "Physical attacks with a weapon deal an additional 3 points of damage per attack."

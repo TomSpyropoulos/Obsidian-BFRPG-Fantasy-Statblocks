@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Cockatrice
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "13"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "6 [13]", "+5"]
+atk_bonus: "+5"
+modifier: 2
+stats: ["5", "22", "13", "+5"]
 attack: "1 beak + special"
 damage: "1d6 + petrification"
-speed: "30' Fly 60' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 450
-nbr: "1d4, Wild 1d8, Lair 1d8"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Petrification
-    desc: "Anyone touched by a cockatrice, or who touches one (even if gloved), must save vs. Petrification or be turned to stone."
+    desc: "Anyone touched by a cockatrice, or who touches one (even if gloved), must succeed on a DC 13 STR check or be turned to stone."
 actions:
   - name: beak + special
     desc: "D20 to hit, 1d6 + petrification"

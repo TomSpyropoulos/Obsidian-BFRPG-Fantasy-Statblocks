@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Tyrannosaurus Rex Dinosaur
-layout: BFRPG
-ac: "-3 [22]"
-hit_dice: "18 (+12)"
+layout: shadowdark
+ac: "22"
+level: "18 ()"
 hp: 93
-thaco: "+12"
-modifier: 1
-stats: ["18 (+12)", "93", "-3 [22]", "+12"]
+atk_bonus: "+12"
+modifier: 4
+stats: ["18 ()", "93", "22", "+12"]
 attack: "1 bite"
 damage: "6d6"
-speed: "40' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 4000
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 actions:
   - name: bite
     desc: "D20 to hit, 6d6"

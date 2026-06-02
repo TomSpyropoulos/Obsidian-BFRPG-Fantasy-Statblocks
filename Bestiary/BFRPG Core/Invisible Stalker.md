@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Invisible Stalker
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "18", "+8"]
 attack: "-"
 damage: "4d4"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 945
-nbr: "1 (special)"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
 traits:
   - name: Invisibility
     desc: "Invisible stalkers have an amorphous form. A detect invisible spell shows only a dim outline of a cloud. Apply the standard penalty of -4 on the attack die when an invisible stalker is attacked by a creature which is unable to see it."

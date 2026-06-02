@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Mink
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "\u00bd (1d4 points)"
+layout: shadowdark
+ac: "14"
+level: "\u00bd (1d4 points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 points)", "2", "5 [14]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["\u00bd (1d4 points)", "2", "14", "+0"]
 attack: "1 bite"
 damage: "1-2 points"
-speed: "30' Swim 50'"
-jds: [13, 14, 15, 16, 18]
-moral: "7"
-xp: 10
-nbr: "1d6"
-loot: "None*"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Quick darting attacks
     desc: "+1 initiative"

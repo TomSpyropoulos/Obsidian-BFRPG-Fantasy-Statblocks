@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Slug
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "11"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "8 [11]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "11", "+10"]
 attack: "1 bite or 1 spit"
 damage: "1d12 bite or 2d6 spit"
-speed: "30'"
-jds: [8, 9, 10, 12, 13]
-moral: "7"
-xp: 1875
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Immune to blunt weapons
     desc: "Their tough hide and boneless bodies make them immune to blunt weapons."

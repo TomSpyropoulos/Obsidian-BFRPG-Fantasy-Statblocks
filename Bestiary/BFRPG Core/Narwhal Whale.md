@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Narwhal Whale
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "18"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 0
-stats: ["12 (+10)", "64", "1 [18]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "18", "+10"]
 attack: "1 horn (2d6)"
 damage: "2d6"
-speed: "Swim 60'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 1875
-nbr: "Wild 1d4"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 actions:
   - name: horn (2d6)
     desc: "D20 to hit, 2d6"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bonobo Ape
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1-1"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 3
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1-1", "3", "7 [12]", "+1"]
+stats: ["1", "3", "12", "+1"]
 attack: "2 claws"
 damage: "1d3"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 10
-nbr: "1d6, Wild 2d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d3"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lammasu
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "6+2*"
+layout: shadowdark
+ac: "13"
+level: "6"
 hp: 29
-thaco: "+6"
-modifier: 0
-stats: ["6+2*", "29", "6 [13]", "+6"]
+atk_bonus: "+6"
+modifier: 3
+stats: ["6", "29", "13", "+6"]
 attack: "2 claws"
 damage: "1d6 claw + special"
-speed: "60' fly 120'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 555
-nbr: "2d4"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
   - name: Spell Abilities
     desc: "A lammasu has the spell abilities of a 6th-level Cleric."

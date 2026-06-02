@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Axolotl
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "17", "+9"]
 attack: "1 bite or gaze"
 damage: "1d8 bite, or Mind Swap"
-speed: "40' Swim 60'"
-jds: [9, 9, 11, 12, 13]
-moral: "10"
-xp: 1390
-nbr: "1d6, Wild 2d6, Lair 2d6"
-loot: "M"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Magical Nature
     desc: "Can only be harmed by magical weapons."
   - name: Regeneration
     desc: "Have the ability to regenerate, though it takes them months to regrow lost body parts."
   - name: Mind Swap
-    desc: "Any intelligent creature that meets the gaze of a giant axolotl will swap minds with the creature, unless they make a save vs. Spells. The mind swap lasts a day, but the giant axolotl can terminate the mind swap at any time. If either the giant axolotl's body or its victim's body are slain during this time, the surviving mind remains permanently trapped in its new body. However, after approximately a week or so the victim trapped in the axolotl's body will gain the ability to use its mind swap ability."
+    desc: "Any intelligent creature that meets the gaze of a giant axolotl will swap minds with the creature, unless they make a DC 14 INT check. The mind swap lasts a day, but the giant axolotl can terminate the mind swap at any time. If either the giant axolotl's body or its victim's body are slain during this time, the surviving mind remains permanently trapped in its new body. However, after approximately a week or so the victim trapped in the axolotl's body will gain the ability to use its mind swap ability."
 actions:
   - name: bite or gaze
     desc: "D20 to hit, 1d8 bite, or Mind Swap"

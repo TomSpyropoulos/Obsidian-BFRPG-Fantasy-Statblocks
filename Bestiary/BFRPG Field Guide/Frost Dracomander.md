@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Frost Dracomander
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "10** (+9)"
+layout: shadowdark
+ac: "20"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10** (+9)", "54", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["10 ()", "54", "20", "+9"]
 attack: "1 bite or breath / 4 claws / 1 tail + cold"
 damage: "2d10 bite, 10d8 breath 1d8 claw, 1d6 tail, 1d8 per round cold"
-speed: "30' Fly 80' (15')'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1480
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+4"]
 traits:
   - name: Cold Aura
     desc: "All non-cold-resistant creatures within 20 feet suffer 1d8 points of damage per round from the cold."

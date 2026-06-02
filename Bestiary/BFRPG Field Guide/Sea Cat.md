@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sea Cat
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "11 (+9)"
+layout: shadowdark
+ac: "17"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 1
-stats: ["11 (+9)", "58", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "58", "17", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
-speed: "10' Swim 60'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1575
-nbr: "1, Wild 1d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Rending
     desc: "Upon scoring hits with both claw attacks, its bite hits automatically, dealing 3d6 points of rending damage."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Great Orb of Eyes
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "12* (+10)"
+layout: shadowdark
+ac: "18"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12* (+10)", "64", "1 [18]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["12 ()", "64", "18", "+10"]
 attack: "1d4 rays or spell-like ability"
 damage: "By ray or spell"
-speed: "Fly 30'"
-jds: [10, 10, 9, 13, 11]
-moral: "9"
-xp: 1975
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+4", "+4", "+5", "+3", "+5"]
 traits:
   - name: All-Around Vision
     desc: "Only surprised at the GM's discretion."
@@ -37,7 +31,7 @@ traits:
   - name: Telepathy
     desc: "Can communicate to any creature within 120 feet."
   - name: Eye Rays
-    desc: "Fires 1d4 rays each round, each targeting a different adversary. Roll 1d10 for each ray:  1. **Death:** target must save vs. Death Ray or die. 2. **Draining:** target takes 3d6 points of damage. They may save vs. Spells for half damage. The great orb of eyes heals half that many hit points. 3. **Fear:** target is affected by **cause fear** (reversed remove fear) spell, as cast by a 12th-level Cleric. 4. **Charm:** target is affected by **charm monster** spell, as cast by a 12th-level Magic-user. 5. **Hold:** target is affected by **hold monster** spell, as cast by a 12th-level Magic-user. 6. **Blinding:** target is affected by **cause blindness** (reversed remove blindness) spell, as cast by a 12th-level Cleric. 7. **Petrification:** target is affected by **flesh to stone** spell, as cast by a 12th-level Magic-user. 8. **Disintegration:** target is affected by **disintegration** spell, as cast by a 12th-level Magic-user. 9. **Sleep:** target is affected by **sleep** spell, as cast by a 12th-level Magic-user. 10. **Anti-Magic:** target is affected by **anti-magic shell** spell, the area of effect based around the target, as cast by a 12th-level Magic-user."
+    desc: "Fires 1d4 rays each round, each targeting a different adversary. Roll 1d10 for each ray:  1. **Death:** target must succeed on a DC 14 CON check or die. 2. **Draining:** target takes 3d6 points of damage. They may succeed on a DC 14 INT check for half damage. The great orb of eyes heals half that many hit points. 3. **Fear:** target is affected by **cause fear** (reversed remove fear) spell, as cast by a 12th-level Cleric. 4. **Charm:** target is affected by **charm monster** spell, as cast by a 12th-level Wizard. 5. **Hold:** target is affected by **hold monster** spell, as cast by a 12th-level Wizard. 6. **Blinding:** target is affected by **cause blindness** (reversed remove blindness) spell, as cast by a 12th-level Cleric. 7. **Petrification:** target is affected by **flesh to stone** spell, as cast by a 12th-level Wizard. 8. **Disintegration:** target is affected by **disintegration** spell, as cast by a 12th-level Wizard. 9. **Sleep:** target is affected by **sleep** spell, as cast by a 12th-level Wizard. 10. **Anti-Magic:** target is affected by **anti-magic shell** spell, the area of effect based around the target, as cast by a 12th-level Wizard."
 actions:
   - name: 1d4 rays or spell-like ability
     desc: "D20 to hit, By ray or spell"

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Hill Giant
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "8"
+layout: shadowdark
+ac: "14"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "14", "+8"]
 attack: "1 giant weapon (club)"
 damage: "2d8"
-speed: "30' Unarmored 40'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 875
-nbr: "1d4, Wild 2d4, Lair 2d4"
-loot: "E plus 1d8x1000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 actions:
   - name: giant weapon (club)
     desc: "D20 to hit, 2d8"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Killer Frog
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "2"
+layout: shadowdark
+ac: "11"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "8 [11]", "+2"]
+stats: ["2", "9", "11", "+2"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 1d4 bite"
-speed: "30' Leap 30' Swim 60'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 75
-nbr: "3d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Camouflage
     desc: "Surprise on 1-3 on 1d6."

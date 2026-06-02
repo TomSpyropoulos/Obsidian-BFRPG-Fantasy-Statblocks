@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bulette
-layout: BFRPG
-ac: "-2 [21]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "21"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "-2 [21]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "21", "+8"]
 attack: "1 bite, 2 claws or 4 claws"
 damage: "3d8 bite, 2d6 claw"
-speed: "40' Burrow 10'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 1225
-nbr: "1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Leap Attack
     desc: "Can leap 10 feet through the air and attack prey with all four claws but cannot bite with such an attack."

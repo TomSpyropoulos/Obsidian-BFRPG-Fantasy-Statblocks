@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Living Candlestick
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "7 [12]", "+1"]
+stats: ["1", "4", "12", "+1"]
 attack: "1 firedart or 1 fireball"
 damage: "1d3 firedart, 2d6 fireball"
-speed: "10'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 37
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Firedart
     desc: "Shoots tiny darts of fire from its candles for 1d3 damage."
   - name: Fireball
-    desc: "Fires a small fireball every 1d6 rounds. Covers a 10-foot radius, with a save vs. Spells for half-damage (2d6 damage)."
+    desc: "Fires a small fireball every 1d6 rounds. Covers a 10-foot radius, with a DC 12 INT check for half-damage (2d6 damage)."
   - name: Illumination
     desc: "Gives off light enough to illuminate twice the area of a standard lantern (60-foot radius, dim light extending 40 feet further)."
 actions:
@@ -40,7 +34,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-A Living Candlestick is an animated candelabra that will fight intruders. It does this by shooting tiny darts of fire from its candles, and by firing a small fireball every 1d6 rounds. This fireball covers a 10-foot radius, with a save vs. Spells for half-damage.
+A Living Candlestick is an animated candelabra that will fight intruders. It does this by shooting tiny darts of fire from its candles, and by firing a small fireball every 1d6 rounds. This fireball covers a 10-foot radius, with a DC 12 INT check for half-damage.
 
 The light given off by a living candlestick is enough to illuminate twice the area of a standard lantern (60-foot radius, dim light extending 40 feet further).
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Rubicante Infernal
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "4**"
+layout: shadowdark
+ac: "19"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "0 [19]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "19", "+4"]
 attack: "2 claws, or weapon"
 damage: "1d4 claw, or by weapon"
-speed: "20' Fly 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 320
-nbr: "1d2 Lair 3d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 traits:
   - name: Infernal Pitchfork
     desc: "65% chance, 2d6+1 damage"
@@ -37,7 +31,7 @@ traits:
   - name: Daily Powers
     desc: "Once per day can create a wall of fire with double the normal effect or summon an additional demon of the same type (33% chance of success)."
   - name: Fear
-    desc: "Cause a fear effect (save vs Wands) upon striking an opponent for the first time."
+    desc: "Cause a fear effect (Succeed on a DC 12 WIS check) upon striking an opponent for the first time."
   - name: Immunities
     desc: "Immune to damage from lightning and poison, and take only half damage from acid, cold, or fire-based attacks. Can only be struck by magical weapons."
 actions:

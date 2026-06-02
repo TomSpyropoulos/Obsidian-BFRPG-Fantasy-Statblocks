@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Manticore
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "6+1*"
+layout: shadowdark
+ac: "17"
+level: "6"
 hp: 28
-thaco: "+6"
-modifier: 0
-stats: ["6+1*", "28", "2 [17]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "28", "17", "+6"]
 attack: "2 claws/1 bite or 1d8 spikes (180' range)"
 damage: "1d4/1d4/2d4 or 1d6 per spike"
-speed: "40' Fly 60' (10')'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 555
-nbr: "1d2, Wild 1d4, Lair 1d4"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
 traits:
   - name: Tail Spikes
     desc: "The manticore may fire spikes from its tail as projectiles (180' range, 1d6 damage per spike). A maximum of 24 spikes are available, and the manticore regrows 1d6 per day."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Alicorn
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "18"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "1 [18]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "18", "+4"]
 attack: "2 hooves/1 horn"
 damage: "2d4/2d4/2d6"
-speed: "70'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 280
-nbr: "Wild 1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
 traits:
   - name: Invisibility
     desc: "Alicorns may become invisible at will, exactly as if wearing a ring of invisibility."

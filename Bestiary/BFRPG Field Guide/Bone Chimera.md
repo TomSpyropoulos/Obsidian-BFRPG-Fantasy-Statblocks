@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bone Chimera
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "16", "+5"]
 attack: "2 bites, 2 claws or 2 tails"
 damage: "2d6 bite,1d6 claw, 1d10 tail"
-speed: "60'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 360
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Multi-directional Attack
     desc: "Can attack opponents in front with its bites and claws, while assaulting opponents behind with its tails; however, it cannot attack a single opponent with its bite, claws, and tails."

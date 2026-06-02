@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Cloud Dragon
-layout: BFRPG
-ac: "-2 [21]"
-hit_dice: "11** (+9)"
+layout: shadowdark
+ac: "21"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 1
-stats: ["11** (+9)", "58", "-2 [21]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["11 ()", "58", "21", "+9"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "2d4 claw, 6d6 bite or breath, 2d4 tail"
-speed: "30' Fly 80' (20')'"
-jds: [9, 9, 11, 12, 13]
-moral: "10"
-xp: 1765
-nbr: "1, Wild 1, Lair 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
 traits:
   - name: Variable Breath Weapon
     desc: "Upon reaching the second age category, a cloud dragon acquires the breath weapon of a randomly-chosen (or GM assigned) dragon type; upon reaching the fourth age category, they acquire a second breath weapon type. Cloud dragons possess the same immunities as the dragons whose breath weapons they reproduce."

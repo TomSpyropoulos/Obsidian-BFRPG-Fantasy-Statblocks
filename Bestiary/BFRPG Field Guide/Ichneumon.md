@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ichneumon
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "20"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 2
-stats: ["12 (+10)", "64", "-1 [20]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "20", "+10"]
 attack: "1 bite, 2 claws, or 1 bite + special"
 damage: "1d12 bite, 2d6 claw"
-speed: "50'"
-jds: [7, 8, 10, 11, 12]
-moral: "9"
-xp: 1875
-nbr: "1, Lair 1d4-2"
-loot: "None; H (roll 1d6 for age) in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Lock Jaws
     desc: "Against large prey, it will lock its jaws, inflicting 8 points of damage per round. It will simultaneously rake with 2d4 of its claws, each inflicting another 2d6 points of damage, until either it or its prey is dead. Against smaller opponents such as humanoids, the ichneumon will only be able to attack with one bite and its front 2 claws each round."
@@ -44,7 +38,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-The Ichneumon is an eight-legged beast the size of a pony. Its head is like that of a bear. It has a long furry coat that can be white, black, red, blue, or green. It has a long, thick tapered tail. The male also has a lion mane and is up to 25% larger (and has 15 HD), and can weigh in excess of a thousand pounds.
+The Ichneumon is an eight-legged beast the size of a pony. Its head is like that of a bear. It has a long furry coat that can be white, black, red, blue, or green. It has a long, thick tapered tail. The male also has a lion mane and is up to 25% larger (and has 15 LVL), and can weigh in excess of a thousand pounds.
 
 The ichneumon loves to eat dragon scales and because of this is also known as the "Dragon Eater". When encountered in the wild, it will have no treasure. A female will usually nest in the lair of a defeated dragon along with a kit of up to HD6 and the dragon's hoard. Males, in contrast, lair in small isolated dens with no treasure.
 

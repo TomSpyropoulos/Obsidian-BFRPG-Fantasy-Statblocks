@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Megatherium
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "12"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "7 [12]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "12", "+8"]
 attack: "2 claws"
 damage: "1d10"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1075
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d10"

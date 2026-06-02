@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Pike Fish
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite (4d4)"
 damage: "4d4"
-speed: "Swim 90'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 actions:
   - name: bite (4d4)
     desc: "D20 to hit, 4d4"

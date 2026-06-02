@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Moon Troll
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "12** (+10)"
+layout: shadowdark
+ac: "15"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12** (+10)", "64", "4 [15]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "15", "+10"]
 attack: "2 claws, 1 bite"
 damage: "2d6 claw, 3d4 bite"
-speed: "40'"
-jds: [8, 9, 10, 12, 13]
-moral: "10"
-xp: 2075
-nbr: "1"
-loot: "D, L"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Silver or magical weapons required
     desc: "Can only be harmed by silver or magical weapons (including spells)."

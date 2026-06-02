@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Amber Golem
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "20"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 0
-stats: ["10* (+9)", "54", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "20", "+9"]
 attack: "2 claws/1 bite"
 damage: "2d6/2d6/2d10"
-speed: "60'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Detect Invisible
     desc: "Able to detect invisible creatures or objects within 60'."

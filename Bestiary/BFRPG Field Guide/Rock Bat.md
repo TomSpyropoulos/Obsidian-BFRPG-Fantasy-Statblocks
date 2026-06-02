@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Rock Bat
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2*", "9", "4 [15]", "+2"]
+atk_bonus: "+2"
+modifier: 2
+stats: ["2", "9", "15", "+2"]
 attack: "1 stab (1d6)"
 damage: "1d6"
-speed: "Fly 150' (50')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 100
-nbr: "1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Gravity Ray
     desc: "Floats by emitting a glowing gravity ray from gem-like growths on the sides of its body."

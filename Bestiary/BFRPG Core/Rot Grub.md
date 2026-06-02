@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Rot Grub
-layout: BFRPG
-ac: "10 [9]"
-hit_dice: "1 hp"
+layout: shadowdark
+ac: "9"
+level: "1 hp"
 hp: 1
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["1 hp", "1", "10 [9]", "+0"]
+stats: ["1 hp", "1", "9", "+0"]
 attack: "1 bite"
 damage: "special"
-speed: "5'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 10
-nbr: "5d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Burrowing
     desc: "A rot grub secretes an anesthetic when it bites and will burrow into the flesh. A burrowing grub can be noticed if the victim succeeds at a Wisdom check. If successful, the victim sees strange rippling beneath his skin. If failed, the creature does not notice the grubs."

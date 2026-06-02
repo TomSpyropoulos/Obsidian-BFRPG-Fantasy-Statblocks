@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Werebear* Lycanthrope
+name: Werebear Lycanthrope
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Werebear* Lycanthrope
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "6*"
+name: Werebear Lycanthrope
+layout: shadowdark
+ac: "17"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "2 [17]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "17", "+6"]
 attack: "-"
 damage: "2d4/2d4/2d8 + 2d8"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 555
-nbr: ""
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 source: BFRPG Core
 ```
 

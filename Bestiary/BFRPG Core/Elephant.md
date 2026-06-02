@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Elephant
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "15", "+8"]
 attack: "2 tusks, 1 trunk grab, 2 tramples"
 damage: "2d4 tusk, 2d6 grab, 2d8 trample"
-speed: "40' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1075
-nbr: "Wild 1d20"
-loot: "special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 actions:
   - name: tusks, 1 trunk grab, 2 tramples
     desc: "D20 to hit, 2d4 tusk, 2d6 grab, 2d8 trample"

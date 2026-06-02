@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gray Render Nazgorean
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "18"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "1 [18]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "18", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 2d6 bite"
-speed: "30'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1300
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Eyeless
     desc: "A gray render has no eyes; instead, it depends on sound to locate prey (treat as 90-foot Darkvision). Thus, a silent opponent is as good as invisible to the monster."

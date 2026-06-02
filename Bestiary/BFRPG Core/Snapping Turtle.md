@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Snapping Turtle
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "4 [15]", "+1"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 bite"
 damage: "1d6"
-speed: "5' Swim 20'"
-jds: [12, 13, 14, 15, 17]
-moral: "6"
-xp: 25
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Camouflage
     desc: "Well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in their natural habitat."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Desert Dragon
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "19"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9 ()", "48", "19", "+8"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d8/1d8/3d8 or breath/1d8"
-speed: "30' Fly 80' (15')'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 1225
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+4"]
 traits:
   - name: Ambush
     desc: "When buried in sand with only eyes and nostrils exposed, surprises on a roll of 1-4 on 1d6 when victims come within 100 feet."

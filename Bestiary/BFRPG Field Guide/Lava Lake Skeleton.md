@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lava Lake Skeleton
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "7+2*"
+layout: shadowdark
+ac: "16"
+level: "7"
 hp: 33
-thaco: "+7"
-modifier: 0
-stats: ["7+2*", "33", "3 [16]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "33", "16", "+7"]
 attack: "1 giant weapon or 1 thrown lava rock"
 damage: "3d6 weapon or 2d6 thrown rock"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 735
-nbr: "1, Wild 1d3"
-loot: "E + 1d6x1,000 gp value ruby"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Lava Rock
     desc: "They manifest said lava-filled rock within their appendages to throw at their opponents. The damage dealt by this attack counts as fire damage."
@@ -35,7 +29,7 @@ traits:
   - name: Undead
     desc: "Can be Turned by Clerics as a spectre, and are immune to sleep, charm, or hold magic."
   - name: Mindless
-    desc: "No form of mind reading is of any use against them. Never fail morale, and thus always fight until destroyed."
+    desc: "No form of mind reading is of any use against them. Never fail morale (CHA), and thus always fight until destroyed."
 actions:
   - name: giant weapon or 1 thrown lava rock
     desc: "D20 to hit, 3d6 weapon or 2d6 thrown rock"
@@ -48,5 +42,5 @@ Unlike their living counterparts, lava lake skeletons do not need to find a rock
 
 Just like normal skeletons, lava lake skeletons take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). As with all undead, they can be Turned by Clerics as a spectre, and are immune to sleep, charm, or hold magic.
 
-As they are mindless, no form of mind reading is of any use against them. Lava lake skeletons never fail morale, and thus always fight until destroyed.
+As they are mindless, no form of mind reading is of any use against them. Lava lake skeletons never fail morale (CHA), and thus always fight until destroyed.
 

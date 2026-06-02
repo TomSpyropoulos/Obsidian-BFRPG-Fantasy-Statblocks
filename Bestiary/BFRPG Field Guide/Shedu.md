@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Shedu
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9+9* (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 57
-thaco: "+8"
-modifier: 1
-stats: ["9+9* (+8)", "57", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9 ()", "57", "15", "+8"]
 attack: "2 hooves (1d6)"
 damage: "1d6 hoof"
-speed: "60' Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 1150
-nbr: "2d4"
-loot: "G"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
   - name: Telepathy
     desc: "Can use telepathy as an innate ability and usually choose to communicate by means of direct psychic contact."

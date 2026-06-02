@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dolphin
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "14", "+2"]
 attack: "1 ram"
 damage: "2d4"
-speed: "Swim 120'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 75
-nbr: "Wild 2d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
 actions:
   - name: ram
     desc: "D20 to hit, 2d4"

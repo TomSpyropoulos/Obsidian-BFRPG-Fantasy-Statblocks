@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Marilith Infernal
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "15"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "4 [15]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "15", "+7"]
 attack: "6 claws or 6 weapons + breath weapon"
 damage: "1d6 per claw or by weapon + 6d6 fire breath"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 800
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Fire Breath
     desc: "Can breathe a cone of fire up to 30 feet long and 15 feet wide once per day, dealing 6d6 points of damage to all creatures in the area."

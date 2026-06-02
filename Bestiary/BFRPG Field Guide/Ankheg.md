@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ankheg
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "18"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "1 [18]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "18", "+4"]
 attack: "1 bite + hold or 1 spit"
 damage: "3d6 + 1d4/round or 4d8 (acid)"
-speed: "120' Burrow 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 280
-nbr: "1d6"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Bite and Hold
-    desc: "If an ankheg succeeds at its bite attack, it can hold on and inflict additional damage each round automatically; a saving throw vs. Death Ray must be made to escape the monster's grip. However, against 'soft' prey (those wearing little or no armor) it may choose to release its grip and strike again, potentially doing greater damage. Furthermore, so long as the victim of its bite is small or medium in size and weight, the ankheg can drag it backwards, possibly even underground where the victim can be released and allowed to suffocate in the loose dirt."
+    desc: "If an ankheg succeeds at its bite attack, it can hold on and inflict additional damage each round automatically; a DC 12 CON check must be made to escape the monster's grip. However, against 'soft' prey (those wearing little or no armor) it may choose to release its grip and strike again, potentially doing greater damage. Furthermore, so long as the victim of its bite is small or medium in size and weight, the ankheg can drag it backwards, possibly even underground where the victim can be released and allowed to suffocate in the loose dirt."
   - name: Acid Spit
     desc: "An ankheg can spit acid once per day at a range of up to 3 feet, doing the listed damage on a successful hit. This ability is only used if the monster is desperate, like when it has been reduced to fewer than half its hit points for example, or frustrated, like when it has repeatedly failed to hit with its bite attack."
   - name: Burrowing

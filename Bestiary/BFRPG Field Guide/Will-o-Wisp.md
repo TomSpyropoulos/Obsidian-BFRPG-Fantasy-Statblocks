@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Will-o'-Wisp
-layout: BFRPG
-ac: "-9 [28]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "28"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "-9 [28]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["9 ()", "48", "28", "+8"]
 attack: "1 shock (2d8)"
 damage: "-"
-speed: "Fly 50'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 1225
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+7"]
 traits:
   - name: Avoids Combat
     desc: "A will-o'-wisp usually avoids combat."

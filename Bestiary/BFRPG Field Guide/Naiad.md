@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Naiad
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3*", "13", "5 [14]", "+3"]
+atk_bonus: "+3"
+modifier: 1
+stats: ["3", "13", "14", "+3"]
 attack: "1 special"
 damage: "-"
-speed: "40' Swim 80'"
-jds: [12, 12, 11, 14, 13]
-moral: "6"
-xp: 175
-nbr: "1d6"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
 traits:
   - name: Charm Person
     desc: "May charm a person and force them to leave the area. May use this ability as often as it likes; it functions like a charm person spell."

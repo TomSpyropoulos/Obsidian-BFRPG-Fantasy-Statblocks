@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Entelodont
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "15", "+6"]
 attack: "1 bite (2d6)"
 damage: "2d6"
-speed: "50'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 500
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 actions:
   - name: bite (2d6)
     desc: "D20 to hit, 2d6"

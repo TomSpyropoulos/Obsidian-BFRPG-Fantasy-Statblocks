@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cu-Sidhe
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "4 [15]", "+1"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 bite"
 damage: "1d4"
-speed: "50'"
-jds: [12, 11, 13, 15, 15]
-moral: "8"
-xp: 25
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "-1", "+1", "+1", "+1"]
 traits:
   - name: Camouflage
     desc: "So long as one remains still, there is only a 10% chance it will be detected in forest terrain. Even indoors, underground, or in non-preferred terrain they are able to hide such that there is only a 30% chance of detection."

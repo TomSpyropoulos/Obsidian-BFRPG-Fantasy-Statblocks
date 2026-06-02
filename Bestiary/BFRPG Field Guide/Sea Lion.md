@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sea Lion
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 2d6 bite"
-speed: "Swim 90'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 500
-nbr: "3d4"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Armor Class Variation
     desc: "The head of the sea lion is its weakest part, having an armor class of just 15, while the scaly body is tougher with an armor class of 17. In general, those attacking from the front may always strike at the head, while those attacking from the rear may not and those on either side may do so only if the player states such an intention."

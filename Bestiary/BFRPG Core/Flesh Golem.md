@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Flesh* Golem
+name: Flesh Golem
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Flesh* Golem
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "9** (+8)"
+name: Flesh Golem
+layout: shadowdark
+ac: "19"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 0
-stats: ["9** (+8)", "48", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "19", "+8"]
 attack: "2 fists"
 damage: "2d8/2d8"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 1225
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Cold and Fire Vulnerability
     desc: "A magical attack that deals cold or fire damage slows a flesh golem (as the slow spell) for 2d6 rounds, with no saving throw."

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Pipe Beast
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "6+6*"
+layout: shadowdark
+ac: "17"
+level: "6"
 hp: 33
-thaco: "+6"
-modifier: 0
-stats: ["6+6*", "33", "2 [17]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "33", "17", "+6"]
 attack: "2 claws (2d6) / 1 tail (1d10) / acid spray (4d8)"
 damage: "2d6 claw, 1d10 tail, 4d8 acid spray"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 555
-nbr: "1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Acid Spray
-    desc: "Can spew a cone of pure acid every 4 rounds, dealing damage to everything in its path. A successful save vs. Dragon Breath reduces this damage by half. The acid cone affects an area 60 feet long and is 20 feet wide at its furthest point. The pipe beast can only use this attack 3 times a day before it must recharge its supply."
+    desc: "Can spew a cone of pure acid every 4 rounds, dealing damage to everything in its path. a successful DC 13 DEX check reduces this damage by half. The acid cone affects an area 60 feet long and is 20 feet wide at its furthest point. The pipe beast can only use this attack 3 times a day before it must recharge its supply."
   - name: Fire Immunity
     desc: "Because of their construction fire seems to have no effect on them."
   - name: Singular Focus

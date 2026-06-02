@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Imperial Griffon
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "18"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9 ()", "48", "18", "+8"]
 attack: "2 claws / 1 bite"
 damage: "2d4 claw, 3d6 bite"
-speed: "40' (10') Fly 120' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1075
-nbr: "1, Lair 1d4"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
 traits:
   - name: Mount Capacity
     desc: "An adult imperial griffon mount can carry up to 700 pounds as a light load, or 1,400 pounds heavily-loaded."

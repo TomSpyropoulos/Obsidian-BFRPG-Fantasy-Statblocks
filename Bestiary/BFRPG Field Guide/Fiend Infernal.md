@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Fiend Infernal
-layout: BFRPG
-ac: "-3 [22]"
-hit_dice: "13** (+10)"
+layout: shadowdark
+ac: "22"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13** (+10)", "68", "-3 [22]", "+10"]
+atk_bonus: "+10"
+modifier: 5
+stats: ["13 ()", "68", "22", "+10"]
 attack: "2 weapons (see below) or special"
 damage: "1d4+4 club, 1d6+6 mace (see below) or special"
-speed: "30' Fly 90'"
-jds: [8, 9, 10, 12, 13]
-moral: "9"
-xp: 2395
-nbr: "1 Lair 1d4"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+5", "+5", "+4", "+3", "+3", "+5"]
 traits:
   - name: Regeneration
     desc: "Regenerate at a rate of 2 hit points per round; damage inflicted by holy water (and possibly other holy items as determined by the GM) cannot be regenerated. Unlike a troll, a fiend will not continue to regenerate if reduced to zero or fewer hit points, but can in fact be slain in the normal way."
@@ -35,7 +29,7 @@ traits:
   - name: Whip-like Tail
     desc: "Instead of making a normal attack, a fiend can choose to use its whip-like tail, which does 2d4 points of damage on a successful hit and holds fast the victim, if man-sized or smaller, inflicting an additional 2d4 points of damage each round. Worse, once a fiend has captured a victim in this way, it may then act as it wishes in subsequent rounds while maintaining the hold and doing the additional damage automatically; the only limitation is that the fiend is reduced to half movement. Such a trapped victim generally cannot attack, but may break free by rolling to open doors with 1d20 instead of the usual 1d6 die roll."
   - name: Fear Aura
-    desc: "Fiends radiate a powerful fear effect which functions as the spell cause fear affecting all in a 30-foot radius, with a saving throw vs. Spells allowed to resist. Anyone who successfully saves cannot be affected by that fiend's fear aura again for 24 hours. Other infernals are not affected by this power."
+    desc: "Fiends radiate a powerful fear effect which functions as the spell cause fear affecting all in a 30-foot radius, with a DC 14 INT check allowed to resist. Anyone who successfully saves cannot be affected by that fiend's fear aura again for 24 hours. Other infernals are not affected by this power."
   - name: Spell-like Abilities
     desc: "Fiends have several spell-like abilities that can be used once per round instead of performing a normal attack: wall of fire, detect invisible, dispel magic, polymorph self, and hold person."
   - name: Summoning

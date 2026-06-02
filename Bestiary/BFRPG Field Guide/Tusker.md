@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tusker
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2+2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2", "11", "6 [13]", "+2"]
+stats: ["2", "11", "13", "+2"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "30' Unarmored 40' Swim 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "1d6, Wild 2d4, Lair 4d8"
-loot: "Q, R individual; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Cold Resistance
     desc: "Even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, a tusker receives a +4 bonus."

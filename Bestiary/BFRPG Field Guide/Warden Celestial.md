@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Warden Celestial
-layout: BFRPG
-ac: "-5 [24]"
-hit_dice: "12** (+10)"
+layout: shadowdark
+ac: "24"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12** (+10)", "64", "-5 [24]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["12 ()", "64", "24", "+10"]
 attack: "1 weapon"
 damage: "By weapon +3"
-speed: "50' Fly 60'"
-jds: [6, 7, 10, 12, 11]
-moral: "11"
-xp: 2075
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+4", "+4", "+3", "+5", "+7"]
 traits:
   - name: Teleport
     desc: "Can teleport at-will and without failure. Can teleport and strike in the same round."

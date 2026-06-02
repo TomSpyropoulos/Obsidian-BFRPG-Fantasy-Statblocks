@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Wraith
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4**"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 3
+stats: ["4", "18", "14", "+4"]
 attack: "1 touch (1d6 + energy drain (1 level))"
 damage: "-"
-speed: "Fly 80'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 320
-nbr: "1d4, Lair 1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+6"]
 traits:
   - name: Energy Drain
     desc: "Touch attack drains 1 level."

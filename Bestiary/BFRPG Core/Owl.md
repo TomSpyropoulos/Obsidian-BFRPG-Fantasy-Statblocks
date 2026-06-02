@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Owl
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1", "4", "5 [14]", "+1"]
+atk_bonus: "+1"
+modifier: 2
+stats: ["1", "4", "14", "+1"]
 attack: "2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
-speed: "10' Fly 160' (10')'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "1, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Silent Flight
     desc: "Ability to fly without making a sound."

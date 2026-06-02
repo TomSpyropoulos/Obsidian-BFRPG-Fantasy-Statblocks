@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aboleth
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "15"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 0
-stats: ["8**", "36", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "15", "+8"]
 attack: "4 tentacles"
 damage: "1d6 tentacle"
-speed: "10' Swim 60'"
-jds: [11, 11, 10, 14, 12]
-moral: "9"
-xp: 1015
-nbr: "1, Lair 1d3+1"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+2", "+2", "+4", "+2", "+4"]
 traits:
   - name: Tentacle Transformation
-    desc: "A blow from an aboleth's tentacle deals 1d6 points of damage. Any living creature hit by a tentacle must save vs. Paralysis or begin to transform over the next 1d4+1 turns. The skin gradually becomes a translucent, slimy membrane. An afflicted creature must remain moistened with fresh water or suffer 1d12 points of damage each turn. **Cure disease** or **remove curse** cast before the transformation is complete will restore an afflicted creature to normal. After the transformation is complete, only a **heal** spell can reverse it."
+    desc: "A blow from an aboleth's tentacle deals 1d6 points of damage. Any living creature hit by a tentacle must succeed on a DC 13 STR check or begin to transform over the next 1d4+1 turns. The skin gradually becomes a translucent, slimy membrane. An afflicted creature must remain moistened with fresh water or suffer 1d12 points of damage each turn. **Cure disease** or **remove curse** cast before the transformation is complete will restore an afflicted creature to normal. After the transformation is complete, only a **heal** spell can reverse it."
   - name: Illusions
     desc: "An aboleth can cast **ventriloquism**, **phantasmal force** and **hallucinatory terrain** at will, as long as these illusions appear within a range of 60 feet of the creature."
   - name: Enslave
-    desc: "Up to three times per day, an aboleth can attempt to enslave one creature within 30 feet, excluding undead, and other non-living creatures. The target must save vs. Spells or be utterly dominated by the aboleth's mental power. An enslaved creature will obey the aboleth's telepathic commands. Such a creature can attempt a new save vs. Spells every 24 hours to break free, or can be freed by a **remove curse** spell. The control is also broken if the aboleth dies or is separated from its slave by more than a mile."
+    desc: "Up to three times per day, an aboleth can attempt to enslave one creature within 30 feet, excluding undead, and other non-living creatures. The target must succeed on a DC 13 INT check or be utterly dominated by the aboleth's mental power. An enslaved creature will obey the aboleth's telepathic commands. Such a creature can attempt a new succeed on a DC 13 INT check every 24 hours to break free, or can be freed by a **remove curse** spell. The control is also broken if the aboleth dies or is separated from its slave by more than a mile."
   - name: Slime
     desc: "The slime an aboleth secretes allows a living creature (generally its slaves) to breathe underwater for the next 3 hours, but for the same duration the affected creature can no longer breathe air; such a creature suffocates in 2d6 minutes if removed from water. Continuous and repeated exposure to the slime slowly transforms the creature into a skum. The transformation takes about a month."
 actions:

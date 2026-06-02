@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Oracle Celestial
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "11** (+9)"
+layout: shadowdark
+ac: "16"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 1
-stats: ["11** (+9)", "58", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["11 ()", "58", "16", "+9"]
 attack: "1 weapon"
 damage: "By weapon + 2"
-speed: "50' Fly 90'"
-jds: [7, 8, 11, 13, 12]
-moral: "11"
-xp: 1765
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+4", "+3", "+2", "+4", "+6"]
 traits:
   - name: Spellcasting
     desc: "Cast spells as a 12th-level Cleric."

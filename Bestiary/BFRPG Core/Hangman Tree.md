@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Hangman Tree
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "5"
+layout: shadowdark
+ac: "15"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "4 [15]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "15", "+5"]
 attack: "4 limbs + strangle"
 damage: "1d6 per limb + 1d6/round strangle"
-speed: "0'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 360
-nbr: "Wild 1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Strangling Limbs
     desc: "Four animated limbs wrap around necks of creatures passing beneath, strangling for 1d6 points of damage per round. Generally no more than one limb can attack any single creature at a time."

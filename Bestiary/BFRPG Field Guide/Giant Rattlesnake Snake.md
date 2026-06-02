@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Rattlesnake Snake
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 bite (1d8 + poison)"
 damage: "-"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 100
-nbr: "1d2, Wild 1d2, Lair 1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 source: BFRPG Field Guide
 ```
 

@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Stone* Golem
+name: Stone Golem
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,29 +9,23 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Stone* Golem
-layout: BFRPG
-ac: "-5 [24]"
-hit_dice: "14** (+11)"
+name: Stone Golem
+layout: shadowdark
+ac: "24"
+level: "14 ()"
 hp: 74
-thaco: "+11"
-modifier: 0
-stats: ["14** (+11)", "74", "-5 [24]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["14 ()", "74", "24", "+11"]
 attack: "1 + special"
 damage: "3d8 + special"
-speed: "20' (10')'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 2730
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Slow Effect
-    desc: "A stone golem can use a slow effect, as the spell, once every other round; a save vs. Spells is allowed to resist. The effect has a range of 10 feet and a duration of 2d6 rounds."
+    desc: "A stone golem can use a slow effect, as the spell, once every other round; a DC 14 INT check is allowed to resist. The effect has a range of 10 feet and a duration of 2d6 rounds."
   - name: Stone to Flesh Vulnerability
-    desc: "A stone to flesh spell may be used to weaken the monster. The spell does not actually change the golem's structure, but for one full round after being affected, the golem is vulnerable to normal weapons. The stone golem is allowed a save vs. Spells to resist this effect."
+    desc: "A stone to flesh spell may be used to weaken the monster. The spell does not actually change the golem's structure, but for one full round after being affected, the golem is vulnerable to normal weapons. The stone golem is allowed a DC 14 INT check to resist this effect."
 actions:
   - name: + special
     desc: "D20 to hit, 3d8 + special"

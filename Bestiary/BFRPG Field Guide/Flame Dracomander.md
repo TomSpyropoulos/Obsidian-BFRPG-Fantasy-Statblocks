@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Flame Dracomander
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "18", "+8"]
 attack: "1 bite or breath / 2 claws / 1 tail + heat"
 damage: "2d6 bite, 8d8 breath, 1d6 claw, 1d6 tail, 1d8 per round heat"
-speed: "30' Fly 80' (15')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1015
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+3"]
 traits:
   - name: Heat Aura
     desc: "All non-fire-resistant creatures within 20 feet of the monster suffer 1d8 points of damage per round from the heat."

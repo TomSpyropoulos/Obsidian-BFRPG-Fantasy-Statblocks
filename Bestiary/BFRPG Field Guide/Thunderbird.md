@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Thunderbird
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5*"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5*", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 3
+stats: ["5", "22", "16", "+5"]
 attack: "2 claws / 1 bite / lightning"
 damage: "1d6 claw, 1d8 bite, 5d6 lightning"
-speed: "10' Fly 90'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 405
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Lightning Dive
-    desc: "Typically attacks from a great height, diving earthward at tremendous speed (use charging rules). In addition to the normal attack routine, while diving a bolt of lightning trails the thunderbird, striking its target for 5d6 points of electrical damage. Those within 10 feet of the target take half that damage. The target and those nearby can save vs. Dragon Breath for half-damage (i.e. half or one-quarter damage respectively)."
+    desc: "Typically attacks from a great height, diving earthward at tremendous speed (use charging rules). In addition to the normal attack routine, while diving a bolt of lightning trails the thunderbird, striking its target for 5d6 points of electrical damage. Those within 10 feet of the target take half that damage. The target and those nearby can succeed on a DC 13 DEX check for half-damage (i.e. half or one-quarter damage respectively)."
   - name: Electric Shock
     desc: "Anyone striking a thunderbird with a metallic weapon will take 1d6 points of electrical damage in return (no save)."
   - name: Electrical Immunity

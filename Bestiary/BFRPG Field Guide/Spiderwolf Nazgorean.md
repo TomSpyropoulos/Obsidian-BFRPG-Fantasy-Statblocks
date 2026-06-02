@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Spiderwolf Nazgorean
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4**"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "1 bite (1d10 + paralysis)"
 damage: "1d10 + paralysis"
-speed: "60'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 320
-nbr: "Wild 2d4, Lair 2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Paralyzing Bite
-    desc: "Any living creature bitten by a spiderwolf must save vs. Paralysis or be paralyzed for 1d6 turns. It will then ignore that paralyzed creature and attack another opponent, turning its attention back to any paralyzed victims only after all opposition is quelled."
+    desc: "Any living creature bitten by a spiderwolf must succeed on a DC 12 STR check or be paralyzed for 1d6 turns. It will then ignore that paralyzed creature and attack another opponent, turning its attention back to any paralyzed victims only after all opposition is quelled."
 actions:
   - name: bite (1d10 + paralysis)
     desc: "D20 to hit, 1d10 + paralysis"

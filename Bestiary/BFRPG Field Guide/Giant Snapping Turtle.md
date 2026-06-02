@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Snapping Turtle
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "19", "+9"]
 attack: "1 bite"
 damage: "4d6 bite"
-speed: "20' Swim 30'"
-jds: [9, 9, 11, 12, 13]
-moral: "8"
-xp: 1300
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Camouflage
     desc: "Gain surprise on 1-4 on 1d6 when partially submerged in swampy area."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Wight
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "5 [14]", "+3"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 touch"
 damage: "Energy drain (1 level)"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 175
-nbr: "1d6, Wild 1d8, Lair 1d8"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Energy Drain
     desc: "If a wight touches (or is touched by) a living creature, that living creature suffers one level of energy drain. No saving throw is allowed. Striking a wight with a weapon does not count as 'touching' it."

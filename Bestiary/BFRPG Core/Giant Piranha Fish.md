@@ -10,31 +10,25 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Piranha Fish
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite (1d8)"
 damage: "1d8"
-speed: "Swim 50'"
-jds: [11, 11, 13, 14, 15]
-moral: "7 (11)"
-xp: 240
-nbr: "Wild 2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Blood Sense
-    desc: "Able to sense blood in the water just as sharks do. Once they smell or taste blood in the water, their morale rises to 11."
+    desc: "Able to sense blood in the water just as sharks do. Once they smell or taste blood in the water, their morale (CHA) rises to 11."
 actions:
   - name: bite (1d8)
     desc: "D20 to hit, 1d8"
 source: BFRPG Core
 ```
 
-Giant piranha average 5' in length at adulthood, and are aggressive carnivores. They are able to sense blood in the water just as sharks do, and once they smell or taste blood in the water, their morale rises to the parenthesized figure.
+Giant piranha average 5' in length at adulthood, and are aggressive carnivores. They are able to sense blood in the water just as sharks do, and once they smell or taste blood in the water, their morale (CHA) rises to the parenthesized figure.
 

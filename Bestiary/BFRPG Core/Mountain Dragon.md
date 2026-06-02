@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mountain Dragon
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "10** (+9)"
+layout: shadowdark
+ac: "20"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10** (+9)", "54", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["10 ()", "54", "20", "+9"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d8/1d8/4d8 or breath/1d8"
-speed: "30' Fly 80' (20')'"
-jds: [9, 9, 11, 12, 13]
-moral: "8"
-xp: 1480
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
 traits:
   - name: Fire Immunity
     desc: "Immune to normal fire, and suffer only half damage from magical fire."

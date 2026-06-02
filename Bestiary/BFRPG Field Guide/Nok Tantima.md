@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Nok Tantima
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "12** (+10)"
+layout: shadowdark
+ac: "19"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12** (+10)", "64", "0 [19]", "+10"]
+atk_bonus: "+10"
+modifier: 5
+stats: ["12 ()", "64", "19", "+10"]
 attack: "1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 bite or 1d12 claw or by spell"
-speed: "60' Fly 120'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 2075
-nbr: "1d2"
-loot: "Magic Item"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+5", "+5", "+4", "+3", "+3", "+8"]
 traits:
   - name: Flying Attack
     desc: "When flying they attack with their lower legs. On the ground they bite with their hawk-like beaks. They prefer to attack while flying, until they lose more than half their hit points, at which point they will either land to fight or fly away."

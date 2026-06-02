@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Killer Whale
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "16", "+6"]
 attack: "1 bite (2d10)"
 damage: "-"
-speed: "Swim 80' (10')'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 500
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+4"]
 source: BFRPG Core
 ```
 

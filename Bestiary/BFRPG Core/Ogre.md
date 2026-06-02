@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Ogre
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4+1"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 19
-thaco: "+4"
-modifier: 0
-stats: ["4+1", "19", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "19", "14", "+4"]
 attack: "1 huge weapon"
 damage: "2d6"
-speed: "30' Unarmored 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 240
-nbr: "1d6, Wild 2d6, Lair 2d6"
-loot: "C + 1d20x100 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Strength bonus
     desc: "If normal weapons are employed, an ogre has a +3 bonus to damage due to strength."

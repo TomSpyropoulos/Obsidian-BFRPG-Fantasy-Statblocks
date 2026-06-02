@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Pseudowyvern
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "18"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3*", "13", "1 [18]", "+3"]
+atk_bonus: "+3"
+modifier: 1
+stats: ["3", "13", "18", "+3"]
 attack: "1 bite or 1 sting"
 damage: "1 or 1 + poison"
-speed: "10' Fly 50'"
-jds: [11, 12, 14, 15, 16]
-moral: "6"
-xp: 175
-nbr: "1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Camouflage
     desc: "10% chance of being detected when still, 30% when moving in tropical rain forests, jungle, and other warm and humid climates."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mammoth
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "15 (+11)"
+layout: shadowdark
+ac: "16"
+level: "15 ()"
 hp: 78
-thaco: "+11"
-modifier: 2
-stats: ["15 (+11)", "78", "3 [16]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["15 ()", "78", "16", "+11"]
 attack: "2 tusks (3d6) / 1 trunk grab (2d6) / 2 tramples (2d8)"
 damage: "-"
-speed: "40' (15')'"
-jds: [7, 8, 10, 11, 12]
-moral: "8"
-xp: 2850
-nbr: "Wild 1d12"
-loot: "special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 source: BFRPG Core
 ```
 

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Rat Dog
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "5 [14]", "+3"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 bite (1d6)"
 damage: "-"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "1d10, Wild 2d20"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Disease
-    desc: "A rat dog's bite may carry disease, much like a giant rat's bite. A rat dog bite has a 5% chance of causing a disease. Anyone who suffers one or more bites that results in disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Death Ray (adjusted by their current Constitution bonus or penalty) to break the fever and end the disease; cure disease will also break the fever. Any character reduced to zero Constitution is dead (see Constitution point losses in the Encounter section of the Basic Fantasy RPG Core Rules for details on regaining lost Constitution)."
+    desc: "A rat dog's bite may carry disease, much like a giant rat's bite. A rat dog bite has a 5% chance of causing a disease. Anyone who suffers one or more bites that results in disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a DC 12 CON check (adjusted by their current Constitution bonus or penalty) to break the fever and end the disease; cure disease will also break the fever. Any character reduced to zero Constitution is dead (see Constitution point losses in the Encounter section of the Basic Fantasy RPG Core Rules for details on regaining lost Constitution)."
 source: BFRPG Field Guide
 ```
 

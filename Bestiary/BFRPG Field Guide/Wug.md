@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Wug
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "8 [11]", "+1"]
+stats: ["1", "4", "11", "+1"]
 attack: "1 weapon"
 damage: "1d8 punch, by weapon"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "E (in Lair)"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Ambush Tactics
     desc: "Prefers to attack from ambush and is cunning enough to use the terrain to its advantage."

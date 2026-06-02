@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Diseased Skeleton
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon or 1 unarmed + disease"
 damage: "By weapon or 1d8 + disease"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "1d6, Wild 1d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Weapon Resistance
     desc: "Slashing weapons do half-damage and piercing weapons only do 1 point of damage; crushing weapons do normal damage."
@@ -42,7 +36,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-There are times when an evil Cleric or Magic-user uses **animate dead** on the skeleton of a creature that originally died of a disease, or had a disease at the time of initial death. This Diseased Skeleton will be stronger than their other bony kin. Like normal skeletons, slashing weapons will do half-damage and piercing weapons will only do 1 point of damage; crushing weapons do normal damage. Since diseased skeletons are undead they are not be affected by **sleep**, **charm**, or **hold** spells. Diseased skeletons can be Turned as a zombie.
+There are times when an evil Cleric or Wizard uses **animate dead** on the skeleton of a creature that originally died of a disease, or had a disease at the time of initial death. This Diseased Skeleton will be stronger than their other bony kin. Like normal skeletons, slashing weapons will do half-damage and piercing weapons will only do 1 point of damage; crushing weapons do normal damage. Since diseased skeletons are undead they are not be affected by **sleep**, **charm**, or **hold** spells. Diseased skeletons can be Turned as a zombie.
 
 If the diseased skeleton uses an unarmed attack there is a 10% chance that the target will be infected with a disease similar to mummy rot. The disease will apply a -1 penalty to an ability or in special cases cause blindness or deafness in the character attacked. The character will show symptoms of the disease 1d4 hours after the attack.
 

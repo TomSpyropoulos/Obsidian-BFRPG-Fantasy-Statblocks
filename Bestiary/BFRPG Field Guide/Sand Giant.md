@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sand Giant
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "13 (+10)"
+layout: shadowdark
+ac: "14"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13 (+10)", "68", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "14", "+10"]
 attack: "1 giant weapon or 2 fists"
 damage: "3d6 giant weapon, 3d6 fist"
-speed: "50'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 2175
-nbr: "Wild 2d10"
-loot: "E + 1d12\u00d71,000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 traits:
   - name: Giant Bow
     desc: "Its bow has double the range of a standard longbow."

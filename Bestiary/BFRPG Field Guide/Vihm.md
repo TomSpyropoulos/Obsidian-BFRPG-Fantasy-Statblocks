@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Vihm
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "\u00bd (1d4 points)"
+layout: shadowdark
+ac: "12"
+level: "\u00bd (1d4 points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 points)", "2", "7 [12]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["\u00bd (1d4 points)", "2", "12", "+0"]
 attack: "1 weapon"
 damage: "1d4 or by weapon"
-speed: "20' Unarmored 30'"
-jds: [13, 14, 15, 16, 18]
-moral: "6"
-xp: 10
-nbr: "4d4, Wild 6d10, Lair 6d10"
-loot: "P, Q each; C in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Ranged Combat
     desc: "Preferring to stay out of melee, vihm receive a bonus of +1 to hit and damage with ranged attacks."

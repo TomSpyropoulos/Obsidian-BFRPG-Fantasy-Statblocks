@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Pangotherium
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "7"
+layout: shadowdark
+ac: "15"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7", "31", "4 [15]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "15", "+7"]
 attack: "2 claws"
 damage: "2d4"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 670
-nbr: "1d6"
-loot: "J, K"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Intelligence
     desc: "Intelligent animals with cognitive ability similar to a gorilla. Can operate doors and other simple mechanisms, but have no language."

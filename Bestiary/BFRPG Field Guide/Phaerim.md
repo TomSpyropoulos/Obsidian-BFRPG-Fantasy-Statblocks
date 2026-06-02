@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Phaerim
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1d6 hp (1 HD)"
+layout: shadowdark
+ac: "14"
+level: "1d6 hp (1 HD)"
 hp: 3
-thaco: "+1"
-modifier: 0
-stats: ["1d6 hp (1 HD)", "3", "5 [14]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1d6 hp (1 HD)", "3", "14", "+1"]
 attack: "1 weapon"
 damage: "By weapon"
-speed: "30' Fly 60'"
-jds: [12, 11, 13, 15, 15]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "-1", "+1", "+1", "+1"]
 traits:
   - name: Hiding
     desc: "90% undetectable when still in forested environment. 70% effective hiding indoors."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Euoplocephalus Dinosaur
-layout: BFRPG
-ac: "-3 [22]"
-hit_dice: "8"
+layout: shadowdark
+ac: "22"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "-3 [22]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "22", "+8"]
 attack: "1 tail (2d6)"
 damage: "2d6"
-speed: "20'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 875
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 actions:
   - name: tail (2d6)
     desc: "D20 to hit, 2d6"

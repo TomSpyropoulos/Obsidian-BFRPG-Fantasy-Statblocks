@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Flesh Eater Zombie
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "2 claws (1d3) / 1 bite (1d6)"
 damage: "-"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "2d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Undead Immunities
     desc: "Immune to spells that affect the mind (including sleep, charm, and hold)."

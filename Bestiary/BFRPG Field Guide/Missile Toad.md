@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Missile Toad
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1-2 HP"
+layout: shadowdark
+ac: "11"
+level: "1 HP"
 hp: 2
-thaco: "+1"
-modifier: -1
-stats: ["1-2 HP", "2", "8 [11]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1 HP", "2", "11", "+1"]
 attack: "1"
 damage: "1d4 + poison"
-speed: "30' Swim 30'"
-jds: [13, 14, 15, 16, 18]
-moral: "8"
-xp: 10
-nbr: "1d4, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Contact Poison
     desc: "Contact-poison secretion transfers on touch with bare skin. Poison damage for 1d6 rounds."

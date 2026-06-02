@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Vermin Queen
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "12"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "7 [12]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "12", "+6"]
 attack: "2 claws or weapon"
 damage: "1d6 claw, by weapon"
-speed: "40' Fly 20'"
-jds: [12, 12, 11, 14, 13]
-moral: "9"
-xp: 610
-nbr: "1, Wild 1d3, Lair 1d3"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+1", "+2", "+1", "+3", "+1", "+3"]
 traits:
   - name: Shapeshifting
     desc: "Can freely change between humanoid and colony forms once per round."

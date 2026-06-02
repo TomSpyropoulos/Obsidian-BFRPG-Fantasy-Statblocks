@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Grave Dancer
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "Special"
+layout: shadowdark
+ac: "15"
+level: "Special"
 hp: Special
-thaco: "+1"
-modifier: 1
-stats: ["Special", "Special", "4 [15]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["Special", "Special", "15", "+1"]
 attack: "None"
 damage: "None"
-speed: "20'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 360
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Dance Aura
-    desc: "All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale. Creatures which cannot hear the music will be unaffected."
+    desc: "All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale (CHA). Creatures which cannot hear the music will be unaffected."
   - name: Undead Immunities
     desc: "Immune to **sleep**, **charm**, and **hold** magic, as well as any spell affecting the mind."
   - name: Magical Weapon Requirement
@@ -42,9 +36,9 @@ actions:
 source: BFRPG Field Guide
 ```
 
-A Grave Dancer is an undead monster appearing as a macabre figure dressed in brightly-colored but worn and tattered clothing. It can be found anywhere there are undead monsters having 4 or fewer hit dice, especially in cemeteries and tombs, and one grave dancer will be accompanied by at least 6 such creatures. When encountered, the grave dancer and its attendant undead will be dancing to strange dismal music which seems to have no source.
+A Grave Dancer is an undead monster appearing as a macabre figure dressed in brightly-colored but worn and tattered clothing. It can be found anywhere there are undead monsters having 4 or fewer levels, especially in cemeteries and tombs, and one grave dancer will be accompanied by at least 6 such creatures. When encountered, the grave dancer and its attendant undead will be dancing to strange dismal music which seems to have no source.
 
-All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale. Creatures which cannot hear the music will be unaffected.
+All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale (CHA). Creatures which cannot hear the music will be unaffected.
 
 As with all undead monsters, a grave dancer is immune to **sleep**, **charm**, and **hold** magic, as well as any spell affecting the mind. A grave dancer can only be hit by magical weapons, but when hit the grave dancer suffers no damage; instead it disappears (along with the accompanying music) for 1d6 rounds. Only successfully Turning one (as a vampire) or eliminating all other undead within the area will vanquish a grave dancer.
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Derej Rat
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "7 [12]", "+1"]
+stats: ["1", "4", "12", "+1"]
 attack: "1 bite (1d4)"
 damage: "1d4"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 37
-nbr: "Special"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Distributed Life Force
     desc: "Each time a Derej Rat is slain, its original hit points are distributed to any remaining derej rats in its group, until all of the derej rats are destroyed."

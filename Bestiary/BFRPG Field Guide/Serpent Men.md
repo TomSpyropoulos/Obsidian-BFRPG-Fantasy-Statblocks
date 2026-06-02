@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Serpent Men
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4**"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "1 bite or 1 weapon"
 damage: "1d6 bite, or by weapon type"
-speed: "20'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 320
-nbr: "2d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Shape Shift
     desc: "All serpent men can shape shift to human form, but they cannot change their chosen human appearance."

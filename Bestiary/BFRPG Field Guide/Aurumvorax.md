@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aurumvorax
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "17", "+9"]
 attack: "1 bite + special"
 damage: "1d8"
-speed: "30' Burrowing 10'"
-jds: [8, 9, 10, 12, 13]
-moral: "11"
-xp: 1300
-nbr: "1, Lair 1d6-3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Ambush
     desc: "Surprise on a roll of 1-2."

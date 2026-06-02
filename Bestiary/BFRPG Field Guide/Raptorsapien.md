@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Raptorsapien
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "16", "+6"]
 attack: "1 weapon / 1 bite or 1 tail"
 damage: "1d8 or by weapon, 1d8 bite or 1d10 tail"
-speed: "60'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 500
-nbr: "1d8"
-loot: "S each; B in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Tail Attack
     desc: "If attacked from behind, they can use their tail as a weapon (1d10 damage)."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Centaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "2 hooves/1 weapon"
 damage: "1d6/1d6/1d6 or by weapon"
-speed: "50' Unarmored 60' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 240
-nbr: "Wild 2d10"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Charge
     desc: "May charge with a spear or lance just as a man on horseback, with the same bonuses."

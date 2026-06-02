@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Cave Bear
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "7"
+layout: shadowdark
+ac: "14"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7", "31", "5 [14]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "14", "+7"]
 attack: "2 claws/1 bite + hug"
 damage: "1d8/1d8/2d6 + 2d8 hug"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 670
-nbr: "1d2, Wild 1d2, Lair 1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d8"

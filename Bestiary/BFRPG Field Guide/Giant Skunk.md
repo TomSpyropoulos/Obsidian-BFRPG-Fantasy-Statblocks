@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Skunk
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "5"
+layout: shadowdark
+ac: "12"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "7 [12]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "12", "+5"]
 attack: "1 bite + special"
 damage: "1d6 bite + special"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 360
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Musk Spray
-    desc: "If attacked, a giant skunk will turn away from its opponent and release a spray of incredibly foul-smelling musk that covers an area 20 feet wide by 20 feet high for a distance of 2d6 x 10 feet behind it; the giant skunk then simply moves away at a normal walking pace. Any normal living creature within the area of effect must save vs. Poison or be blinded for 3d12 turns; even if this save is made, the victim will move away for at least a round, and suffers a penalty of -5 (or -25% as appropriate) on all rolls made for the next 2d4 turns. All such victims will smell terrible for at least a full day, causing other characters or creatures to avoid them, or possibly even attack to drive them away. Traces of the stench persist for 1d4 additional days, with reduced effects as determined by the GM."
+    desc: "If attacked, a giant skunk will turn away from its opponent and release a spray of incredibly foul-smelling musk that covers an area 20 feet wide by 20 feet high for a distance of 2d6 x 10 feet behind it; the giant skunk then simply moves away at a normal walking pace. Any normal living creature within the area of effect must succeed on a DC 13 CON check or be blinded for 3d12 turns; even if this save is made, the victim will move away for at least a round, and suffers a penalty of -5 (or -25% as appropriate) on all rolls made for the next 2d4 turns. All such victims will smell terrible for at least a full day, causing other characters or creatures to avoid them, or possibly even attack to drive them away. Traces of the stench persist for 1d4 additional days, with reduced effects as determined by the GM."
 actions:
   - name: bite + special
     desc: "D20 to hit, 1d6 bite + special"

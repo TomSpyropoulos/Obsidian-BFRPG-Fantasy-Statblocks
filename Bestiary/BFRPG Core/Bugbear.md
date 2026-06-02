@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Bugbear
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3+1"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1", "14", "5 [14]", "+3"]
+stats: ["3", "14", "14", "+3"]
 attack: "1 weapon"
 damage: "1d8+1 or by weapon +1"
-speed: "30' Unarmored 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "2d4, Wild 5d4, Lair 5d4"
-loot: "Q, R each; B, L, M in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Surprise
     desc: "Surprise opponents on 1-3 on 1d6. In order to remain silent, they must wear only leather or hide armor."

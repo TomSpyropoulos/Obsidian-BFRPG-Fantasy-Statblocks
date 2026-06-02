@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Owl
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 3
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws"
 damage: "1d6 claw"
-speed: "10' Fly 70'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 500
-nbr: "1, Lair 1d2, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Silent Flight
     desc: "Glides silently just a few feet above its prey and plunges to strike when directly overhead."

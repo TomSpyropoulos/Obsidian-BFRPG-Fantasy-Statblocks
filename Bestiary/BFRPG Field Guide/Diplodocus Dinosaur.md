@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Diplodocus Dinosaur
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "24 (+14)"
+layout: shadowdark
+ac: "13"
+level: "24 ()"
 hp: 122
-thaco: "+14"
-modifier: 3
-stats: ["24 (+14)", "122", "6 [13]", "+14"]
+atk_bonus: "+14"
+modifier: 6
+stats: ["24 ()", "122", "13", "+14"]
 attack: "1 trample"
 damage: "3d6"
-speed: "30'"
-jds: [5, 6, 8, 9, 10]
-moral: "8"
-xp: 8250
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+8", "+6", "+7", "+6", "+6", "+7"]
 actions:
   - name: trample
     desc: "D20 to hit, 3d6"

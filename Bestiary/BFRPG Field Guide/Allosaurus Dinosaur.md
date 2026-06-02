@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Allosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "15 (+11)"
+layout: shadowdark
+ac: "14"
+level: "15 ()"
 hp: 78
-thaco: "+11"
-modifier: 2
-stats: ["15 (+11)", "78", "5 [14]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["15 ()", "78", "14", "+11"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 4d6 bite"
-speed: "60'"
-jds: [7, 8, 10, 11, 12]
-moral: "8"
-xp: 2850
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d4 claw, 4d6 bite"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Undead Treant
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "19", "+9"]
 attack: "2"
 damage: "2d6 fist"
-speed: "20'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1300
-nbr: "Wild 1d6, Lair 1d6"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Undead Immunities
     desc: "Not subject to charm, sleep and hold spells but can be Turned as a ghost by a Cleric."

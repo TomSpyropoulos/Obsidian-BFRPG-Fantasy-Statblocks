@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Violet Fungus
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "4 tentacles (1d6 + poison)"
 damage: "1d6 + poison"
-speed: "10'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 100
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Poison
-    desc: "Any creature hit must save vs. Poison or lose one point of Constitution. Any character reduced to zero Constitution dies. Constitution points lost to this poison will be regained at a rate of one per day."
+    desc: "Any creature hit must succeed on a DC 12 CON check or lose one point of Constitution. Any character reduced to zero Constitution dies. Constitution points lost to this poison will be regained at a rate of one per day."
 actions:
   - name: tentacles (1d6 + poison)
     desc: "D20 to hit, 1d6 + poison"
@@ -42,5 +36,5 @@ actions:
 source: BFRPG Field Guide
 ```
 
-A Violet Fungus resembles a shrieker, and is often found growing among them. Its coloration ranges from purple to gray. In combat, a violet fungus flails about with its tentacles at any living creatures that come within its reach. The attacks of the fungus are poisonous; any creature hit must save vs. Poison or lose one point of Constitution. Any character reduced to zero Constitution dies. Constitution points lost to this poison will be regained at a rate of one per day.
+A Violet Fungus resembles a shrieker, and is often found growing among them. Its coloration ranges from purple to gray. In combat, a violet fungus flails about with its tentacles at any living creatures that come within its reach. The attacks of the fungus are poisonous; any creature hit must succeed on a DC 12 CON check or lose one point of Constitution. Any character reduced to zero Constitution dies. Constitution points lost to this poison will be regained at a rate of one per day.
 

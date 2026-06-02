@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mountain Giant
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "16 (+12)"
+layout: shadowdark
+ac: "14"
+level: "16 ()"
 hp: 84
-thaco: "+12"
-modifier: 2
-stats: ["16 (+12)", "84", "5 [14]", "+12"]
+atk_bonus: "+12"
+modifier: 4
+stats: ["16 ()", "84", "14", "+12"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "7d6 (8d6) weapon, 4d6 rock"
-speed: "40', Unarmored 50' (10')'"
-jds: [7, 7, 9, 10, 11]
-moral: "10"
-xp: 3250
-nbr: "1d4, Wild 1d4, Lair 1d4+1"
-loot: "E + 1d12x1,000gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+6", "+4", "+5", "+4", "+4", "+7"]
 traits:
   - name: Thrown Rocks
     desc: "A mountain giant can throw large stones up to 240' for 4d6 points of damage each"

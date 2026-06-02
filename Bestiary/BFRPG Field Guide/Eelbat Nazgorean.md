@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Eelbat Nazgorean
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1*", "4", "6 [13]", "+1"]
+atk_bonus: "+1"
+modifier: 2
+stats: ["1", "4", "13", "+1"]
 attack: "1 bite (1d6 + 1d6/round blood drain)"
 damage: "1d6 + 1d6/round (blood drain)"
-speed: "5' Fly 70'"
-jds: [12, 13, 14, 15, 17]
-moral: "10"
-xp: 37
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+3"]
 traits:
   - name: Darkvision
     desc: "Despite the lack of visual organs, it can sense its surroundings like a bat and it effectively has Darkvision out to 60 feet."

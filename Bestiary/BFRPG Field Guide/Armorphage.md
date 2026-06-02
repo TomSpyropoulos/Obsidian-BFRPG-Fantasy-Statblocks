@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Armorphage
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "2 tendrils or 1 constrict"
 damage: "1d6 tendrils, 2d4 constrict"
-speed: "20'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 400
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Enthrall
-    desc: "The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a save vs. Spell."
+    desc: "The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a DC 12 INT check."
   - name: Energy Drain
-    desc: "Each day, the victim must save vs. Death Ray or deduct a level of energy drain, until they reach level 0 and death, when the armorphage will abandon the corpse."
+    desc: "Each day, the victim must succeed on a DC 12 CON check or deduct a level of energy drain, until they reach level 0 and death, when the armorphage will abandon the corpse."
   - name: Body Control
     desc: "While the armorphage is attached to the body it controls them physically, though their mind is still their own. Their body is completely under the control of the armorphage, which still has access to the victim's instincts and learned physical skills, allowing the armorphage to attack as if it was the host. Additionally, it can attack with two tendrils that it can extrude from anywhere on its own body."
   - name: Constrict
@@ -50,9 +44,9 @@ The Armorphage, sometimes caller simply, an Armorer, is a magical parasite whose
 
 The type of armor it resembles should be determined by the GM, or it can be rolled on the Magic Armor Type table in the **Basic Fantasy RPG Core Rules** book.
 
-The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a save vs. Spell.
+The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a DC 12 INT check.
 
-Once the armorphage is on its victims tendrils will slowly pierce the victim; these tendrils themselves will not harm the victim but will allow the creature to slowly feed off its victim, and control the hosts body like a puppet. Each day, the victim must save vs. Death Ray or deduct a level of energy drain, until they reach level 0 and death, when the armorphage will abandon the corpse.
+Once the armorphage is on its victims tendrils will slowly pierce the victim; these tendrils themselves will not harm the victim but will allow the creature to slowly feed off its victim, and control the hosts body like a puppet. Each day, the victim must succeed on a DC 12 CON check or deduct a level of energy drain, until they reach level 0 and death, when the armorphage will abandon the corpse.
 
 While the armorphage is attached to the body it controls them physically, though their mind is still their own. Their body is completely under the control of the armorphage, which still has access to the victim's instincts and learned physical skills, allowing the armorphage to attack as if it was the host. Additionally, it can attack with two tendrils that it can extrude from anywhere on its own body.
 

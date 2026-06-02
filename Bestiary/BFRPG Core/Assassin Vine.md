@@ -10,28 +10,22 @@ source: BFRPG Core
 
 ```statblock
 name: Assassin Vine
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 entangle + special"
 damage: "1d8 + special"
-speed: "5'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 500
-nbr: "1d4+1"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Surprise
     desc: "Surprises on a roll of 1-4 on 1d6."
   - name: Entangle
-    desc: "A successful hit inflicts 1d8 points of damage, and the victim becomes entangled, suffering an additional 1d8 points of damage thereafter. A victim may attempt to escape by rolling a saving throw vs. Death Ray with Strength bonus added; this is a full action, so the victim may not attempt this and also perform an attack. The plant will continue to crush its victim until one or the other is dead or the victim manages to escape."
+    desc: "A successful hit inflicts 1d8 points of damage, and the victim becomes entangled, suffering an additional 1d8 points of damage thereafter. A victim may attempt to escape by rolling a DC 13 CON check with Strength bonus added; this is a full action, so the victim may not attempt this and also perform an attack. The plant will continue to crush its victim until one or the other is dead or the victim manages to escape."
   - name: Blindsight
     desc: "They have no visual organs but can sense foes within 30 feet by sound and vibration."
 actions:
@@ -42,7 +36,7 @@ source: BFRPG Core
 
 The assassin vine is a semi-mobile plant found in temperate forests that collects its own grisly fertilizer by grabbing and crushing animals and depositing the carcasses near its roots.
 
-Because it can lie very still indeed, an assassin vine surprises on a roll of 1-4 on 1d6. A successful hit inflicts 1d8 points of damage, and the victim becomes entangled, suffering an additional 1d8 points of damage thereafter. A victim may attempt to escape by rolling a saving throw vs. Death Ray with Strength bonus added; this is a full action, so the victim may not attempt this and also perform an attack. The plant will continue to crush its victim until one or the other is dead or the victim manages to escape.
+Because it can lie very still indeed, an assassin vine surprises on a roll of 1-4 on 1d6. A successful hit inflicts 1d8 points of damage, and the victim becomes entangled, suffering an additional 1d8 points of damage thereafter. A victim may attempt to escape by rolling a DC 13 CON check with Strength bonus added; this is a full action, so the victim may not attempt this and also perform an attack. The plant will continue to crush its victim until one or the other is dead or the victim manages to escape.
 
 An assassin vine can move about, albeit very slowly, but generally only does so to seek new hunting grounds. They have no visual organs but can sense foes within 30 feet by sound and vibration.
 

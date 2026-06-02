@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ettin Giant
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "13 (+10)"
+layout: shadowdark
+ac: "16"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13 (+10)", "68", "3 [16]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "16", "+10"]
 attack: "2 giant weapon"
 damage: "3d6 giant weapon (right hand), 2d8 giant weapon (left hand)"
-speed: "30'"
-jds: [8, 9, 10, 12, 13]
-moral: "7"
-xp: 2175
-nbr: "1, Wild 1d2, Lair 1d4"
-loot: "J; E+1d10\u00d71,000 gp in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Two-Headed
     desc: "Because each arm is controlled by a different head, the ettin may attack with both weapons, even against separate enemies."

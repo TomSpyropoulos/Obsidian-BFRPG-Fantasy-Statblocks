@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Lynx
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2+2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2", "11", "6 [13]", "+2"]
+stats: ["2", "11", "13", "+2"]
 attack: "2 claws, 1 bite + 2 hind claws (rake)"
 damage: "1d2 claw, 1d4 bite, 1d3 hind claw"
-speed: "60' Leap 10'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Rake
     desc: "If both foreclaws hit it may make two additional attacks with its hind-claws."
@@ -48,5 +42,5 @@ The Giant Lynx is unusual in that it is not only larger than the normal sort of 
 
 A giant lynx attacks with its foreclaws and its bite, and if both foreclaws hit it may make two additional attacks with its hind-claws (known as a "rake" attack).
 
-The giant lynx is found in cold regions, including both arctic and subarctic climates as well as snowy mountainous areas. If encountered in lair there is a 25% chance of 1d4 kittens who have one-half or 1 hit die and can attack only by biting for 1d3 points of damage.
+The giant lynx is found in cold regions, including both arctic and subarctic climates as well as snowy mountainous areas. If encountered in lair there is a 25% chance of 1d4 kittens who have one-half or 1 level and can attack only by biting for 1d3 points of damage.
 

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Oculus Vigilans
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4+4**"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 22
-thaco: "+4"
-modifier: 0
-stats: ["4+4**", "22", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "22", "15", "+4"]
 attack: "1 bite or special"
 damage: "1d4+1 or special"
-speed: "Fly 30'"
-jds: [11, 11, 13, 14, 15]
-moral: "12 (special)"
-xp: 320
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+2", "+1", "+1", "+6"]
 traits:
   - name: Main Eye - Spell Turning
     desc: "The main eye of an oculus vigilans has a power similar to a ring of spell turning, projecting a cone of contrary magical force 100 feet long and 20 feet wide at the base (farthest point). Spells cast within this area of effect will rebound just as if the oculus were wearing such a ring."
   - name: Eyestalk Powers
-    desc: "The other eyes of the oculus vigilans have powers selected from the following list:  1. Cause Serious Wounds (as the spell, but with a range of 60 feet; the oculus vigilans must make an attack roll, and on a successful hit this power inflicts 2d6+2 points of damage to any living creature hit) 2. Confusion (as the spell) 3. Create Food (as the spell, as if cast by a 9th-level Cleric) 4. Create Water (as the spell, as if cast by a 9th-level Cleric) 5. Cause Fear (as the reverse of the remove fear spell) 6. Hold Monster (as the spell, as if cast by a 9th-level Magic-user) 7. Telepathy (as the spell Mind Reading, but the oculus vigilans can not only hear thoughts but project its own thoughts so that the target creature can hear them as well)  The GM should choose or randomly determine (by whatever means they desire) which powers each eye possesses, noting that normally no oculus vigilans has the same power in two or more eyes. The main eye of this monster can target only those in front of the creature, but all of its eyestalks can turn to focus on those who are behind it as well as in front."
+    desc: "The other eyes of the oculus vigilans have powers selected from the following list:  1. Cause Serious Wounds (as the spell, but with a range of 60 feet; the oculus vigilans must make an attack roll, and on a successful hit this power inflicts 2d6+2 points of damage to any living creature hit) 2. Confusion (as the spell) 3. Create Food (as the spell, as if cast by a 9th-level Cleric) 4. Create Water (as the spell, as if cast by a 9th-level Cleric) 5. Cause Fear (as the reverse of the remove fear spell) 6. Hold Monster (as the spell, as if cast by a 9th-level Wizard) 7. Telepathy (as the spell Mind Reading, but the oculus vigilans can not only hear thoughts but project its own thoughts so that the target creature can hear them as well)  The GM should choose or randomly determine (by whatever means they desire) which powers each eye possesses, noting that normally no oculus vigilans has the same power in two or more eyes. The main eye of this monster can target only those in front of the creature, but all of its eyestalks can turn to focus on those who are behind it as well as in front."
   - name: Difficult to Surprise
     desc: "Oculus vigilans are only surprised on a roll of 1 on 1d6 due to their many eyes."
   - name: Eye Vulnerability

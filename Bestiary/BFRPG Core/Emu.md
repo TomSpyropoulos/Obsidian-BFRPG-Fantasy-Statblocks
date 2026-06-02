@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Emu
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "1 kick (1d4)"
 damage: "1d4"
-speed: "50'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: kick (1d4)
     desc: "D20 to hit, 1d4"

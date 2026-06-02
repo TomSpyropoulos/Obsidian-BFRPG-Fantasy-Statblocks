@@ -10,34 +10,28 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Selkie
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "11"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "8 [11]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "11", "+4"]
 attack: "1 bite or 1 weapon or special"
 damage: "1d6 bite or by weapon or special"
-speed: "30' Swim 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1d4, Wild 2d4, Lair 2d6"
-loot: "Individuals S, + skin (see below); Lair J"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Shapeshifting
     desc: "When a selkie wraps itself in its magical seal skin they (or anyone who steals their skin) transforms into a seal in but a single round. Remaining in that form until they remove the skin. Selkie guard their sealskins with their very lives, for without it, they cannot return to their seal form."
   - name: Tidal Wave
-    desc: "Selkies have a deep connection to the sea, which once a day allows them to summon a tidal wave that crashes over a 20-foot wide area. Creatures within the area must save vs. Breath Weapon or be knocked prone and take 2d6 damage. Those who succeed at the save take half damage and remain standing."
+    desc: "Selkies have a deep connection to the sea, which once a day allows them to summon a tidal wave that crashes over a 20-foot wide area. Creatures within the area must succeed on a DC 12 DEX check Weapon or be knocked prone and take 2d6 damage. Those who succeed at the save take half damage and remain standing."
   - name: Underwater Invisibility
     desc: "Three times a day a selkie beneath the waters surface may become invisible (as the spell) for up to 1 minute as long as they stay submerged."
   - name: Summon Sea Creatures
     desc: "The Selkie can summon small sea creatures, such as fish or crabs, to assist with minor tasks (like gathering objects or disarming traps) for up to 10 minutes at will, as long as there is at least an hour between calls."
   - name: Enchanting Song
-    desc: "Selkies may sing haunting, magical melodies that cause creatures within 60 feet (except other fey) to save vs. Spells or become charmed (as per the spell charm person), entranced (as if affected by hold person), or fall into a deep sleep (as if affected by the sleep spell). The Selkie chooses the effect of its song, and creatures who successfully save against it cannot be affected by the same selkies song, in any of its forms, for the next 24 hours."
+    desc: "Selkies may sing haunting, magical melodies that cause creatures within 60 feet (except other fey) to succeed on a DC 12 INT check or become charmed (as per the spell charm person), entranced (as if affected by hold person), or fall into a deep sleep (as if affected by the sleep spell). The Selkie chooses the effect of its song, and creatures who successfully save against it cannot be affected by the same selkies song, in any of its forms, for the next 24 hours."
   - name: Cold Iron Vulnerability
     desc: "Like other fey, selkies are vulnerable to cold iron. Weapons made of iron or steel deal an extra +1 damage, and disrupt their magic, halting all of the selkies magical abilities for the remainder of the round."
   - name: Difficult to Surprise at Sea

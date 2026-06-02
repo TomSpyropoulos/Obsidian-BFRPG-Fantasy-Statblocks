@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lotl
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "15", "+6"]
 attack: "2 claws or 1 bite"
 damage: "1d4 claw or 1d6 + disease bite"
-speed: "50'"
-jds: [12, 12, 11, 14, 13]
-moral: "12 (9)"
-xp: 555
-nbr: "1d6"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+1", "+1", "+3", "+1", "+6"]
 traits:
   - name: Extreme Reactions
     desc: "Due to a clashing combination of savage instincts and human-like intelligence, a lotl's reactions when encountered are more extreme than those of other creatures; instead of a regular reaction roll the GM uses the following table without any modifier:  1d8   Result 1-2   Immediate attack 3-4   Indifference towards the PCs 5-6   Very Favorable"
   - name: Disease Bite
-    desc: "Those bitten by a lotl must save vs. Poison or catch a disease preventing any and all kinds of healing except for those cast to cure the disease. Each day after 4 + CON bonus days of being diseased the victim must save vs. Death or will die while sleeping."
+    desc: "Those bitten by a lotl must succeed on a DC 13 CON check or catch a disease preventing any and all kinds of healing except for those cast to cure the disease. Each day after 4 + CON bonus days of being diseased the victim must succeed on a DC 13 CON check or will die while sleeping."
   - name: Not Undead
     desc: "Cannot be Turned by a Cleric, and lack the spell immunities of the living dead."
 actions:

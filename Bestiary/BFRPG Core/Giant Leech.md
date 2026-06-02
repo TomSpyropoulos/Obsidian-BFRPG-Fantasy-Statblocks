@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Leech
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "16", "+6"]
 attack: "1 bite + hold"
 damage: "1d6 + 1d6/round"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 500
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Blood Drain
     desc: "Once a giant leech hits in combat, it attaches to the victim and sucks blood, causing an additional 1d6 damage each round until the victim or the leech is dead. There is no way to remove the leech other than to kill it."

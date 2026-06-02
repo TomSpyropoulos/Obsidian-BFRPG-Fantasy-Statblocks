@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Nixie
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "4 [15]", "+1"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 dagger"
 damage: "1d4"
-speed: "40' Swim 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "6"
-xp: 37
-nbr: "Wild 2d20, Lair 2d20"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Powerful Charm
-    desc: "Ten or more nixies can work together to cast a powerful charm (similar to charm person). The charm lasts one year (unless dispelled). A save vs. Spells is allowed to resist."
+    desc: "Ten or more nixies can work together to cast a powerful charm (similar to charm person). The charm lasts one year (unless dispelled). A DC 12 INT check is allowed to resist."
   - name: Water Breathing
     desc: "Each nixie can cast water breathing once per day, with a duration of one day."
   - name: Giant Bass

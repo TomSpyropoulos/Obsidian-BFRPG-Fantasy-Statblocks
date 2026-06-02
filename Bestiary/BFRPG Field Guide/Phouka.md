@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Phouka
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "5*"
+layout: shadowdark
+ac: "15"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5*", "22", "4 [15]", "+5"]
+atk_bonus: "+5"
+modifier: 2
+stats: ["5", "22", "15", "+5"]
 attack: "1 bite, or weapon"
 damage: "1d6 bite, or by weapon"
-speed: "40' Fly 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 405
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
 traits:
   - name: Shapechanging
     desc: "Phoukas can shift their shape at will, transforming into a horse, goat, crow, cockrel or hound in a single round, as often as they wish. While in animal form, they retain their hit points, Armour Class, and general intelligence, but their ability to wield weapons or perform fine manipulations is limited, restricting their attack to their bite."

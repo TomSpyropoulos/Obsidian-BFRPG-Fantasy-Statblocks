@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Moonlight Butterfly
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "14", "+2"]
 attack: "None"
 damage: "Special"
-speed: "Fly 30'"
-jds: [13, 14, 13, 15, 14]
-moral: "6"
-xp: 100
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
 traits:
   - name: Dream Consumption
     desc: "During the night seeks out intelligent creatures that are asleep, consuming the dreams of all within a 30-foot radius. This process takes a turn, during which it will emit a pale white light reminiscent of the moon."

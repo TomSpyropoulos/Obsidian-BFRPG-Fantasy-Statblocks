@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Encephallos Titanum
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "15", "+8"]
 attack: "1 spore spray"
 damage: "Special"
-speed: "0'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1075
-nbr: "1"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Spore Spray
-    desc: "Whenever a large prey comes in contact with the flower, the appendage shoots a cloud of spores at it, point blank. A save vs. Dragon Breath must be made to avoid the spores, otherwise the victim suffers hallucinations for 1d4 turns, falls comatose thereafter, and rises as an infected under the control of the infectious mind after 1d6+8 hours."
+    desc: "Whenever a large prey comes in contact with the flower, the appendage shoots a cloud of spores at it, point blank. A DC 13 DEX check must be made to avoid the spores, otherwise the victim suffers hallucinations for 1d4 turns, falls comatose thereafter, and rises as an infected under the control of the infectious mind after 1d6+8 hours."
   - name: Telepathic Link
     desc: "The telepathic link between the infected and the encephallos titanum can span up to twenty miles."
   - name: Corm

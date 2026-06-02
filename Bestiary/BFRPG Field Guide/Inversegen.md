@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Inversegen
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "5"
+layout: shadowdark
+ac: "13"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "6 [13]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "13", "+5"]
 attack: "1 bite or spell"
 damage: "2d6"
-speed: "Swim 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "10 (12 if defending lair)"
-xp: 360
-nbr: "Wild 1d8+4, Lair 8d10+20"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Spiritual Hammer Variant
     desc: "Frequently casts a variant of spiritual hammer which manifests a trident instead, dealing a base of 1d8 points of damage; it uses this to attack foes from the rear."

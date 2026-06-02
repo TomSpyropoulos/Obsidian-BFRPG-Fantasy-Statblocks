@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Telethia
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "19"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 1
-stats: ["7**", "31", "0 [19]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "31", "19", "+7"]
 attack: "2 claws / 2 bites or special"
 damage: "2d4 claw, 3d6 bite, special"
-speed: "30' Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 800
-nbr: "Wild 1d4, Lair 3d4"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Mind Reading
     desc: "Can use mind reading (as the spell, but continuously)."
@@ -48,5 +42,5 @@ A Telethia is a large dual-headed beast of magical nature with two pairs of blue
 
 What makes a telethia truly frightening is not its vicious claws or multiple jaws but rather its ability to read the mind of its foes. It can use mind reading (as the spell, but continuously), and once per day can copy the memorized spells of a chosen target; those spells remain available to the telethia for the remainder of the day.
 
-Although a telethia is intelligent it is not sapient. It usually hunts in the day before returning to its lair as the sun sets. They form communities around a dominant male having AC 22 and 12 HD. Normal telethia fight with +2 morale when near their leader.
+Although a telethia is intelligent it is not sapient. It usually hunts in the day before returning to its lair as the sun sets. They form communities around a dominant male having AC 22 and 12 LVL. Normal telethia fight with +2 morale (CHA) when near their leader.
 

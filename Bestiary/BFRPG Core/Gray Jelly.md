@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Gray Jelly
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "11"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "8 [11]", "+3"]
+stats: ["3", "13", "11", "+3"]
 attack: "1 pseudopod (2d8)"
 damage: "2d8"
-speed: "1'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 175
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Acid Secretions
-    desc: "The acid secretions of the gray jelly can dissolve most organic matter and most metals; stone and glass are not affected, however. After a successful hit, the jelly will stick to the creature attacked, dealing 2d8 damage per round automatically. Normal (non-magical) armor or clothing dissolves and becomes useless immediately. Any non-magical weapon made of metal or wood which hits a gray jelly will be similarly destroyed. Magical weapons, armor, and clothing are allowed a saving throw (use the wearer's save vs. Death Ray, adding any magical 'plus' value to the roll if applicable)."
+    desc: "The acid secretions of the gray jelly can dissolve most organic matter and most metals; stone and glass are not affected, however. After a successful hit, the jelly will stick to the creature attacked, dealing 2d8 damage per round automatically. Normal (non-magical) armor or clothing dissolves and becomes useless immediately. Any non-magical weapon made of metal or wood which hits a gray jelly will be similarly destroyed. Magical weapons, armor, and clothing are allowed a saving throw (use the wearer's succeed on a DC 12 CON check, adding any magical 'plus' value to the roll if applicable)."
 actions:
   - name: pseudopod (2d8)
     desc: "D20 to hit, 2d8"

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Oculus Rex
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "19"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "0 [19]", "+7"]
+atk_bonus: "+7"
+modifier: 2
+stats: ["7", "31", "19", "+7"]
 attack: "1 bite"
 damage: "1d6 bite"
-speed: "Fly 20'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 800
-nbr: "1"
-loot: "I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Resistance to Surprise
     desc: "The seven lesser eyes reduce the chance of being surprised to just 1 chance in 1d8 if the opponent is visible."
   - name: Main Eye - Dispel Magic
-    desc: "The main eye projects a beam that dispels magic (as the spell) in a conical area 60 feet wide at the base and 120 feet long. This power functions constantly, virtually guaranteeing that all spells will eventually be ended, all potions and scrolls destroyed, and all permanent magic items suppressed in just a few rounds. The spell effect is applied as if the oculus rex were a spellcaster of the same level as its number of hit dice."
+    desc: "The main eye projects a beam that dispels magic (as the spell) in a conical area 60 feet wide at the base and 120 feet long. This power functions constantly, virtually guaranteeing that all spells will eventually be ended, all potions and scrolls destroyed, and all permanent magic items suppressed in just a few rounds. The spell effect is applied as if the oculus rex were a spellcaster of the same level as its number of levels."
   - name: Eye 1 - Cause Fear
     desc: "Cause Fear (as the reverse of the remove fear spell)."
   - name: Eye 2 - Slow
@@ -43,7 +37,7 @@ traits:
   - name: Eye 5 - Cold
     desc: "Cold (as the wand of cold)."
   - name: Eye 6 - Sleep
-    desc: "Sleep (as the spell, but at the monster's option it may affect any one chosen target of any level who may save vs. Spells to resist)."
+    desc: "Sleep (as the spell, but at the monster's option it may affect any one chosen target of any level who may succeed on a DC 13 INT check to resist)."
   - name: Eye 7 - Telekinesis
     desc: "Telekinesis (as the spell)."
   - name: Regeneration
@@ -58,11 +52,11 @@ The Oculus Rex is the largest and most powerful of all the oculi species, and th
 
 Besides the large central or "main" eye, an oculus rex has seven lesser eyes on short stalks arranged in a crown-like fashion. These lesser eyes are limited in their viewing angle, but despite that fact they reduce the chance that one can be surprised to just 1 chance in 1d8 if the opponent is visible.
 
-However valuable this resistance to surprise may be, it is the least of the powers granted by the many eyes of an oculus rex. The main eye projects a beam that dispels magic (as the spell) in a conical area 60 feet wide at the base and 120 feet long. This power functions constantly, virtually guaranteeing that all spells will eventually be ended, all potions and scrolls destroyed, and all permanent magic items suppressed in just a few rounds. The spell effect is applied as if the oculus rex were a spellcaster of the same level as its number of hit dice.
+However valuable this resistance to surprise may be, it is the least of the powers granted by the many eyes of an oculus rex. The main eye projects a beam that dispels magic (as the spell) in a conical area 60 feet wide at the base and 120 feet long. This power functions constantly, virtually guaranteeing that all spells will eventually be ended, all potions and scrolls destroyed, and all permanent magic items suppressed in just a few rounds. The spell effect is applied as if the oculus rex were a spellcaster of the same level as its number of levels.
 
 The remaining eye effects are generally distributed as listed below, where the first eye listed is the eye just to the monster's right of center in front and proceeding around to the eye just to the left of center in front. About 20% of individuals have their eyes arranged in the opposite order, and one in a hundred (i.e. a roll of 00 on the dice) have them arranged randomly.
 
-The eye powers are as follows. Note that all spell effects are applied as if cast by a Magic-user of the same level as the monster's number of hit dice. Each eye can use its listed power once per round.
+The eye powers are as follows. Note that all spell effects are applied as if cast by a Wizard of the same level as the monster's number of levels. Each eye can use its listed power once per round.
 
 Figuring out which eyes an oculus rex can use in a given encounter can be tricky. Please review the example diagram to help you see how to work this out.
 

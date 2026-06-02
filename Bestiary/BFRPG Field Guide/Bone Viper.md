@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bone Viper
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 bite or 1 spit"
 damage: "1d4 + poison bite or special"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 37
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Spit Poison
-    desc: "Can spit its magically potent poison up to 5 feet. Anyone hit by its spit attack must make a save vs. Poison or become blinded."
+    desc: "Can spit its magically potent poison up to 5 feet. Anyone hit by its spit attack must make a DC 12 CON check or become blinded."
   - name: Poison Bite
-    desc: "Anyone bitten must save vs. Poison or die within 1d3 rounds."
+    desc: "Anyone bitten must succeed on a DC 12 CON check or die within 1d3 rounds."
   - name: Undead
     desc: "May be Turned by a Cleric (as a skeleton). Have the usual undead immunity to sleep, charm, and hold magic."
   - name: Damage Resistance
@@ -42,5 +36,5 @@ actions:
 source: BFRPG Field Guide
 ```
 
-The Bone Viper is an animated, undead snake skeleton, usually animated as a defender of some wizard's tower or evil temple. It is able to spit its magically potent poison up to 5 feet, and anyone hit by its spit attack must make a save vs. Poison or become blinded. However, its poison is far more dangerous when injected by a bite; anyone bitten must save vs. Poison or die within 1d3 rounds.
+The Bone Viper is an animated, undead snake skeleton, usually animated as a defender of some wizard's tower or evil temple. It is able to spit its magically potent poison up to 5 feet, and anyone hit by its spit attack must make a DC 12 CON check or become blinded. However, its poison is far more dangerous when injected by a bite; anyone bitten must succeed on a DC 12 CON check or die within 1d3 rounds.
 

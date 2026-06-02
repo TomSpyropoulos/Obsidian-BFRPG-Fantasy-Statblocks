@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Kirin
-layout: BFRPG
-ac: "-5 [24]"
-hit_dice: "12**"
+layout: shadowdark
+ac: "24"
+level: "12"
 hp: 54
-thaco: "+10"
-modifier: 1
-stats: ["12**", "54", "-5 [24]", "+10"]
+atk_bonus: "+10"
+modifier: 5
+stats: ["12", "54", "24", "+10"]
 attack: "2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
 damage: "-"
-speed: "120' Fly 180'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 2075
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+5", "+5", "+3", "+3", "+3", "+4"]
 traits:
   - name: Telepathy
     desc: "Can communicate with any other intelligent creature by means of their unique form of telepathy."
   - name: Magical Abilities
-    desc: "Has the magical abilities of a 15th-level Magic-user, but casts spells by force of will alone, needing no words or gestures to cast them."
+    desc: "Has the magical abilities of a 15th-level Wizard, but casts spells by force of will alone, needing no words or gestures to cast them."
   - name: Create Food or Water
     desc: "Once per day a kirin can cast create food or create water."
   - name: Create Items

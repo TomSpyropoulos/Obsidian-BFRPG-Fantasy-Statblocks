@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lambeosaurus Dinosaur
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "13"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "6 [13]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "13", "+10"]
 attack: "1 tail lash (2d6)"
 damage: "2d6"
-speed: "60'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 1875
-nbr: "2d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 traits:
   - name: Superior Senses
     desc: "Due to their superior senses of smell and hearing, lambeosaurs are only surprised on a 1 on 1d6."

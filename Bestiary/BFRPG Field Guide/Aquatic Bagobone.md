@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aquatic Bagobone
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "17"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "17", "+8"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 2d10 bite"
-speed: "20' Swim 50'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 1015
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
 actions:
   - name: claws, 1 bite
     desc: "D20 to hit, 1d6 claw, 2d10 bite"

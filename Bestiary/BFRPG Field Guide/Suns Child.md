@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sun's Child
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "15"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "4 [15]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["10 ()", "54", "15", "+9"]
 attack: "Special"
 damage: "3d6"
-speed: "Fly 40'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Sphere of Flames
     desc: "Appears as a 20-foot diameter sphere of flame. Attacks by charging and engulfing foes in flames (3d6 damage)."

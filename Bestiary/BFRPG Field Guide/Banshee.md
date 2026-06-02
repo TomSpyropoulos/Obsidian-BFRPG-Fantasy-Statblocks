@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Banshee
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "18"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "1 [18]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "18", "+7"]
 attack: "1 touch + wail"
 damage: "level drain touch + wail"
-speed: "60'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 800
-nbr: "1"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Wail
-    desc: "Once per day, the banshee's endless weeping reaches a hideous crescendo, and anyone within a 50-foot radius who hears it must save vs. Death Ray or die in 2d6 rounds; those who fail their saving throw may be saved by application of a remove curse spell."
+    desc: "Once per day, the banshee's endless weeping reaches a hideous crescendo, and anyone within a 50-foot radius who hears it must succeed on a DC 13 CON check or die in 2d6 rounds; those who fail their saving throw may be saved by application of a remove curse spell."
   - name: Energy Drain Touch
     desc: "The touch of a banshee does no damage, but it drains 1d4 levels."
   - name: Incorporeal

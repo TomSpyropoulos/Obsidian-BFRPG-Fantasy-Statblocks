@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Wolverine
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "6 [13]", "+3"]
+stats: ["3", "13", "13", "+3"]
 attack: "2 claws / 1 bite"
 damage: "1d4+2 claw, 1d6 bite"
-speed: "30' Climb 10' Burrow 1'"
-jds: [11, 12, 14, 15, 16]
-moral: "9 or 12 (see below)"
-xp: 145
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Berserk Rage
     desc: "A wolverine that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. While in its rage it has +2 to hit but -2 to AC."

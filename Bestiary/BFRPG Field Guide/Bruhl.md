@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bruhl
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 weapon"
 damage: "1d8 or by weapon"
-speed: "30' Unarmored 40'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "Q, R each; D in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "60 feet range."

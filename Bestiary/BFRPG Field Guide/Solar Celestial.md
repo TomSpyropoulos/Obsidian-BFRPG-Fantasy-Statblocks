@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Solar Celestial
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "16"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 1
-stats: ["7**", "31", "3 [16]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "31", "16", "+7"]
 attack: "1 weapon"
 damage: "By weapon + 2"
-speed: "50' Fly 90'"
-jds: [8, 9, 11, 13, 12]
-moral: "11"
-xp: 800
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
 traits:
   - name: Spellcasting
     desc: "They have spellcasting capabilities equal those of a 9th-level Cleric."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Mosquito
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "\u00bd* (1d4 points)"
+layout: shadowdark
+ac: "10"
+level: "\u00bd (1d4 points)"
 hp: 2
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["\u00bd* (1d4 points)", "2", "9 [10]", "+0"]
+stats: ["\u00bd (1d4 points)", "2", "10", "+0"]
 attack: "1 bite"
 damage: "1d3 + 1d3/round (blood drain)"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "9"
-xp: 13
-nbr: "Wild 2d6x10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Swarm
     desc: "1d6+1 mosquitos attack each living creature they encounter."

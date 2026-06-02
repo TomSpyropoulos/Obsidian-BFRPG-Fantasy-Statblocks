@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Crocodile
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 bite"
 damage: "1d8"
-speed: "30' (10') Swim 30' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "Wild 1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Surprise
     desc: "When in their natural element, they surprise on 1-4 on 1d6."

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Night Troll
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "15"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "15", "+8"]
 attack: "2 claws / 1 bite"
 damage: "1d8 claw, 1d12 bite"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 945
-nbr: "1d6, Wild 1d6, Lair 1d6"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Stealth
-    desc: "Can hide and move as silently as a Thief equal to their hit dice."
+    desc: "Can hide and move as silently as a Thief equal to their levels."
   - name: Regeneration
     desc: "Heal 3 HP each round after being injured when standing in dark or dim conditions. This rate is reduced to 1 HP when the night troll is in brightly-lit areas. A night troll reduced to 0 HP is not dead but only disabled for 2d6 rounds, at which point it will heal either 3 or 1 HP depending on the lighting conditions. Often 'play dead'. Fire and acid do not stop regeneration. If a continual light spell is cast upon the troll, its regeneration ceases completely for the duration of the spell."
   - name: Sunlight Vulnerability
@@ -46,7 +40,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-Night Trolls are a shadowy relative of the common troll, an embodiment of the element of shadow. They are rarely found and are summoned from the element of shadow. Night trolls lurk in areas shrouded in perpetual darkness and are fearsome predators. A night troll is similar to a common troll in size and stature, but a night troll's skin is purplish black in hue and their long, lank hair is universally dark blue in color. Night trolls are incredibly quiet and stealthy and can hide and move as silently as a Thief equal to their hit dice.
+Night Trolls are a shadowy relative of the common troll, an embodiment of the element of shadow. They are rarely found and are summoned from the element of shadow. Night trolls lurk in areas shrouded in perpetual darkness and are fearsome predators. A night troll is similar to a common troll in size and stature, but a night troll's skin is purplish black in hue and their long, lank hair is universally dark blue in color. Night trolls are incredibly quiet and stealthy and can hide and move as silently as a Thief equal to their levels.
 
 Like common trolls, night trolls have the power of regeneration. However, their regenerative power is far greater when in areas of darkness. Night trolls heal 3 HP each round after being injured when standing in dark or dim conditions. This rate is reduced to 1 HP when the night troll is in brightly-lit areas. A night troll reduced to 0 HP is not dead but only disabled for 2d6 rounds, at which point it will heal either 3 or 1 HP depending on the lighting conditions. Note that night trolls are far more cunning and sinister than common trolls and will often "play dead". Unlike common trolls, fire and acid do not stop a night troll's regeneration. However, if a continual light spell is cast upon the troll, its regeneration ceases completely for the duration of the spell.
 

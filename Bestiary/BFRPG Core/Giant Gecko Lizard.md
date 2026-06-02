@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Gecko Lizard
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3+1"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1", "14", "5 [14]", "+3"]
+stats: ["3", "14", "14", "+3"]
 attack: "1 bite (1d8)"
 damage: "1d8"
-speed: "40' (special)'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 145
-nbr: "1d6, Wild 1d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Wall Walking
     desc: "Can climb walls and even walk across ceilings at full movement rate due to their specialized toe pads."

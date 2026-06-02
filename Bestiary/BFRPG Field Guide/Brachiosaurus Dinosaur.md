@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Brachiosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "36 (+16)"
+layout: shadowdark
+ac: "14"
+level: "36 ()"
 hp: 178
-thaco: "+16"
-modifier: 3
-stats: ["36 (+16)", "178", "5 [14]", "+16"]
+atk_bonus: "+16"
+modifier: 9
+stats: ["36 ()", "178", "14", "+16"]
 attack: "1 trample"
 damage: "4d6"
-speed: "30'"
-jds: [5, 6, 8, 9, 10]
-moral: "8"
-xp: 11750
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+11", "+9", "+10", "+9", "+9", "+10"]
 actions:
   - name: trample
     desc: "D20 to hit, 4d6"

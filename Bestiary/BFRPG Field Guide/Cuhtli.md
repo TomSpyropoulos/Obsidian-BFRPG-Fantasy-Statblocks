@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cuhtli
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["9 ()", "48", "15", "+8"]
 attack: "1 stinger / 1 constriction or spells/powers"
 damage: "1d4 + poison/2d6"
-speed: "20' Fly 60'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 1225
-nbr: "1d2, Lair 1d6"
-loot: "B, I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+6"]
 traits:
   - name: Constriction
-    desc: "A cuhtli will wrap itself around its prey, inflicting 2d6 points of damage per round. Damage is automatic once one hit is scored and the cuhtli will then use its stinger for 1d4 points of damage plus poison (save vs. Poison or die instantly) on subsequent rounds."
+    desc: "A cuhtli will wrap itself around its prey, inflicting 2d6 points of damage per round. Damage is automatic once one hit is scored and the cuhtli will then use its stinger for 1d4 points of damage plus poison (Succeed on a DC 13 CON check or die instantly) on subsequent rounds."
   - name: Poison
-    desc: "Stinger delivers poison (save vs. Poison or die instantly)."
+    desc: "Stinger delivers poison (Succeed on a DC 13 CON check or die instantly)."
   - name: Spellcasting
-    desc: "A cuhtli can cast spells as a Magic-user (45%), Cleric (45%) or both (10%), equivalent to their HD (9th+ level)."
+    desc: "A cuhtli can cast spells as a Wizard (45%), Cleric (45%) or both (10%), equivalent to their LVL (9th+ level)."
   - name: At-Will Powers
     desc: "A cuhtli at will can use detect invisibile, detect magic, mind reading, read languages, and a version of charm monster that affects reptiles and avians."
   - name: Invisibility and Insubstantiality

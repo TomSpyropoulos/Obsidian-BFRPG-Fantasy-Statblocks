@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Baluchitherium
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "14 (+11)"
+layout: shadowdark
+ac: "15"
+level: "14 ()"
 hp: 74
-thaco: "+11"
-modifier: 2
-stats: ["14 (+11)", "74", "4 [15]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["14 ()", "74", "15", "+11"]
 attack: "2 trample"
 damage: "5d4 trample"
-speed: "60'"
-jds: [7, 8, 10, 11, 12]
-moral: "7"
-xp: 2500
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 actions:
   - name: trample
     desc: "D20 to hit, 5d4 trample"

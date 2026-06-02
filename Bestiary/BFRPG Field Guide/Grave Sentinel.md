@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Grave Sentinel
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "3**"
+layout: shadowdark
+ac: "19"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3**", "13", "0 [19]", "+3"]
+stats: ["3", "13", "19", "+3"]
 attack: "1 weapon"
 damage: "by weapon"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 235
-nbr: "Wild 3d8, Lair 8d10"
-loot: "U, Lair G and H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Perceive without eyes
     desc: "Grave sentinels perceive the world around them without the need for eyes."
@@ -37,7 +31,7 @@ traits:
   - name: Teleport
     desc: "Once per day, they may teleport up to 10 feet."
   - name: Turn resistance
-    desc: "Clerics may attempt to Turn grave sentinels as 5 HD creatures."
+    desc: "Clerics may attempt to Turn grave sentinels as 5 LVL creatures."
 actions:
   - name: weapon
     desc: "D20 to hit, by weapon"

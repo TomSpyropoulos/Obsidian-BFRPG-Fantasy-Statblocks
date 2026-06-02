@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tentacled Horror
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "10+20* (+9)"
+layout: shadowdark
+ac: "13"
+level: "10 ()"
 hp: 74
-thaco: "+9"
-modifier: 1
-stats: ["10+20* (+9)", "74", "6 [13]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "74", "13", "+9"]
 attack: "5 tentacles + crush"
 damage: "1d6 tentacle, 3d6 crush"
-speed: "30'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Crush
     desc: "A successful hit with three or more tentacles indicates a crush attack for an additional 3d6 points of damage."
   - name: Terror
-    desc: "Those who witness a tentacle horror for the first time must save vs. Spells or flee in stark terror for 1d20 rounds."
+    desc: "Those who witness a tentacle horror for the first time must succeed on a DC 14 INT check or flee in stark terror for 1d20 rounds."
   - name: Resilience
     desc: "Non-magical weapons only deal 1 point of damage, while magic weapons, fire, electricity, and acid only deal half damage."
   - name: Immunities
@@ -52,5 +46,5 @@ source: BFRPG Field Guide
 
 A Tentacled Horror is roughly 50 feet in diameter and is composed of hundreds of thick wriggling tentacles. It has no discernible body beyond the mass of pseudopods and moves by undulating across the ground. It speaks no languages.
 
-A tentacled horror lacks subtlety in combat, simply moving in and flailing away with its numerous tentacles. A successful hit with three or more tentacles indicates a crush attack for an additional 3d6 points of damage. Those who witness a tentacle horror for the first time must save vs. Spells or flee in stark terror for 1d20 rounds.
+A tentacled horror lacks subtlety in combat, simply moving in and flailing away with its numerous tentacles. A successful hit with three or more tentacles indicates a crush attack for an additional 3d6 points of damage. Those who witness a tentacle horror for the first time must succeed on a DC 14 INT check or flee in stark terror for 1d20 rounds.
 

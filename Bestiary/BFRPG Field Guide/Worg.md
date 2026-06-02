@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Worg
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "6 [13]", "+3"]
+stats: ["3", "13", "13", "+3"]
 attack: "1 bite"
 damage: "1d6 bite"
-speed: "50'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "1d4, Pack 1d6"
-loot: "U in lair only"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Languages
     desc: "A worg speaks its own language. Some can also speak Common and Goblin."
   - name: Trip
-    desc: "A worg that hits with a bite attack can attempt to trip the opponent as a free action. The target of the trip attack must save vs. Death Ray or fall to the ground."
+    desc: "A worg that hits with a bite attack can attempt to trip the opponent as a free action. The target of the trip attack must succeed on a DC 12 CON check or fall to the ground."
 actions:
   - name: bite
     desc: "D20 to hit, 1d6 bite"

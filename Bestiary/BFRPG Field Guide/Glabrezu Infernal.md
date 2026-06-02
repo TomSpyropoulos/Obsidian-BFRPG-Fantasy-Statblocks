@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Glabrezu Infernal
-layout: BFRPG
-ac: "-4 [23]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "23"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "-4 [23]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "23", "+9"]
 attack: "2 pincers / 2 fists / 1 bite"
 damage: "2d6 pincer, 1d3 fist, 1d4+1 bite"
-speed: "60'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1390
-nbr: "1d3 Lair 1d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Spell-like Powers
-    desc: "A glabrezu can perform any of the following spell-like powers as often as desired, instead of attacking: cause fear (reverse of the remove fear spell), darkness (as the reverse of light) with a 10-foot radius, levitate, polymorph self, or telekinesis, all as if a 10th-level Magic-user."
+    desc: "A glabrezu can perform any of the following spell-like powers as often as desired, instead of attacking: cause fear (reverse of the remove fear spell), darkness (as the reverse of light) with a 10-foot radius, levitate, polymorph self, or telekinesis, all as if a 10th-level Wizard."
   - name: Magical Weapons Required
     desc: "Glabrezu, like other infernals can only be damaged by magical weapons."
   - name: Summon Aid

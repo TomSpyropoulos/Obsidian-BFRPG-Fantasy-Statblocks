@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Canein
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 or by weapon"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+0", "+2", "+0", "+0", "+1"]
 traits:
   - name: Keen Sense of Smell
     desc: "A canein has a keen sense of smell, able to identify individuals by scent alone. This also allows the canein to sense the presence of concealed or invisible creatures, and penalties associated with combating such foes are halved."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Titanothere
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "14"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "14", "+10"]
 attack: "1 butt or 1 trample"
 damage: "2d6 or 3d8"
-speed: "40' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 1875
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 actions:
   - name: butt or 1 trample
     desc: "D20 to hit, 2d6 or 3d8"

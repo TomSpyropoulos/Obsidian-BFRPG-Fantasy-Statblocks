@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Criosphinx Sphinx
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["10 ()", "54", "19", "+9"]
 attack: "2 claws / 1 head butt / rake"
 damage: "2d4 claw, 3d6 head butt, 2d4 rake"
-speed: "60', Fly 120'"
-jds: [9, 9, 11, 12, 13]
-moral: "7"
-xp: 1390
-nbr: "1d4"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
   - name: Rake
     desc: "On any successful attack with both its claws, a criosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."

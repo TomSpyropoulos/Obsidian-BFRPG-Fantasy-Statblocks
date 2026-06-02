@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Moonshiner
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 1d8 bite"
-speed: "60'"
-jds: [11, 12, 14, 15, 16]
-moral: "6"
-xp: 100
-nbr: "3d4, Lair 8d6"
-loot: "K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Intoxicating Saliva
-    desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale checks."
+    desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale (CHA) checks (DC 12 CHA checks)."
 actions:
   - name: claws
     desc: "D20 to hit, 1d4 claw, 1d8 bite"
@@ -42,5 +36,5 @@ source: BFRPG Field Guide
 
 A Moonshiner is a six-legged excessively-muscled hound with an over-sized jaw and a penchant for a stiff drink, often found roaming dwarven distilleries.
 
-Moonshiners will attack when they have the numerical advantage, attempting to rush their foes with little regard to personal safety. A morale check is appropriate when they no longer outnumber their foes.
+Moonshiners will attack when they have the numerical advantage, attempting to rush their foes with little regard to personal safety. A DC 12 CHA check is appropriate when they no longer outnumber their foes.
 

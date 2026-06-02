@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Smouldergeist
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "12** (+10)"
+layout: shadowdark
+ac: "17"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12** (+10)", "64", "2 [17]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["12 ()", "64", "17", "+10"]
 attack: "1 fire bolt or 1 incinerate or special"
 damage: "1d8 fire bolt, 12d6 incinerate, or special"
-speed: "Fly 50'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 2075
-nbr: "1d4"
-loot: "Nonel"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+5", "+4", "+4", "+3", "+3", "+8"]
 traits:
   - name: Fire Bolt
     desc: "Typically flings bolts of fire at opponents (1d8 damage)."
   - name: Incinerate
-    desc: "Roughly once per hour may send out an intense burst of flame up to a 30-foot radius (12d6 damage). A save vs. Dragon Breath allows a victim to take half the damage rolled."
+    desc: "Roughly once per hour may send out an intense burst of flame up to a 30-foot radius (12d6 damage). A DC 14 DEX check allows a victim to take half the damage rolled."
   - name: Smog Cloud
-    desc: "May de-materialize into a cloud of smog, filling a space up to a 30-foot radius. Those caught in the cloud must save vs. Poison or begin taking 1d8 points of damage for each round spent in it choking."
+    desc: "May de-materialize into a cloud of smog, filling a space up to a 30-foot radius. Those caught in the cloud must succeed on a DC 14 CON check or begin taking 1d8 points of damage for each round spent in it choking."
   - name: Pass Through Portals
     desc: "May move through closed portals, but this takes a full round and is obvious to any observers on the other side of the portal."
   - name: No Surprise

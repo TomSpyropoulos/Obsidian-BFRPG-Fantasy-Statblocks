@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lurker Above
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "13"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "6 [13]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["10 ()", "54", "13", "+9"]
 attack: "1 smother"
 damage: "1d6 + 1d6 per round"
-speed: "Fly 40'"
-jds: [9, 9, 11, 12, 13]
-moral: "7"
-xp: 1300
-nbr: "1 Lair 1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Ceiling Camouflage
     desc: "Surprises on 1-4 on 1d6 when lying flat against ceiling, camouflaged by stony-textured dark gray underbelly."

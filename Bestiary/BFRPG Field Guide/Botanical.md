@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Botanical
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "6 [13]", "+3"]
+stats: ["3", "13", "13", "+3"]
 attack: "1 quarterstaff (1d6)"
 damage: "1d6"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "Can see 60 feet above ground in the dark."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Marid
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "19"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["8", "36", "19", "+8"]
 attack: "1 slam or 1 water jet"
 damage: "2d8 slam, 2d6 water jet"
-speed: "30' Swim 80'"
-jds: [8, 9, 10, 12, 13]
-moral: "12 (8)"
-xp: 1015
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
 traits:
   - name: Create Food and Drink
     desc: "Creating tasty and nourishing food for up to 2d6 humans or similar creatures, once per day."
@@ -52,5 +46,5 @@ source: BFRPG Field Guide
 
 Marid are a race of man-like creatures believed to be from the Elemental Realm of Water. They are large beings, 10-11 feet in height, and weighing around 1,500 pounds.
 
-The marid's morale score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched marid decides to leave a combat.
+The marid's morale (CHA) score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched marid decides to leave a combat.
 

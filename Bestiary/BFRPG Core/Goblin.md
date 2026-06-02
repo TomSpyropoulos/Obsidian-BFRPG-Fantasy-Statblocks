@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Goblin
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1-1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 3
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1-1", "3", "6 [13]", "+1"]
+stats: ["1", "3", "13", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "20' Unarmored 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "7 or see below"
-xp: 10
-nbr: "2d4 ,Wild 6d10, Lair 6d10"
-loot: "R each; C in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Darkvision
     desc: "30' range."

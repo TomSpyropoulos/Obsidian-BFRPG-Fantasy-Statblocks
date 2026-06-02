@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Peryton
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "12"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 3
+stats: ["4", "18", "12", "+4"]
 attack: "1 antler (+2 to hit)"
 damage: "4d4 antler"
-speed: "40' Fly 130' (10')'"
-jds: [9, 10, 13, 15, 14]
-moral: "10"
-xp: 280
-nbr: "Wild 2d4, Lair 2d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+1", "+3", "+1", "+1", "+3", "+4"]
 traits:
   - name: Immune to non-magical weapons
     desc: "Immune to non-magical weapons."

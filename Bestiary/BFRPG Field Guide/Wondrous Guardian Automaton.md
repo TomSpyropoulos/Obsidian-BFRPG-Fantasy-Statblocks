@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Wondrous Guardian Automaton
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "17"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "2 [17]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "17", "+4"]
 attack: "1 weapon or special"
 damage: "By weapon or special"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "Wild 3d8, Lair 10d10"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Steam Breath
-    desc: "Can expel a cone of hot steam from its mouth in a 10-foot cone that does 1d12 points of damage, unless those hit by it save vs. Dragon Breath for half damage. However, it takes 5 rounds after it breathes its steam attack before it can build enough pressure to use this attack again."
+    desc: "Can expel a cone of hot steam from its mouth in a 10-foot cone that does 1d12 points of damage, unless those hit by it succeed on a DC 12 DEX check for half damage. However, it takes 5 rounds after it breathes its steam attack before it can build enough pressure to use this attack again."
 actions:
   - name: weapon or special
     desc: "D20 to hit, By weapon or special"

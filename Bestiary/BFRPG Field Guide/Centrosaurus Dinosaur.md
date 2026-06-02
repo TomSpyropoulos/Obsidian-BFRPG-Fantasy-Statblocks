@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Centrosaurus Dinosaur
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "8"
+layout: shadowdark
+ac: "16"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "16", "+8"]
 attack: "1 gore or 1 trample"
 damage: "2d8 or 3d4 (special, see below)"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 875
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Trample
     desc: "A centrosaur will usually attempt to trample smaller opponents. One adjacent man-sized or up to three smaller opponents may be trampled simultaneously; the creature rolls a single attack roll which is compared to the Armor Class of each potential victim, and then rolls a separate damage roll for each one successfully hit."

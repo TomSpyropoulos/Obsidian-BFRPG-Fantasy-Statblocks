@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tymera
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "11** (+9)"
+layout: shadowdark
+ac: "16"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 1
-stats: ["11** (+9)", "58", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["11 ()", "58", "16", "+9"]
 attack: "2 claws / 3 heads / 1 breath"
 damage: "1d6 claw, 2d4 head, 3d4 cold breath"
-speed: "40' (10') Fly 60' (15')'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1765
-nbr: "1d2, Wild 1d4, Lair 1d4"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Cold Breath
-    desc: "The ice dragon head breathes forth a 50-foot long cone with a 10-foot wide end that causes 4d6 points of cold damage; victims may save vs. Dragon Breath for one-half damage. This attack is usable up to 10 times in one day but no more than every other round."
+    desc: "The ice dragon head breathes forth a 50-foot long cone with a 10-foot wide end that causes 4d6 points of cold damage; victims may succeed on a DC 14 DEX check for one-half damage. This attack is usable up to 10 times in one day but no more than every other round."
   - name: Cold Immunity
     desc: "The tymera is immune to cold-based attacks."
   - name: Languages

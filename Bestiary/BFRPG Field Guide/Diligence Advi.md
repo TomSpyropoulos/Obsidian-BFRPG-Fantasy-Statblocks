@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Diligence Advi
-layout: BFRPG
-ac: "-6 [25]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "25"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "-6 [25]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "25", "+10"]
 attack: "4 tools"
 damage: "1d4"
-speed: "30'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 1875
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 actions:
   - name: tools
     desc: "D20 to hit, 1d4"

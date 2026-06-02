@@ -10,40 +10,34 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Imp Infernal
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "2**"
+layout: shadowdark
+ac: "18"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2**", "9", "1 [18]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "18", "+2"]
 attack: "1 tail stinger (1d4 + poison)"
 damage: "1d4 + poison"
-speed: "20' Fly 60'"
-jds: [10, 11, 13, 15, 14]
-moral: "7"
-xp: 125
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+0", "+1", "+0", "+0", "+2", "+0"]
 traits:
   - name: Shapeshifter
     desc: "Can change at-will into the form of a massive spider, raven, or giant rat, all with a devilish look. In its other forms it cannot use its poison attack."
   - name: Darkvision
     desc: "60 feet range in all forms."
   - name: Poison Stinger
-    desc: "Those struck must save vs. Poison or die suffering tremendous pain. Only available in natural form."
+    desc: "Those struck must succeed on a DC 12 CON check or die suffering tremendous pain. Only available in natural form."
   - name: Detect Magic
     desc: "At-will."
   - name: Invisibility
     desc: "At-will."
   - name: Charm Person
-    desc: "Once per day (as a 7th-level Magic-user)."
+    desc: "Once per day (as a 7th-level Wizard)."
   - name: Immunities
     desc: "Immune to poison, cold, fire, and electrical attacks."
   - name: Magic Resistance
-    desc: "+4 bonus on all saving throws against magic (including wands)."
+    desc: "+4 bonus on all DC 12 INT check (including wands)."
   - name: Weapon Resistance
     desc: "Silver or magical weapons or spells are required to strike an imp."
   - name: Regeneration
@@ -56,5 +50,5 @@ source: BFRPG Field Guide
 
 An Imp is a diminutive, dark, bat-winged humanoid standing about 2 feet tall with a dagger-like tail stinger. It is able to change at-will into the form of a massive spider, raven, or giant rat, all with a devilish look. In all forms the imp has Darkvision with a range of 60 feet.
 
-In its natural form, an imp attacks with its poisonous stinger; those struck must save vs. Poison or die suffering tremendous pain. In its other forms it cannot use its poison attack.
+In its natural form, an imp attacks with its poisonous stinger; those struck must succeed on a DC 12 CON check or die suffering tremendous pain. In its other forms it cannot use its poison attack.
 

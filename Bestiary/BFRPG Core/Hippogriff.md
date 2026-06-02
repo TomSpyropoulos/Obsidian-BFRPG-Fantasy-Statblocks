@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Hippogriff
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3", "13", "5 [14]", "+3"]
+atk_bonus: "+3"
+modifier: 2
+stats: ["3", "13", "14", "+3"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/1d10"
-speed: "60' (10') Fly 120' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "Wild 2d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Mount Capability
     desc: "Can be raised in captivity as a flying mount. Light load up to 400 pounds; heavy load up to 900 pounds."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aghlorv
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "5 [14]", "+3"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 claw (quadrupedal) / 2 claws + hold (bipedal)"
 damage: "1d8+1 claw"
-speed: "Quadrupedal 60' Bipedal 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Bipedal Attack
     desc: "When attacking bipedally, on a successful hit an aghlorv may hold its target with two of its attacking arms; this will give the target the grappled condition and reduce the number of attacks available to the aghlorv to only one claw per round (as long as the hold lasts)."

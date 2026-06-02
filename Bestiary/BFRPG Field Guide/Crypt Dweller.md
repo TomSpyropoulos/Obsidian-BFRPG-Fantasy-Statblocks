@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Crypt Dweller
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "2 claws or 1 weapon"
 damage: "1d4 claw or by weapon"
-speed: "60'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 100
-nbr: "1-2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Magical weapons required
     desc: "Can only be damaged by magical weapons or spells. Strikes from normal weapons will only make the crypt dweller pause slightly, making it lose initiative on the following round."

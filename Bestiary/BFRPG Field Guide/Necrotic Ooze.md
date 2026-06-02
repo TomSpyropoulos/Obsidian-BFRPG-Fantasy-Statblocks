@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Necrotic Ooze
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "1 slam (1d6)"
 damage: "1d6"
-speed: "10'"
-jds: [11, 12, 14, 15, 16]
-moral: "11"
-xp: 145
-nbr: "1d4, Wild 1d4, Lair 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+4"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a wight), and is immune to sleep, charm, or hold spells. As it is mindless, mind reading is useless. It is likewise immune to disease and poison."
   - name: Rotting Disease
-    desc: "The GM should keep track of who is struck by one; after a fight is over, each stricken victim must save vs. Poison; if this save fails, the victim will suffer a rotting disease that deals 1d4 points of damage per day unless cured by cure disease (normal healing has no effect). If slain by the rotting disease, the victim will immediately turn into a necrotic ooze."
+    desc: "The GM should keep track of who is struck by one; after a fight is over, each stricken victim must succeed on a DC 12 CON check; if this save fails, the victim will suffer a rotting disease that deals 1d4 points of damage per day unless cured by cure disease (normal healing has no effect). If slain by the rotting disease, the victim will immediately turn into a necrotic ooze."
 actions:
   - name: slam (1d6)
     desc: "D20 to hit, 1d6"

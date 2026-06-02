@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lobizon
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3**"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3**", "13", "6 [13]", "+3"]
+stats: ["3", "13", "13", "+3"]
 attack: "2 grabs, 1 lick"
 damage: "Special"
-speed: "60'"
-jds: [11, 12, 14, 15, 16]
-moral: "10"
-xp: 205
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 30 feet."
   - name: Grab and Lick
-    desc: "In combat a lobizon seeks to grab its opponent with both hands, and if successful will automatically lick it. Those licked by a lobizon must save vs. Spells or be cursed to become a lobizon in 2d6 days."
+    desc: "In combat a lobizon seeks to grab its opponent with both hands, and if successful will automatically lick it. Those licked by a lobizon must succeed on a DC 12 INT check or be cursed to become a lobizon in 2d6 days."
   - name: Graveyard Haunting
     desc: "Commonly sighted in graveyards where there can be as many as 3d6 lobizons."
 actions:

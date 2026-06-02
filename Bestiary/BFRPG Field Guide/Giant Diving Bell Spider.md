@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Diving Bell Spider
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite + poison"
 damage: "1d8"
-speed: "40' Swim 30'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1, Lair 1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite + poison
     desc: "D20 to hit, 1d8"

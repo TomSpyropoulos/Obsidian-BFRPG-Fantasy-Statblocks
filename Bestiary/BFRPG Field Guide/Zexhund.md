@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Zexhund
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "2"
+layout: shadowdark
+ac: "17"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "2 [17]", "+2"]
+stats: ["2", "9", "17", "+2"]
 attack: "1 bludgeon (3d6)"
 damage: "3d6"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d6"
-loot: "I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Hammer-head Strike
     desc: "Can strike quickly with their hammer-like heads, doing 3d6 points of damage."

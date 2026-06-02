@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Wood Elemental
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "16"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "16", "+8"]
 attack: "1"
 damage: "1d12"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 945
-nbr: "\u2013 special \u2013"
-loot: "\u2013 None \u2013"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Extra Damage vs. Wood
     desc: "Deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood)."

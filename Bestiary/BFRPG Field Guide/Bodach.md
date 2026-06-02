@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bodach
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "8"
+layout: shadowdark
+ac: "14"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "14", "+8"]
 attack: "1 weapon"
 damage: "By weapon +2"
-speed: "30' Unarmored 40' Swim 30'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 875
-nbr: "1, Wild 1d2, Lair 1"
-loot: "U, N; C, N in Lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Spell-like Abilities (at-will)
     desc: "speak with monster, water breathing, ventriloquism, clairvoyance, and darkvision"

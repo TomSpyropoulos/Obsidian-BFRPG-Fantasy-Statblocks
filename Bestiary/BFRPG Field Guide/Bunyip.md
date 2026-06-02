@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bunyip
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 bite (1d10+2)"
 damage: "1d10+2"
-speed: "40' Swim 20'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 500
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: bite (1d10+2)
     desc: "D20 to hit, 1d10+2"

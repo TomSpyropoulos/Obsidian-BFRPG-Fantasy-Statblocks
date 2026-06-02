@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aghar
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "9+2** (+8)"
+layout: shadowdark
+ac: "17"
+level: "9 ()"
 hp: 50
-thaco: "+8"
-modifier: 1
-stats: ["9+2** (+8)", "50", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "50", "17", "+8"]
 attack: "2 fists or 1 boulder"
 damage: "1d10+4 fist, 3d6 boulder"
-speed: "40' Tunnel 40'"
-jds: [8, 9, 10, 12, 13]
-moral: "12 (8)"
-xp: 1225
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Create Darkness
     desc: "Once per day, can be used at will without needing magic words or gestures."
@@ -54,7 +48,7 @@ source: BFRPG Field Guide
 
 A race of manlike creatures from the Elemental Realm of Earth, the Aghar are large beings, 10 to 11 feet in height and weighing around 1,500 pounds.
 
-The aghar's morale score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched aghar decides to leave a combat.
+The aghar's morale (CHA) score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched aghar decides to leave a combat.
 
 Due to its highly magical nature, an aghar cannot be harmed by non-magical weapons. It is immune to normal electricity, and suffers only half damage from magical attacks based on either electricity or earth.
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Whippersnapper
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "2+1"
+layout: shadowdark
+ac: "11"
+level: "2"
 hp: 10
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+1", "10", "8 [11]", "+2"]
+stats: ["2", "10", "11", "+2"]
 attack: "1 bite or 1 tail slap"
 damage: "1d6 bite, 1d8 tail slap"
-speed: "50' Swim 50'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 actions:
   - name: bite or 1 tail slap
     desc: "D20 to hit, 1d6 bite, 1d8 tail slap"

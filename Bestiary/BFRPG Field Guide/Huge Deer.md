@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Huge Deer
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "7"
+layout: shadowdark
+ac: "13"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7", "31", "6 [13]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "13", "+7"]
 attack: "1 kick (2d4)"
 damage: "2d4"
-speed: "60'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 670
-nbr: "Wild 2d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
   - name: kick (2d4)
     desc: "D20 to hit, 2d4"

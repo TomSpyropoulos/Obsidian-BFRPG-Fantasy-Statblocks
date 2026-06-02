@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Sabre-Tooth Cat
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "8"
+layout: shadowdark
+ac: "13"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "6 [13]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "13", "+8"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d8"
-speed: "50'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 875
-nbr: "Wild 1d4, Lair 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Ambush Predator
     desc: "Surprising on 1-4 on 1d6 in their natural environment (forests and tall-grass prairies)."

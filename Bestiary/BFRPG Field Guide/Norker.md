@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Norker
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "1+2"
+layout: shadowdark
+ac: "16"
+level: "1"
 hp: 6
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1+2", "6", "3 [16]", "+1"]
+stats: ["1", "6", "16", "+1"]
 attack: "1 weapon + 1 bite"
 damage: "1d6 or by weapon, 1d4 bite"
-speed: "30' Unarmored 40'"
-jds: [12, 13, 14, 15, 17]
-moral: "9"
-xp: 25
-nbr: "1d6, Wild 2d4, Lair 4d8"
-loot: "Q, R each; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Darkvision
     desc: "90-foot range."

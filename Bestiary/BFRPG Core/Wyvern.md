@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Wyvern
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "7*"
+layout: shadowdark
+ac: "17"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7*", "31", "2 [17]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "31", "17", "+7"]
 attack: "-"
 damage: "2d8/1d6 + poison or 1d10/1d10/1d6 + poison"
-speed: "30' (10') Fly 80' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 735
-nbr: "Wild 1d6, Lair 1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Poisonous Stinger
-    desc: "Any living creature hit by the wyvern's stinger must save vs. Poison or die."
+    desc: "Any living creature hit by the wyvern's stinger must succeed on a DC 13 CON check or die."
   - name: Carry Off
     desc: "If a wyvern hits with both its talons, it may attempt to carry off its victim; only victims weighing 300 pounds or less can be carried off, and the wyvern can only carry a victim for at most 6 rounds. While flying with a victim, the wyvern cannot make any further attacks against it, but of course if the victim makes a nuisance of itself (such as by injuring the wyvern), it may be dropped."
   - name: Talon Attacks
@@ -41,7 +35,7 @@ A distant cousin to the true dragons, the wyvern is a huge flying lizard with a 
 
 Wyverns are of animal intelligence, but are excellent predators with good hunting abilities. When attacking they will make a loud hiss, or sometimes a deep-throated growl much like that of a bull alligator.
 
-Wyverns attack nearly anything that isn't obviously more powerful than themselves. A wyvern dives from the air, clawing at its opponent with its talons and stinging it to death. Any living creature hit by the wyvern's stinger must save vs. Poison or die. A wyvern can slash with its talons only when making a flyby attack or when landing.
+Wyverns attack nearly anything that isn't obviously more powerful than themselves. A wyvern dives from the air, clawing at its opponent with its talons and stinging it to death. Any living creature hit by the wyvern's stinger must succeed on a DC 13 CON check or die. A wyvern can slash with its talons only when making a flyby attack or when landing.
 
 If a wyvern hits with both its talons, it may attempt to carry off its victim; only victims weighing 300 pounds or less can be carried off, and the wyvern can only carry a victim for at most 6 rounds. While flying with a victim, the wyvern cannot make any further attacks against it, but of course if the victim makes a nuisance of itself (such as by injuring the wyvern), it may be dropped.
 

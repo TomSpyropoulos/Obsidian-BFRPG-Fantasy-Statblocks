@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Great Leoporid
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3", "13", "6 [13]", "+3"]
+atk_bonus: "+3"
+modifier: 1
+stats: ["3", "13", "13", "+3"]
 attack: "1 antler or 1 rake (against large only)"
 damage: "2d4 antler, 2d6 rake"
-speed: "80' (5')'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 175
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
 traits:
   - name: Charging attack
     desc: "May use antlers in charging attacks (following normal charging rules)."

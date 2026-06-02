@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Vort Snake
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1+2*"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 6
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1+2*", "6", "5 [14]", "+1"]
+stats: ["1", "6", "14", "+1"]
 attack: "1 bite (1d3 + poison)"
 damage: "1d3 + poison"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 37
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Poison
-    desc: "They are venomous, however their poison is weak. Their poison will kill small creatures that fail a save vs. Poison, however creatures the size of a medium dog, up to the size of a halfling or kobold, will only be rendered unconscious for 2d4 turns if they fail the save. Creatures larger than halflings will feel dizzy and unsteady; if they fail the save, they suffer a -1 penalty to hit for 2d4 rounds."
+    desc: "They are venomous, however their poison is weak. Their poison will kill small creatures that fail a DC 12 CON check, however creatures the size of a medium dog, up to the size of a halfling or kobold, will only be rendered unconscious for 2d4 turns if they fail the save. Creatures larger than halflings will feel dizzy and unsteady; if they fail the save, they suffer a -1 penalty to hit for 2d4 rounds."
 actions:
   - name: bite (1d3 + poison)
     desc: "D20 to hit, 1d3 + poison"

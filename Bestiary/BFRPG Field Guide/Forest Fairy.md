@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Forest Fairy
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "17", "+9"]
 attack: "4 claws + poison"
 damage: "1d8 claw + poison"
-speed: "30'"
-jds: [11, 10, 9, 13, 11]
-moral: "6"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+2", "+3", "+4", "+2", "+1"]
 traits:
   - name: Hallucinogenic Claws
     desc: "It attacks by slashing with its claws, which have the effect of a powerful hallucinogen, making every tree or humanoid creature (including party members) appear as the fairy itself."

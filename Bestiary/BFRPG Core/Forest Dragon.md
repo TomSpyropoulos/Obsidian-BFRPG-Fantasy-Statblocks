@@ -10,28 +10,22 @@ source: BFRPG Core
 
 ```statblock
 name: Forest Dragon
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "18", "+8"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d6/1d6/3d8 or breath/1d6"
-speed: "30' Fly 80' (15')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1015
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+3"]
 traits:
   - name: Poison Immunity
     desc: "Forest dragons are immune to all poisons."
   - name: Breath Weapon
-    desc: "Poison Gas (Cloud). Save vs. Dragon Breath for half damage (not save or die as with ordinary poison)."
+    desc: "Poison Gas (Cloud). Succeed on a DC 13 DEX check for half damage (not save or die as with ordinary poison)."
 actions:
   - name: claws
     desc: "D20 to hit, 1d6"
@@ -46,5 +40,5 @@ source: BFRPG Core
 
 Forest dragons are bright leaf green in color, with a tan underbelly. They have long sinuous bodies and move with catlike grace. They are cruel monsters, but they are renowned for their curiosity. They especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby. Adventurers may be allowed to live so long as they remain interesting… but woe to them when the dragon becomes bored.
 
-Forest dragons are immune to all poisons. Note that, despite their breath weapon being described as "poison gas," damage done by it is exactly the same as with other dragons. More specifically, those in the area of effect do not have to "save or die" as with ordinary poison, but rather save vs. Dragon Breath for half damage.
+Forest dragons are immune to all poisons. Note that, despite their breath weapon being described as "poison gas," damage done by it is exactly the same as with other dragons. More specifically, those in the area of effect do not have to "save or die" as with ordinary poison, but rather succeed on a DC 13 DEX check for half damage.
 

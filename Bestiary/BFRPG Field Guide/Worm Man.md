@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Worm Man
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3**"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3**", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "1 weapon or spell"
 damage: "1d3 or by weapon"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 205
-nbr: "1d10"
-loot: "J"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Peripheral Vision
     desc: "Can only be surprised on a roll of 1 on 1d6."

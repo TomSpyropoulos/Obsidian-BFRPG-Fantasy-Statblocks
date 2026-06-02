@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cat Sith
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1+2"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 6
-thaco: "+1"
-modifier: -1
-stats: ["1+2", "6", "5 [14]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "6", "14", "+1"]
 attack: "2 claws, 1 bite"
 damage: "1d2 claw, 1d3 bite"
-speed: "40'"
-jds: [13, 14, 13, 16, 15]
-moral: "8"
-xp: 25
-nbr: "1, Wild 1d2, Lair 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+0", "+1", "+2", "+0", "+1"]
 traits:
   - name: Intelligent
     desc: "All cat sith are intelligent beings with their own language and many of them also speak the common language of their area, which is often the Elven tongue."

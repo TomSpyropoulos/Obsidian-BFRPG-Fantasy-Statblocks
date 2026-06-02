@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Deceiver Kitten
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "7 [12]", "+1"]
+stats: ["1", "4", "12", "+1"]
 attack: "3 bites (see below)"
 damage: "1 pt snake bite, 1d2 panther bite for 1 HD\n1d2 snake bite, 1d3 panther bite for 2 HD\n1d3 snake bite, 1d4 panther bite for 3 HD\n1d4 snake bite, 1d6 panther bite for 4 HD"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 37
-nbr: "1d4+4"
-loot: "none"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Deception
     desc: "As their deception ability is less refined than that of adults, their actual location varies between 1 and 3 feet from their projected image. This displacement causes a 50% chance of a miss on any first attack. Thereafter, all attacks against the kitten will be at a penalty of -1 to the attack roll. This is not cumulative with the penalty for fighting blind. As a mental power, this ability does not affect mindless creatures, constructs such as golems or living statues, or any sort of undead. Living creatures which are not mindless will be affected even if they do not use sight to target the kitten."
@@ -43,13 +37,13 @@ actions:
 source: BFRPG Field Guide
 ```
 
-Highly sought after as pets by those unfamiliar with their true nature, these offspring of the Deceiver are a quarter the size of an adult, growing as they age and gain HD reaching full size after twenty months. They possess a striking greenish-black, catlike appearance with thick serpents growing from their shoulders.
+Highly sought after as pets by those unfamiliar with their true nature, these offspring of the Deceiver are a quarter the size of an adult, growing as they age and gain LVL reaching full size after twenty months. They possess a striking greenish-black, catlike appearance with thick serpents growing from their shoulders.
 
 The desire to own these creatures has turned many adventurers into poachers and driven numerous pet enthusiasts to try and capture them on their own.
 
 In the wild, these kittens are always found in their lair and never wandering unless accompanied by a parent. Before the age of six months, when they possess no special abilities, they are never left unguarded.
 
-As they mature, their hit dice (HD) and damage capabilities increase. Younger than six months old they have 1 HD, and their deception ability has not yet manifested. Between six and nine months, they have 2 HD, and from this age on they have the limited deception ability detailed above. From ten to fifteen months, this increases to 3 HD, and between sixteen and twenty months, they have 4 HD. After twenty months, they reach adulthood and are treated as standard Deceivers.
+As they mature, their levels (LVL) and damage capabilities increase. Younger than six months old they have 1 LVL, and their deception ability has not yet manifested. Between six and nine months, they have 2 LVL, and from this age on they have the limited deception ability detailed above. From ten to fifteen months, this increases to 3 LVL, and between sixteen and twenty months, they have 4 LVL. After twenty months, they reach adulthood and are treated as standard Deceivers.
 
 If any member of the litter is threatened, the kittens will swarm the attacker. Depending on the level of disturbance, the GM may decide whether one or both parents return to the lair to defend their brood.
 

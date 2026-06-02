@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Uktena Snake
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "14"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "14", "+8"]
 attack: "1 bite"
 damage: "2d6 + poison"
-speed: "40' Swim 30'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 1150
-nbr: "1"
-loot: "J, L"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Poison
-    desc: "Those bitten must save vs. Poison with a -2 penalty or fall comatose immediately and die within 2d4 turns."
+    desc: "Those bitten must succeed on a DC 13 CON check with a -2 penalty or fall comatose immediately and die within 2d4 turns."
   - name: Charm Monster
     desc: "The uktena's brilliant crest allows it to charm monster once per turn; those affected will simply move towards the horned serpent and remain charmed so that the uktena may consume them at leisure. An opponent that averts its gaze, is blinded, or otherwise cannot see the jewel-like crest will not be affected by the charm attack."
   - name: Fear of Thunderbirds

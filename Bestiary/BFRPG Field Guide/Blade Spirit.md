@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Blade Spirit
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "16"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "16", "+8"]
 attack: "3/2 by weapon"
 damage: "By weapon +4"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 1075
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Undead Immunities
     desc: "Impervious to poison, sleep, charm, and hold spells."

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Monkeybear
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "2 claws, 1 bite or 1 grab"
 damage: "1d3 claw, 1d6 bite or grab"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 37
-nbr: "1d10"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Grab Attack
-    desc: "To make a grab attack, they make a single melee attack that round. If successful, they have grabbed the item in their strong arms. An opponent is allowed a save vs. Death Ray to try to keep the item."
+    desc: "To make a grab attack, they make a single melee attack that round. If successful, they have grabbed the item in their strong arms. An opponent is allowed a DC 12 CON check to try to keep the item."
   - name: Theft Focused
     desc: "In combat, their main goal is to steal opponents' packs and weapons."
   - name: Flee When Cornered

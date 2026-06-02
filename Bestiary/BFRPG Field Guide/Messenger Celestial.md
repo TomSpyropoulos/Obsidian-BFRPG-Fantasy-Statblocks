@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Messenger Celestial
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 3
+stats: ["5", "22", "16", "+5"]
 attack: "1 weapon"
 damage: "By weapon + 1"
-speed: "50' Fly 90'"
-jds: [9, 10, 12, 14, 13]
-moral: "11"
-xp: 450
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
 traits:
   - name: Telepathy
     desc: "Possess a limited form of telepathy, allowing them to communicate with any creature within 50 feet without needing to speak."

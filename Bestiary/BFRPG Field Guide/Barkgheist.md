@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Barkgheist
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "13"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "6 [13]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "13", "+5"]
 attack: "1 bite"
 damage: "1d8 bite + paralysis"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 450
-nbr: "1, Lair 1"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Invisibility
     desc: "Can turn invisible at-will but when doing so will produce a rattling chain noise as it moves and leaves no traces."

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Baldander
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "5*"
+layout: shadowdark
+ac: "14"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5*", "22", "5 [14]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "14", "+5"]
 attack: "1 weapon"
 damage: "By weapon or 1d4"
-speed: "30' Swim 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 405
-nbr: "1"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Shapeshifting
     desc: "A baldander is able to take the exact form of any creature it kills, along with most of its abilities, including spells."
   - name: Form Limitation
-    desc: "A baldander can only acquire one form from a given species, although it can still acquire new spells by killing additional Magic-users of the same species."
+    desc: "A baldander can only acquire one form from a given species, although it can still acquire new spells by killing additional Wizards of the same species."
   - name: Book of Forms
     desc: "The book is used to record every shape it has acquired along with any magical spells that were known by the creatures it has killed."
   - name: Spell Limitation
@@ -46,7 +40,7 @@ Baldanders, also called shifters, are marine creatures similar to dopplegangers,
 
 A baldander usually carries a trident and a large book. The book is used to record every shape it has acquired along with any magical spells that were known by the creatures it has killed.
 
-Strangely enough, a baldander can only acquire one form from a given species, although it can still acquire new spells by killing additional Magic-users of the same species.
+Strangely enough, a baldander can only acquire one form from a given species, although it can still acquire new spells by killing additional Wizards of the same species.
 
 A Baldander cannot acquire Clerical spells from their victims however.
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Elchman
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "15", "+8"]
 attack: "1 gore or 1 weapon"
 damage: "2d6 gore, by weapon +3"
-speed: "30' Unarmored 40'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 1075
-nbr: "1d6, Wild 2d4, Lair 4d8"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Cold Immunity
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, it receives a +4 bonus."

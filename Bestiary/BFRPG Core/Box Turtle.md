@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Box Turtle
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "\u00bd (1d4 hit points)"
+layout: shadowdark
+ac: "14"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 hit points)", "2", "5 [14]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["\u00bd (1d4 hit points)", "2", "14", "+0"]
 attack: "1 bite"
 damage: "1d2"
-speed: "5' Swim 20'"
-jds: [13, 14, 15, 16, 18]
-moral: "5"
-xp: 10
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-2"]
 traits:
   - name: Camouflage
     desc: "Well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in their natural habitat."

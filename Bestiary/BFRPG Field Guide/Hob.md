@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hob
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1-1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 3
-thaco: "+1"
-modifier: -1
-stats: ["1-1", "3", "6 [13]", "+1"]
+atk_bonus: "+1"
+modifier: 2
+stats: ["1", "3", "13", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "20' Unarmored 30'"
-jds: [13, 14, 13, 16, 15]
-moral: "7"
-xp: 10
-nbr: "1d6, Lair 5d10"
-loot: "R"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Pride and Offense
     desc: "If given new clothes, will go away forever. If offended, becomes a great nuisance until amends are made."

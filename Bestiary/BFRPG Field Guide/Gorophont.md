@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gorophont
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "17"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "17", "+8"]
 attack: "1 punch, 1 weapon or 1 trample"
 damage: "1d6 punch, by weapon, 3d6 trample"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1075
-nbr: "Wild 2d4, Lair 5d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Alertness
     desc: "Only has a 1 in 6 chance of being surprised."

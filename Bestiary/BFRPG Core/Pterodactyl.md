@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Pterodactyl
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1", "4", "8 [11]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1", "4", "11", "+1"]
 attack: "1 bite (1d4)"
 damage: "1d4"
-speed: "Fly 60' (10')'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 25
-nbr: "Wild 2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 actions:
   - name: bite (1d4)
     desc: "D20 to hit, 1d4"

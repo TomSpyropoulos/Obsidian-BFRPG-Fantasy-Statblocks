@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Metal Elemental
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "17"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "17", "+8"]
 attack: "1 \u00d7 punch, stomp, or special (1d12)"
 damage: "1d12"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 945
-nbr: "special"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Metal Damage
     desc: "Metal armor affords no protection against a metal elemental, and indeed it deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal."

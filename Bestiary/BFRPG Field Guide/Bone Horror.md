@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bone Horror
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws or 1 sting"
 damage: "1d6+3 claw or 1d4+poison sting"
-speed: "20' Possible Fly 30'"
-jds: [9, 10, 13, 15, 14]
-moral: "12"
-xp: 280
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+1", "+2", "+1", "+1", "+3", "+6"]
 traits:
   - name: Immunity to mundane weapons
     desc: "Only harmed by magical weapons, fire, or spells."
   - name: Turn as wight
     desc: "Can be Turned by a Cleric as if they were wights."
   - name: Venomous tail
-    desc: "Those struck by the tail must save vs. Poison or die a horrible, painful death within 1d6 turns."
+    desc: "Those struck by the tail must succeed on a DC 12 CON check or die a horrible, painful death within 1d6 turns."
   - name: Flight
     desc: "Those with skeletal bat-like wings sprouting from their backs are capable of flying at 30' per round."
   - name: Undead immunities

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cacophony
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "14", "+4"]
 attack: "1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
 damage: "1d6 toot, 1d4 bang, 2d8 clash, cause fear ding"
-speed: "Fly 30'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
 traits:
   - name: Ding
-    desc: "Once every three rounds the cacophony may use its 'ding', causing one target to save vs. Spells or run in fear for 2 turns, as the spell cause fear."
+    desc: "Once every three rounds the cacophony may use its 'ding', causing one target to succeed on a DC 12 INT check or run in fear for 2 turns, as the spell cause fear."
 actions:
   - name: toot (1d6)
     desc: "D20 to hit, 1d6 toot, 1d4 bang, 2d8 clash, cause fear ding"

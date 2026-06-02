@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Uhul
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "6 [13]", "+3"]
+stats: ["3", "13", "13", "+3"]
 attack: "2 claws, 1 bite, or 1 weapon"
 damage: "1d3 claw, 1d4 bite, or by weapon"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 175
-nbr: "1d6, Wild 4d6, Lair 4d6"
-loot: "Q individual, B & O in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Untraceable Movement
     desc: "Uhul have a mystical ability to move through their environments without leaving any sign of their passage. They leave no footprints or scent behind regardless of the terrain they move through, making them impossible to track through non-magical means. So stealthy are they, that they surprise on a 1-3 on a 1d6."

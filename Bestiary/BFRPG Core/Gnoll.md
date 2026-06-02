@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Gnoll
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon"
 damage: "2d4 or by weapon +1"
-speed: "30' Unarmored 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "1d6, Wild 3d6, Lair 3d6"
-loot: "Q, S each; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "30' range."

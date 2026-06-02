@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Aurochs
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "3"
+layout: shadowdark
+ac: "15"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "4 [15]", "+3"]
+stats: ["3", "13", "15", "+3"]
 attack: "1 horn/head butt or 1 trample"
 damage: "1d4 butt, 2d4 trample"
-speed: "50' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "7 (9)"
-xp: 145
-nbr: "Special, Wild 10d12"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
   - name: horn
     desc: "D20 to hit, 1d4 butt, 2d4 trample"

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Beebear
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "7*"
+layout: shadowdark
+ac: "15"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7*", "31", "4 [15]", "+7"]
+atk_bonus: "+7"
+modifier: 2
+stats: ["7", "31", "15", "+7"]
 attack: "2 claws + poison / 1 bite + hug + sting"
 damage: "1d4 + poison claw, 1d6 bite, 1d6 hug + 1d6 + poison sting"
-speed: "40' Fly 5'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 735
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Poisonous Claws
-    desc: "Those hit by the beebear's front claws must save vs. Poison or take an additional 1d3 damage."
+    desc: "Those hit by the beebear's front claws must succeed on a DC 13 CON check or take an additional 1d3 damage."
   - name: Hug and Sting
-    desc: "If a beebear manages to hug its victim it will use its stinger, causing the victim to save vs. Poison or die. A beebear that successfully stings another creature pulls away, leaving its stinger in the creature; the beebear suffers 1d4 points of damage. It takes nearly a month for a new stinger to grew completely useful."
+    desc: "If a beebear manages to hug its victim it will use its stinger, causing the victim to succeed on a DC 13 CON check or die. A beebear that successfully stings another creature pulls away, leaving its stinger in the creature; the beebear suffers 1d4 points of damage. It takes nearly a month for a new stinger to grew completely useful."
   - name: Loud Wings
     desc: "The beebear's wings are very loud and can be heard up to 30 feet away, so it uses them mostly as a warning to others, specially when combined with their roars."
   - name: Attracted to Bright Colors

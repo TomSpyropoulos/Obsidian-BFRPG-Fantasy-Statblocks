@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Balroach
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "17"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "2 [17]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "17", "+5"]
 attack: "1 bite (1d8)"
 damage: "1d8"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 450
-nbr: "1, Wild 1, Lair 1d6"
-loot: "G"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Immunity to Poison and Disease
     desc: "The balroach is immune to all poisons, diseases, or similar types of afflictions."
   - name: Nauseating Stench
-    desc: "Its disgusting appearance and horrible smell offers itself protection; any being that comes within 20 feet of a balroach must save vs. Poison or suffer from a severe nausea, causing a -4 penalty to all attack rolls, saving throws and ability checks, and a -20% penalty to all Thief abilities."
+    desc: "Its disgusting appearance and horrible smell offers itself protection; any being that comes within 20 feet of a balroach must succeed on a DC 13 CON check or suffer from a severe nausea, causing a -4 penalty to all attack rolls, saving throws and ability checks, and a -20% penalty to all Thief abilities."
 actions:
   - name: bite (1d8)
     desc: "D20 to hit, 1d8"

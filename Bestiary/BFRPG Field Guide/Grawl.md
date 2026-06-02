@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Grawl
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2+2*"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2*", "11", "6 [13]", "+2"]
+stats: ["2", "11", "13", "+2"]
 attack: "2 claws / 1 bite or 1 weapon"
 damage: "1d4 claw, 1d6 bite, by weapon +1"
-speed: "40' Climb 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 100
-nbr: "2d6, Lair 8d6"
-loot: "B, L in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Darkvision
     desc: "Darkvision to a range of 120 feet."

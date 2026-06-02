@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Desert Worm
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "1 bite (1d10 + special)"
 damage: "-"
-speed: "40' Burrow 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 280
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Detect vibrations
     desc: "Able to detect vibrations within 120 feet of their location."

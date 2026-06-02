@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Lion
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "5"
+layout: shadowdark
+ac: "13"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "6 [13]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "13", "+5"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/1d10"
-speed: "50'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 360
-nbr: "Wild 1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d6"

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Tuatara Lizard
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "15", "+6"]
 attack: "2 claws/1 bite"
 damage: "1d4/1d4/2d6"
-speed: "40' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "6"
-xp: 500
-nbr: "1d2, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+0"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d4"

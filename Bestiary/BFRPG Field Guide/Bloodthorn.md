@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bloodthorn
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4"
+layout: shadowdark
+ac: "12"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "12", "+4"]
 attack: "2 whip-like tendrils"
 damage: "1d6 + Grapple"
-speed: "0'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 240
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Grapple
-    desc: "If a target is hit, it takes 1d6 points of damage, and unless it makes a save vs. Paralysis it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful save vs. Paralysis."
+    desc: "If a target is hit, it takes 1d6 points of damage, and unless it makes a DC 12 STR check it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful DC 12 STR check."
   - name: Long Reach
     desc: "The plant's tendrils are quite long, allowing it to attack prey up to 60 feet away."
   - name: Multiple Targets
@@ -46,7 +40,7 @@ source: BFRPG Field Guide
 
 Bloodthorns are rare carnivorous plants native to temperate forests, hills, and barrens. Each bloodthorn bush has two long, thorn-covered vine-like tendrils that it uses to whip, and entangle its prey.
 
-In combat, bloodthorns use their whip-like tendrils to lash their foes. If a target is hit, it takes 1d6 points of damage, and unless it makes a save vs. Paralysis it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful save vs. Paralysis. The bloodthorn may attack two targets at once (one with each tendril) with no penalties to-hit.
+In combat, bloodthorns use their whip-like tendrils to lash their foes. If a target is hit, it takes 1d6 points of damage, and unless it makes a DC 12 STR check it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful DC 12 STR check. The bloodthorn may attack two targets at once (one with each tendril) with no penalties to-hit.
 
 The plant's tendrils are quite long, allowing it to attack prey up to 60 feet away, they are very aggressive and will attack anything that comes within range of their tendrils.
 

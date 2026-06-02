@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tyrannobeak
-layout: BFRPG
-ac: "-3 [22]"
-hit_dice: "18 (+12)"
+layout: shadowdark
+ac: "22"
+level: "18 ()"
 hp: 93
-thaco: "+12"
-modifier: 2
-stats: ["18 (+12)", "93", "-3 [22]", "+12"]
+atk_bonus: "+12"
+modifier: 4
+stats: ["18 ()", "93", "22", "+12"]
 attack: "2 claws / 1 beak"
 damage: "2d8 claw, 4d6 bite"
-speed: "50' (10') Leap 10'"
-jds: [6, 7, 8, 10, 11]
-moral: "11"
-xp: 4000
-nbr: "Wild 1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 traits:
   - name: Leap Attack
     desc: "When possible, a tyrannobeak typically first attacks by leaping (counts as a charge attack) with both claws and a bite."
@@ -46,5 +40,5 @@ source: BFRPG Field Guide
 
 The Tyrannobeak is a massive member of the terror-bird family (Phorusrhacidae) of bipedal flightless birds. Despite its enormous size (20-foot height and 5-ton weight), a tyrannobeak is a swift runner and can leap prodigiously. The tyrannobeak is a top-level predator, able to take down the largest of prey. When possible, a tyrannobeak typically first attacks by leaping (counts as a charge attack) with both claws and a bite, but once properly in melee can only make one claw attack per round in addition to a bite. If the tyrannobeak is actively chasing a fleeing opponent, then it can only manage its biting attack.
 
-When two tyrannobeaks are encountered it will be a mated pair. If a third is present, then it will be an immature individual (roll d% and apply to HD and attacks, rounding as necessary). While several eggs are laid, the young aggressively attack each other until only the dominant alpha remains. The adults protect and instruct this alpha youth until it reaches adulthood.
+When two tyrannobeaks are encountered it will be a mated pair. If a third is present, then it will be an immature individual (roll d% and apply to LVL and attacks, rounding as necessary). While several eggs are laid, the young aggressively attack each other until only the dominant alpha remains. The adults protect and instruct this alpha youth until it reaches adulthood.
 

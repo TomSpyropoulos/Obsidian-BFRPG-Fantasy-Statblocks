@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Celestial Charger
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "18", "+8"]
 attack: "2 hooves (1d8)"
 damage: "1d8 hoof"
-speed: "80' Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 945
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
 traits:
   - name: Telepathy
     desc: "Limited telepathy allows them to communicate with their riders, and with any other celestial beings within fifty feet."

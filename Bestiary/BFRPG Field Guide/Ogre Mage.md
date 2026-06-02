@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ogre Mage
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5+2**"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 24
-thaco: "+5"
-modifier: 0
-stats: ["5+2**", "24", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 2
+stats: ["5", "24", "16", "+5"]
 attack: "1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (large weapon), by weapon +3, by spell, 12d4 breath"
-speed: "40' Fly 40'"
-jds: [12, 12, 11, 14, 13]
-moral: "10"
-xp: 450
-nbr: "1, Lair 1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+1", "+2", "+2", "+3", "+1", "+4"]
 traits:
   - name: Spellcasting (at-will)
     desc: "An ogre mage may cast fly, invisibility, darkness, and polymorph self at-will (one choice per round) as often as desired."
   - name: Spellcasting (once per day)
     desc: "Once per day it can cast charm person and sleep."
   - name: Cone of Cold
-    desc: "Once per day it can breathe a special cone of cold which is 60 feet long and 12 feet diameter at the base, inflicting 12d4 points of damage (save vs. Spells for half damage)."
+    desc: "Once per day it can breathe a special cone of cold which is 60 feet long and 12 feet diameter at the base, inflicting 12d4 points of damage (Succeed on a DC 13 INT check for half damage)."
   - name: Regeneration
     desc: "An ogre magi regenerates 1 HP per round."
   - name: Strength

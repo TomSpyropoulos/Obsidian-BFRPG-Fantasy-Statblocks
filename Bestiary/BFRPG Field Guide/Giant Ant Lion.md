@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Ant Lion
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "1 bite (1d10)"
 damage: "1d10"
-speed: "40' Burrow 10'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 240
-nbr: "1d4, Wild 1d6, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Trapdoor Ambush
     desc: "Builds underground tunnels with multiple trapdoors about nine feet in diameter. The trap doors are difficult to locate (normal trap detection rules), as they are camouflaged to look like the surrounding materials. When a victim reaches the center, the ground gives way, swirling downward like water down a drain and dragging the victim below. The depth of the drop is generally ten to twenty feet, and normal falling damage is inflicted."

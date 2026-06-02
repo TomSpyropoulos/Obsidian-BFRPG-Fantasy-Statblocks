@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Fire Giant
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "11+2* (+9)"
+layout: shadowdark
+ac: "16"
+level: "11 ()"
 hp: 60
-thaco: "+9"
-modifier: 1
-stats: ["11+2* (+9)", "60", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "60", "16", "+9"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "5d6 or 3d6"
-speed: "20' Unarmored 40' (10')'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1670
-nbr: "1d2, Wild 1d3, Lair 1d3"
-loot: "E plus 1d10x1000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Thrown rocks
     desc: "Can throw large stones up to 200' for 3d6 points of damage."

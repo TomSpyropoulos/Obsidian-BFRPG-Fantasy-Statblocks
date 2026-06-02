@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Shadow*
+name: Shadow
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Shadow*
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2*"
+name: Shadow
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 touch"
 damage: "1d4 + 1 point Strength loss"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 100
-nbr: "1d10, Wild 1d10, Lair 1d10"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Strength Drain
     desc: "Attack drains 1 point of Strength. Victims reduced to 2 or fewer points of Strength collapse and become unable to move; those reduced to 0 Strength die and rise as shadows a day later (at nightfall). Strength points lost are recovered at a rate of 1 point per turn."

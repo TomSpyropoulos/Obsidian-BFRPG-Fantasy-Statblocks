@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Pegasus
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 3
+stats: ["4", "18", "14", "+4"]
 attack: "2 hooves (1d6/1d6)"
 damage: "-"
-speed: "80' (10') Fly 160' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 240
-nbr: "Wild 1d12"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 source: BFRPG Core
 ```
 

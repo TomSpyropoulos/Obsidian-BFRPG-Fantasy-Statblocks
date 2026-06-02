@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Gelatinous Cube
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "11"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "8 [11]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "11", "+4"]
 attack: "1"
 damage: "2d4 + paralysis"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 280
-nbr: "1"
-loot: "V"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Paralysis
     desc: "Any character hit by a gelatinous cube must save vs. Paralyzation or be paralyzed for 2d4 turns."

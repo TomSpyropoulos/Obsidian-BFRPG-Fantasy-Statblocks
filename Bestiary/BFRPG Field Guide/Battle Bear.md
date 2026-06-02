@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Battle Bear
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "19"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "19", "+8"]
 attack: "2 claws + hug or 2 spears"
 damage: "1d4+1 claw, 2d8 hug, 1d6 spear"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 945
-nbr: "Wild 1d4, Patrol 2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Four Arms
     desc: "Two additional stubby arms at shoulders wield short spears."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Great White Shark
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "18", "+8"]
 attack: "1 bite (2d10)"
 damage: "-"
-speed: "Swim 60' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 875
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Electromagnetic Sense
     desc: "Able to sense the electromagnetic fields of living creatures, allowing them to find prey even when light or water clarity are poor."

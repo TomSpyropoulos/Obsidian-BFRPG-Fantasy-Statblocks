@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Leprechaun
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "1**"
+layout: shadowdark
+ac: "18"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: -1
-stats: ["1**", "4", "1 [18]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "18", "+1"]
 attack: "1 miniature weapon (1d2)"
 damage: "1d2"
-speed: "30'"
-jds: [13, 14, 13, 16, 15]
-moral: "5"
-xp: 49
-nbr: "1"
-loot: "M (5,000 to 40,000 gp)"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+0", "+0", "+2", "+0", "-2"]
 traits:
   - name: Darkvision
     desc: "Darkvision out to 60 feet."
@@ -35,7 +29,7 @@ traits:
   - name: Thief-like Abilities
     desc: "Pick Pockets, Move Silently, and Hide, all as a 15th-level Thief."
   - name: Magic Resistance
-    desc: "Get a +4 bonus to any saves vs. Magic."
+    desc: "Get a +4 bonus to any succeeds on a DC 12 INT check."
   - name: Spell-like Abilities
     desc: "Can be used at-will, including teleport, confusion, and bane."
 actions:
@@ -48,7 +42,7 @@ The "wee folk" are related to the other fey races of brownies, pixies, and sprit
 
 A leprechaun prefers to live alone or in small family clans. Leprechauns can be found in forests, usually in unexplored or rarely-used glades. A leprechaun will have a lair that only a dwarf or halfling character can access. It will not willingly lead anyone to this lair. Leprechauns have a deep desire for gold and will have treasure that reflects this. A leprechaun is very fearful of humans and dwarves, because it believes that these races desire their gold. If there is an elf in the party, the leprechaun will ignore any human or dwarf leader and will address the elf, since elves are kindred fey spirits.
 
-Leprechauns use tools and will have tiny swords that are treated like daggers. It will rarely use small bows and cannot use pole weapons. Like a brownie, a leprechaun will get a +4 bonus to any saves vs. Magic.
+Leprechauns use tools and will have tiny swords that are treated like daggers. It will rarely use small bows and cannot use pole weapons. Like a brownie, a leprechaun will get a +4 bonus to any succeeds on a DC 12 INT check.
 
 A leprechaun will use the Hide and Move Silently skills to try and avoid a party. If a party does happen to catch one, the leprechaun will use Pick Pocket to steal any gold on the person that is holding it. The leprechaun will then cast confusion on the party, followed by teleport. Since it stays within a range of about 50 miles of its lair, it will generally be on target. If prevented from teleporting, the leprechaun will try to buy its freedom with treasure or three wishes. Note that the treasure may have a bane curse (see the bless spell in the Basic Fantasy RPG Core Rules). The wishes will be very limited. The leprechaun will fulfill the wish, but will put a twist on it that could severely hurt the wisher (the leprechaun will tell the wisher where a large treasure is, but fail to mention the two level-7 red dragons guarding it).
 

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Swamp Dragon
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "17"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "2 [17]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "31", "17", "+7"]
 attack: "2 claws/1 bite or breath/1 tail"
 damage: "1d6/1d6/2d10 or breath/1d6"
-speed: "30' Fly 80' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 800
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Underwater Ambush
     desc: "Often hide underwater with only part of head above waterline. Leap up suddenly when prey comes within 100', surprising on a roll of 1-4 on 1d6."

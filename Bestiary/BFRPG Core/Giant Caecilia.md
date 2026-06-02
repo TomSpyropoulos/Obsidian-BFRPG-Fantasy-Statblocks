@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Caecilia
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "13"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "6 [13]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "13", "+6"]
 attack: "-"
 damage: "1d8 + 1d8/round if swallowed"
-speed: "20' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 555
-nbr: "1d3, Lair 1d3"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Sensitive to Sound and Vibrations
     desc: "Nearly blind, but can find prey regardless of light or darkness using sound and vibration."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Flame Salamander
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "18", "+8"]
 attack: "2 claws/1 bite + heat"
 damage: "1d4/1d4/1d8 + 1d8/round"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 945
-nbr: "1d4+1, Wild 2d4, Lair 2d4"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Heat Aura
     desc: "All non-fire-resistant creatures within 20' of the monster suffer 1d8 points of damage per round from the heat."

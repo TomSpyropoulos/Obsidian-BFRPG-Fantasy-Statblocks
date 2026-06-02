@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hexcore Zombie
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "3 [16]", "+3"]
+stats: ["3", "13", "16", "+3"]
 attack: "2 claws + special"
 damage: "1d8 claw + special"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 175
-nbr: "2d6, Wild 3d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Magical Attacks
     desc: "All hexcore zombies attack as if their attacks were magical and can only be hurt by magical damage."
@@ -37,7 +31,7 @@ traits:
   - name: Undead Immunities
     desc: "May be Turned by Clerics and are immune to sleep, charm, and hold magics. As they are mindless, no form of mind-reading is of any use against them."
   - name: Never Fail Morale
-    desc: "Hexcore zombies never fail morale checks, and thus always fight until destroyed."
+    desc: "Hexcore zombies never fail morale (CHA) checks (DC 12 CHA checks), and thus always fight until destroyed."
 actions:
   - name: claws + special
     desc: "D20 to hit, 1d8 claw + special"

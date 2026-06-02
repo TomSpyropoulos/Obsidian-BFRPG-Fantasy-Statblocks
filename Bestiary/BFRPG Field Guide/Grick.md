@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Grick
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+stats: ["2", "9", "15", "+2"]
 attack: "4 tentacles / 1 bite"
 damage: "1d4 tentacle, 1d3 bite"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "1, Wild 1d4"
-loot: "V"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Ambush
     desc: "A grick hunts by hiding near high-traffic areas, using its natural coloration to blend into the shadows; when doing this, the grick surprises on a 1-3 on 1d6."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Stone Giant
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "16"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "16", "+8"]
 attack: "1 stone club or 1 thrown rock"
 damage: "3d6 or 3d6"
-speed: "30' Unarmored 40'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 1075
-nbr: "1d2, Wild 1d6, Lair 1d6"
-loot: "E plus 1d8x1000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Thrown rocks
     desc: "Can throw large stones up to 300' for 3d6 points of damage."

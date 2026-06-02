@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Fell Manticore
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "15"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "4 [15]", "+5"]
+atk_bonus: "+5"
+modifier: 3
+stats: ["5", "22", "15", "+5"]
 attack: "2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 claw, 2d4 bite, 1d4 spikes"
-speed: "60' Fly 100' (20')'"
-jds: [11, 11, 13, 14, 15]
-moral: "11"
-xp: 455
-nbr: "1, Lair 1d2 see below"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+5"]
 traits:
   - name: Tail Spikes
     desc: "Can shoot spikes from tail causing 1d4 points of damage per attack; can have up to 20 spikes, and regrow 1d4 spikes per day."
@@ -48,7 +42,7 @@ source: BFRPG Field Guide
 
 A Fell Manticore is an extremely aggressive but smaller and faster breed of the common manticore, while very similar in appearance. Its fur and skin are jet black, and it also possesses a mental power resembling that of a deceiver (see the Basic Fantasy RPG Core Rules).
 
-When encountered, a fell manticore's reaction will never be better than unfavorable, and inside their lair they will always attack without hesitation. If there is a pair of them in the lair, it will be a mated couple, and there is a 1 in 3 chance of 1d6 offspring being present. Divide 3 HD among them as evenly as possible, with a minimum of ½ HD (or a +1 to HD). The young will fight amongst themselves until only the strongest of the litter remains. The adult fell manticores will fight with a +1 attack and morale bonus when defending their offspring.
+When encountered, a fell manticore's reaction will never be better than unfavorable, and inside their lair they will always attack without hesitation. If there is a pair of them in the lair, it will be a mated couple, and there is a 1 in 3 chance of 1d6 offspring being present. Divide 3 LVL among them as evenly as possible, with a minimum of ½ LVL (or a +1 to LVL). The young will fight amongst themselves until only the strongest of the litter remains. The adult fell manticores will fight with a +1 attack and morale (CHA) bonus when defending their offspring.
 
 A fell manticore also shares the ability to shoot spikes from its tail with the common manticore, but only causing 1d4 points of damage per attack; they can have up 20 spikes, and regrow 1d4 spikes per day.
 

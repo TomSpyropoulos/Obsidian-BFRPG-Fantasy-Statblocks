@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Deceiver
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "15", "+6"]
 attack: "3 bites (1d6 snake bite, 1d8 panther bite)"
 damage: "1d6 snake bite, 1d8 panther bite"
-speed: "50'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 555
-nbr: "1d4, Wild 1d4"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Displacement
     desc: "Causes the monster's apparent location to shift around constantly over a range of 3' from the monster's true location. This is a form of illusion, but a powerful form that cannot be seen through even by those who know the secret. Any character fighting a Displacer for the first time will miss his or her first strike regardless of the die roll. Thereafter, all attacks against displacers will be at a penalty of -2 to the attack roll. This is not cumulative with the penalty for fighting blind. Some monsters, such as bats, do not depend on vision to fight and thus may be able to perceive the monster's true location and fight without penalty."

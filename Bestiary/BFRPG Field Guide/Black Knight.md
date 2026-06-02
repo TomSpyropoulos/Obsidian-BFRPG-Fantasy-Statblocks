@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Black Knight
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "14** (+11)"
+layout: shadowdark
+ac: "19"
+level: "14 ()"
 hp: 74
-thaco: "+11"
-modifier: 2
-stats: ["14** (+11)", "74", "0 [19]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["14 ()", "74", "19", "+11"]
 attack: "1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
-speed: "30'"
-jds: [7, 8, 10, 11, 12]
-moral: "11"
-xp: 2730
-nbr: "1"
-loot: "F + Black Knight's sword"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
 traits:
   - name: Strength Bonus
     desc: "+3 on damage die rolls; this is in addition to the magic bonus of the knight's sword."
   - name: Grim Visage
-    desc: "Creatures of 5 HD or less that look upon the knight's grim visage must make a save vs. Spells or be shaken for the duration of the encounter, taking a -2 penalty on attack rolls and Armor Class."
+    desc: "Creatures of 5 LVL or less that look upon the knight's grim visage must make a DC 14 INT check or be shaken for the duration of the encounter, taking a -2 penalty on attack rolls and Armor Class."
   - name: Spell Reflection
     desc: "75% chance to reflect any harmful spell that targets it, with reflected spells being targeted back at the caster."
   - name: Detect Magic
@@ -39,9 +33,9 @@ traits:
   - name: Detect Invisible
     desc: "Can cast detect invisibile at will."
   - name: Fireball
-    desc: "Can cast fireball 3 times per day as a 10th level Magic-user."
+    desc: "Can cast fireball 3 times per day as a 10th level Wizard."
   - name: Wall of Fire
-    desc: "Can cast wall of fire 3 times per day as a 10th level Magic-user."
+    desc: "Can cast wall of fire 3 times per day as a 10th level Wizard."
   - name: Damage Resistance
     desc: "Only takes half damage from non-magical weapons."
   - name: Undead Immunities

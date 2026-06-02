@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Clay* Golem
+name: Clay Golem
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Clay* Golem
-layout: BFRPG
-ac: "-2 [21]"
-hit_dice: "11** (+9)"
+name: Clay Golem
+layout: shadowdark
+ac: "21"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 0
-stats: ["11** (+9)", "58", "-2 [21]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "58", "21", "+9"]
 attack: "1 fist"
 damage: "3d10"
-speed: "20'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 1765
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Cursed Wounds
     desc: "Wounds inflicted by a clay golem do not heal normally; worse, magical healing cures only 1 point per die rolled (but add all bonuses normally)."

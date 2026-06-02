@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Ant Infected
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "16", "+5"]
 attack: "1 bite (2d6+1)"
 damage: "-"
-speed: "50' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 360
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 source: BFRPG Field Guide
 ```
 

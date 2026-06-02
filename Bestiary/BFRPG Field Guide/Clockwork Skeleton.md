@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Clockwork Skeleton
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2+2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2", "11", "7 [12]", "+2"]
+stats: ["2", "11", "12", "+2"]
 attack: "1 punch or weapon"
 damage: "1d6 or by weapon"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+5"]
 traits:
   - name: Construct
-    desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale and always fights until destroyed."
+    desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale (CHA) and always fights until destroyed."
   - name: Vulnerable to edged weapons
     desc: "Unlike a normal animated skeleton, a clockwork skeleton is vulnerable to edged weapons due to the nature of the wires and pulleys that make up its mechanics."
   - name: Vulnerable to electrical attacks
@@ -42,5 +36,5 @@ source: BFRPG Field Guide
 
 The Clockwork Skeleton is a skeletal construct made of bronze and powered by a strange arrangement of pulleys, coils, wires, and gears. It has rudimentary brain matrices limited to knowing a patrol area, responding to alarms, knowing friend from foe, and standing guard. It will not automatically attack unless what it is guarding is disturbed. Unlike a normal animated skeleton, a clockwork skeleton is vulnerable to edged weapons due to the nature of the wires and pulleys that make up its mechanics. Crucially, this creature is not an undead monster (despite its obvious resemblance) and thus cannot be Turned.
 
-Like any construct, a clockwork skeleton is immune to **sleep**, **charm**, and **hold** spells. As it is mindless in the traditional sense, no form of mind reading is of any use against it. It never fails morale and always fights until destroyed.
+Like any construct, a clockwork skeleton is immune to **sleep**, **charm**, and **hold** spells. As it is mindless in the traditional sense, no form of mind reading is of any use against it. It never fails morale (CHA) and always fights until destroyed.
 

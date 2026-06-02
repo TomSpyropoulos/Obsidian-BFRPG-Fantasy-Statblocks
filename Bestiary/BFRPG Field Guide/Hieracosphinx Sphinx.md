@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hieracosphinx Sphinx
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "18"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9 ()", "48", "18", "+8"]
 attack: "2 claws / 1 bite + rake"
 damage: "2d4 claw, 1d10 bite, 2d4 rake"
-speed: "45', Fly 180'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1150
-nbr: "1d6"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
 traits:
   - name: Rake
     desc: "On any successful attack with both its claw attacks, a hieracosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."

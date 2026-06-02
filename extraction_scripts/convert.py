@@ -203,12 +203,48 @@ def calculate_hp(hd_val, hd_str):
     if hp_match: hp_val = int(hp_match.group(1))
     return hp_val
 
+def parse_saves_string(s):
+    if not isinstance(s, str):
+        return None
+    m = re.findall(r'[DWPBS]\s*(\d+)', s, re.IGNORECASE)
+    if len(m) == 5:
+        prefixes = re.findall(r'([DWPBS])\s*(\d+)', s, re.IGNORECASE)
+        save_map = {}
+        for letter, val in prefixes:
+            save_map[letter.upper()] = int(val)
+        if len(save_map) == 5 and all(x in save_map for x in ['D', 'W', 'P', 'B', 'S']):
+            return [save_map['D'], save_map['W'], save_map['P'], save_map['B'], save_map['S']]
+    
+    nums = [int(n) for n in re.findall(r'\b\d+\b', s)]
+    parenthesis_match = re.search(r'\(\s*(\d+)\s*\)\s*$', s)
+    if parenthesis_match:
+        p_num = int(parenthesis_match.group(1))
+        if nums and nums[-1] == p_num and len(nums) > 5:
+            nums.pop()
+    if len(nums) == 5:
+        return nums
+    return None
+
+def match_saves_to_class(saves_list):
+    for class_name, rows in SAVING_THROW_TABLES.items():
+        for row in rows:
+            row_saves = [row['death_ray_poison'], row['magic_wands'], row['paralysis_petrify'], row['dragon_breath'], row['spells']]
+            if saves_list == row_saves:
+                return class_name
+    return "fighter"
+
 def parse_save_entry(entry, current_hd):
     bonus = None
     if "elf" in entry.lower(): bonus = "elf"
     elif "dwarf" in entry.lower(): bonus = "dwarf"
     elif "halfling" in entry.lower(): bonus = "halfling"
     
+    parsed_saves = parse_saves_string(entry)
+    if parsed_saves:
+        matched_cls = match_saves_to_class(parsed_saves)
+        lvl = int(current_hd) if current_hd >= 1 else 1
+        return [(matched_cls, lvl, bonus)]
+        
     clean_entry = re.sub(r'\(.*?\)', '', entry.replace("*", "")).strip()
     
     if "normal man" in clean_entry.lower(): return [("fighter", "NM", bonus)]
@@ -265,6 +301,154 @@ def extract_xp(xp_str, current_hd):
     except:
         pass
     return xp_str
+
+def get_dc(level):
+    try:
+        lvl = float(level)
+    except:
+        lvl = 1.0
+    return 12 + int(lvl / 5)
+
+def translate_trait_text(text, level):
+    if not isinstance(text, str):
+        return text
+        
+    dc = get_dc(level)
+    
+    save_mappings = {
+        "poison": "CON",
+        "death ray": "CON",
+        "death": "CON",
+        "poison/death": "CON",
+        "poison or death": "CON",
+        "poison or death ray": "CON",
+        "wands": "WIS",
+        "magic wands": "WIS",
+        "wand": "WIS",
+        "spells": "INT",
+        "magic": "INT",
+        "spell": "INT",
+        "dragon breath": "DEX",
+        "breath": "DEX",
+        "petrify": "STR",
+        "petrification": "STR",
+        "turn to stone": "STR",
+        "paralysis": "STR",
+        "paralysation": "STR",
+        "paralyze": "STR"
+    }
+    
+    categories_pattern = "|".join([re.escape(k) for k in save_mappings.keys()])
+    
+    def get_attr(category_str):
+        category_clean = category_str.lower().strip()
+        for key, attr in save_mappings.items():
+            if category_clean == key or category_clean.startswith(key):
+                return attr
+        return "CON" # fallback
+        
+    processed = text
+    
+    # 1. "a successful saving throw/save vs [X]" -> "a successful DC [DC] [ATTR] check"
+    p_success = rf'\ba?\s*successful\s+(?:saving\s+throw|save)\s+(?:vs\.?|against)\s+({categories_pattern})\b'
+    def repl_success(m):
+        attr = get_attr(m.group(1))
+        return f"a successful DC {dc} {attr} check"
+    processed = re.sub(p_success, repl_success, processed, flags=re.IGNORECASE)
+    
+    # 2. "succeed on a saving throw/save vs [X]" -> "succeed on a DC [DC] [ATTR] check"
+    p_succeed = rf'\bsucceed\s+on\s+(?:a\s+)?(?:saving\s+throw|save)\s+(?:vs\.?|against)\s+({categories_pattern})\b'
+    def repl_succeed(m):
+        attr = get_attr(m.group(1))
+        return f"succeed on a DC {dc} {attr} check"
+    processed = re.sub(p_succeed, repl_succeed, processed, flags=re.IGNORECASE)
+    
+    # 3. Noun-only pattern for "saving throw(s) vs [X]" -> always DC [DC] [ATTR] check
+    p_saving_throw = rf'\b(?:saving\s+throws?)\s+(?:vs\.?|against)\s+({categories_pattern})\b'
+    def repl_saving_throw(m):
+        attr = get_attr(m.group(1))
+        return f"DC {dc} {attr} check"
+    processed = re.sub(p_saving_throw, repl_saving_throw, processed, flags=re.IGNORECASE)
+    
+    # 4. Context-aware "save/saves vs [X]" parsing based on preceding word:
+    p_save_phrase = rf'\b([\w\'-]+)?(\s+)?(save|saves)\s+(?:vs\.?|against)\s+({categories_pattern})\b'
+    def repl_save_phrase(m):
+        prev_word = m.group(1)
+        space = m.group(2) or ""
+        verb_type = m.group(3).lower()
+        category = m.group(4)
+        attr = get_attr(category)
+        
+        if not prev_word:
+            # If start of sentence/phrase, default to verb command
+            if verb_type == "saves":
+                return f"Succeeds on a DC {dc} {attr} check"
+            else:
+                return f"Succeed on a DC {dc} {attr} check"
+                
+        prev_word_lower = prev_word.lower()
+        noun_indicators = {"a", "an", "the", "their", "its", "her", "his", "our", "on", "for", "of", "successful", "standard", "first", "saves"}
+        
+        if prev_word_lower in noun_indicators:
+            return f"{prev_word}{space}DC {dc} {attr} check"
+        else:
+            if verb_type == "saves":
+                return f"{prev_word}{space}succeeds on a DC {dc} {attr} check"
+            else:
+                return f"{prev_word}{space}succeed on a DC {dc} {attr} check"
+                
+    processed = re.sub(p_save_phrase, repl_save_phrase, processed, flags=re.IGNORECASE)
+    
+    # 5. Sanitize B/X terms to Shadowdark equivalents:
+    # A. "hit dice" -> "levels", "hit die" -> "level", "HD" -> "LVL" (preserving capitalization)
+    processed = re.sub(r'\b[Hh]it\s+[Dd]ice\b', lambda m: 'levels' if m.group(0)[0].islower() else 'Levels', processed)
+    processed = re.sub(r'\b[Hh]it\s+[Dd]ie\b', lambda m: 'level' if m.group(0)[0].islower() else 'Level', processed)
+    processed = re.sub(r'\bHD\b', 'LVL', processed)
+    
+    # B. "morale check/checks" -> "DC 12 CHA check/checks"
+    processed = re.sub(r'\bmorale\s+checks\b', 'morale checks (DC 12 CHA checks)', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+check\b', 'DC 12 CHA check', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bchecking\s+morale\b', 'making a DC 12 CHA check', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+rating\b', 'CHA modifier', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+value\b', 'CHA modifier', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\b', 'morale (CHA)', processed, flags=re.IGNORECASE)
+    
+    # C. "Magic-User" / "magic-user" -> "Wizard" / "wizard" (preserving capitalization and pluralization)
+    def repl_wizard(m):
+        word = m.group(0)
+        is_plural = word.lower().endswith('s')
+        capitalized = word[0].isupper()
+        if capitalized:
+            return 'Wizards' if is_plural else 'Wizard'
+        else:
+            return 'wizards' if is_plural else 'wizard'
+    processed = re.sub(r'\bmagic-users?\b', repl_wizard, processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmagic\s+users?\b', repl_wizard, processed, flags=re.IGNORECASE)
+    
+    # D. "Infravision" / "infravision" -> "Darkvision" / "darkvision" (preserving capitalization)
+    processed = re.sub(r'\binfravision\b', lambda m: 'darkvision' if m.group(0)[0].islower() else 'Darkvision', processed, flags=re.IGNORECASE)
+    
+    return processed
+
+def parse_save_adjustments(save_entry):
+    adjustments = {"STR": 0, "DEX": 0, "CON": 0, "INT": 0, "WIS": 0, "CHA": 0}
+    entry_lower = save_entry.lower()
+    
+    matches = re.findall(r'\+([1-9])', entry_lower)
+    for m in matches:
+        bonus = int(m)
+        if "poison" in entry_lower or "death" in entry_lower or "disease" in entry_lower:
+            adjustments["CON"] = max(adjustments["CON"], bonus)
+        if "paralysis" in entry_lower or "petrif" in entry_lower or "stone" in entry_lower:
+            adjustments["STR"] = max(adjustments["STR"], bonus)
+        if "wand" in entry_lower:
+            adjustments["WIS"] = max(adjustments["WIS"], bonus)
+        if "spell" in entry_lower or "magic" in entry_lower:
+            adjustments["INT"] = max(adjustments["INT"], bonus)
+        if "breath" in entry_lower:
+            adjustments["DEX"] = max(adjustments["DEX"], bonus)
+            
+    return adjustments
 
 def clean_monster_name(raw_name, check_alias=False):
     # Hardcoded alias overrides for known database anomalies
@@ -344,6 +528,49 @@ def clean_monster_name(raw_name, check_alias=False):
     
     return final_name, final_aliases
 
+def map_shadowdark_speed(mov):
+    parts = re.split(r'[/;,]|\band\b', mov)
+    mapped_keys = []
+    for part in parts:
+        clean_part = re.sub(r'\(.*?\)', '', part).lower()
+        clean_part = re.sub(r'\b(ft|feet)\b', '', clean_part)
+        tokens = re.findall(r'[a-z]+|\d+', clean_part)
+        num_indices = [i for i, t in enumerate(tokens) if t.isdigit()]
+        for i, idx in enumerate(num_indices):
+            val = int(tokens[idx])
+            preceding = tokens[idx-1] if idx > 0 else ""
+            succeeding = tokens[idx+1] if idx < len(tokens) - 1 else ""
+            is_fly = False
+            if "fly" in preceding or "flight" in preceding:
+                is_fly = True
+            elif "fly" in succeeding or "flight" in succeeding:
+                if idx < len(tokens) - 2 and tokens[idx+2].isdigit():
+                    is_fly = False
+                else:
+                    is_fly = True
+            if val > 60:
+                key = "double near (fly)" if is_fly else "double near"
+            else:
+                key = "near (fly)" if is_fly else "near"
+            if key not in mapped_keys:
+                mapped_keys.append(key)
+    if not mapped_keys:
+        return "near"
+    
+    # Priority order from best to worst:
+    # 1. "double near (fly)"
+    # 2. "near (fly)"
+    # 3. "double near"
+    # 4. "near"
+    if "double near (fly)" in mapped_keys:
+        return "double near (fly)"
+    elif "near (fly)" in mapped_keys:
+        return "near (fly)"
+    elif "double near" in mapped_keys:
+        return "double near"
+    else:
+        return "near"
+
 def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
     portrayals = monster_data.get("fabio:hasPortrayal", [])
     statblock_portrayal = None
@@ -356,6 +583,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
     stats = statblock_portrayal.get("stats", {})
     raw_name = monster_data.get("schema:name", "Unknown")
     name, name_aliases = clean_monster_name(raw_name, check_alias)
+    name = name.replace("*", "").strip()
+    name_aliases = [a.replace("*", "").strip() for a in name_aliases]
     
     # Identify variants
     variants_info = {}
@@ -375,7 +604,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
     for var_key, var_stats in variants_info.items():
         hd_str_full = str(var_stats.get("hitDice", "1"))
         hd_parts = re.split(r'\s+(?:to|or)\s+', hd_str_full, flags=re.IGNORECASE)
-        hd_str = hd_parts[0].strip()
+        hd_str = hd_parts[0].strip().replace("*", "")
+        hd_str_sanitized = re.sub(r'[\+\-]\d+(?!d)', '', hd_str).strip()
         
         save_entry = str(var_stats.get("saveAs") or "Fighter: 1")
         
@@ -391,8 +621,93 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             elif hd_val == 0.5: display_hd = "1/2"
             
             cls, lvl, bonus = parse_save_entry(save_entry, hd_val)[0]
-            jds_list = get_jds(cls, lvl, bonus)
-            modifier_val = math.floor((15 - jds_list[3]) / 2)
+            cls = cls.lower().strip().replace(" ", "_").replace("-", "_")
+            
+            # Parse morale
+            morale_str = str(var_stats.get('morale') or '').strip()
+            try:
+                morale_val = int(re.search(r'(\d+)', morale_str).group(1))
+            except:
+                morale_val = 7
+                
+            # Initialize base modifiers
+            st_mod = 0
+            dx_mod = 0
+            co_mod = 0
+            it_mod = 0
+            ws_mod = 0
+            ch_mod = 0
+            
+            # 1. HD level scaling: +1 to all modifiers per 4 HD
+            hd_bonus = int(hd_val / 4)
+            st_mod += hd_bonus
+            dx_mod += hd_bonus
+            co_mod += hd_bonus
+            it_mod += hd_bonus
+            ws_mod += hd_bonus
+            ch_mod += hd_bonus
+            
+            # 2. Class saves bonus: Fighter (+2 STR), Magic-User (+2 INT), Cleric (+2 WIS), Thief (+2 DEX)
+            if cls == "fighter":
+                st_mod += 2
+            elif cls == "magic_user":
+                it_mod += 2
+            elif cls == "cleric":
+                ws_mod += 2
+            elif cls == "thief":
+                dx_mod += 2
+                
+            # 3. Charisma modifier: morale - 7
+            ch_mod += (morale_val - 7)
+            
+            # 4. Racial save bonuses:
+            # Elf: -1 CON, +1 INT, +1 WIS
+            # Dwarf: -1 CHA, +1 STR, +1 CON
+            # Halfling: -1 STR, +2 DEX
+            if bonus == "elf":
+                co_mod -= 1
+                it_mod += 1
+                ws_mod += 1
+            elif bonus == "dwarf":
+                ch_mod -= 1
+                st_mod += 1
+                co_mod += 1
+            elif bonus == "halfling":
+                st_mod -= 1
+                dx_mod += 2
+                
+            # 5. Special Hit Dice (+hp bonus): if hd_str has flat bonus, +1 to CON
+            has_flat_hp_bonus = bool(re.search(r'\+\s*\d+(?!d)', hd_str))
+            if has_flat_hp_bonus:
+                co_mod += 1
+                
+            # 6. Speed bonus derived from resolved Shadowdark speed key:
+            mov = str(var_stats.get("movement") or "0").strip().strip("'\"")
+            mapped_speed = map_shadowdark_speed(mov)
+            if mapped_speed == "double near (fly)":
+                dx_mod += 2
+            elif mapped_speed in ["near (fly)", "double near"]:
+                dx_mod += 1
+                
+            # 7. Flat save adjustments in saveAs:
+            adjustments = parse_save_adjustments(save_entry)
+            st_mod += adjustments["STR"]
+            dx_mod += adjustments["DEX"]
+            co_mod += adjustments["CON"]
+            it_mod += adjustments["INT"]
+            ws_mod += adjustments["WIS"]
+            ch_mod += adjustments["CHA"]
+            
+            modifier_val = dx_mod
+            
+            attributes_list = [
+                f"{st_mod:+d}",
+                f"{dx_mod:+d}",
+                f"{co_mod:+d}",
+                f"{it_mod:+d}",
+                f"{ws_mod:+d}",
+                f"{ch_mod:+d}"
+            ]
             
             ac_raw = var_stats.get("armorClass") or 10
             try:
@@ -400,14 +715,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
                 else: bfrpg_ac = int(ac_raw)
             except: bfrpg_ac = 10
             
-            # OSE/BX AC conversion:
-            # Ascending OSE = bfrpg_ac - 1 (unarmored BFRPG 11 -> OSE 10)
-            # Descending OSE = 19 - Ascending OSE (unarmored 10 -> OSE 9)
-            ose_ascending = bfrpg_ac - 1
-            ose_descending = 19 - ose_ascending
-            ac_formatted = f"{ose_descending} [{ose_ascending}]"
-            
-            mov = str(var_stats.get("movement") or "0").strip().strip("'\"")
+            # Shadowdark AC is ascending only, base 10 (raw BFRPG AC - 1)
+            shadowdark_ac = bfrpg_ac - 1
             
             if var_key:
                 clean_name = name.replace("*", "").strip()
@@ -422,49 +731,40 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             atk_str = " / ".join(atks) if atks else "-"
             dmg_str = dmg if dmg else "-"
 
-            stats_list = [hd_str, str(hp_val), ac_formatted, atk_display]
+            stats_list = [hd_str_sanitized, str(hp_val), str(shadowdark_ac), atk_display]
             stats_field = json.dumps(stats_list)
-
-            xp_val = extract_xp(var_stats.get('xp'), hd_val)
             
             # YAML-safe string dumping (outside f-strings)
             q_aliases = json.dumps(name_aliases)
-            q_hd_str = json.dumps(hd_str)
+            q_hd_str = json.dumps(hd_str_sanitized)
             q_thac0 = json.dumps(atk_display)
             q_attack = json.dumps(atk_str)
             q_damage = json.dumps(dmg_str)
-            q_speed = json.dumps(mov + "'")
-            q_moral = json.dumps(str(var_stats.get('morale') or ''))
-            q_nbr = json.dumps(str(var_stats.get('numberAppearing') or ''))
-            q_loot = json.dumps(str(var_stats.get('treasureType') or 'None'))
-            q_ac = json.dumps(ac_formatted)
+            q_speed = json.dumps(map_shadowdark_speed(mov))
+            q_ac = json.dumps(str(shadowdark_ac))
 
             md = f"---\nstatblock: inline\nname: {full_name}\nobsidianUIMode: preview\ntags:\n  - monster\naliases: {q_aliases}\nsource: {source_name}\n---\n\n"
             md += "```statblock\n"
             md += f"name: {full_name}\n"
-            md += "layout: BFRPG\n"
+            md += "layout: shadowdark\n"
             md += f"ac: {q_ac}\n"
-            md += f"hit_dice: {q_hd_str}\n"
+            md += f"level: {q_hd_str}\n"
             md += f"hp: {hp_val}\n"
-            md += f"thaco: {q_thac0}\n"
+            md += f"atk_bonus: {q_thac0}\n"
             md += f"modifier: {modifier_val}\n"
             md += f"stats: {stats_field}\n"
             md += f"attack: {q_attack}\n"
             md += f"damage: {q_damage}\n"
             md += f"speed: {q_speed}\n"
-            md += f"jds: {json.dumps(jds_list)}\n"
-            md += f"moral: {q_moral}\n"
-            md += f"xp: {xp_val}\n"
-            md += f"nbr: {q_nbr}\n"
-            md += f"loot: {q_loot}\n"
-            md += "roll_jds: 1d20\n"
-            md += "roll-moral: 2d6\n"
+            md += f"attributes: {json.dumps(attributes_list)}\n"
             
             spec = statblock_portrayal.get("specialAbilities", [])
             if spec:
                 md += "traits:\n"
                 for sa in spec:
-                    desc_clean = sa.get('description', '').replace('"', "'").replace('\n', ' ').strip()
+                    raw_desc = sa.get('description', '')
+                    translated_desc = translate_trait_text(raw_desc, hd_val)
+                    desc_clean = translated_desc.replace('"', "'").replace('\n', ' ').strip()
                     md += f"  - name: {sa.get('name')}\n    desc: \"{desc_clean}\"\n"
             
             if atks and dmg:
@@ -487,7 +787,9 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             
             md += f"source: {source_name}\n```\n"
             desc = statblock_portrayal.get("description", "")
-            if desc: md += f"\n{desc}\n"
+            if desc:
+                desc_translated = translate_trait_text(desc, hd_val)
+                md += f"\n{desc_translated}\n"
             results.append((full_name, md))
     return results
 
@@ -589,24 +891,20 @@ def run_tests():
     print("Naming Engine: PASS")
 
     # 2. Test AC Calculation
-    print("\n--- 2. Testing OSE/BX AC Dual-Formatting ---")
+    print("\n--- 2. Testing Shadowdark Ascending AC ---")
     ac_tests = [
-        # (BFRPG AC, Expected Descending, Expected Ascending, Expected Formatted)
-        (10, 10, 9, "10 [9]"),
-        (11, 9, 10, "9 [10]"), # Unarmored
-        (13, 7, 12, "7 [12]"), # Leather
-        (15, 5, 14, "5 [14]"), # Chain mail
-        (17, 3, 16, "3 [16]"), # Plate mail
-        (19, 1, 18, "1 [18]")
+        # (BFRPG AC, Expected Shadowdark AC)
+        (10, 9),
+        (11, 10), # Unarmored
+        (13, 12), # Leather
+        (15, 14), # Chain mail
+        (17, 16), # Plate mail
+        (19, 18)
     ]
-    for bfrpg_ac, expected_desc, expected_asc, expected_fmt in ac_tests:
-        ose_ascending = bfrpg_ac - 1
-        ose_descending = 19 - ose_ascending
-        fmt = f"{ose_descending} [{ose_ascending}]"
-        print(f"BFRPG AC: {bfrpg_ac} -> OSE Descending: {ose_descending}, OSE Ascending: {ose_ascending} -> Fmt: '{fmt}'")
-        assert ose_descending == expected_desc, f"Expected desc {expected_desc}, got {ose_descending}"
-        assert ose_ascending == expected_asc, f"Expected asc {expected_asc}, got {ose_ascending}"
-        assert fmt == expected_fmt, f"Expected fmt '{expected_fmt}', got '{fmt}'"
+    for bfrpg_ac, expected_ac in ac_tests:
+        shadowdark_ac = bfrpg_ac - 1
+        print(f"BFRPG AC: {bfrpg_ac} -> Shadowdark AC: {shadowdark_ac}")
+        assert shadowdark_ac == expected_ac, f"Expected {expected_ac}, got {shadowdark_ac}"
     print("AC Formatting: PASS")
 
     # 3. Test HD & HP Calculations
@@ -626,24 +924,140 @@ def run_tests():
         assert hp == expected_hp, f"Expected HP {expected_hp}, got {hp}"
     print("HD & HP Calculations: PASS")
 
-    # 4. Test Saving Throw Modifier Progression (Reflex Hack)
-    print("\n--- 4. Testing Save vs. Breath Initiative Modifier ---")
-    # NM maps to Breath 16 -> modifier = floor((15-16)/2) = -1
-    # Level 1-3 maps to Breath 15 -> modifier = floor((15-15)/2) = 0
-    # Level 16+ maps to Breath 5 -> modifier = floor((15-5)/2) = 5
-    modifier_tests = [
-        ("fighter", "NM", -1),
-        ("fighter", 1, 0),
-        ("fighter", 6, 0), # Level 6 has breath save 14 -> floor((15-14)/2) = 0
-        ("fighter", 16, 2) # Level 16 has breath save 10 -> floor((15-10)/2) = 2
+    # 4. Test Shadowdark Attributes Modifier Calculations
+    print("\n--- 4. Testing Shadowdark Attributes & Modifiers ---")
+    
+    def compute_attributes(hd_str, save_entry, morale_str, movement_str, bonus_race=None):
+        hds = parse_hd_str(hd_str)
+        hd_val, _ = hds[0]
+        cls, lvl, bonus = parse_save_entry(save_entry, hd_val)[0]
+        cls = cls.lower().strip().replace(" ", "_").replace("-", "_")
+        if bonus_race:
+            bonus = bonus_race
+            
+        try:
+            morale_val = int(re.search(r'(\d+)', morale_str).group(1))
+        except:
+            morale_val = 7
+            
+        st_mod = 0; dx_mod = 0; co_mod = 0; it_mod = 0; ws_mod = 0; ch_mod = 0
+        
+        # 1. HD level scaling
+        hd_bonus = int(hd_val / 4)
+        st_mod += hd_bonus; dx_mod += hd_bonus; co_mod += hd_bonus; it_mod += hd_bonus; ws_mod += hd_bonus; ch_mod += hd_bonus
+        
+        # 2. Class saves bonus
+        if cls == "fighter":
+            st_mod += 2
+        elif cls == "magic_user":
+            it_mod += 2
+        elif cls == "cleric":
+            ws_mod += 2
+        elif cls == "thief":
+            dx_mod += 2
+            
+        # 3. Charisma modifier
+        ch_mod += (morale_val - 7)
+        
+        # 4. Racial save bonuses
+        if bonus == "elf":
+            co_mod -= 1; it_mod += 1; ws_mod += 1
+        elif bonus == "dwarf":
+            ch_mod -= 1; st_mod += 1; co_mod += 1
+        elif bonus == "halfling":
+            st_mod -= 1; dx_mod += 2
+            
+        # 5. Special Hit Dice (+hp bonus)
+        has_flat_hp_bonus = bool(re.search(r'\+\s*\d+(?!d)', hd_str))
+        if has_flat_hp_bonus:
+            co_mod += 1
+            
+        # 6. Speed bonus derived from resolved Shadowdark speed key:
+        mapped_speed = map_shadowdark_speed(movement_str)
+        if mapped_speed == "double near (fly)":
+            dx_mod += 2
+        elif mapped_speed in ["near (fly)", "double near"]:
+            dx_mod += 1
+            
+        # 7. Flat save adjustments in saveAs:
+        adjustments = parse_save_adjustments(save_entry)
+        st_mod += adjustments["STR"]
+        dx_mod += adjustments["DEX"]
+        co_mod += adjustments["CON"]
+        it_mod += adjustments["INT"]
+        ws_mod += adjustments["WIS"]
+        ch_mod += adjustments["CHA"]
+            
+        return [st_mod, dx_mod, co_mod, it_mod, ws_mod, ch_mod]
+
+    # Test case 1: Hob (Thief: 1, morale 7, speed 20/30)
+    # Expected: STR +0, DEX +2, CON +0, INT +0, WIS +0, CHA +0
+    res1 = compute_attributes("1-1", "Thief: 1", "7", "20' Unarmored 30'")
+    print(f"Hob parsed modifiers: {res1}")
+    assert res1 == [0, 2, 0, 0, 0, 0], f"Hob failed: {res1}"
+
+    # Test case 2: Gnome (Fighter: 1, morale 8, speed 20, dwarf bonus)
+    # Expected: STR +3, DEX +0, CON +1, INT +0, WIS +0, CHA +0
+    res2 = compute_attributes("1", "Fighter: 1 (with Dwarf bonuses)", "8", "20'")
+    print(f"Gnome parsed modifiers: {res2}")
+    assert res2 == [3, 0, 1, 0, 0, 0], f"Gnome failed: {res2}"
+
+    # Test case 3: Gerbalaine (Fighter: 1, morale 8, halfling bonus)
+    # Expected: STR +1, DEX +2, CON +0, INT +0, WIS +0, CHA +1
+    res3 = compute_attributes("1", "Fighter: 1 (Halfling bonuses)", "8", "20'")
+    print(f"Gerbalaine parsed modifiers: {res3}")
+    assert res3 == [1, 2, 0, 0, 0, 1], f"Gerbalaine failed: {res3}"
+
+    # Test case 4: Sprite (Magic-User: 4, morale 7, elf bonus)
+    # Expected: STR +0, DEX +0, CON -1, INT +3, WIS +1, CHA +0
+    res4 = compute_attributes("1*", "Magic-User: 4 (with Elf bonuses)", "7", "20'")
+    print(f"Sprite parsed modifiers: {res4}")
+    assert res4 == [0, 0, -1, 3, 1, 0], f"Sprite failed: {res4}"
+
+    # Test case 5: High HD / Special HD / Fast monster
+    # HD 5+1 (Fighter save, speed Fly 120', morale 9)
+    # HD scaling: 5 / 4 = 1 bonus to all
+    # Fighter save: +2 STR
+    # Morale 9: +2 CHA
+    # Special HD (+1 hp): +1 CON
+    # Speed Fly 120' -> double near (fly): +2 DEX
+    # Expected: STR 1+2=3, DEX 1+2=3, CON 1+1=2, INT 1, WIS 1, CHA 1+2=3
+    res5 = compute_attributes("5+1*", "Fighter: 5", "9", "Fly 120'")
+    print(f"Fast High-HD Giant parsed modifiers: {res5}")
+    assert res5 == [3, 3, 2, 1, 1, 3], f"High HD failed: {res5}"
+    
+    # Test case 6: Flat save adjustments inside saveAs
+    # Fighter: 1 (+2 Poison saves) -> CON +2
+    res6a = compute_attributes("1", "Fighter: 1 (+2 Poison saves)", "7", "30'")
+    print(f"CON Adjustment modifier: {res6a}")
+    assert res6a == [2, 0, 2, 0, 0, 0], f"CON save bonus failed: {res6a}"
+    
+    # Fighter: 1 (+2 vs. Death Ray or Poison and Paralysis or Petrification) -> CON +2, STR +2
+    res6b = compute_attributes("1", "Fighter: 1 (+2 vs. Death Ray or Poison and Paralysis or Petrification)", "7", "30'")
+    print(f"Multi-Attribute save modifier: {res6b}")
+    assert res6b == [4, 0, 2, 0, 0, 0], f"Multi-attribute save bonus failed: {res6b}"
+    
+    print("Shadowdark Attributes Modifiers: PASS")
+
+    # 5. Test Trait Grammatical Translations
+    print("\n--- 5. Testing Trait Grammatical Translations ---")
+    trait_tests = [
+        # (text, level, expected)
+        ("a save vs. Spells reduces damage to half.", 15, "a DC 15 INT check reduces damage to half."),
+        ("must succeed on a save vs. Spells or become charmed.", 2, "must succeed on a DC 12 INT check or become charmed."),
+        ("unless they save vs magic.", 2, "unless they succeed on a DC 12 INT check."),
+        ("unless the victim passes a saving throw vs poison.", 1, "unless the victim passes a DC 12 CON check."),
+        ("must save vs. Poison at +2", 3, "must succeed on a DC 12 CON check at +2"),
+        ("a successful save vs. Paralysis is allowed.", 10, "a successful DC 14 STR check is allowed."),
+        ("created by an evil Magic-User.", 1, "created by an evil Wizard."),
+        ("formed by two magic-users.", 1, "formed by two wizards."),
+        ("It has infravision with a range of 120'.", 1, "It has darkvision with a range of 120'."),
     ]
-    for cls, lvl, expected_mod in modifier_tests:
-        jds = get_jds(cls, lvl)
-        breath_save = jds[3]
-        mod = math.floor((15 - breath_save) / 2)
-        print(f"{cls.capitalize()} Level {lvl} -> Breath Save: {breath_save} -> Derived Initiative Modifier: {mod}")
-        assert mod == expected_mod, f"Expected modifier {expected_mod}, got {mod}"
-    print("Initiative Modifier Progression: PASS")
+    for text, lvl, expected in trait_tests:
+        translated = translate_trait_text(text, lvl)
+        print(f"Original: \"{text}\"\n  Result: \"{translated}\"")
+        assert translated == expected, f"Failed translating: expected \"{expected}\", got \"{translated}\""
+    print("Trait Grammatical Translations: PASS")
 
     print("\n==================================================")
     print("              ALL TESTS PASSED!                   ")

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sea Giant
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "10+3 (+9)"
+layout: shadowdark
+ac: "16"
+level: "10 ()"
 hp: 57
-thaco: "+9"
-modifier: 1
-stats: ["10+3 (+9)", "57", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "57", "16", "+9"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "4d6 giant weapon, 3d6 rock"
-speed: "20' Unarmored 40' Swim 30' Unarmored 60'"
-jds: [9, 9, 11, 12, 13]
-moral: "10 (12 if defending lair)"
-xp: 1675
-nbr: "1d2, Wild 1d2, Lair 1d4"
-loot: "B + 3d6\u00d7900 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Amphibious
     desc: "Capable of breathing both air and water."

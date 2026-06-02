@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Stag Beetle
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "7"
+layout: shadowdark
+ac: "17"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7", "31", "2 [17]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "17", "+7"]
 attack: "1 bite"
 damage: "1d6 bite (female) or 2d12 bite (male)"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 1875
-nbr: "1d12"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite
     desc: "D20 to hit, 1d6 bite (female) or 2d12 bite (male)"

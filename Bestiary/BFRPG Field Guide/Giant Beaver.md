@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Beaver
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite (2d8)"
 damage: "2d8"
-speed: "30' swim 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "4d10"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
   - name: bite (2d8)
     desc: "D20 to hit, 2d8"

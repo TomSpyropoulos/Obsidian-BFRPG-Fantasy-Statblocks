@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Watcher Celestial
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "14** (+11)"
+layout: shadowdark
+ac: "18"
+level: "14 ()"
 hp: 74
-thaco: "+11"
-modifier: 2
-stats: ["14** (+11)", "74", "1 [18]", "+11"]
+atk_bonus: "+11"
+modifier: 5
+stats: ["14 ()", "74", "18", "+11"]
 attack: "2 slams (2d10)"
 damage: "-"
-speed: "40' Fly 80'"
-jds: [7, 8, 10, 11, 12]
-moral: "12"
-xp: 2830
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+5", "+5", "+4", "+3", "+3", "+8"]
 traits:
   - name: See Through Deception
     desc: "Watchers see through all forms of illusion and deception, automatically."
   - name: Spellcasting
-    desc: "They have spellcasting abilities as if they were both a 12th-level cleric, and a 10th-level Magic-User."
+    desc: "They have spellcasting abilities as if they were both a 12th-level cleric, and a 10th-level Wizard."
   - name: Immunities
     desc: "Immune to sleep, hold, and charm spells, as well as illusions."
 source: BFRPG Field Guide

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Humanoid Infected
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "2"
+layout: shadowdark
+ac: "10"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "9 [10]", "+2"]
+stats: ["2", "9", "10", "+2"]
 attack: "1 weapon"
 damage: "By weapon +1"
-speed: "30'"
-jds: [12, 13, 14, 15, 17]
-moral: "10"
-xp: 75
-nbr: "1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 actions:
   - name: weapon
     desc: "D20 to hit, By weapon +1"

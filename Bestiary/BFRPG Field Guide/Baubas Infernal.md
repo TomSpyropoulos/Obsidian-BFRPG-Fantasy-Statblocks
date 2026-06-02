@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Baubas Infernal
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "15"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 2
-stats: ["7**", "31", "4 [15]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "31", "15", "+7"]
 attack: "2 claws or 1 bite or 1 spell"
 damage: "1d6 claw + hold or 2d6 bite"
-speed: "50'"
-jds: [9, 10, 10, 10, 11]
-moral: "11"
-xp: 800
-nbr: "1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+3", "+1", "+1", "+1", "+5"]
 traits:
   - name: Feed on Fear
-    desc: "When encountered in its natural form, all opponents must make a morale check each round. For every person who fails, their morale is semi-permanently lowered by 1, and the baubas heals 1d6 HP. Only a **restoration** spell will return their morale to normal."
+    desc: "When encountered in its natural form, all opponents must make a DC 12 CHA check each round. For every person who fails, their morale (CHA) is semi-permanently lowered by 1, and the baubas heals 1d6 HP. Only a **restoration** spell will return their morale (CHA) to normal."
   - name: Grab and Hold
     desc: "In combat, the baubas may attack with its claws, attempting to grab hold of people. Once they are held, it may bite them or drag them away to murder them in private, usually in some manner that is cruel and unusual."
   - name: Shapeshifting

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ushac
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "1-1*"
+layout: shadowdark
+ac: "10"
+level: "1"
 hp: 3
-thaco: "+1"
-modifier: -1
-stats: ["1-1*", "3", "9 [10]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "3", "10", "+1"]
 attack: "1 weapon"
 damage: "By weapon"
-speed: "30'"
-jds: [13, 14, 15, 16, 18]
-moral: "9"
-xp: 13
-nbr: "1d8"
-loot: "Q each; C in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Innate Spellcasting
     desc: "Can cast light (or its reverse, darkness) and purify food and water once per day. These innate powers are cast at first-level ability."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Owlwolf
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "3 [16]", "+3"]
+stats: ["3", "13", "16", "+3"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
-speed: "60', special'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 175
-nbr: "1d6+2, Lair 2d6+2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Darkvision
     desc: "Perfect Darkvision up to 200 feet in complete non-magical darkness."

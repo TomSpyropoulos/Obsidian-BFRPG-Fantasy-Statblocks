@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Avenger Advi
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "17"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "17", "+8"]
 attack: "2 blades or 1 beam"
 damage: "2d8 blade, 4d6 beam"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 1150
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Climb
     desc: "Its sharp legs allow it to climb vertical surfaces such as walls."

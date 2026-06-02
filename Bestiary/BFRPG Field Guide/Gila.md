@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gila
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1-1"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 3
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1-1", "3", "5 [14]", "+1"]
+stats: ["1", "3", "14", "+1"]
 attack: "1 bite / 1 weapon"
 damage: "1d4 bite, by weapon"
-speed: "30'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 10
-nbr: "1d6, Wild 2d4, Lair 4d8"
-loot: "Q, R each; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Venomous Bite
-    desc: "When using a small or medium-sized melee weapon, a gila may also bite for 1d4 points of damage, which also delivers a painful but otherwise mild toxin. Those affected must save vs. Poison or suffer an additional 1d3 points of damage and a -1 attack and damage penalties for the next four hours. Multiple bites will cause additional damage and the penalties are cumulative. While the toxin is active rest is impossible, as are activities that require rest or inactivity (such as spell memorization). A neutralize poison spell will nullify this lingering effect."
+    desc: "When using a small or medium-sized melee weapon, a gila may also bite for 1d4 points of damage, which also delivers a painful but otherwise mild toxin. Those affected must succeed on a DC 12 CON check or suffer an additional 1d3 points of damage and a -1 attack and damage penalties for the next four hours. Multiple bites will cause additional damage and the penalties are cumulative. While the toxin is active rest is impossible, as are activities that require rest or inactivity (such as spell memorization). A neutralize poison spell will nullify this lingering effect."
 actions:
   - name: bite
     desc: "D20 to hit, 1d4 bite, by weapon"

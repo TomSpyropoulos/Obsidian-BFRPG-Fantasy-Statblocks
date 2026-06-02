@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Werewolf* Lycanthrope
+name: Werewolf Lycanthrope
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Werewolf* Lycanthrope
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+name: Werewolf Lycanthrope
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite (or 1 weapon)"
 damage: "2d4 (1d6 or by weapon)"
-speed: "60' Human Form 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1d6, Wild 2d6, Lair 2d6"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite (or 1 weapon)
     desc: "D20 to hit, 2d4 (1d6 or by weapon)"

@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Black Pudding
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "13"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "6 [13]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "13", "+9"]
 attack: "1 pseudopod"
 damage: "3d8"
-speed: "20'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Splitting
-    desc: "If attacked with normal or magical weapons, or with lightning or electricity, a black pudding suffers no injury, but will be split into two puddings; the GM should divide the original black pudding's hit dice between the two however he or she sees fit, with the limitation that neither pudding may have less than two hit dice. A two hit die black pudding is simply unharmed by such attacks, but cannot be split further."
+    desc: "If attacked with normal or magical weapons, or with lightning or electricity, a black pudding suffers no injury, but will be split into two puddings; the GM should divide the original black pudding's levels between the two however he or she sees fit, with the limitation that neither pudding may have less than two levels. A two level black pudding is simply unharmed by such attacks, but cannot be split further."
   - name: Cold Immunity
     desc: "Cold or ice based attacks do not harm a black pudding, but such an attack will paralyze the pudding for one round per die of damage the attack would normally cause."
   - name: Acid

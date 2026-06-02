@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Eagle
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+atk_bonus: "+2"
+modifier: 2
+stats: ["2", "9", "12", "+2"]
 attack: "2 talons / 1 beak"
 damage: "1d6/1d6/1d4"
-speed: "10' fly 160 (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1, Wild 1d4"
-loot: "Nil"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 actions:
   - name: talons
     desc: "D20 to hit, 1d6"

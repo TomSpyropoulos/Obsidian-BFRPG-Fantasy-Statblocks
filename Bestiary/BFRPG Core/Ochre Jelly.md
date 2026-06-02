@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Ochre Jelly
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "5*"
+layout: shadowdark
+ac: "11"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5*", "22", "8 [11]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "11", "+5"]
 attack: "1 pseudopod (2d6)"
 damage: "2d6"
-speed: "10'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 405
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Immunity
-    desc: "Ochre jellies can only be hit (damaged) by fire or cold. Attacks with weapons or electricity/lightning cause the creature to divide into 1d4+1 smaller jellies of 2 hit dice apiece. If divided, the resulting smaller jellies do 1d6 points of damage with each hit. Other attack forms simply have no effect on the monster."
+    desc: "Ochre jellies can only be hit (damaged) by fire or cold. Attacks with weapons or electricity/lightning cause the creature to divide into 1d4+1 smaller jellies of 2 levels apiece. If divided, the resulting smaller jellies do 1d6 points of damage with each hit. Other attack forms simply have no effect on the monster."
 actions:
   - name: pseudopod (2d6)
     desc: "D20 to hit, 2d6"

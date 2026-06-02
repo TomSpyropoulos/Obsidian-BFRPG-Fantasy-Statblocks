@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Green Jelly
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "2**"
+layout: shadowdark
+ac: "11"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2**", "9", "8 [11]", "+2"]
+stats: ["2", "9", "11", "+2"]
 attack: "1 special"
 damage: "special"
-speed: "1'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 125
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Dissolves Organic Matter
     desc: "Devours flesh and organic materials on contact. Can dissolve normal metal or enchanted wood in a turn and normal wood in 2d4 rounds. Does not harm stone or enchanted metal."

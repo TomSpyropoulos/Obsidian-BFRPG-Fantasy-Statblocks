@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Sea Dragon
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "18"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "1 [18]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["8", "36", "18", "+8"]
 attack: "2 claws/1 bite or breath"
 damage: "1d6/1d6/3d8 or breath"
-speed: "10' Fly 60' (20') Swim 60' (15')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1015
-nbr: "1, Wild 1, Lair 1d4"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+3"]
 traits:
   - name: Breath Weapon
     desc: "Steam (Cloud)"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Edmontosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "14"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "14", "+10"]
 attack: "1 tail lash (1d4)"
 damage: "1d4"
-speed: "60'"
-jds: [8, 9, 10, 12, 13]
-moral: "6"
-xp: 1875
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+2"]
 actions:
   - name: tail lash (1d4)
     desc: "D20 to hit, 1d4"

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Regenerating Gnoll
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon"
 damage: "2d4 or by weapon +1"
-speed: "30' Unarmored 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8 (6)"
-xp: 100
-nbr: "1d6, Wild 3d6, Lair 3d6"
-loot: "Q, S each; D, K in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Regeneration
-    desc: "Regenerating gnolls possess a unique regenerative ability, similar to their distant relatives, the trolls, that allows them to heal one hit point of damage each round after being injured. Unlike trolls however, gnolls will die when their hit points reach zero. Moreover, wounds caused by fire and acid cannot be regenerated and require normal healing. When confronted with attackers wielding fire or acid, regenerating gnolls exhibit a lower morale (6) due to their heightened vulnerability."
+    desc: "Regenerating gnolls possess a unique regenerative ability, similar to their distant relatives, the trolls, that allows them to heal one hit point of damage each round after being injured. Unlike trolls however, gnolls will die when their hit points reach zero. Moreover, wounds caused by fire and acid cannot be regenerated and require normal healing. When confronted with attackers wielding fire or acid, regenerating gnolls exhibit a lower morale (CHA) (6) due to their heightened vulnerability."
   - name: Limb Regeneration
     desc: "The regenerative powers of these gnolls are unable to reattach severed limbs like trolls can. However, a severed limb will regrow within 1d4 days."
   - name: Darkvision

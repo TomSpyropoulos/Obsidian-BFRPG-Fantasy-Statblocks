@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Water Spider
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3+3*"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 16
-thaco: "+3"
-modifier: 0
-stats: ["3+3*", "16", "5 [14]", "+3"]
+atk_bonus: "+3"
+modifier: 1
+stats: ["3", "16", "14", "+3"]
 attack: "1 bite (1d4 + poison)"
 damage: "-"
-speed: "70'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 175
-nbr: "1d10"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+1", "+0", "+0", "+0"]
 traits:
   - name: Air-breather
     desc: "Can operate underwater for a full turn without suffering injury. Do not swim, but rather walk on the bottom, climbing rocks or vegetation to surface."

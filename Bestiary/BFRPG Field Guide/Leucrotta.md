@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Leucrotta
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "6+1"
+layout: shadowdark
+ac: "15"
+level: "6"
 hp: 28
-thaco: "+6"
-modifier: 0
-stats: ["6+1", "28", "4 [15]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "28", "15", "+6"]
 attack: "1 bite or 2 kicks"
 damage: "3d6 bite, 1d6 kick"
-speed: "90'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 500
-nbr: "1d4"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+2", "+1", "+1", "+1"]
 traits:
   - name: Voice Mimicry
     desc: "A leucrotta can imitate any male or female voice of any human, demi-human, or humanoid, from the high-pitched tones of a pixie to the deepest rumble of a giant. This ability is used to lure potential victims into ambush situations. Leucrotta virtually always know the Common tongue, and have a 25% chance to know any of the following (roll once per language as needed): Elvish, Dwarvish, Orcish, Goblin, Gnoll, or Giant."

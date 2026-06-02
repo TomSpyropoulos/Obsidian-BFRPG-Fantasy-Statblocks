@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Subterranean Lizard
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 bite"
 damage: "2d6"
-speed: "60'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 500
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Stealth
     desc: "Very quiet and normally gain surprise on 1-3 on 1d6."

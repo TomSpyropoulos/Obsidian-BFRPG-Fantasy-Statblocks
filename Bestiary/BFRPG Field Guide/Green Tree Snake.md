@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Green Tree Snake
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 bite"
 damage: "1d4+1"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
   - name: bite
     desc: "D20 to hit, 1d4+1"

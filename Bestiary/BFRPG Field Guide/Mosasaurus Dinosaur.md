@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Mosasaurus Dinosaur
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "12"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "7 [12]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["12 ()", "64", "12", "+10"]
 attack: "2 claws / 1 tail lash"
 damage: "1d4 claw, 2d4 tail lash"
-speed: "20' Swim 90'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 1875
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d4 claw, 2d4 tail lash"

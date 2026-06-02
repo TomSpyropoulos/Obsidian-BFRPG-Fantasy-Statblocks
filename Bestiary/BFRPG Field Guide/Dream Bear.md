@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dream Bear
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "16"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "16", "+8"]
 attack: "2 claws + hug / 1 bite"
 damage: "1d4 claw, 2d8 hug, 1d8 bite"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 945
-nbr: "1d4, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Hug Attack
     desc: "If it succeeds both claw attacks against the same target it performs a hug attack (2d8 damage)."
   - name: Bear in Mind Curse
-    desc: "Anyone bitten by a dream bear must save vs. Spells or suffer from a curse known only as 'bear in mind.' This curse causes the victim to have vivid, realistic dreams of living as a bear, and strongly compels the afflicted person to behave like a bear. The victim may save vs. Magic Wands to resist these impulses for a day. The curse may be removed with a casting of remove curse. After a month of this curse the victim must save vs. Spells or turn into a dream bear. This check should be performed every month until the curse is removed. This change, if it happens, can only be reversed by a wish."
+    desc: "Anyone bitten by a dream bear must succeed on a DC 13 INT check or suffer from a curse known only as 'bear in mind.' This curse causes the victim to have vivid, realistic dreams of living as a bear, and strongly compels the afflicted person to behave like a bear. The victim may succeed on a DC 13 WIS check to resist these impulses for a day. The curse may be removed with a casting of remove curse. After a month of this curse the victim must succeed on a DC 13 INT check or turn into a dream bear. This check should be performed every month until the curse is removed. This change, if it happens, can only be reversed by a wish."
 actions:
   - name: claws + hug
     desc: "D20 to hit, 1d4 claw, 2d8 hug, 1d8 bite"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hatchette
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4"
+layout: shadowdark
+ac: "12"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "12", "+4"]
 attack: "2 claws / 1 beak"
 damage: "1d6 claw, 2d6 beak"
-speed: "50'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Axe-like Beak
     desc: "Swing their heads, using the razor-sharp edge of their beaks like an axe."

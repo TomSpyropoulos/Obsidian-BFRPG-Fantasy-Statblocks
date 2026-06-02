@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dogboy
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "17"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "2 [17]", "+3"]
+stats: ["3", "13", "17", "+3"]
 attack: "1"
 damage: "1d6 bite or 3d6 breath"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 175
-nbr: "2d6"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Fire Breath
     desc: "1 in 6 times, produces a 10'x10' code that does 3d6 damage."

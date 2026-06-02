@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ocean Fairy
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "17", "+9"]
 attack: "4 water jets or 1 flood"
 damage: "1d8 water jet, 4d6 flood"
-speed: "30' swim 60'"
-jds: [11, 10, 9, 13, 11]
-moral: "6"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+2", "+3", "+4", "+2", "+1"]
 actions:
   - name: water jets or 1 flood
     desc: "D20 to hit, 1d8 water jet, 4d6 flood"

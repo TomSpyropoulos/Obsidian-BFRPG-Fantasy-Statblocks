@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tommyknocker
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+atk_bonus: "+2"
+modifier: 2
+stats: ["2", "9", "14", "+2"]
 attack: "1 bite"
 damage: "1d4 bite"
-speed: "40'"
-jds: [12, 14, 12, 15, 14]
-moral: "9"
-xp: 75
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+2", "+0", "+0", "+0", "+2"]
 traits:
   - name: Move Silently and Hide
     desc: "75% success rate, which allows them to move about a mine undetected."

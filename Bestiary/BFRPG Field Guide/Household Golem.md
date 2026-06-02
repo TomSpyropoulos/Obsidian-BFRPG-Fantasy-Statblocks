@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Household Golem
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "\u00bd (1d4 hit points)"
+layout: shadowdark
+ac: "10"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 hit points)", "2", "9 [10]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["\u00bd (1d4 hit points)", "2", "10", "+0"]
 attack: "1"
 damage: "1"
-speed: "40'"
-jds: [13, 14, 15, 16, 18]
-moral: "12"
-xp: 10
-nbr: "2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 actions:
   - name: 1
     desc: "D20 to hit, 1"

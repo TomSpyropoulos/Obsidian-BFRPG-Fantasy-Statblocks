@@ -10,32 +10,26 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Nymph
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "3**"
+layout: shadowdark
+ac: "10"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3**", "13", "9 [10]", "+3"]
+stats: ["3", "13", "10", "+3"]
 attack: "None (special, see below)"
 damage: "None"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 205
-nbr: "1d4"
-loot: "Q x 10, V"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Magical abilities
     desc: "They have the magical abilities of a 7th-level Cleric."
   - name: Dimension door
     desc: "Once per day."
   - name: Blinding beauty
-    desc: "Merely looking at a nymph can cause blindness, unless a save vs. Wands is made; this blindness is permanent, but can be cured with the remove curse spell."
+    desc: "Merely looking at a nymph can cause blindness, unless a DC 12 WIS check is made; this blindness is permanent, but can be cured with the remove curse spell."
   - name: Stunning beauty
-    desc: "If the nymph is caught naked or chooses to undress, onlookers must save vs. Death Ray or die."
+    desc: "If the nymph is caught naked or chooses to undress, onlookers must succeed on a DC 12 CON check or die."
   - name: Immunity to beauty
     desc: "Anyone making either of these saves never needs to do so again when encountering a nymph."
   - name: Amphibious

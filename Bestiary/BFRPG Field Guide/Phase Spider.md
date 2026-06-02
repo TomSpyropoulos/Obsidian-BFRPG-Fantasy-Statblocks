@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Phase Spider
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "9+1 (+8)"
+layout: shadowdark
+ac: "14"
+level: "9 ()"
 hp: 49
-thaco: "+8"
-modifier: 1
-stats: ["9+1 (+8)", "49", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "49", "14", "+8"]
 attack: "1 bite + poison"
 damage: "1d6 + poison"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 1075
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Phase Shift
     desc: "Can shift between tangible and intangible states. When intangible, the phase spider is invisible, insubstantial, and capable of moving in any direction (even up or down), albeit at half-normal speed. As an intangible creature, it can move through solid objects, including living creatures."

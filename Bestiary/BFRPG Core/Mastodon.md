@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mastodon
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "15 *(+11)"
+layout: shadowdark
+ac: "17"
+level: "15 ()"
 hp: 78
-thaco: "+11"
-modifier: 1
-stats: ["15 *(+11)", "78", "2 [17]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["15 ()", "78", "17", "+11"]
 attack: "2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
 damage: "-"
-speed: "50' (15')'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 2175
-nbr: "Wild 2d8"
-loot: "special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 source: BFRPG Core
 ```
 

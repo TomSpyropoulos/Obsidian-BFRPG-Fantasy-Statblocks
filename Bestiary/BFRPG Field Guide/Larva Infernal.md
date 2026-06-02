@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Larva Infernal
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "7 [12]", "+1"]
+stats: ["1", "4", "12", "+1"]
 attack: "1 bite (1d4+1)"
 damage: "-"
-speed: "30'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 25
-nbr: "4d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 source: BFRPG Field Guide
 ```
 

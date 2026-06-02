@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Guardian Celestial
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "16"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9 ()", "48", "16", "+8"]
 attack: "2 claws"
 damage: "1d10 claw"
-speed: "40' Fly 80' (20')'"
-jds: [8, 9, 11, 13, 12]
-moral: "11"
-xp: 1150
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+4", "+3", "+2", "+4", "+6"]
 traits:
   - name: Spellcasting
     desc: "Casts spells as a 10th-level Cleric."

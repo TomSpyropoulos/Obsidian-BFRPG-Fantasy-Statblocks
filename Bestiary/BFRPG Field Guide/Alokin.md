@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Alokin
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2*", "9", "7 [12]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "12", "+2"]
 attack: "1 fist or beam weapon"
 damage: "1d3 fist, 1d8 beam weapon"
-speed: "90' (30')'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 100
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Beam Weapon
     desc: "If captured, this weapon may be used by player characters, but with a -2 penalty to a ranged attack roll. The captured weapon will have 2d6 charges remaining."

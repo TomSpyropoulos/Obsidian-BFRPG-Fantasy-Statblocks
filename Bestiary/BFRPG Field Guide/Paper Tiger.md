@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Paper Tiger
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "7*, 9*,"
+layout: shadowdark
+ac: "14"
+level: "7, 9,"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7*, 9*,", "31", "5 [14]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7, 9,", "31", "14", "+7"]
 attack: "2 claws, 1 bite"
 damage: "1d8 claw, 2d6 bite"
-speed: "60'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 735
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Surprise
     desc: "Surprises on a roll of 1-5 on 1d6."

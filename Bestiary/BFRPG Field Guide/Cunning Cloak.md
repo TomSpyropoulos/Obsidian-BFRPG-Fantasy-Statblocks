@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cunning Cloak
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "16", "+6"]
 attack: "2 claws + suffocation"
 damage: "1d4 claw + suffocation"
-speed: "1' Fly 20'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 500
-nbr: "1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
 traits:
   - name: Engulf
-    desc: "Depending on its location relative to prey, it may fly, drop, or wrap itself around the victim, who must make a save vs. Breath Weapon or be engulfed. Once engulfed, the captured individuals' limbs cannot move."
+    desc: "Depending on its location relative to prey, it may fly, drop, or wrap itself around the victim, who must make a DC 13 DEX check Weapon or be engulfed. Once engulfed, the captured individuals' limbs cannot move."
   - name: Claws
     desc: "Present but hidden in the cunning cloak are two claws (1d4 each) which can be used to stab its prey, defend itself."
   - name: Damage Split

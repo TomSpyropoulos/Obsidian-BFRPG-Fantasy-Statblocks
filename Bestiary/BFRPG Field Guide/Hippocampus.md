@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hippocampus
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "12", "+2"]
 attack: "2 hooves (1d4)"
 damage: "1d4 hoof"
-speed: "Swim 80'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "Wild 10d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 actions:
   - name: hooves (1d4)
     desc: "D20 to hit, 1d4 hoof"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Shadow Geminate Serpent
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "20"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "-1 [20]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "20", "+8"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d12+energy drain (1 level), breath, 2d4 constrict*"
-speed: "10'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 1015
-nbr: "Lair 1d3+1"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Shadow-bound
     desc: "Cannot move outside of shadows. Take 2d8 points of damage every round in direct light. Dying in light reduces body to ash."

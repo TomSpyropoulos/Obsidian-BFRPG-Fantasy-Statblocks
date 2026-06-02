@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cheiropteran
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "1 weapon"
 damage: "By weapon +2"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 240
-nbr: "Wild 2d6, Lair 10d6"
-loot: "Special each, B, M lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Echolocation
     desc: "Blind (empty eye sockets sewn shut) but can 'see' through echolocation as a bat does."

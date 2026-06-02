@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Timber Wolf
-layout: BFRPG
-ac: "-4 [23]"
-hit_dice: "18* (+12)"
+layout: shadowdark
+ac: "23"
+level: "18 ()"
 hp: 93
-thaco: "+12"
-modifier: 2
-stats: ["18* (+12)", "93", "-4 [23]", "+12"]
+atk_bonus: "+12"
+modifier: 4
+stats: ["18 ()", "93", "23", "+12"]
 attack: "1 bite or 1 trample"
 damage: "3d8 bite, 4d10 trample"
-speed: "40' (10')'"
-jds: [6, 7, 8, 10, 11]
-moral: "11"
-xp: 4160
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 traits:
   - name: Trample
     desc: "In order to trample it must first move at least 10 feet."

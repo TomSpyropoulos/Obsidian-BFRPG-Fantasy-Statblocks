@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Spectre
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 3
+stats: ["6", "27", "16", "+6"]
 attack: "1 touch"
 damage: "Energy drain 2 levels/touch"
-speed: "Fly 100'"
-jds: [10, 11, 12, 14, 15]
-moral: "11"
-xp: 610
-nbr: "1d4, Lair 1d8"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+5"]
 traits:
   - name: Energy Drain
     desc: "On any successful hit against a living creature, a spectre drains two life energy levels in addition to doing normal damage."

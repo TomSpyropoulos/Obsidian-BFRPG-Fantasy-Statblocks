@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Catoblepas
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "12"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "7 [12]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "12", "+7"]
 attack: "1 tail or gaze"
 damage: "1d6 tail, save vs. Death Ray or die gaze"
-speed: "20'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 800
-nbr: "1d3"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Death Gaze
-    desc: "Its gaze shines with a pale green beam of light; any creature touched by this ray must save vs. Death Ray or die instantly. Its ungainly-balanced neck and general unwillingness to get involved means that it will only be able to bring its head to bear once every 1d4 rounds. However, if it should gain surprise a catoblepas will nearly always forget itself and glance upward long enough to use its gaze."
+    desc: "Its gaze shines with a pale green beam of light; any creature touched by this ray must succeed on a DC 13 CON check or die instantly. Its ungainly-balanced neck and general unwillingness to get involved means that it will only be able to bring its head to bear once every 1d4 rounds. However, if it should gain surprise a catoblepas will nearly always forget itself and glance upward long enough to use its gaze."
   - name: Death Immunity
     desc: "Catoblepas are immune to any magical effects that cause instant death, including disintegration."
 actions:

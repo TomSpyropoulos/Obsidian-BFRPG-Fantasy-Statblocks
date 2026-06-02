@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Dragonfly
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "4"
+layout: shadowdark
+ac: "19"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 1
-stats: ["4", "18", "0 [19]", "+4"]
+atk_bonus: "+4"
+modifier: 3
+stats: ["4", "18", "19", "+4"]
 attack: "1 bite (2d10)"
 damage: "2d10"
-speed: "60' Fly 240' (0')'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 240
-nbr: "1, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Aerial Agility
     desc: "Fast, agile fliers capable of highly accurate aerial ambushes, able to fly in any direction, and changing direction suddenly, able to propel themselves upward, downward, forward, backward, to left and to right with equal agility."

@@ -10,34 +10,28 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Fairy Dragon
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3*", "13", "5 [14]", "+3"]
+atk_bonus: "+3"
+modifier: 2
+stats: ["3", "13", "14", "+3"]
 attack: "1 bite or breath or spell"
 damage: "1d2 bite or special"
-speed: "30' Fly 120'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 175
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Invisibility
     desc: "Can become invisible at will, and remain invisible even while attacking."
   - name: Breath Weapon
-    desc: "Invisible cloud of gas 2 feet in diameter that causes any living creature in the area of effect to become euphoric unless a save vs. Dragon Breath is made. Euphoria lasts 1d4 turns, and while affected the creature wanders around aimlessly in a daze, unable to attack, cast spells, and suffering a -2 penalty to its armor class."
+    desc: "Invisible cloud of gas 2 feet in diameter that causes any living creature in the area of effect to become euphoric unless a DC 12 DEX check is made. Euphoria lasts 1d4 turns, and while affected the creature wanders around aimlessly in a daze, unable to attack, cast spells, and suffering a -2 penalty to its armor class."
   - name: Telepathy
     desc: "Can communicate with one another telepathically with a maximum range of 2 miles."
   - name: Languages
     desc: "Speak their own language as well as the languages of the smaller fey creatures such as sprites and pixies."
   - name: Spellcasting
-    desc: "All fairy dragons cast spells; 60% of them are equivalent to 5th-level Magic-users, while the remaining 40% have the powers of 6th-level Clerics."
+    desc: "All fairy dragons cast spells; 60% of them are equivalent to 5th-level Wizards, while the remaining 40% have the powers of 6th-level Clerics."
 actions:
   - name: bite or breath or spell
     desc: "D20 to hit, 1d2 bite or special"

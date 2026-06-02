@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Barracuda Fish
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "9 (+8)"
+layout: shadowdark
+ac: "14"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9 (+8)", "48", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "14", "+8"]
 attack: "1 bite"
 damage: "2d8+1"
-speed: "Swim 60' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1075
-nbr: "Wild 1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Keen Eyesight
     desc: "Surprised only on a 1 on 1d6."

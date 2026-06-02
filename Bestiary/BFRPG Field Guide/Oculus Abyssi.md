@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Oculus Abyssi
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "11** (+9)"
+layout: shadowdark
+ac: "14"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 1
-stats: ["11** (+9)", "58", "5 [14]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["11 ()", "58", "14", "+9"]
 attack: "2 claws, 1 bite"
 damage: "2d4 claw, 1d8 bite"
-speed: "Swim 30' Fly 10'"
-jds: [9, 9, 11, 12, 13]
-moral: "7"
-xp: 1765
-nbr: "1"
-loot: "R"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Blinding Flash
-    desc: "The main eye is able to emit a blinding flash of light affecting a conical area extending 30 feet from the monster and being 20 feet wide at the base (far end). All creatures within this area must save vs. Death Ray or be blinded for 2d4 rounds."
+    desc: "The main eye is able to emit a blinding flash of light affecting a conical area extending 30 feet from the monster and being 20 feet wide at the base (far end). All creatures within this area must succeed on a DC 14 CON check or be blinded for 2d4 rounds."
   - name: Eye Stalk Magic
     desc: "The lesser eyes of this monster can also perform magical attacks, with one able to generate hold person and the other hold monster (both as the spell). These eyes, being on long stalks, can target creatures in any direction, even those underneath its body. All of these powers can be used at will, once per round."
   - name: Phantasmal Force

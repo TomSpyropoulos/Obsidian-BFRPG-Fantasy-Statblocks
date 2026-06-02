@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Carnivorous Snow Ape
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "2 claws"
 damage: "1d6"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 500
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Camouflage
     desc: "A carnivorous snow ape is difficult to see in ice or snow, and thus surprises on 1-4 on 1d6 in such conditions."

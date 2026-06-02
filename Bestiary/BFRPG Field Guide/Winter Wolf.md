@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Winter Wolf
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 bite or breath"
 damage: "1d6 bite, 4d6 breath"
-speed: "50'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 555
-nbr: "1d4, Lair 1d6"
-loot: "U in lair only"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Breath Weapon
-    desc: "15-foot cone that can be used once every 1d4 rounds for 4d6 points of cold damage; a save vs. Dragon Breath for half damage applies."
+    desc: "15-foot cone that can be used once every 1d4 rounds for 4d6 points of cold damage; a DC 13 DEX check for half damage applies."
   - name: Cold Bite
     desc: "The bite of a winter wolf also deals an extra 1d6 points of cold damage."
   - name: Trip
-    desc: "An individual hit by a winter wolf's bite must save vs. Death Ray or be knocked to the ground prone."
+    desc: "An individual hit by a winter wolf's bite must succeed on a DC 13 CON check or be knocked to the ground prone."
   - name: Cold Immunity
     desc: "A winter wolf is immune to cold effects."
 actions:

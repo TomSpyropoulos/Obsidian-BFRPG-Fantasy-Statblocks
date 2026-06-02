@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Amalgam
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "17"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "17", "+8"]
 attack: "1 engulf"
 damage: "1d6 + energy drain (1 level)"
-speed: "Fly 90'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 945
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+7"]
 traits:
   - name: Engulf
-    desc: "An amalgam attacks by engulfing a target with its 'body.' Creatures caught suffer 1d6 points of damage due to cold each round, and also suffer one level of energy drain. Those resistant to cold or naturally-adapted to cold conditions may make a save vs. Spells every round to ignore the cold damage, but no saving throw applies to the energy drain."
+    desc: "An amalgam attacks by engulfing a target with its 'body.' Creatures caught suffer 1d6 points of damage due to cold each round, and also suffer one level of energy drain. Those resistant to cold or naturally-adapted to cold conditions may make a DC 13 INT check every round to ignore the cold damage, but no saving throw applies to the energy drain."
   - name: Spell-like Abilities
     desc: "An amalgam can cast the following spells at-will: hold person, invisibility, and silence 15' radius. It can also cast cloudkill once per day."
   - name: Undead

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ear Worms
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "1 hit point"
+layout: shadowdark
+ac: "10"
+level: "1 hit point"
 hp: 1
-thaco: "+0"
-modifier: -1
-stats: ["1 hit point", "1", "9 [10]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["1 hit point", "1", "10", "+0"]
 attack: "Special, see below"
 damage: "Special"
-speed: "10'"
-jds: [13, 14, 15, 16, 18]
-moral: "6"
-xp: 10
-nbr: "3d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Infestation
     desc: "If any living creature makes prolonged contact with an infested wooden object or structure (at least one combat round), up to 1d8+8 of them will enter the creature, preferably via an orifice, but if necessary they will puncture the skin."
@@ -37,7 +31,7 @@ traits:
   - name: Side Effects
     desc: "Those making entry through exposed skin will leave a scattering of tiny holes dotted with blood. Individuals who were infested by way of the ear sometimes report hearing distant music, chanting, or singing, never clear enough to be understood; this effect generally lasts until the larvae undergo their final transformation and leave the victim's body (or are killed somehow)."
   - name: Cures
-    desc: "Cure disease will instantly kill all larvae infesting a creature. Drinking a poison potion is another method; whoever drinks the poison must save vs. Poison or die, but so must the larvae. Area-effect spells (such as fireball) do full damage to the victim but only half damage to the larvae; consider the entire group of larvae as a unit, where each point of damage kills one of them, and any remaining thereafter continue to damage the victim."
+    desc: "Cure disease will instantly kill all larvae infesting a creature. Drinking a poison potion is another method; whoever drinks the poison must succeed on a DC 12 CON check or die, but so must the larvae. Area-effect spells (such as fireball) do full damage to the victim but only half damage to the larvae; consider the entire group of larvae as a unit, where each point of damage kills one of them, and any remaining thereafter continue to damage the victim."
 actions:
   - name: Special, see below
     desc: "D20 to hit, Special"
@@ -50,5 +44,5 @@ If any living creature makes prolonged contact with an infested wooden object or
 
 While the victim does not generally feel the larvae entering their body, there may be other side effects that might tend to reveal the infestation. Those making entry through exposed skin, for example, will leave a scattering of tiny holes dotted with blood. Individuals who were infested by way of the ear sometimes report hearing distant music, chanting, or singing, never clear enough to be understood; this effect generally lasts until the larvae undergo their final transformation and leave the victim's body (or are killed somehow, as described below).
 
-There are several possible ways to cure a character or creature infested with ear worms. First, and easiest, is to cure disease, which will instantly kill all larvae infesting a creature. Drinking a poison potion is another method; whoever drinks the poison must, of course, save vs. Poison or die, but so must the larvae. Area-effect spells (such as fireball) do full damage to the victim but only half damage to the larvae; consider the entire group of larvae as a unit, where each point of damage kills one of them, and any remaining thereafter continue to damage the victim. The referee may choose to allow other methods of killing the larvae; players are counseled to be creative.
+There are several possible ways to cure a character or creature infested with ear worms. First, and easiest, is to cure disease, which will instantly kill all larvae infesting a creature. Drinking a poison potion is another method; whoever drinks the poison must, of course, Succeed on a DC 12 CON check or die, but so must the larvae. Area-effect spells (such as fireball) do full damage to the victim but only half damage to the larvae; consider the entire group of larvae as a unit, where each point of damage kills one of them, and any remaining thereafter continue to damage the victim. The referee may choose to allow other methods of killing the larvae; players are counseled to be creative.
 

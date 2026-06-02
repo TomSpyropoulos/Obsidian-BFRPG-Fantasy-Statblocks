@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Tapper
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "5 [14]", "+3"]
+stats: ["3", "13", "14", "+3"]
 attack: "1 punch or mining pick"
 damage: "1d4 punch, 1d6 mining pick"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 145
-nbr: "1d6"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a zombie), and are immune to sleep, charm, or hold spells."

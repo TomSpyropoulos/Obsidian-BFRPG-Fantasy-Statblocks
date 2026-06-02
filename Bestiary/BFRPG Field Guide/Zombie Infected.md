@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Zombie Infected
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "3"
+layout: shadowdark
+ac: "11"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "8 [11]", "+3"]
+stats: ["3", "13", "11", "+3"]
 attack: "1 weapon"
 damage: "By weapon +1"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "10"
-xp: 145
-nbr: "2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Collective Connection
     desc: "The undead remains attached to the collective, if it still exists."

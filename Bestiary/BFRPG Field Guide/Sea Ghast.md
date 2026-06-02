@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sea Ghast
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2**"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2**", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "2 claws (1d4) / 1 bite (1d4) + paralysis (1d4+1 per day)"
 damage: "1d4 claws, 1d4 bite, + paralysis (1d4+1 per day), poison"
-speed: "Swim 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 175
-nbr: "1, Wild 1, Lair 1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Paralysis
-    desc: "Can paralyze 1d4+1 creatures per day with bite (save vs. Paralysis)."
+    desc: "Can paralyze 1d4+1 creatures per day with bite (Succeed on a DC 12 STR check)."
   - name: Poison Aura
-    desc: "Aura of poisoned water extends to 10 feet from their position. Creatures in this aura must save vs Poison."
+    desc: "Aura of poisoned water extends to 10 feet from their position. Creatures in this aura must succeed on a DC 12 CON check."
   - name: Immobile on Land
     desc: "Their softer, water-softened flesh renders them immobile outside of the water."
   - name: Undead

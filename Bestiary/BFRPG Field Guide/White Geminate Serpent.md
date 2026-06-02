@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: White Geminate Serpent
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "19"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "19", "+8"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d8 bite, breath, 2d6 constrict*"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1015
-nbr: "Lair 1d3+1"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Surprise
     desc: "Bury themselves in snow and leap forth, surprising on 1-4 on 1d6."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Catspider
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "\u00bd* (1d4 hit points)"
+layout: shadowdark
+ac: "12"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["\u00bd* (1d4 hit points)", "2", "7 [12]", "+0"]
+stats: ["\u00bd (1d4 hit points)", "2", "12", "+0"]
 attack: "1 bite (1d4 + poison) / 4 claws (1d2 + poison)"
 damage: "-"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 13
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Poison
     desc: "Bite and claws are poisonous, inflicting 1d3 points of damage/round for 3 rounds."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Zombie Horse
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "10"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "9 [10]", "+3"]
+stats: ["3", "13", "10", "+3"]
 attack: "2 hooves (1d6) / 1 bite (1d8)"
 damage: "-"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 175
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Undead Immunities
     desc: "Immune to sleep, charm, or hold magics."

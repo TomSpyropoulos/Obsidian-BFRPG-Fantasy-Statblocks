@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gynosphinx Sphinx
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "20"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "-1 [20]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["8", "36", "20", "+8"]
 attack: "2 claws + rake"
 damage: "2d4 claw, 2d4 rake"
-speed: "70', Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 945
-nbr: "1"
-loot: "F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
   - name: Rake
     desc: "On any successful attack with both of its claws, a gynosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."
   - name: Superior Senses
-    desc: "A gynosphinx has superior senses; each has the effect of both detect magic and detect invisible at all times (no need to cast a spell). It also has great wisdom and understanding, such that each gynosphinx has the effect of both read languages and read magic at all times. One can, for example, literally pick up an unknown Magic-user scroll and immediately use it."
+    desc: "A gynosphinx has superior senses; each has the effect of both detect magic and detect invisible at all times (no need to cast a spell). It also has great wisdom and understanding, such that each gynosphinx has the effect of both read languages and read magic at all times. One can, for example, literally pick up an unknown Wizard scroll and immediately use it."
   - name: Spell-like Powers
     desc: "In addition to these abilities, a gynosphinx has a number of spell-like powers which can be employed once per day each: clairaudience (as the potion), clairvoyance, dispel magic, locate object, and remove curse, all of which are cast at 7th-level of ability."
 actions:

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bronze Bird
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "1"
+layout: shadowdark
+ac: "17"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1", "4", "2 [17]", "+1"]
+atk_bonus: "+1"
+modifier: 2
+stats: ["1", "4", "17", "+1"]
 attack: "1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4)"
 damage: "1d4 beak, 1d6 wing, 1d4 feather"
-speed: "30' Fly 120' Swim 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 25
-nbr: "Wild 1d10, Lair 10d10"
-loot: "Special, see below"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Feather Throw
     desc: "May throw a dagger-like feather up to 30 feet for 1d4 damage (90 feet if thrown from above while flying). Can only throw 2 such feather-daggers (one from each wing); feathers grow back in 1d8 days."

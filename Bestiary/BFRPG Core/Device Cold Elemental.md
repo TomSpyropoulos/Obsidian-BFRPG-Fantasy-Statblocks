@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Device Cold Elemental
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "12* (+10)"
+layout: shadowdark
+ac: "19"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12* (+10)", "64", "0 [19]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "19", "+10"]
 attack: "1"
 damage: "2d8"
-speed: "40'"
-jds: [8, 9, 10, 12, 13]
-moral: "10"
-xp: 1975
-nbr: "\u2013 special \u2013"
-loot: "\u2013 None \u2013"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 actions:
   - name: 1
     desc: "D20 to hit, 2d8"

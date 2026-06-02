@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Teratosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "14"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "5 [14]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["10 ()", "54", "14", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 3d6 bite"
-speed: "120'"
-jds: [9, 9, 11, 12, 13]
-moral: "8"
-xp: 1300
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+3"]
 traits:
   - name: Surprise
     desc: "Surprise on 1-3 on 1d6 when lying in wait in tall grass."

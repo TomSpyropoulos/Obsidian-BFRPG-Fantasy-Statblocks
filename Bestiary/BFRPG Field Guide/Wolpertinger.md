@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Wolpertinger
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "15", "+2"]
 attack: "2 claws, 1 bite or 1 charge"
 damage: "1d3 claw, 1d4 bite, 2d4 charge"
-speed: "40' Fly 60'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 75
-nbr: "1d4"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
 traits:
   - name: Charge
     desc: "The antlers are only used when charging (following normal charging rules for double damage), and then it will attack with claws and biting after such a charge."

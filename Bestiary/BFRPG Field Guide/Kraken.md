@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Kraken
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "36** (+16)"
+layout: shadowdark
+ac: "19"
+level: "36 ()"
 hp: 178
-thaco: "+16"
-modifier: 3
-stats: ["36** (+16)", "178", "0 [19]", "+16"]
+atk_bonus: "+16"
+modifier: 9
+stats: ["36 ()", "178", "19", "+16"]
 attack: "5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
-speed: "Swim 40'"
-jds: [5, 6, 8, 9, 10]
-moral: "11"
-xp: 18500
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+11", "+9", "+10", "+9", "+9", "+13"]
 traits:
   - name: Constricting Tentacles
     desc: "Once an opponent has been hit, the kraken wraps a tentacle around the victim and automatically inflicts 7d6 points of damage each round. Victims caught in the kraken's tentacles attack at -4."

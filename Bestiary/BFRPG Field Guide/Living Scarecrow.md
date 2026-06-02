@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Living Scarecrow
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4 + 2*"
+layout: shadowdark
+ac: "12"
+level: "4 + 2"
 hp: 20
-thaco: "+4"
-modifier: 0
-stats: ["4 + 2*", "20", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4 + 2", "20", "12", "+4"]
 attack: "1 slam / 1 weapon"
 damage: "1d6+1 slam, by weapon"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 280
-nbr: "1, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Darkvision
     desc: "Darkvision out to 60 feet."

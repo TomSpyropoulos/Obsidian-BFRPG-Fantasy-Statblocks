@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Tiger
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "6"
+layout: shadowdark
+ac: "13"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "6 [13]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "13", "+6"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
-speed: "50'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 500
-nbr: "Wild 1d3, Lair 1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d6"

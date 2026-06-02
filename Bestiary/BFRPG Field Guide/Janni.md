@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Janni
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3+1"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1", "14", "5 [14]", "+3"]
+stats: ["3", "14", "14", "+3"]
 attack: "1 weapon"
 damage: "1d8+2 or by weapon +2"
-speed: "30' Unarmored 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "Wild 2d20, Lair 3d20"
-loot: "Q, R, S each; A in groups of 30+"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Expert Horseman
     desc: "Prefers to fight from horseback using large two-handed scimitars and longbows in combat."

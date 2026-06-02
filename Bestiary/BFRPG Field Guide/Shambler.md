@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Shambler
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "13** (+10)"
+layout: shadowdark
+ac: "19"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13** (+10)", "68", "0 [19]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "19", "+10"]
 attack: "2 slam + constrict"
 damage: "2d6 slam, 4d6 constrict"
-speed: "20' Swim 20'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 2395
-nbr: "1"
-loot: "B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Engulf
-    desc: "If a shambler hits with both its attacks against the same creature, that creature is engulfed by the monster. The victim can no longer attack or cast spells, and suffers 4d6 points of damage each round due to suffocation. It can only engulf man-sized or smaller creatures and may only engulf one such creature at a time. It will expel any such creature from its body 1d4 rounds after the victim dies. Attacks against a shambling mound which has engulfed a victim require a save vs. Death Ray for the victim each time the monster is hit; if the save fails, the victim suffers half (rounded down) of the damage done to the monster (which still takes full damage). The victim does benefit from the monster's resistance to fire or cold, but takes full damage from lightning attacks."
+    desc: "If a shambler hits with both its attacks against the same creature, that creature is engulfed by the monster. The victim can no longer attack or cast spells, and suffers 4d6 points of damage each round due to suffocation. It can only engulf man-sized or smaller creatures and may only engulf one such creature at a time. It will expel any such creature from its body 1d4 rounds after the victim dies. Attacks against a shambling mound which has engulfed a victim require a DC 14 CON check for the victim each time the monster is hit; if the save fails, the victim suffers half (rounded down) of the damage done to the monster (which still takes full damage). The victim does benefit from the monster's resistance to fire or cold, but takes full damage from lightning attacks."
   - name: Resistances
     desc: "A shambler takes half damage from cold and minimal damage from fire (treat all die rolls as 1), and no damage from electricity; any electrical attack against a shambler will heal 1d6 HP instead."
 actions:

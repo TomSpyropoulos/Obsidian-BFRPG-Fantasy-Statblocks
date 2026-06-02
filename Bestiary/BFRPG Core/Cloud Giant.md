@@ -10,28 +10,22 @@ source: BFRPG Core
 
 ```statblock
 name: Cloud Giant
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "12+3* (+10)"
+layout: shadowdark
+ac: "18"
+level: "12 ()"
 hp: 67
-thaco: "+10"
-modifier: 1
-stats: ["12+3* (+10)", "67", "1 [18]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "67", "18", "+10"]
 attack: "1 giant weapon or 1 thrown rock"
 damage: "6d6 or 3d6"
-speed: "20' Unarmored 40' (10')'"
-jds: [8, 9, 10, 12, 13]
-moral: "10"
-xp: 1975
-nbr: "1d2, Wild 1d3, Lair 1d3"
-loot: "E plus 1d12x1000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Thrown Rocks
     desc: "Can throw large stones up to 200' for 3d6 points of damage each."
   - name: Magic-User Abilities
-    desc: "5% of cloud giants have the abilities of a Magic-User of level 2 to 8 (2d4)."
+    desc: "5% of cloud giants have the abilities of a Wizard of level 2 to 8 (2d4)."
   - name: Tactical Fighters
     desc: "Fight in well-organized units, using carefully developed battle plans. Prefer to fight from a position above their opponents. A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells."
 actions:
@@ -44,5 +38,5 @@ Cloud giants' skin ranges in color from milky white to light sky blue. They have
 
 Cloud giants dress in the finest clothing available and wear jewelry. To many, appearance indicates station: The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite). Like most giants, they are suspicious of the smaller races, but cloud giants do not usually prey upon them, preferring instead to demand tribute from humans, demi-humans, or humanoids living nearby.
 
-Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. Cloud giants can throw large stones up to 200' for 3d6 points of damage each. Also, 5% of cloud giants have the abilities of a Magic-User of level 2 to 8 (2d4). A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells. In battle, cloud giants wear finely crafted, intricately engraved plate mail.
+Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. Cloud giants can throw large stones up to 200' for 3d6 points of damage each. Also, 5% of cloud giants have the abilities of a Wizard of level 2 to 8 (2d4). A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells. In battle, cloud giants wear finely crafted, intricately engraved plate mail.
 

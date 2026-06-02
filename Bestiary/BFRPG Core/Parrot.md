@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Parrot
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "\u00bd (1d4 hit points)"
+layout: shadowdark
+ac: "10"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 hit points)", "2", "9 [10]", "+0"]
+atk_bonus: "+0"
+modifier: 2
+stats: ["\u00bd (1d4 hit points)", "2", "10", "+0"]
 attack: "1 talon or 1 beak"
 damage: "1d4 talon or 1d4 beak"
-speed: "10' Fly 100' (10')'"
-jds: [13, 14, 15, 16, 18]
-moral: "6"
-xp: 10
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "-1"]
 actions:
   - name: talon or 1 beak
     desc: "D20 to hit, 1d4 talon or 1d4 beak"

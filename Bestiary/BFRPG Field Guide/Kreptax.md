@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Kreptax
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 weapon or 2 claws"
 damage: "by weapon or 1d4 claw"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d4, Wild 2d4, Lair 3d6"
-loot: "U, Lair B"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 60 feet."

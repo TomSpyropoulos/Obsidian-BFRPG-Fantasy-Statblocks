@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Hyenodon
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3+1"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1", "14", "7 [12]", "+3"]
+stats: ["3", "14", "12", "+3"]
 attack: "1 bite (1d8)"
 damage: "1d8"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 145
-nbr: "1d6, 1d8 Wild Lair 1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 actions:
   - name: bite (1d8)
     desc: "D20 to hit, 1d8"

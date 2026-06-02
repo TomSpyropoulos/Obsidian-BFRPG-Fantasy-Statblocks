@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lead Golem
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "12* (+10)"
+layout: shadowdark
+ac: "15"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12* (+10)", "64", "4 [15]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "15", "+10"]
 attack: "1 club"
 damage: "3d6"
-speed: "30'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 1975
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Confusion
     desc: "Can cast **confusion** once every seven rounds."

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Cyclops Giant
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "13* (+10)"
+layout: shadowdark
+ac: "14"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13* (+10)", "68", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "14", "+10"]
 attack: "1 giant club or 1 rock (thrown)"
 damage: "3d10 or 3d6"
-speed: "20' Unarmored 30'"
-jds: [8, 9, 10, 12, 13]
-moral: "9"
-xp: 2285
-nbr: "1, Wild 1d4, Lair 1d4"
-loot: "E plus 1d8x1000 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Rock Throwing
     desc: "A cyclops can throw a large rock up to 200' for 3d6 points of damage, but they aim poorly and thus suffer an attack penalty of -2."

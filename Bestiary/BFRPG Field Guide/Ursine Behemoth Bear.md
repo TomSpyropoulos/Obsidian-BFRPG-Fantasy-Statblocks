@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ursine Behemoth Bear
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "15 (+11)"
+layout: shadowdark
+ac: "20"
+level: "15 ()"
 hp: 78
-thaco: "+11"
-modifier: 2
-stats: ["15 (+11)", "78", "-1 [20]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["15 ()", "78", "20", "+11"]
 attack: "2 claws, 1 bite or hug (vs. Large)"
 damage: "2d6 claw, 2d8 bite, 4d6 hug"
-speed: "40'"
-jds: [7, 8, 10, 11, 12]
-moral: "11"
-xp: 2850
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
 actions:
   - name: claws, 1 bite or hug (vs. Large)
     desc: "D20 to hit, 2d6 claw, 2d8 bite, 4d6 hug"

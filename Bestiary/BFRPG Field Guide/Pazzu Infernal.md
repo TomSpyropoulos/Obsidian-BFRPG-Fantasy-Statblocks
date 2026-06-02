@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Pazzu Infernal
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "9*"
+layout: shadowdark
+ac: "14"
+level: "9"
 hp: 40
-thaco: "+8"
-modifier: 1
-stats: ["9*", "40", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 4
+stats: ["9", "40", "14", "+8"]
 attack: "2 claws (1d6) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d6 claw, 1d8 talon, 1d6 bite"
-speed: "40' Fly 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 1150
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+2", "+2", "+2", "+6"]
 traits:
   - name: Insect Plague
     desc: "Can cast insect plague once per turn as a 12th-level Cleric."

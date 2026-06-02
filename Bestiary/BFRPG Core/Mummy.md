@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mummy
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "16", "+5"]
 attack: "1 touch + disease"
 damage: "1d12 + disease"
-speed: "20'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 450
-nbr: "1d4, Lair 1d12"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Undead
     desc: "Immune to sleep, charm and hold magic."

@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Kappa
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws + choke"
 damage: "1d4 claw + 1d6 choke"
-speed: "30' Swim 30'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 100
-nbr: "Wild 2d6 Lair 8d6"
-loot: "-- C in Lair --"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Drowning Attack
     desc: "Any successful 2-claw attack will result in the kappa dragging its victim underwater and applying a choke hold, driving out air and injuring for 1d6 points of damage."
   - name: Suiko Leadership
-    desc: "A kappa will never fail a morale roll when a Suiko is around for fear of retribution."
+    desc: "A kappa will never fail a morale (CHA) roll when a Suiko is around for fear of retribution."
 actions:
   - name: claws + choke
     desc: "D20 to hit, 1d4 claw + 1d6 choke"

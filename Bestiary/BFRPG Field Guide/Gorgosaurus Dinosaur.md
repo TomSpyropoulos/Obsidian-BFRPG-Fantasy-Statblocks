@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gorgosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "13 (+10)"
+layout: shadowdark
+ac: "14"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13 (+10)", "68", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["13 ()", "68", "14", "+10"]
 attack: "2 claws, 1 bite"
 damage: "1d4 claw, 3d10 bite"
-speed: "90'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 2175
-nbr: "1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
 actions:
   - name: claws, 1 bite
     desc: "D20 to hit, 1d4 claw, 3d10 bite"

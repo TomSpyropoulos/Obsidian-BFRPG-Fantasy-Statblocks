@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dufferped
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 1
-stats: ["1", "4", "4 [15]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "15", "+1"]
 attack: "1"
 damage: "1d6"
-speed: "20'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 25
-nbr: "4d8"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Invisibility
     desc: "Once a day, dufferpeds have the ability to become invisible as per the spell, though as they are unable to quiet their complaining and swearing, and their hopping is loud; the ability does not help them sneak around."

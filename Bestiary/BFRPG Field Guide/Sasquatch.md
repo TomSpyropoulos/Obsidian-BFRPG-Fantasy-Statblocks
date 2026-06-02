@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Sasquatch
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "5+5"
+layout: shadowdark
+ac: "14"
+level: "5"
 hp: 27
-thaco: "+5"
-modifier: 0
-stats: ["5+5", "27", "5 [14]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "27", "14", "+5"]
 attack: "2 fists"
 damage: "1d6"
-speed: "Unarmored 30' Climb 20'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 360
-nbr: "1d3, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+2"]
 traits:
   - name: Superior Nocturnal Vision
     desc: "The sasquatch has nocturnal vision that is superior to human sight, though it does not have actual Darkvision."

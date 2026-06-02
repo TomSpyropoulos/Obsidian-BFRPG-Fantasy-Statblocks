@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dread Horseman Infernal
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "17"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "2 [17]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "17", "+6"]
 attack: "1 slam or 1 weapon"
 damage: "1d6 slam, by weapon"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 610
-nbr: "1 (+ 1 mount)"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Cleric spell abilities
-    desc: "Has Cleric spell abilities of 3rd to 5th level (based on its hit dice)."
+    desc: "Has Cleric spell abilities of 3rd to 5th level (based on its levels)."
   - name: Damage resistance
     desc: "Takes half damage from non-magical weapons. Can only be damaged by magical weapons."
   - name: Immunities
@@ -48,7 +42,7 @@ source: BFRPG Field Guide
 
 Dread Horsemen are Hell's cavalry and outriders. These skeletal warriors wear charred blackened plate mail and prefer to run down their foes and dispatch them with a **battleaxe +1**. Mounted on a skeletal steed (page 237), a zombie horse (page 287), or for the more powerful and influential of them, on a nightmare (page 155).
 
-A dread horseman also has Cleric spell abilities of 3rd to 5th level (based on its hit dice), and takes half damage from non-magical weapons, is immune to **sleep**, **charm**, **hold** magic and **fear,** and like other infernals can only be damaged by magical weapons. They also have Darkvision out to 60 feet.
+A dread horseman also has Cleric spell abilities of 3rd to 5th level (based on its levels), and takes half damage from non-magical weapons, is immune to **sleep**, **charm**, **hold** magic and **fear,** and like other infernals can only be damaged by magical weapons. They also have Darkvision out to 60 feet.
 
 If a dread horsemen stands on hallowed ground, it loses its Clerical abilities and suffers a -4 penalty on all checks and saves. It can instantly tell when it enters a hallowed area and will leave immediately.
 

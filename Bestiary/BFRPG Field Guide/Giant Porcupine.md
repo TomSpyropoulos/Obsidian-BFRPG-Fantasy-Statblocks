@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Porcupine
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 quill burst / 1 bite (see below)"
 damage: "See below for quill burst, 2d4 bite"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "6"
-xp: 500
-nbr: "1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+0"]
 traits:
   - name: Quill Burst
     desc: "1d8 quills launched at up to four adjacent opponents; each quill does 1d4 points of damage on a successful hit. Barbed quills cause an additional 1d4 points of damage when removed."
   - name: Melee Defense
     desc: "Any attacker attempting to approach to melee range will automatically suffer 1d4 quill hits, except if the attacker is using a long weapon such as a spear or polearm."
   - name: Bite
-    desc: "2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a morale check but is cornered and cannot retreat."
+    desc: "2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 CHA check but is cornered and cannot retreat."
 actions:
   - name: quill burst
     desc: "D20 to hit, See below for quill burst, 2d4 bite"
@@ -46,7 +40,7 @@ Giant Porcupines are simply a very large version of the common spiny-coated mamm
 
 The primary attack of a giant porcupine is its quill burst, a blast of quills launched by a swift snap of its short but flexible tail. The quill burst consists of 1d8 quills launched at up to four adjacent opponents (divided up more or less evenly as determined by the referee); each quill does 1d4 points of damage on a successful hit. These quills are barbed, such that removing one causes an additional 1d4 points of damage; as they are up to 3 feet in length, leaving the quills embedded in a victim is usually not an option.
 
-A giant porcupine can bite for 2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a morale check but is cornered and cannot retreat.
+A giant porcupine can bite for 2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 CHA check but is cornered and cannot retreat.
 
 Worse, any attacker attempting to approach to melee range will automatically suffer 1d4 quill hits, except if the attacker is using a long weapon such as a spear or polearm (and is thus able to remain out of reach of the giant porcupine's quills). A giant porcupine has hundreds of quills, so there is little chance one will run out of ammunition in a fight.
 

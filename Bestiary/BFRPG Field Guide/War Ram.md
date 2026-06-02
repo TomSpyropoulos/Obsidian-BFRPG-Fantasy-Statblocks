@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: War Ram
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "1 horns or 2 hooves"
 damage: "1d6 horn, 1d4 hoof"
-speed: "40' Climb 20'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "Domestic only"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 actions:
   - name: horns or 2 hooves
     desc: "D20 to hit, 1d6 horn, 1d4 hoof"

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Wolf Spider
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "17"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "2 [17]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "17", "+8"]
 attack: "1 bite (1d12 + poison)"
 damage: "-"
-speed: "50' Jump 20'"
-jds: [9, 10, 12, 13, 14]
-moral: "10"
-xp: 1150
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Poison Bite
-    desc: "Anyone bitten by a giant wolf spider must save vs. Poison or be paralyzed for 2d6 turns. A neutralize poison spell will negate this effect."
+    desc: "Anyone bitten by a giant wolf spider must succeed on a DC 13 CON check or be paralyzed for 2d6 turns. A neutralize poison spell will negate this effect."
   - name: Surprise
     desc: "Due to its natural camouflage coloration, the giant wolf spider is able to surprise prey on a roll of 1-3 on 1d6 when waiting motionless."
   - name: Leap Attack

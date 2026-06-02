@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Stegosaurus Dinosaur
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "11 (+9)"
+layout: shadowdark
+ac: "16"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 0
-stats: ["11 (+9)", "58", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "58", "16", "+9"]
 attack: "1 tail/1 bite or 1 trample"
 damage: "2d8/1d6 or 2d8"
-speed: "20' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 1575
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 actions:
   - name: tail
     desc: "D20 to hit, 2d8"

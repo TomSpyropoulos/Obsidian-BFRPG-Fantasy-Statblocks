@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Hawk
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1d4 Hit Points"
+layout: shadowdark
+ac: "11"
+level: "1d4 Hit Points"
 hp: 2
-thaco: "+0"
-modifier: 0
-stats: ["1d4 Hit Points", "2", "8 [11]", "+0"]
+atk_bonus: "+0"
+modifier: 2
+stats: ["1d4 Hit Points", "2", "11", "+0"]
 attack: "1 claw or bite"
 damage: "1d2"
-speed: "Fly 160'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 10
-nbr: "Wild 1d6, Lair 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 actions:
   - name: claw or bite
     desc: "D20 to hit, 1d2"

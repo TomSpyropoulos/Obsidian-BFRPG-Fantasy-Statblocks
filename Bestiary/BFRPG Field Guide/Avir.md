@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Avir
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1+3"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 7
-thaco: "+1"
-modifier: 0
-stats: ["1+3", "7", "5 [14]", "+1"]
+atk_bonus: "+1"
+modifier: 2
+stats: ["1", "7", "14", "+1"]
 attack: "2 kicks / 1 lance"
 damage: "1d4 kick, or by weapon"
-speed: "30' Fly 80'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "Wild 5, Lair 10d10"
-loot: "U, E in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+1", "+0", "+0", "+1"]
 traits:
   - name: Dive Attack
     desc: "Gets +4 on its attack rolls and does double damage."

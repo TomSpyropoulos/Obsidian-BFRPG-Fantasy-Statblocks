@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gold Golem
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "13* (+10)"
+layout: shadowdark
+ac: "15"
+level: "13 ()"
 hp: 68
-thaco: "+10"
-modifier: 1
-stats: ["13* (+10)", "68", "4 [15]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["13 ()", "68", "15", "+10"]
 attack: "2 crooks"
 damage: "2d6"
-speed: "40'"
-jds: [8, 9, 10, 12, 13]
-moral: "12"
-xp: 2285
-nbr: "1"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Bestow Curse
     desc: "Can cast the spell bestow curse (usually applying the -4 penalty on attack rolls and saves variant) once every seven rounds."

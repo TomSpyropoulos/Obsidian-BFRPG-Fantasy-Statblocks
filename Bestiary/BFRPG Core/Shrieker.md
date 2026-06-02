@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Shrieker
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "Special"
 damage: "None"
-speed: "5'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 145
-nbr: "1d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Shrieking
     desc: "Movement or light within 10 feet, or causing any damage to one, will cause one to wail for 1d4 rounds. The GM should generally roll a wandering monster check each round that this monster wails."

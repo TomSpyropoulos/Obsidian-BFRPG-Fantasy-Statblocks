@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Blue Geminate Serpent
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "18"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "1 [18]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "18", "+7"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d12 bite, breath, 3d4* constrict*"
-speed: "50'"
-jds: [10, 11, 12, 14, 15]
-moral: "11"
-xp: 800
-nbr: "Lair 1d3+1"
-loot: "H+L"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
 traits:
   - name: Freeze Breath
     desc: "Frozen creatures are unable to do anything besides breathe for 1d8 hours."

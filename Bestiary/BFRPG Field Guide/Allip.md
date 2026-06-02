@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Allip
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 2
+stats: ["6", "27", "14", "+6"]
 attack: "1 touch + insane babbling"
 damage: "energy drain (1 level)"
-speed: "Fly 30'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 610
-nbr: "1d4, Lair 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
 traits:
   - name: Insane babbling
-    desc: "Causes all creatures within 60 feet to save vs. Paralysis or stop and stare blankly, unable to move, attack, or defend for one round. Anyone who saves successfully will be unaffected by the allip's babble for 24 hours."
+    desc: "Causes all creatures within 60 feet to succeed on a DC 13 STR check or stop and stare blankly, unable to move, attack, or defend for one round. Anyone who saves successfully will be unaffected by the allip's babble for 24 hours."
   - name: Energy drain touch
     desc: "Touch does no direct physical damage, but instead drains one energy level; further, the allip regenerates 1d6 hit points for each level drained."
   - name: Undead immunities

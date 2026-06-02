@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Monk-ee
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "17"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "2 [17]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "17", "+4"]
 attack: "4 punches or 2 weapons"
 damage: "1d6 punch, by weapon"
-speed: "60'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 280
-nbr: "Wild 2d6, Lair 6d6"
-loot: "S, I in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Swift Combat
     desc: "Can move after attacking instead of before; one will move into striking range, perform two attack routines (one at the end of the round when it moves, the other at the beginning of the next round) and then move away in that second round."

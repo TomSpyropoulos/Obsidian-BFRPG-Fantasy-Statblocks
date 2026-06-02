@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Prehistoric Fish
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "12"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "7 [12]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["10 ()", "54", "12", "+9"]
 attack: "1 bite"
 damage: "2d10"
-speed: "Swim 90'"
-jds: [9, 9, 11, 12, 13]
-moral: "7"
-xp: 1300
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Swallow Whole
     desc: "On a natural 20 on the attack die, can swallow prey of medium size or smaller whole. Swallowed creatures suffer an additional 2d4 points of damage automatically each round from acid. Only the smallest weapons (such as daggers) can be used by a swallowed creature. A dinichthys has an armor class of just 11 on the inside."

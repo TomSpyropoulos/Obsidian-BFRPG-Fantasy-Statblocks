@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cragodile
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "8"
+layout: shadowdark
+ac: "19"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "19", "+8"]
 attack: "1"
 damage: "2d8 bite, 3d6 tail"
-speed: "30' (10') Swim 30' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 875
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Surprise
     desc: "Surprises on 1-4 on 1d6 when submerged."

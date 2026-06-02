@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Dragonhawke
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+atk_bonus: "+2"
+modifier: 2
+stats: ["2", "9", "15", "+2"]
 attack: "1 charge (dive) or 2 claws + 1 bite"
 damage: "2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 claw, 1d4 bite"
-speed: "10' Fly 120'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Dive Attack
     desc: "When diving from a great height, the dragonhawke deals 2 x claw damage with +2 attack and -2 to AC for first round after dive."

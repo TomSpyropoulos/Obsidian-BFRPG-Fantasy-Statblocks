@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Green Geminate Serpent
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "10** (+8)"
+layout: shadowdark
+ac: "20"
+level: "10 ()"
 hp: 53
-thaco: "+9"
-modifier: 1
-stats: ["10** (+8)", "53", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "53", "20", "+9"]
 attack: "2 bite or 1 breath or 1 constrict"
 damage: "2d10 bite, breath, 2d8 constrict*"
-speed: "30'"
-jds: [9, 9, 11, 12, 13]
-moral: "8"
-xp: 1480
-nbr: "Lair 1d3+1"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Sleep Gas (Cloud)
     desc: "Breath weapon that attempts to put targets to sleep."

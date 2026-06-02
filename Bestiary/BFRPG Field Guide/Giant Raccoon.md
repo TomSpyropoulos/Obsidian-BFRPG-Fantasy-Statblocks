@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Raccoon
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "5"
+layout: shadowdark
+ac: "15"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "4 [15]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "15", "+5"]
 attack: "1 bite (2d6)"
 damage: "2d6"
-speed: "50' Climb 30'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 360
-nbr: "1, Wild 1d2, Lair 2d4"
-loot: "L in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Intelligent
     desc: "Highly intelligent with their own chittering dialect, which they use to communicate with mundane raccoons and humanoid rakun."

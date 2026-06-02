@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Grim
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "6+6**"
+layout: shadowdark
+ac: "19"
+level: "6"
 hp: 33
-thaco: "+6"
+atk_bonus: "+6"
 modifier: 1
-stats: ["6+6**", "33", "0 [19]", "+6"]
+stats: ["6", "33", "19", "+6"]
 attack: "1 bite"
 damage: "2d6"
-speed: "60'"
-jds: [8, 9, 11, 13, 12]
-moral: "12"
-xp: 610
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+1", "+2", "+1", "+3", "+6"]
 traits:
   - name: Never Surprised
     desc: "A grim is never surprised and will lurk invisibly and silently."

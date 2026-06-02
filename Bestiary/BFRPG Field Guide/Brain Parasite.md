@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Brain Parasite
-layout: BFRPG
-ac: "10 [9]"
-hit_dice: "1 HP"
+layout: shadowdark
+ac: "9"
+level: "1 HP"
 hp: 1
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["1 HP", "1", "10 [9]", "+0"]
+stats: ["1 HP", "1", "9", "+0"]
 attack: "1 bite"
 damage: "special"
-speed: "5'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 10
-nbr: "5d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Anesthetic
     desc: "Releases an anesthetic to avoid detection when burrowing. A Wisdom check will reveal it burrowing under the skin."

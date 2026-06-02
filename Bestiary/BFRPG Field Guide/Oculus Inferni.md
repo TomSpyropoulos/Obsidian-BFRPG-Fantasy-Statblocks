@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Oculus Inferni
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "16"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["9 ()", "48", "16", "+8"]
 attack: "1 bite or fireball"
 damage: "2d6 bite or fireball"
-speed: "Fly 30'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 1150
-nbr: "1"
-loot: "I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+3", "+2", "+2", "+3"]
 traits:
   - name: Color-Changing Carapace
     desc: "Combined with silent flight, grants surprise on 1-3 on 1d6. Hide changes to brilliant orange-red when battle is joined."

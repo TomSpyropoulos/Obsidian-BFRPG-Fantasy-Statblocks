@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Jaekelopterus Eurypterid
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "4"
+layout: shadowdark
+ac: "17"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "2 [17]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "17", "+4"]
 attack: "2 claws"
 damage: "1d8"
-speed: "10' Swim 50'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 240
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d8"

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Boar
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3"
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "1 tusk (2d4)"
 damage: "2d4"
-speed: "50' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 145
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 actions:
   - name: tusk (2d4)
     desc: "D20 to hit, 2d4"

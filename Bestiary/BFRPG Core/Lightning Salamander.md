@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Lightning Salamander
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "19", "+9"]
 attack: "2 bites + lightning"
 damage: "2d4 bite, 1d8/round lightning"
-speed: "40'"
-jds: [9, 9, 11, 12, 13]
-moral: "8"
-xp: 1390
-nbr: "1d4, Wild 2d4, Lair 2d4"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Lightning Aura
     desc: "All creatures within 20 feet of the salamander that are not lightning-resistant suffer 1d8 points of damage per round."

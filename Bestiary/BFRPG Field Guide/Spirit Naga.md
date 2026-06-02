@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Spirit Naga
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "9* (+8)"
+layout: shadowdark
+ac: "15"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9* (+8)", "48", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "15", "+8"]
 attack: "1 bite + gaze"
 damage: "1d3 + poison bite, charm gaze"
-speed: "60'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 1150
-nbr: "1d3"
-loot: "B, T, X"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Poison Bite
-    desc: "Deadly venomous bite which kills any victim who fails a save vs. Poison."
+    desc: "Deadly venomous bite which kills any victim who fails a DC 13 CON check."
   - name: Charm Gaze
-    desc: "Their gaze can charm (as the spell charm monster) any living creature that meets the naga's gaze; a successful save vs. Paralysis will permit a victim to resist, but if this saving throw fails only dispel magic or remove curse will free the victim from the naga's control."
+    desc: "Their gaze can charm (as the spell charm monster) any living creature that meets the naga's gaze; a successful DC 13 STR check will permit a victim to resist, but if this saving throw fails only dispel magic or remove curse will free the victim from the naga's control."
   - name: Spellcasting
-    desc: "A spirit naga also has the magical abilities of both a 5th-level Magic-user and a 4th-level Cleric."
+    desc: "A spirit naga also has the magical abilities of both a 5th-level Wizard and a 4th-level Cleric."
 actions:
   - name: bite + gaze
     desc: "D20 to hit, 1d3 + poison bite, charm gaze"

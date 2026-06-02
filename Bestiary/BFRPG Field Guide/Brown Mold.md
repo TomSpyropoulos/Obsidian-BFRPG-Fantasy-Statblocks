@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Brown Mold
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "10"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "9 [10]", "+2"]
+stats: ["2", "9", "10", "+2"]
 attack: "1"
 damage: "Special"
-speed: "None'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 100
-nbr: "N/A"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Cold Aura
     desc: "Any living creature standing within 5 feet of a brown mold will suffer 1d8 points of cold damage each round."

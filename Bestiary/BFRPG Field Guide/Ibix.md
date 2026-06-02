@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ibix
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 1
-stats: ["1", "4", "5 [14]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "14", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "40'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 25
-nbr: "1d8, Wild 5d8, Lair 5d8"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+0", "+1", "+0", "+0", "+0"]
 actions:
   - name: weapon
     desc: "D20 to hit, 1d6 or by weapon"

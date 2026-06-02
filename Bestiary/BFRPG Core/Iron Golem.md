@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Iron* Golem
+name: Iron Golem
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,27 +9,21 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Iron* Golem
-layout: BFRPG
-ac: "-5 [24]"
-hit_dice: "17** (+12)"
+name: Iron Golem
+layout: shadowdark
+ac: "24"
+level: "17 ()"
 hp: 88
-thaco: "+12"
-modifier: 1
-stats: ["17** (+12)", "88", "-5 [24]", "+12"]
+atk_bonus: "+12"
+modifier: 4
+stats: ["17 ()", "88", "24", "+12"]
 attack: "1 + special"
 damage: "4d10 + special"
-speed: "20' (10')'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 3890
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+6", "+4", "+5", "+4", "+4", "+9"]
 traits:
   - name: Poisonous Gas
-    desc: "Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round. Those within the area of effect must save vs. Dragon Breath or die. This ability can be used up to 3 times per day."
+    desc: "Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round. Those within the area of effect must succeed on a DC 15 DEX check or die. This ability can be used up to 3 times per day."
   - name: Electricity Vulnerability
     desc: "A magical attack that deals electricity damage slows an iron golem (as the slow spell) for 3 rounds, with no saving throw."
   - name: Fire Healing

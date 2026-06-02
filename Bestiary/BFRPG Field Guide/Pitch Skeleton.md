@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Pitch Skeleton
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "6*"
+layout: shadowdark
+ac: "14"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6*", "27", "5 [14]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "14", "+6"]
 attack: "1 punch or weapon + special"
 damage: "1d6 punch by weapon + special"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "12"
-xp: 555
-nbr: "1d4"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Igniting Pitch
     desc: "When a pitch skeleton strikes in combat, a thick black substance is left behind which promptly ignites, causing 1d6 points of fire damage on the round following the successful attack. On the next round the fire does 1d4 points of damage, then 1d2 points, and finally 1 point on the fifth round. Additional successful strikes from the pitch skeleton restarts this process at 1d6 points of damage on the next round."

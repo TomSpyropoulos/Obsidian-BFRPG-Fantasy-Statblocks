@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Roper
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "19", "+9"]
 attack: "1 bite + special"
 damage: "3d6"
-speed: "10'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1390
-nbr: "1"
-loot: "I"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Darkvision
     desc: "60-foot Darkvision."

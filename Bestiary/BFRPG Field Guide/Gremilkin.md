@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gremilkin
-layout: BFRPG
-ac: "13 [6]"
-hit_dice: "2"
+layout: shadowdark
+ac: "6"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "13 [6]", "+2"]
+stats: ["2", "9", "6", "+2"]
 attack: "1 bite (1d4) / 2 claw (1d4)"
 damage: "-"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 45
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Leap
     desc: "Can leap straight up about 6 feet to be able to get to a higher point, where it can watch the area and then pounce on its prey or leap on unsuspecting temple attendants."

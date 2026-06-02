@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Nalfeshni Infernal
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "11**"
+layout: shadowdark
+ac: "20"
+level: "11"
 hp: 49
-thaco: "+9"
-modifier: 1
-stats: ["11**", "49", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 3
+stats: ["11", "49", "20", "+9"]
 attack: "2 claws / 1 bite"
 damage: "1d4 claw, 2d4 bite"
-speed: "40' Fly 60'"
-jds: [9, 9, 11, 12, 13]
-moral: "10"
-xp: 1765
-nbr: "1d3"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+5"]
 traits:
   - name: Spell-like Powers (at will)
-    desc: "At will a nalfeshni can use any of the following spell-like powers: cause fear, darkness (having only a 10-foot radius but otherwise as the reverse of light), detect magic, dispel magic, levitate, phantasmal force, polymorph self, read languages, and telekinesis, all cast as if by a 12th-level Magic-user."
+    desc: "At will a nalfeshni can use any of the following spell-like powers: cause fear, darkness (having only a 10-foot radius but otherwise as the reverse of light), detect magic, dispel magic, levitate, phantasmal force, polymorph self, read languages, and telekinesis, all cast as if by a 12th-level Wizard."
   - name: Magical Weapons Required
     desc: "As with most infernals, a nalfeshni can only be damaged by magical weapons."
   - name: Summon Allies (1/day)

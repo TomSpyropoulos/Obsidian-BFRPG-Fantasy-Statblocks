@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Swarm Elf Bugs
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "3"
+layout: shadowdark
+ac: "16"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3", "13", "3 [16]", "+3"]
+atk_bonus: "+3"
+modifier: 3
+stats: ["3", "13", "16", "+3"]
 attack: "1 thorn or bite"
 damage: "3d4 thorn or 1d8 bite"
-speed: "Fly 60'"
-jds: [12, 14, 12, 15, 14]
-moral: "8"
-xp: 145
-nbr: "1 swarm, Wild 1d3 swarms, Lair 1d3 swarms"
-loot: "None, E, or F"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+0", "+3", "+0", "+0", "+0", "+1"]
 traits:
   - name: Hive-Mind
     desc: "Coordinate without talking or any other visible way of communication. Can make saving throws due to their innate ability to communicate with each other."

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Erinyes Infernal
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "7+2*"
+layout: shadowdark
+ac: "17"
+level: "7"
 hp: 33
-thaco: "+7"
-modifier: 0
-stats: ["7+2*", "33", "2 [17]", "+7"]
+atk_bonus: "+7"
+modifier: 3
+stats: ["7", "33", "17", "+7"]
 attack: "1 dagger (special) or special"
 damage: "2d4 special dagger or special"
-speed: "30' Fly 120'"
-jds: [10, 11, 12, 14, 15]
-moral: "9"
-xp: 735
-nbr: "1d4 Lair 2d8"
-loot: "Special"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+2", "+1", "+1", "+3"]
 traits:
   - name: Magical Venomous Dagger
-    desc: "2d4 damage. Hit victims must save vs. Poison or become unconscious for 1d6 rounds."
+    desc: "2d4 damage. Hit victims must succeed on a DC 13 CON check or become unconscious for 1d6 rounds."
   - name: Rope of Entanglement
     desc: "Can lash forward 20 feet or upward 10 feet to entangle up to 2d4 man-sized victims selected by the erinyes (adjust numbers for larger or smaller opponents as needed). The rope can be hit only on a 20 or higher, and is destroyed when it suffers 20 or more points of damage."
   - name: Flaming Arrows
@@ -37,7 +31,7 @@ traits:
   - name: Magical Weapon Immunity
     desc: "Can only be damaged by magical weapons."
   - name: At-Will Powers
-    desc: "At will an erinyes can use any of the following powers instead of attacking: cause fear in all who see it (save vs. Magic Wands to resist), detect invisible, invisibility, locate object, or polymorph self."
+    desc: "At will an erinyes can use any of the following powers instead of attacking: cause fear in all who see it (Succeed on a DC 13 WIS check to resist), detect invisible, invisibility, locate object, or polymorph self."
   - name: Summon Devils
     desc: "Once per day an erinyes can attempt to summon either another erinyes, 2d10 lemures (page 152), or 1d4 barbed devils (page 145) with a 35% chance of success. Note that only one type of devil may be successfully summoned. If the attempt fails, the erinyes can try again as often as desired (once per round maximum) until it succeeds."
   - name: Shapeshifting
@@ -52,7 +46,7 @@ source: BFRPG Field Guide
 
 Unlike most other infernals, Erinyes appear attractive to humans, resembling very comely women or men. They can change their apparent gender at will. In their normal form they have wings, but they can cause these wings to disappear or reappear at will. An erinyes is taller and heavier than an average human, though not beyond the realm of regular variation. Besides the language of infernals and the Common tongue, erinyes also speak Dragon.
 
-Erinyes are normally armed with magical venomous daggers which drip a caustic substance that causes wounds made by the daggers to be very painful; anyone hit by this dagger attack must save vs. Poison or become unconscious for 1d6 rounds. Each is also armed with a rope of entanglement which can lash forward 20 feet or upward 10 feet to entangle up to 2d4 man-sized victims selected by the erinyes (adjust numbers for larger or smaller opponents as needed). The rope can be hit only on a 20 or higher, and is destroyed when it suffers 20 or more points of damage. Finally, erinyes may be armed with bows which are built for their great strength (which can be drawn only by characters with at least 18 Strength) and a quiver of 66 arrows that ignite when fired. Arrows fired from this bow do 1d8 points of damage on a hit, and these arrows inflict an additional 1d8 points of fire damage. If an erinyes runs out of arrows it can use any longbow arrows, but loses the bonus fire damage.
+Erinyes are normally armed with magical venomous daggers which drip a caustic substance that causes wounds made by the daggers to be very painful; anyone hit by this dagger attack must succeed on a DC 13 CON check or become unconscious for 1d6 rounds. Each is also armed with a rope of entanglement which can lash forward 20 feet or upward 10 feet to entangle up to 2d4 man-sized victims selected by the erinyes (adjust numbers for larger or smaller opponents as needed). The rope can be hit only on a 20 or higher, and is destroyed when it suffers 20 or more points of damage. Finally, erinyes may be armed with bows which are built for their great strength (which can be drawn only by characters with at least 18 Strength) and a quiver of 66 arrows that ignite when fired. Arrows fired from this bow do 1d8 points of damage on a hit, and these arrows inflict an additional 1d8 points of fire damage. If an erinyes runs out of arrows it can use any longbow arrows, but loses the bonus fire damage.
 
 Like other infernals, erinyes can only be damaged by magical weapons.
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Jackalwere
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "1 bite or 1 weapon"
 damage: "2d4 bite or by weapon"
-speed: "60'"
-jds: [13, 14, 13, 15, 14]
-moral: "7"
-xp: 280
-nbr: "1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
   - name: Shapeshifting
     desc: "Can assume the form of a somewhat larger-than-normal jackal or that of a man."

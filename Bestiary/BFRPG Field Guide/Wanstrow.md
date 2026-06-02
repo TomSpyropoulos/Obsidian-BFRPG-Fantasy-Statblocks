@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Wanstrow
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "4 (+9 see below)"
+layout: shadowdark
+ac: "17"
+level: "4 ( see below)"
 hp: 27
-thaco: "+4"
-modifier: 0
-stats: ["4 (+9 see below)", "27", "2 [17]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4 ( see below)", "27", "17", "+4"]
 attack: "2"
 damage: "1d8+5 strike"
-speed: "40'"
-jds: [11, 11, 13, 14, 15]
-moral: "12"
-xp: 240
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 actions:
   - name: 2
     desc: "D20 to hit, 1d8+5 strike"

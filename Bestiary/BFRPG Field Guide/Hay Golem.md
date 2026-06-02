@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hay Golem
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "8**"
+layout: shadowdark
+ac: "15"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8**", "36", "4 [15]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "15", "+8"]
 attack: "1 punch + special"
 damage: "2d6 + special"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 1010
-nbr: "1d3"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
 traits:
   - name: Damage Resistance
     desc: "A hay golem takes only half damage from bludgeoning weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."

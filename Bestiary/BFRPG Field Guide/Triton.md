@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Triton
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "5"
+layout: shadowdark
+ac: "13"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "6 [13]", "+5"]
+atk_bonus: "+5"
+modifier: 2
+stats: ["5", "22", "13", "+5"]
 attack: "1 tail smash (3d6) / 1 weapon / spells"
 damage: "3d6 tail smash, weapon, by spell"
-speed: "Swim 70'"
-jds: [12, 13, 12, 15, 13]
-moral: "7"
-xp: 360
-nbr: "5d6"
-loot: "G"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+1", "+2", "+1", "+3", "+1", "+1"]
 traits:
   - name: Magic
-    desc: "Able to use magic, operating as if they were Magic-users of two levels lower than their hit dice."
+    desc: "Able to use magic, operating as if they were Wizards of two levels lower than their levels."
   - name: Mounts
     desc: "Will often have giant sea horses as mounts."
 actions:
@@ -42,5 +36,5 @@ actions:
 source: BFRPG Field Guide
 ```
 
-Tritons are similar to mermen, but larger and significantly more powerful. They are able to use magic, operating as if they were Magic-users of two levels lower than their hit dice. They will often have giant sea horses as mounts.
+Tritons are similar to mermen, but larger and significantly more powerful. They are able to use magic, operating as if they were Wizards of two levels lower than their levels. They will often have giant sea horses as mounts.
 

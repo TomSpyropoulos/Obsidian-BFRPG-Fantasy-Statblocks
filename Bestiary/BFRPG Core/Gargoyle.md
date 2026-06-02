@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Gargoyle*
+name: Gargoyle
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Gargoyle*
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4**"
+name: Gargoyle
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "14", "+4"]
 attack: "2 claws/1 bite/1 horn"
 damage: "1d4/1d4/1d6/1d4"
-speed: "30' Fly 50' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "11"
-xp: 320
-nbr: "1d6, Wild 2d4, Lair 2d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
 traits:
   - name: Stone Disguise
     desc: "Can remain still indefinitely, appearing as stone statues. Surprise on 1-4 on 1d6 if foes do not otherwise suspect them."

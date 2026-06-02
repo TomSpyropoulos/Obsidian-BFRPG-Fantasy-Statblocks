@@ -10,32 +10,26 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Time Spider
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "4**"
+layout: shadowdark
+ac: "12"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4**", "18", "7 [12]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "12", "+4"]
 attack: "1 bite"
 damage: "1d6 + poison bite"
-speed: "30' Climb 30' Web 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 320
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Darkvision
     desc: "Possess Darkvision out to a range of 80 feet."
   - name: Web
-    desc: "Time spiders hunt in a passive manner, spinning strong and intricate webs. Creatures within the web will get entangled unless a save vs. Death Ray roll is made; any creatures who succeed at this save may move through the webbing at one-half movement rate and may not cast spells or perform normal attacks; whether other actions are possible is left to the GM to decide (speech remains possible, however). Webbed creatures can try to free themselves, but each subsequent save suffers a cumulative -1 penalty for each previous failed attempt as the character entangles further and further."
+    desc: "Time spiders hunt in a passive manner, spinning strong and intricate webs. Creatures within the web will get entangled unless a DC 12 CON check roll is made; any creatures who succeed at this save may move through the webbing at one-half movement rate and may not cast spells or perform normal attacks; whether other actions are possible is left to the GM to decide (speech remains possible, however). Webbed creatures can try to free themselves, but each subsequent save suffers a cumulative -1 penalty for each previous failed attempt as the character entangles further and further."
   - name: Temporal Displacement
-    desc: "There is 5% chance each round before and after the creature's initiative that the spider disappears (where or when it goes is unknown), even after death this chance remains. When this happens any web will also disappear and those entangled must save vs. Death, with the same penalty as for breaking entanglement above, or disappear to the same unknown location."
+    desc: "There is 5% chance each round before and after the creature's initiative that the spider disappears (where or when it goes is unknown), even after death this chance remains. When this happens any web will also disappear and those entangled must succeed on a DC 12 CON check, with the same penalty as for breaking entanglement above, or disappear to the same unknown location."
   - name: Poison Bite
-    desc: "Those it bites must save vs Poison or suffer 1d6 points of poison damage each round until neutralized or the spider disappears."
+    desc: "Those it bites must succeed on a DC 12 CON check or suffer 1d6 points of poison damage each round until neutralized or the spider disappears."
 actions:
   - name: bite
     desc: "D20 to hit, 1d6 + poison bite"

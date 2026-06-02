@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Pixie
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "16"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1*", "4", "3 [16]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1", "4", "16", "+1"]
 attack: "1 dagger (1d4)"
 damage: "1d4"
-speed: "30' Fly 60'"
-jds: [12, 11, 13, 15, 15]
-moral: "7"
-xp: 37
-nbr: "2d4, Wild 10d4, Lair 10d4"
-loot: "R, S"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "-1", "+1", "+1", "+0"]
 traits:
   - name: Invisible
     desc: "A pixie can become invisible at will, as many times per day as it wishes, and can attack while remaining invisible. Anyone attacking an invisible pixie does so with an attack penalty of -4 unless the attacker can somehow detect invisible creatures. Pixies may ambush their foes while invisible; if they do so, they surprise on 1-5 on 1d6."

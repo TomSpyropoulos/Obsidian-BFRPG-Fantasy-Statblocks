@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Black Rhino
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "8"
+layout: shadowdark
+ac: "16"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 0
-stats: ["8", "36", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "16", "+8"]
 attack: "1 butt or 1 trample"
 damage: "2d6 or 2d8"
-speed: "40' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "6"
-xp: 875
-nbr: "Wild 1d12"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+1"]
 actions:
   - name: butt or 1 trample
     desc: "D20 to hit, 2d6 or 2d8"

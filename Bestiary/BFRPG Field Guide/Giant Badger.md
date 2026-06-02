@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Badger
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "10 (+9)"
+layout: shadowdark
+ac: "16"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10 (+9)", "54", "3 [16]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "16", "+9"]
 attack: "2 claws / 1 bite"
 damage: "2d4 claw, 4d4 bite"
-speed: "60' burrow 30'"
-jds: [9, 9, 11, 12, 13]
-moral: "9"
-xp: 1300
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Berserk Rage
     desc: "It enters the same berserk rage when wounded as its smaller cousins; in this state it gains +2 on initiative die rolls, but suffers a penalty of -2 to its armor class."

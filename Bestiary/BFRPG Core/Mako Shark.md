@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Mako Shark
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "14", "+4"]
 attack: "1 bite (2d6)"
 damage: "-"
-speed: "Swim 80'"
-jds: [11, 11, 13, 14, 15]
-moral: "7"
-xp: 240
-nbr: "Wild 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Leap
     desc: "Able to leap up to 20' in the air."

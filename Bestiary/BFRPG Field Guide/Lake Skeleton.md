@@ -10,32 +10,26 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lake Skeleton
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon + special"
 damage: "1d6 or by weapon"
-speed: "30' Swim 40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 100
-nbr: "3d4-2, Wild 3d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Water Jet
-    desc: "Once per hour, a lake skeleton may do an extra attack by projecting a jet of water from its mouth. The stream shoots out in a straight line 15 feet in length and 5 feet in width. Anyone within range must save vs. Dragon Breath or take 2d6 points of damage."
+    desc: "Once per hour, a lake skeleton may do an extra attack by projecting a jet of water from its mouth. The stream shoots out in a straight line 15 feet in length and 5 feet in width. Anyone within range must succeed on a DC 12 DEX check or take 2d6 points of damage."
   - name: Resistance to Physical Damage
     desc: "Take only half damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
   - name: Undead
     desc: "Can be Turned by Clerics as zombies, and are immune to sleep, charm, or hold magic."
   - name: Mindless
-    desc: "No form of mind reading is of any use against them. Lake skeletons never fail morale, and thus always fight until destroyed."
+    desc: "No form of mind reading is of any use against them. Lake skeletons never fail morale (CHA), and thus always fight until destroyed."
 actions:
   - name: weapon + special
     desc: "D20 to hit, 1d6 or by weapon"

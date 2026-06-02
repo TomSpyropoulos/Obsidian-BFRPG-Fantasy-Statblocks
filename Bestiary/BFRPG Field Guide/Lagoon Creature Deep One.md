@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lagoon Creature Deep One
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "5+5"
+layout: shadowdark
+ac: "17"
+level: "5"
 hp: 27
-thaco: "+5"
-modifier: 0
-stats: ["5+5", "27", "2 [17]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "27", "17", "+5"]
 attack: "2 claws (2d4) / 1 bite (1d6)"
 damage: "2d4 claw, 1d6 bite"
-speed: "20' Swim 30'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 360
-nbr: "1d4"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+3"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 60' and superior eyesight while underwater."

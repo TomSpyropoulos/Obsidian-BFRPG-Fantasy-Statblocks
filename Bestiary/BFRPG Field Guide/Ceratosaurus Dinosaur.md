@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ceratosaurus Dinosaur
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "8"
+layout: shadowdark
+ac: "14"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "5 [14]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["8", "36", "14", "+8"]
 attack: "2 claws / 1 bite"
 damage: "1d6 claw, 2d8 bite"
-speed: "90'"
-jds: [9, 10, 12, 13, 14]
-moral: "8"
-xp: 875
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d6 claw, 2d8 bite"

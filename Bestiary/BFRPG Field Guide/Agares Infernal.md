@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Agares Infernal
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "7+7*"
+layout: shadowdark
+ac: "20"
+level: "7"
 hp: 38
-thaco: "+7"
-modifier: 0
-stats: ["7+7*", "38", "-1 [20]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "38", "20", "+7"]
 attack: "2 claws, 1 bite"
 damage: "1d6 claw, 1d8 bite"
-speed: "30'"
-jds: [9, 10, 12, 14, 13]
-moral: "7"
-xp: 735
-nbr: "1"
-loot: "L, N"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+1", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Shapeshifting
     desc: "Can appear as an old man and will mostly be encountered in that form."

@@ -10,28 +10,22 @@ source: BFRPG Core
 
 ```statblock
 name: Venomous Giant Shrew
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "4 [15]", "+1"]
+stats: ["1", "4", "15", "+1"]
 attack: "2 bites"
 damage: "1d6/1d6 + poison"
-speed: "60'"
-jds: [11, 12, 14, 15, 16]
-moral: "10"
-xp: 37
-nbr: ""
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Swift attacks
     desc: "Giant shrews move so swiftly that they are able to bite twice per round, and they may attack two different adjacent opponents in this way."
   - name: Venomous bite
-    desc: "The bite of such a giant shrew will kill the victim unless a save vs. Poison is made. A victim bitten twice in a round need only save once for that round, but of course will have to save again in subsequent rounds if bitten again."
+    desc: "The bite of such a giant shrew will kill the victim unless a DC 12 CON check is made. A victim bitten twice in a round need only save once for that round, but of course will have to save again in subsequent rounds if bitten again."
 actions:
   - name: bites
     desc: "D20 to hit, 1d6"

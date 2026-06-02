@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Crystal Living Statue
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "3"
+layout: shadowdark
+ac: "15"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "4 [15]", "+3"]
+stats: ["3", "13", "15", "+3"]
 attack: "2 fists (1d6/1d6)"
 damage: "-"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 145
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 source: BFRPG Core
 ```
 

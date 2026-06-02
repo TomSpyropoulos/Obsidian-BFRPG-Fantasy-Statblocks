@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Gas Spore
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "\u00bd* (1d4 hit points)"
+layout: shadowdark
+ac: "10"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd* (1d4 hit points)", "2", "9 [10]", "+0"]
+atk_bonus: "+0"
+modifier: 1
+stats: ["\u00bd (1d4 hit points)", "2", "10", "+0"]
 attack: "1 touch or special"
 damage: "See below"
-speed: "Fly 10'"
-jds: [13, 14, 15, 16, 18]
-moral: "12"
-xp: 13
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
 traits:
   - name: Explosion
-    desc: "Killing a gas spore will cause it to explode, inflicting 6d6 points of damage on all within a 20-foot radius; a successful save vs. Wands reduces damage by half."
+    desc: "Killing a gas spore will cause it to explode, inflicting 6d6 points of damage on all within a 20-foot radius; a successful DC 12 WIS check reduces damage by half."
   - name: Spore Injection
     desc: "If a gas spore hits (simply by touching a living creature with a successful attack roll), it injects spores into the victim. At this point the monster dies, deflating harmlessly; the victim will then die in 2d12 hours, and their body will sprout 2d4 new gas spores immediately thereafter."
 actions:

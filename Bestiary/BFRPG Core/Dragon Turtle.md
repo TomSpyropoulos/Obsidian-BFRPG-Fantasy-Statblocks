@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Dragon Turtle
-layout: BFRPG
-ac: "-2 [21]"
-hit_dice: "30** (AB +15)"
+layout: shadowdark
+ac: "21"
+level: "30 (AB )"
 hp: 150
-thaco: "+15"
-modifier: 3
-stats: ["30** (AB +15)", "150", "-2 [21]", "+15"]
+atk_bonus: "+15"
+modifier: 7
+stats: ["30 (AB )", "150", "21", "+15"]
 attack: "2 claws/1 bite or breath"
 damage: "2d8/2d8/10d6 or 30d8"
-speed: "10' (10') Swim 30' (15')'"
-jds: [5, 6, 8, 9, 10]
-moral: "10"
-xp: 13650
-nbr: "Wild 1"
-loot: "H (calculated at one-quarter hit dice)"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+9", "+7", "+8", "+7", "+7", "+10"]
 traits:
   - name: Poison Immunity
     desc: "Due to their massive size, dragon turtles are immune to virtually all poisons."
@@ -42,7 +36,7 @@ actions:
 source: BFRPG Core
 ```
 
-Dragon turtles are so large, up to 200 feet long, that they are occasionally mistaken for rocky outcroppings or even small islands. Though they are not true dragons, they do advance through the same sort of age categories as the true dragons do; however, each age category changes the dragon turtle's Hit Dice by 5.
+Dragon turtles are so large, up to 200 feet long, that they are occasionally mistaken for rocky outcroppings or even small islands. Though they are not true dragons, they do advance through the same sort of age categories as the true dragons do; however, each age category changes the dragon turtle's Levels by 5.
 
 Due to their massive size, dragon turtles are immune to virtually all poisons.
 

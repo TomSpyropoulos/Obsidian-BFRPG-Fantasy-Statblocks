@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ophidian
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3+1*"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 14
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3+1*", "14", "6 [13]", "+3"]
+stats: ["3", "14", "13", "+3"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 + Poison or by weapon"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "9"
-xp: 175
-nbr: "1d8"
-loot: "D in Lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Venomous Bite
-    desc: "Their sharp venomous fangs enable them to deliver their poison with a bite, which causes 1d4 points of damage per round for 1d4 rounds, unless a successful save vs. Poison is made."
+    desc: "Their sharp venomous fangs enable them to deliver their poison with a bite, which causes 1d4 points of damage per round for 1d4 rounds, unless a successful DC 12 CON check is made."
   - name: Spellcasting
-    desc: "Ophidians have remarkable intelligence, and a natural proficiency in magic. All ophidians can cast spells as if they were a 3rd-level Magic-user."
+    desc: "Ophidians have remarkable intelligence, and a natural proficiency in magic. All ophidians can cast spells as if they were a 3rd-level Wizard."
   - name: Preferred Weapons
     desc: "Their preferred weapons are spears and short bows."
 actions:

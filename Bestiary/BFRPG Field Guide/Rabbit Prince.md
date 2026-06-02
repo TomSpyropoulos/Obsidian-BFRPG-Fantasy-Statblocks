@@ -10,30 +10,24 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Rabbit Prince
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "17", "+9"]
 attack: "1 weapon (sword)"
 damage: "2d6"
-speed: "50' Leap 20'"
-jds: [9, 9, 11, 12, 13]
-moral: "10"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Erratic Movement
     desc: "Anyone trying to attack with ranged weapons suffers a -2 penalty to their attack roll."
   - name: Leap Attack
     desc: "Can leap up to 20 feet and still make an attack in the same round."
   - name: Disruptive Thump
-    desc: "Instead of attacking, a rabbit prince may rapidly thump its foot loudly upon the ground. Anyone within 20 feet must save vs. Paralysis or be unable to cast spells for the remainder of that round (but other actions are still possible). Any spells which would be cast simultaneously with the rabbit prince's initiative are lost, just as if the caster had been attacked."
+    desc: "Instead of attacking, a rabbit prince may rapidly thump its foot loudly upon the ground. Anyone within 20 feet must succeed on a DC 14 STR check or be unable to cast spells for the remainder of that round (but other actions are still possible). Any spells which would be cast simultaneously with the rabbit prince's initiative are lost, just as if the caster had been attacked."
 actions:
   - name: weapon (sword)
     desc: "D20 to hit, 2d6"

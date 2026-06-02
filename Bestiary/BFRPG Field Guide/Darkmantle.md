@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Darkmantle
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "1+2*"
+layout: shadowdark
+ac: "16"
+level: "1"
 hp: 6
-thaco: "+1"
-modifier: 0
-stats: ["1+2*", "6", "3 [16]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1", "6", "16", "+1"]
 attack: "1 constriction (1d4)"
 damage: "1d4"
-speed: "20' Fly 60'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 37
-nbr: "2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+1", "+0", "+0", "+0"]
 traits:
   - name: Camouflage
     desc: "Can change its skin color to match the surrounding stone and looks like a stalactite while at rest."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Rhinoceros Beetle
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "18"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "1 [18]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "64", "18", "+10"]
 attack: "1 horn or 1 trample"
 damage: "3d6 horn, 2d8 trample"
-speed: "60'"
-jds: [8, 9, 10, 12, 13]
-moral: "9"
-xp: 1875
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 actions:
   - name: horn or 1 trample
     desc: "D20 to hit, 3d6 horn, 2d8 trample"

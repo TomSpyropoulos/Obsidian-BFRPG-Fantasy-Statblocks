@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Gar Fish
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "8"
+layout: shadowdark
+ac: "16"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8", "36", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 3
+stats: ["8", "36", "16", "+8"]
 attack: "1 bite (5d4)"
 damage: "5d4"
-speed: "Swim 120'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 875
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Swallow Whole
     desc: "Can swallow prey of medium size or smaller whole with a natural 20 on the attack die. Swallowed creatures suffer an additional 2d4 points of damage automatically each round from acid. Giant gar has AC 11 on the inside. Only smallest weapons (such as daggers) can be used by swallowed creature. Damage at least equal to one quarter of the giant gar's full hit points must be inflicted to cut out."

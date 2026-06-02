@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Cadaver
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "6**"
+layout: shadowdark
+ac: "16"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6**", "27", "3 [16]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "16", "+6"]
 attack: "1 punch or by spell"
 damage: "1d6"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "8"
-xp: 610
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a mummy), and is immune to sleep, charm or hold spells."

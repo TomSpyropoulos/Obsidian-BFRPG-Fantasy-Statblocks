@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Piercer
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "4 [15]", "+1"]
+stats: ["1", "4", "15", "+1"]
 attack: "1 stab"
 damage: "1d6 per HD"
-speed: "10'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 25
-nbr: "3d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Climbing
     desc: "Can climb hard surfaces at full speed, even moving unhindered while upside down."
@@ -42,7 +36,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-A Piercer (sometimes called a Stalag) is a cone-shaped shelled creature resembling some kind of snail or other invertebrate. They are found in a range of sizes, with a group typically having members of several different sizes; each individual piercer is about 1.5 feet long per hit die. They can move about as snails do, at a rate of about 10' per round, and can climb hard surfaces at full speed, even moving unhindered while upside down. However, they move substantially faster when attacking.
+A Piercer (sometimes called a Stalag) is a cone-shaped shelled creature resembling some kind of snail or other invertebrate. They are found in a range of sizes, with a group typically having members of several different sizes; each individual piercer is about 1.5 feet long per level. They can move about as snails do, at a rate of about 10' per round, and can climb hard surfaces at full speed, even moving unhindered while upside down. However, they move substantially faster when attacking.
 
 Piercers hunt prey by hanging upside down in natural caverns, where their conical shells strongly resemble normal stalactites. They lie in wait until a victim walks beneath them, at which point they attack by simply dropping on their prey, stabbing with their pointed shells.
 

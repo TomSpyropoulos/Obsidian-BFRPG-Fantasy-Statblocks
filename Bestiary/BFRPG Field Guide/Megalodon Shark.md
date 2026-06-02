@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Megalodon Shark
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "12 (+10)"
+layout: shadowdark
+ac: "14"
+level: "12 ()"
 hp: 64
-thaco: "+10"
-modifier: 1
-stats: ["12 (+10)", "64", "5 [14]", "+10"]
+atk_bonus: "+10"
+modifier: 4
+stats: ["12 ()", "64", "14", "+10"]
 attack: "1 bite"
 damage: "2d12"
-speed: "Swim 70'"
-jds: [8, 9, 10, 12, 13]
-moral: "8"
-xp: 1875
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
 traits:
   - name: Blood Detection
     desc: "Can smell blood in the water miles away."

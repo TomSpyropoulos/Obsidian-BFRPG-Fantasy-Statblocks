@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Plains Dragon
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "5**"
+layout: shadowdark
+ac: "15"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5**", "22", "4 [15]", "+5"]
+atk_bonus: "+5"
+modifier: 3
+stats: ["5", "22", "15", "+5"]
 attack: "2 claws, 1 bite or breath, 1 tail"
 damage: "1d6 claw, 2d10 or breath, 1d8 tail"
-speed: "50' Fly 80' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 450
-nbr: "1, Wild 1, Lair 1d6"
-loot: "H"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Surprise Attack
     desc: "When hunting on the wing, attacking suddenly from above, surprise on 1-3 on 1d6."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Skeletal Legs
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "\u00bd (1d4 points)"
+layout: shadowdark
+ac: "10"
+level: "\u00bd (1d4 points)"
 hp: 2
-thaco: "+0"
+atk_bonus: "+0"
 modifier: 0
-stats: ["\u00bd (1d4 points)", "2", "9 [10]", "+0"]
+stats: ["\u00bd (1d4 points)", "2", "10", "+0"]
 attack: "2"
 damage: "1d3"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 10
-nbr: "3d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Surprise
     desc: "Gain surprise on 1-3 on 1d6."

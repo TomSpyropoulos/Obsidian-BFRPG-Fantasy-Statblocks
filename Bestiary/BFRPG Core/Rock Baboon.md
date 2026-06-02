@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Rock Baboon
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "1 club or Fist /1 bite"
 damage: "1d6 club or 1d4 fist/1d4 bite"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "2d6, Wild 2d6, Lair 5d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: club or Fist
     desc: "D20 to hit, 1d6 club or 1d4 fist"

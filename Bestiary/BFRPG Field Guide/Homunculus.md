@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Homunculus
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+stats: ["2", "9", "13", "+2"]
 attack: "1 bite + poison"
 damage: "1d4-1 + poison"
-speed: "20'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 75
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Telepathic Link
     desc: "Telepathically linked with its creator. Knows what its master knows and can convey everything it sees and hears up to 1,500 feet."
   - name: Venomous Bite
-    desc: "On a failed save vs. Poison, the opponent will fall asleep for 6d6 minutes."
+    desc: "On a failed succeed on a DC 12 CON check, the opponent will fall asleep for 6d6 minutes."
   - name: Death Link
     desc: "An attack that destroys a homunculus deals 2d10 points of damage to its master. If the master is slain the homunculus also dies, its body swiftly melting away into a pool of ichor."
 actions:
@@ -44,5 +38,5 @@ A Homunculus is a miniature servant created by a wizard. It is a weak combatant 
 
 It knows what its master knows and can convey to them everything it sees and hears (up to a distance of 1,500 feet). A homunculus never travels beyond this range willingly, though it can be moved forcibly. If this occurs, the creature does everything in its power to regain contact with its master. An attack that destroys a homunculus deals 2d10 points of damage to its master.
 
-A homunculus will try to climb onto its victim and bite with its venomous fangs. On a failed save vs. Poison, the opponent will fall asleep for 6d6 minutes. If the master is slain the homunculus also dies, its body swiftly melting away into a pool of ichor.
+A homunculus will try to climb onto its victim and bite with its venomous fangs. On a failed succeed on a DC 12 CON check, the opponent will fall asleep for 6d6 minutes. If the master is slain the homunculus also dies, its body swiftly melting away into a pool of ichor.
 

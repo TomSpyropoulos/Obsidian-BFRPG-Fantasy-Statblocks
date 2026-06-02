@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Seahorse
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "12", "+2"]
 attack: "1 ram (1d4)"
 damage: "1d4"
-speed: "Swim 80'"
-jds: [12, 13, 14, 15, 17]
-moral: "6"
-xp: 25
-nbr: "Wild 2d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Infravision
     desc: "120' range."
@@ -38,5 +32,5 @@ source: BFRPG Field Guide
 
 A Giant Seahorse is not closely related to a hippocampus, but is in fact an actual seahorse which grows almost to the size of a pony.
 
-Though it is not very strong or graceful, it is sometimes used by undersea races to carry or pull things. It has infravision with a range of 120'.
+Though it is not very strong or graceful, it is sometimes used by undersea races to carry or pull things. It has darkvision with a range of 120'.
 

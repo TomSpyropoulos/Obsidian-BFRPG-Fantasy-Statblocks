@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Draugr
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "9** (+8)"
+layout: shadowdark
+ac: "16"
+level: "9 ()"
 hp: 48
-thaco: "+8"
-modifier: 1
-stats: ["9** (+8)", "48", "3 [16]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["9 ()", "48", "16", "+8"]
 attack: "1 weapon"
 damage: "1d10+3"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "11"
-xp: 1225
-nbr: "1, Lair 1"
-loot: "B, M"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Ice Breath
-    desc: "Once per turn, a draugr can breathe a cone of ice out to 10 feet in front of it. Anyone caught in this cloud of frozen mist must save vs. Spells or be stunned (-2 to AC, in addition to losing any Dexterity and shield bonuses) and unable to act for one round. Spell-casters who fail their save are unable to cast any spell for the remainder of the round."
+    desc: "Once per turn, a draugr can breathe a cone of ice out to 10 feet in front of it. Anyone caught in this cloud of frozen mist must succeed on a DC 13 INT check or be stunned (-2 to AC, in addition to losing any Dexterity and shield bonuses) and unable to act for one round. Spell-casters who fail their save are unable to cast any spell for the remainder of the round."
   - name: See Invisible
     desc: "It can see invisible opponents."
   - name: Undead

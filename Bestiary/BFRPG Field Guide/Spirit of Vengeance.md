@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Spirit of Vengeance
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "10** (+9)"
+layout: shadowdark
+ac: "19"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10** (+9)", "54", "0 [19]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["10 ()", "54", "19", "+9"]
 attack: "1 weapon plus energy drain"
 damage: "1d10+3 plus energy"
-speed: "20'"
-jds: [9, 9, 11, 12, 13]
-moral: "12"
-xp: 1480
-nbr: "1"
-loot: "Weapon + 3, 2 red diamonds worth 1d10\u00d7100 pp each"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Aura of Fear
-    desc: "At first sight, all living creatures of 4 HD or less must save vs. Death Ray or become fearful of the spirit of vengeance, fleeing at maximum speed for 1d4+1 rounds."
+    desc: "At first sight, all living creatures of 4 LVL or less must succeed on a DC 14 CON check or become fearful of the spirit of vengeance, fleeing at maximum speed for 1d4+1 rounds."
   - name: Energy Drain
     desc: "Successful attacks made by the spirit cause an energy drain. Half of the hit points lost by the victim due to the negative level are added to the hit point total of the spirit of vengeance."
   - name: Magical Weapon

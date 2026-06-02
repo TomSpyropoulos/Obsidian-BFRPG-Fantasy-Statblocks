@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Weretiger* Lycanthrope
+name: Weretiger Lycanthrope
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Weretiger* Lycanthrope
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "5*"
+name: Weretiger Lycanthrope
+layout: shadowdark
+ac: "16"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5*", "22", "3 [16]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "16", "+5"]
 attack: "2 claws/1 bite"
 damage: "1d6/1d6/2d6"
-speed: "50' Human Form 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 405
-nbr: "1d4, Wild 1d4, Lair 1d4"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Tracking
     desc: "5 in 6 chance to track prey in either form."

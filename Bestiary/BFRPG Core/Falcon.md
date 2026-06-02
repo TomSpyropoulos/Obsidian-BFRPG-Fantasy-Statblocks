@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Falcon
-layout: BFRPG
-ac: "9 [10]"
-hit_dice: "1/2 (1d4 HP)"
+layout: shadowdark
+ac: "10"
+level: "1/2 (1d4 HP)"
 hp: 2
-thaco: "+0"
-modifier: 0
-stats: ["1/2 (1d4 HP)", "2", "9 [10]", "+0"]
+atk_bonus: "+0"
+modifier: 2
+stats: ["1/2 (1d4 HP)", "2", "10", "+0"]
 attack: "2 talons / 1 beak"
 damage: "1d4 talon, 1d4 beak"
-speed: "10' fly 160' (10')'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 10
-nbr: "1, wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 actions:
   - name: talons
     desc: "D20 to hit, 1d4 talon, 1d4 beak"

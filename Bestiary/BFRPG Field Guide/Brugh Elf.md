@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Brugh Elf
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: -1
-stats: ["1*", "4", "8 [11]", "+1"]
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "11", "+1"]
 attack: "1 weapon"
 damage: "By weapon"
-speed: "40'"
-jds: [13, 12, 12, 16, 13]
-moral: "9"
-xp: 37
-nbr: "1d6, Wild 2d6, Lair 5d10"
-loot: "S each; G in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+0", "-1", "+3", "+1", "+2"]
 traits:
   - name: Innate Magic
-    desc: "Each brugh elf can detect magic at-will, become invisible at-will, and once per day can cast confusion as a 7th-level Magic-user. Unlike a brownie, however, a brugh elf cannot attack or cast spells while invisible. A person peering through a stone with a naturally-bored hole in it can see an invisible brugh elf as though by a detect invisible spell."
+    desc: "Each brugh elf can detect magic at-will, become invisible at-will, and once per day can cast confusion as a 7th-level Wizard. Unlike a brownie, however, a brugh elf cannot attack or cast spells while invisible. A person peering through a stone with a naturally-bored hole in it can see an invisible brugh elf as though by a detect invisible spell."
   - name: Enhanced Spellcasting
-    desc: "A brugh elf Magic-user can be a particularly formidable foe, casting spells as through they are one level higher than other Magic-users at that class level."
+    desc: "A brugh elf Wizard can be a particularly formidable foe, casting spells as through they are one level higher than other Wizards at that class level."
   - name: Metal Vulnerability
     desc: "Increased (+1) damage from metal weapons."
   - name: Stone/Wood Resistance

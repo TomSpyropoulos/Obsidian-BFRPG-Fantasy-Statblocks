@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Egregor Celestial
-layout: BFRPG
-ac: "-5 [24]"
-hit_dice: "12** (+13)"
+layout: shadowdark
+ac: "24"
+level: "12 ()"
 hp: 67
-thaco: "+10"
-modifier: 1
-stats: ["12** (+13)", "67", "-5 [24]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12 ()", "67", "24", "+10"]
 attack: "1 weapon"
 damage: "By weapon +3"
-speed: "50'"
-jds: [6, 7, 10, 12, 11]
-moral: "12"
-xp: 2075
-nbr: "1"
-loot: "G"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+3", "+4", "+3", "+5", "+8"]
 traits:
   - name: Teleportation
     desc: "Hover in the air and teleport at-will, as per the spell, without failure. They can teleport and strike in the same round."

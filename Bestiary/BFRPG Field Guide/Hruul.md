@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Hruul
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "6"
+layout: shadowdark
+ac: "17"
+level: "6"
 hp: 27
-thaco: "+6"
-modifier: 0
-stats: ["6", "27", "2 [17]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "27", "17", "+6"]
 attack: "1 giant axe, 1 giant club or 1 ground slam"
 damage: "1d8 + 4 axe, 2d6 club or 1d10 to all surrounding enemies"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 500
-nbr: "1d4, Lair 2d6"
-loot: "K"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Ground Slam
-    desc: "Normally a hruul will attack with both weapons that it carries, but if one is surrounded or facing large numbers it will pound the ground with its over-sized third arm, sending a concussive blast that will damage all nearby enemies with flying debris; additionally, all affected enemies must save vs. Dragon Breath or be knocked prone."
+    desc: "Normally a hruul will attack with both weapons that it carries, but if one is surrounded or facing large numbers it will pound the ground with its over-sized third arm, sending a concussive blast that will damage all nearby enemies with flying debris; additionally, all affected enemies must succeed on a DC 13 DEX check or be knocked prone."
 actions:
   - name: giant axe, 1 giant club or 1 ground slam
     desc: "D20 to hit, 1d8 + 4 axe, 2d6 club or 1d10 to all surrounding enemies"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bisren
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1+2"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 6
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1+2", "6", "5 [14]", "+1"]
+stats: ["1", "6", "14", "+1"]
 attack: "1 gore, charge, or by weapon"
 damage: "1d6, charge, or by weapon"
-speed: "40' (subject to encumbrance)'"
-jds: [12, 13, 14, 15, 17]
-moral: "9"
-xp: 25
-nbr: "1d8, Wild 5d8, Lair 5d8"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Gore
     desc: "1d6 points of damage with its horns."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Fire Beetle
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1+2"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 6
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1+2", "6", "4 [15]", "+1"]
+stats: ["1", "6", "15", "+1"]
 attack: "1 bite (2d4)"
 damage: "2d4"
-speed: "40'"
-jds: [12, 13, 14, 15, 17]
-moral: "7"
-xp: 25
-nbr: "1d8, Wild 2d6, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Glowing Organs
     desc: "Pair of glowing red organs illuminate a radius of 10 feet. Glands continue to glow for 1d6 days after death and may be removed for use as illumination."

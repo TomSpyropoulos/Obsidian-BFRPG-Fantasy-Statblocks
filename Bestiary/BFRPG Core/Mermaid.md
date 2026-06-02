@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Mermaid
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "8 [11]", "+1"]
+stats: ["1", "4", "11", "+1"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "Swim 40'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 37
-nbr: "Wild 1d2 or 3d6 (see below)"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Enchanting Song
-    desc: "A mermaid's song will attract any man within 100 yards, but generally has no effect on women. Men within the area of effect must save vs. Spells to resist, or else they will move toward the mermaid with amorous intent as directly as possible. If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit. Affected men will submit to anything the mermaid desires. When she tires of him, he might be freed or slain, depending on the mermaid's temperament."
+    desc: "A mermaid's song will attract any man within 100 yards, but generally has no effect on women. Men within the area of effect must succeed on a DC 12 INT check to resist, or else they will move toward the mermaid with amorous intent as directly as possible. If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit. Affected men will submit to anything the mermaid desires. When she tires of him, he might be freed or slain, depending on the mermaid's temperament."
   - name: Breath Holding
     desc: "They can hold their breath for up to an hour of light activity, or two turns (20 minutes) of strenuous action. However, being out of water more than two turns (20 minutes) causes the mermaid 1d4 points of damage per turn."
   - name: Dolphin Communication
@@ -52,5 +46,5 @@ One-third of female mermaids are infertile. Other mermaids can sense this, but n
 
 A mermaid with a child will not generally be encountered, as they remain in the deeper parts of the ocean and avoid the attention of men. Pods of mermaids do likewise, and in fact any pod includes 2d4-2 children/juveniles (over and above the number rolled for Number Appearing). Men generally meet mermaids only in groups of 1 or 2.
 
-Mermaids arm themselves with spears or daggers. They hunt fish and harvest kelp for food. Mermaids sometimes possess more than 1 hit die, and about 3% have some Clerical abilities.
+Mermaids arm themselves with spears or daggers. They hunt fish and harvest kelp for food. Mermaids sometimes possess more than 1 level, and about 3% have some Clerical abilities.
 

@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Rhagodessa
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "4"
+layout: shadowdark
+ac: "15"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4", "18", "4 [15]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
 attack: "2 legs/1 bite"
 damage: "grab/grab/2d8"
-speed: "50'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 240
-nbr: "1d4, Wild 1d6, Lair 1d6"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Sticky Pedipalps
     desc: "A hit by a leg does no damage, but the victim is stuck fast and will be drawn to the rhagodessa's mouth on the next round and automatically hit for 2d8 points of damage; this repeats each round, so long as the victim is held. Escaping from the sticky hold requires a successful roll to open doors. If both legs hit, this roll frees the victim from just one of them; a second roll is needed to fully escape."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Cockroach
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "14"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1*", "4", "5 [14]", "+1"]
+stats: ["1", "4", "14", "+1"]
 attack: "1 bite (1d4)"
 damage: "1d4"
-speed: "50'"
-jds: [12, 13, 14, 15, 17]
-moral: "6"
-xp: 37
-nbr: "1d4, Wild 2d4, Lair 2d8"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Disease Resistance
     desc: "While a giant cockroach saves as a 1st-level Fighter in most situations, it saves as a 10th-level Cleric vs. Poison, and is immune to most disease-based attacks."

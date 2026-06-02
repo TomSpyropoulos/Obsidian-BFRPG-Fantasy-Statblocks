@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Pounder Snail
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+stats: ["2", "9", "15", "+2"]
 attack: "1 tail blow or 1 bite"
 damage: "1d4 tail, 1d2 bite"
-speed: "10'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
   - name: tail blow or 1 bite
     desc: "D20 to hit, 1d4 tail, 1d2 bite"

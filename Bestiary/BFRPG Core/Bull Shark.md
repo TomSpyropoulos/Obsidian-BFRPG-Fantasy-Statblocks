@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Bull Shark
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "2"
+layout: shadowdark
+ac: "12"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "7 [12]", "+2"]
+stats: ["2", "9", "12", "+2"]
 attack: "1 bite (2d4)"
 damage: "2d4"
-speed: "Swim 60' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 75
-nbr: "Wild 3d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
   - name: bite (2d4)
     desc: "D20 to hit, 2d4"

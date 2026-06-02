@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Sprite
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "1d4 Hit Points *"
+layout: shadowdark
+ac: "14"
+level: "1d4 Hit Points"
 hp: 2
-thaco: "+0"
-modifier: 0
-stats: ["1d4 Hit Points *", "2", "5 [14]", "+0"]
+atk_bonus: "+0"
+modifier: 1
+stats: ["1d4 Hit Points", "2", "14", "+0"]
 attack: "1 dagger or 1 spell"
 damage: "1d4 or by spell"
-speed: "20' Fly 60'"
-jds: [12, 11, 11, 15, 11]
-moral: "7"
-xp: 13
-nbr: "3d6, Wild 3d6, Lair 5d8"
-loot: "S"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+0", "+1", "-1", "+3", "+1", "+0"]
 traits:
   - name: Remove Curse/Bestow Curse
     desc: "Five sprites acting together can cast remove curse, or its reversed form bestow curse, once per day. The latter spell is often used as an attack."

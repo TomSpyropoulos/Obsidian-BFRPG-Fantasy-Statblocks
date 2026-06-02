@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Unicorn
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "18"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 1
-stats: ["4*", "18", "1 [18]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "18", "+4"]
 attack: "2 hooves/1 horn (+3 attack bonus)"
 damage: "1d8/1d8/1d6+3"
-speed: "80'"
-jds: [9, 10, 12, 13, 14]
-moral: "7"
-xp: 280
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Cure Light Wounds
     desc: "Three times per day a unicorn can cast cure light wounds by a touch of its horn."

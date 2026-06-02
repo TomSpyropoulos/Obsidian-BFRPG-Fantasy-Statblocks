@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Red Cap
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "13"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 1
-stats: ["3*", "13", "6 [13]", "+3"]
+atk_bonus: "+3"
+modifier: 2
+stats: ["3", "13", "13", "+3"]
 attack: "1 weapon"
 damage: "By weapon"
-speed: "60'"
-jds: [11, 13, 11, 13, 13]
-moral: "8"
-xp: 175
-nbr: "1d4"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+0", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Thief abilities
     desc: "Within its lair a red cap has the abilities of a 6th-level Thief, including the sneak attack ability. Outside its lair a red cap's Thief abilities are only 3rd-level."

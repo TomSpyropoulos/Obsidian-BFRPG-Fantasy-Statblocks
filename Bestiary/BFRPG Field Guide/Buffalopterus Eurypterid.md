@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Buffalopterus Eurypterid
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "1"
+layout: shadowdark
+ac: "13"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "6 [13]", "+1"]
+stats: ["1", "4", "13", "+1"]
 attack: "2 claws"
 damage: "1d4"
-speed: "20' Swim 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "9"
-xp: 25
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d4"

@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Skerraxis
-layout: BFRPG
-ac: "1 [18]"
-hit_dice: "3"
+layout: shadowdark
+ac: "18"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "1 [18]", "+3"]
+stats: ["3", "13", "18", "+3"]
 attack: "1"
 damage: "1d10 + berserk"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "12"
-xp: 145
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Berserk
-    desc: "If a skerraxis' attack exceeds a target's defense by 3 or more, they must save vs. Spells or become possessed momentarily by the anger of the skerraxis, attacking the nearest ally (moving towards that ally if necessary) on their next turn."
+    desc: "If a skerraxis' attack exceeds a target's defense by 3 or more, they must succeed on a DC 12 INT check or become possessed momentarily by the anger of the skerraxis, attacking the nearest ally (moving towards that ally if necessary) on their next turn."
 actions:
   - name: 1
     desc: "D20 to hit, 1d10 + berserk"

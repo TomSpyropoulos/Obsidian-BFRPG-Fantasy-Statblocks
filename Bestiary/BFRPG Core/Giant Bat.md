@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Giant Bat
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 9
-thaco: "+2"
-modifier: 0
-stats: ["2", "9", "6 [13]", "+2"]
+atk_bonus: "+2"
+modifier: 1
+stats: ["2", "9", "13", "+2"]
 attack: "1 bite"
 damage: "1d4"
-speed: "10' Fly 60' (10')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "1d10, Wild 1d10, Lair 1d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "Natural sonar allows them to operate in total darkness."

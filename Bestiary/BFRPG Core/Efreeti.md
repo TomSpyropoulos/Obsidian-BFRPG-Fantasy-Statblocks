@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Efreeti
-layout: BFRPG
-ac: "-1 [20]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "20"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 2
-stats: ["10* (+9)", "54", "-1 [20]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["10 ()", "54", "20", "+9"]
 attack: "-"
 damage: "2d8 or special"
-speed: "30' Fly 80' (10')'"
-jds: [7, 8, 10, 11, 12]
-moral: "12 (9)"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+4", "+4", "+3", "+2", "+2", "+7"]
 traits:
   - name: Become invisible
     desc: "Can become invisible at will, with unlimited uses per day."
@@ -49,7 +43,7 @@ source: BFRPG Core
 
 The efreet (singular efreeti) are humanoid creatures from the Elemental Plane of Fire. An efreeti in its natural form stands about 12 feet tall and weighs about 2,000 pounds. Efreet are malicious by nature. They love to mislead, befuddle, and confuse their foes. They do this for enjoyment as much as for tactical reasons.
 
-Note that the 12 morale reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "9" figure to determine whether an outmatched efreeti decides to leave a combat.
+Note that the 12 morale (CHA) reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "9" figure to determine whether an outmatched efreeti decides to leave a combat.
 
 Due to their highly magical nature, efreet cannot be harmed by non-magical weapons. They are immune to normal fire, and suffer only half damage from magical fire attacks.
 

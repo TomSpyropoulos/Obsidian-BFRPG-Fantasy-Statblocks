@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bog Ogre
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4+1*"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 19
-thaco: "+4"
-modifier: 0
-stats: ["4+1*", "19", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "19", "13", "+4"]
 attack: "2 fists + swallow"
 damage: "1d8 fist + special"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 280
-nbr: "1d6, Lair 2d6"
-loot: "D + 2d10x100 gp"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Swallow Whole
     desc: "Small humanoids (such as a goblin or halfling) have a 10% chance of being grabbed and swallowed whole if both fist attacks hit; a bog ogre can swallow up to one small humanoid at a time. A swallowed victim suffers 1d6 points of damage each round and can't act in the tight confines of the ogres stomach."

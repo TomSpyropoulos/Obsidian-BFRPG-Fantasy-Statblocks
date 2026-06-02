@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Mimic
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "14"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7**", "31", "5 [14]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "14", "+7"]
 attack: "1 slam"
 damage: "3d4"
-speed: "10'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 800
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Shapeshifting
     desc: "Can assume the general shape of any object or creature that fills roughly 150 cubic feet. Body is hard and has a rough texture, no matter what appearance it might present. Anyone who closely examines the mimic can easily detect the ruse."

@@ -10,26 +10,20 @@ source: BFRPG Core
 
 ```statblock
 name: Purple Worm
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "11* (+9)"
+layout: shadowdark
+ac: "15"
+level: "11 ()"
 hp: 58
-thaco: "+9"
-modifier: 0
-stats: ["11* (+9)", "58", "4 [15]", "+9"]
+atk_bonus: "+9"
+modifier: 2
+stats: ["11 ()", "58", "15", "+9"]
 attack: "1 bite/1 sting"
 damage: "2d8/1d8+poison"
-speed: "20' (15') Burrow 20' (15')'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 1670
-nbr: "1d2, Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Poisonous Stinger
-    desc: "Those injured by the tail stinger must save vs. Poison or die."
+    desc: "Those injured by the tail stinger must succeed on a DC 14 CON check or die."
   - name: Swallow Whole
     desc: "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed, and will suffer 3d6 damage per round afterward due to being digested. A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
 actions:
@@ -42,7 +36,7 @@ source: BFRPG Core
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground. The body of a mature purple worm is 5-8 feet in diameter and 60-100 feet long, weighing about 40,000 pounds.
 
-The creature has a poisonous stinger in its tail; those injured by it must save vs. Poison or die. Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+The creature has a poisonous stinger in its tail; those injured by it must succeed on a DC 14 CON check or die. Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
 
 Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed, and will suffer 3d6 damage per round afterward due to being digested. A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
 

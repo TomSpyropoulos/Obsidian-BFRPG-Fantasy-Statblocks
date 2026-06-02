@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Moon Goblin
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+stats: ["2", "9", "15", "+2"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "30'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 75
-nbr: "Wild 2d10, Lair 4d8\u00d710"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Stealth
     desc: "In their preferred wooded mountain terrain, they are able to hide very effectively; so long as they remain still there is only a 10% chance they will be detected. Even indoors in dungeons or in non-preferred terrain they are able to hide so well that there is only a 30% chance of detection while they remain still."

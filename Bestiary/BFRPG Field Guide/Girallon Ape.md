@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Girallon Ape
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "7"
+layout: shadowdark
+ac: "15"
+level: "7"
 hp: 31
-thaco: "+7"
-modifier: 0
-stats: ["7", "31", "4 [15]", "+7"]
+atk_bonus: "+7"
+modifier: 1
+stats: ["7", "31", "15", "+7"]
 attack: "4 claws / 1 bite"
 damage: "1d6 claw, 1d8 bite"
-speed: "40'"
-jds: [10, 11, 12, 14, 15]
-moral: "10"
-xp: 670
-nbr: "1, Wild 1d2, Lair 2d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Rend
     desc: "A girallon that hits with two or more claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d4 points of damage."

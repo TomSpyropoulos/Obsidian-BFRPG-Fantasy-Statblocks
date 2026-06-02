@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Lizard Man
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "2"
+layout: shadowdark
+ac: "14"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "5 [14]", "+2"]
+stats: ["2", "9", "14", "+2"]
 attack: "1 weapon"
 damage: "1d6+1 or by weapon +1"
-speed: "20' Unarmored 30' Swim 40' (not armor)'"
-jds: [11, 12, 14, 15, 16]
-moral: "11"
-xp: 75
-nbr: "2d4, Wild 2d4, Lair 6d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+4"]
 traits:
   - name: Swimming
     desc: "Excellent swimmers and can hold their breath for an extended period of time (up to a full turn). They cannot swim while wearing armor."

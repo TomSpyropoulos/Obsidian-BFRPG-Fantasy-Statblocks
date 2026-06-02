@@ -1,6 +1,6 @@
 ---
 statblock: inline
-name: Wererat* Lycanthrope
+name: Wererat Lycanthrope
 obsidianUIMode: preview
 tags:
   - monster
@@ -9,24 +9,18 @@ source: BFRPG Core
 ---
 
 ```statblock
-name: Wererat* Lycanthrope
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "3*"
+name: Wererat Lycanthrope
+layout: shadowdark
+ac: "12"
+level: "3"
 hp: 13
-thaco: "+3"
+atk_bonus: "+3"
 modifier: 0
-stats: ["3*", "13", "7 [12]", "+3"]
+stats: ["3", "13", "12", "+3"]
 attack: "1 bite or 1 weapon"
 damage: "1d4 or 1d6 or by weapon"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 175
-nbr: "1d8, Wild 2d8, Lair 2d8"
-loot: "C"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Shapeshifting
     desc: "Can assume the form of a giant rat or an intermediate ratman form."

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ascended Celestial
-layout: BFRPG
-ac: "2 [17]"
-hit_dice: "10* (+9)"
+layout: shadowdark
+ac: "17"
+level: "10 ()"
 hp: 54
-thaco: "+9"
-modifier: 1
-stats: ["10* (+9)", "54", "2 [17]", "+9"]
+atk_bonus: "+9"
+modifier: 4
+stats: ["10 ()", "54", "17", "+9"]
 attack: "1 weapon"
 damage: "By weapon + 2"
-speed: "40' Fly 80' (20')'"
-jds: [8, 9, 11, 13, 12]
-moral: "12"
-xp: 1390
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near (fly)"
+attributes: ["+2", "+4", "+3", "+2", "+4", "+7"]
 traits:
   - name: Enhanced Weapon Damage
     desc: "Physical attacks with a weapon deal an additional 2 points of damage."

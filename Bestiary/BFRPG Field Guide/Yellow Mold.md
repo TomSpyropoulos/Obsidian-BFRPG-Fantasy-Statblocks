@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Yellow Mold
-layout: BFRPG
-ac: "10 [9]"
-hit_dice: "2*"
+layout: shadowdark
+ac: "9"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2*", "9", "10 [9]", "+2"]
+stats: ["2", "9", "9", "+2"]
 attack: "1"
 damage: "Special"
-speed: "None'"
-jds: [11, 12, 14, 15, 16]
-moral: "7"
-xp: 100
-nbr: "N/A"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Corrosive Touch
     desc: "If touched, it does 1d6 points of damage to exposed flesh."
   - name: Poison Spores
-    desc: "Any forceful or damaging contact is 50% likely to cause it to burst forth with a cloud of poisonous spores. Everyone within 10 feet of the mold must save vs. Poison or die of asphyxiation."
+    desc: "Any forceful or damaging contact is 50% likely to cause it to burst forth with a cloud of poisonous spores. Everyone within 10 feet of the mold must succeed on a DC 12 CON check or die of asphyxiation."
   - name: Vulnerability to Fire
     desc: "Fire destroys yellow mold."
   - name: Sunlight Dormancy
@@ -44,5 +38,5 @@ actions:
 source: BFRPG Field Guide
 ```
 
-Yellow mold is also found in underground environments. If touched, it does 1d6 points of damage to exposed flesh; further, any forceful or damaging contact is 50% likely to cause it to burst forth with a cloud of poisonous spores. Everyone within 10 feet of the mold must save vs. Poison or die of asphyxiation. Obviously, normal weapon attacks are useless against this creature; however, fire destroys yellow mold, and sunlight renders it dormant.
+Yellow mold is also found in underground environments. If touched, it does 1d6 points of damage to exposed flesh; further, any forceful or damaging contact is 50% likely to cause it to burst forth with a cloud of poisonous spores. Everyone within 10 feet of the mold must succeed on a DC 12 CON check or die of asphyxiation. Obviously, normal weapon attacks are useless against this creature; however, fire destroys yellow mold, and sunlight renders it dormant.
 

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Barrode
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "2+2"
+layout: shadowdark
+ac: "13"
+level: "2"
 hp: 11
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2+2", "11", "6 [13]", "+2"]
+stats: ["2", "11", "13", "+2"]
 attack: "1 weapon"
 damage: "1d6 or by weapon"
-speed: "30'"
-jds: [12, 13, 14, 15, 17]
-moral: "9"
-xp: 75
-nbr: "3d6, Lair 3d6\u00d75"
-loot: "P, Q"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Tactical Theft
     desc: "Barrodes will try to overwhelm opponents with large numbers. They surround enemies and, with the enemy distracted, proceed to pull off armor and steal weapons to render them helpless. Stolen items remain unharmed and can be recovered after the group is defeated."

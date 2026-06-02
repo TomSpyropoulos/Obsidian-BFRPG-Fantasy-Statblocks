@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Paraceratherium
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "12"
+layout: shadowdark
+ac: "12"
+level: "12"
 hp: 54
-thaco: "+10"
-modifier: 1
-stats: ["12", "54", "7 [12]", "+10"]
+atk_bonus: "+10"
+modifier: 3
+stats: ["12", "54", "12", "+10"]
 attack: "1 kick"
 damage: "2d8 kick"
-speed: "20'"
-jds: [8, 9, 10, 12, 13]
-moral: "6"
-xp: 1875
-nbr: "Wild 1d3"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+3", "+3", "+3", "+2"]
 actions:
   - name: kick
     desc: "D20 to hit, 2d8 kick"

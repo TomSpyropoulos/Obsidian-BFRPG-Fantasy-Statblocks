@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Aeromi
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "1"
+layout: shadowdark
+ac: "11"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1", "4", "8 [11]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1", "4", "11", "+1"]
 attack: "2 claws or 1 weapon"
 damage: "1d4 claw, by weapon"
-speed: "30' Glide 90' Climb 20'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 10d6"
-loot: "Q, R each; D in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
 traits:
   - name: Darkvision
     desc: "90' range outdoors at night. 30' range indoors or underground. Can see nearly as well as a human in daylight on clear nights with ample star- or moonlight."

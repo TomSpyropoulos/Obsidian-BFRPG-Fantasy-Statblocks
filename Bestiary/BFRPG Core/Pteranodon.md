@@ -10,23 +10,17 @@ source: BFRPG Core
 
 ```statblock
 name: Pteranodon
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "5"
+layout: shadowdark
+ac: "12"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "7 [12]", "+5"]
+atk_bonus: "+5"
+modifier: 2
+stats: ["5", "22", "12", "+5"]
 attack: "1 bite (2d6)"
 damage: "2d6"
-speed: "Fly 60' (15')'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 360
-nbr: "Wild 1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite (2d6)
     desc: "D20 to hit, 2d6"

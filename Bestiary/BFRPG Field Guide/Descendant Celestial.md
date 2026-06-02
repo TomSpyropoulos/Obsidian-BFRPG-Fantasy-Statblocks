@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Descendant Celestial
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "14"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "5 [14]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "14", "+4"]
 attack: "1 weapon or 1 unarmed"
 damage: "By weapon or 1d4"
-speed: "40' Fly 60'"
-jds: [9, 10, 13, 15, 14]
-moral: "9"
-xp: 280
-nbr: "1d6"
-loot: "A"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+1", "+2", "+1", "+1", "+3", "+3"]
 traits:
   - name: Flight
     desc: "Use their wings to hover and weave during combat."

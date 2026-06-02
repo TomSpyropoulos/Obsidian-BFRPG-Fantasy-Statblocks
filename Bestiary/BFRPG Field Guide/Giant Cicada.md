@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Cicada
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "16"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "3 [16]", "+4"]
+atk_bonus: "+4"
+modifier: 2
+stats: ["4", "18", "16", "+4"]
 attack: "1 bite or special"
 damage: "1d6 or special"
-speed: "30' Fly 60'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 traits:
   - name: Cicada Singing
-    desc: "Cicada singing is a normal activity, not an attack per se. Cicadas are usually singing 50% of the time.  Anyone within 20 feet of a singing giant cicada must make a save vs. Paralysis or take 1d4 points of damage to internal organs and suffer complete hearing loss for 10 minutes. The save must be re-made each round the person is within the 20-foot range. For anyone failing the save three times in a row, the hearing loss becomes permanent.  Ear plugs prevent hearing loss, but offer no protection against the internal damage."
+    desc: "Cicada singing is a normal activity, not an attack per se. Cicadas are usually singing 50% of the time.  Anyone within 20 feet of a singing giant cicada must make a DC 12 STR check or take 1d4 points of damage to internal organs and suffer complete hearing loss for 10 minutes. The save must be re-made each round the person is within the 20-foot range. For anyone failing the save three times in a row, the hearing loss becomes permanent.  Ear plugs prevent hearing loss, but offer no protection against the internal damage."
 actions:
   - name: bite or special
     desc: "D20 to hit, 1d6 or special"

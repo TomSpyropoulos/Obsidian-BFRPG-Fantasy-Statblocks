@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Shield Guardian
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "15+20** (+5)"
+layout: shadowdark
+ac: "19"
+level: "15 ()"
 hp: 92
-thaco: "+11"
-modifier: 1
-stats: ["15+20** (+5)", "92", "0 [19]", "+11"]
+atk_bonus: "+11"
+modifier: 3
+stats: ["15 ()", "92", "19", "+11"]
 attack: "1 fist"
 damage: "1d6"
-speed: "30'"
-jds: [9, 10, 12, 13, 14]
-moral: "12"
-xp: 3100
-nbr: "1"
-loot: "L"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Amulet Link
     desc: "Magically linked to a particular magical amulet and will protect its bearer at any cost. Will always follow the amulet. If separated by more than 100 feet, enters a dormant state, standing still and waiting impassively for the return of the amulet."

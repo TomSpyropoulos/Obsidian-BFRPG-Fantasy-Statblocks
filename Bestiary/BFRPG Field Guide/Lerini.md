@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Lerini
-layout: BFRPG
-ac: "7 [12]"
-hit_dice: "1"
+layout: shadowdark
+ac: "12"
+level: "1"
 hp: 4
-thaco: "+1"
+atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "7 [12]", "+1"]
+stats: ["1", "4", "12", "+1"]
 attack: "1 bite or weapon"
 damage: "1d6 or by weapon"
-speed: "20' (unarmored 40'), Swim 30'"
-jds: [12, 13, 14, 15, 17]
-moral: "8"
-xp: 25
-nbr: "2d4, Wild 3d6, Lair 6d6"
-loot: "D"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Swimming
     desc: "Can hold its breath up to 10 minutes."

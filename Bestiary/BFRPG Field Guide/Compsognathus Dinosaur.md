@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Compsognathus Dinosaur
-layout: BFRPG
-ac: "8 [11]"
-hit_dice: "\u00bd (1d4 hit points)"
+layout: shadowdark
+ac: "11"
+level: "\u00bd (1d4 hit points)"
 hp: 2
-thaco: "+0"
-modifier: -1
-stats: ["\u00bd (1d4 hit points)", "2", "8 [11]", "+0"]
+atk_bonus: "+0"
+modifier: 0
+stats: ["\u00bd (1d4 hit points)", "2", "11", "+0"]
 attack: "1 bite"
 damage: "1d2"
-speed: "40'"
-jds: [13, 14, 15, 16, 18]
-moral: "8"
-xp: 10
-nbr: "Wild 1d10"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: bite
     desc: "D20 to hit, 1d2"

@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Giant Oil Beetle
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "2"
+layout: shadowdark
+ac: "15"
+level: "2"
 hp: 9
-thaco: "+2"
+atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "4 [15]", "+2"]
+stats: ["2", "9", "15", "+2"]
 attack: "1 bite + spray (see below)"
 damage: "2d4 bite, special spray"
-speed: "40'"
-jds: [11, 12, 14, 15, 16]
-moral: "8"
-xp: 100
-nbr: "1d8, Wild 2d6, Lair 2d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: All-around Vision
     desc: "Their eyes are arranged on the sides of their heads such that they can see perfectly well behind them as well as in front, negating any normal bonus for attacking from behind."

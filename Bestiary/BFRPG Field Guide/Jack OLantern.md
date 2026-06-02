@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Jack O'Lantern
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "3*"
+layout: shadowdark
+ac: "14"
+level: "3"
 hp: 13
-thaco: "+3"
-modifier: 0
-stats: ["3*", "13", "5 [14]", "+3"]
+atk_bonus: "+3"
+modifier: 1
+stats: ["3", "13", "14", "+3"]
 attack: "1 breath"
 damage: "2d6"
-speed: "Fly 20'"
-jds: [13, 14, 13, 15, 14]
-moral: "9"
-xp: 175
-nbr: "1d6"
-loot: "U"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near (fly)"
+attributes: ["+0", "+1", "+0", "+2", "+0", "+2"]
 traits:
   - name: Fire Breath
-    desc: "Can project fire from its openings; this breath weapon is in the form of a cone 5 feet wide at the base with a range of 5 feet in front of the creature. Anyone caught in the blaze suffers 2d6 points of fire damage; save vs. Dragon Breath for only half damage."
+    desc: "Can project fire from its openings; this breath weapon is in the form of a cone 5 feet wide at the base with a range of 5 feet in front of the creature. Anyone caught in the blaze suffers 2d6 points of fire damage; Succeed on a DC 12 DEX check for only half damage."
   - name: Flight
     desc: "Can fly (as the spell, at a rate of 20 feet per round) at will."
   - name: Construct Immunities
@@ -37,7 +31,7 @@ traits:
   - name: Vulnerability to Cold
     desc: "Takes double damage from ice or cold."
   - name: Candle Dependency
-    desc: "Water or wind-based attacks may snuff the monster's candle, if it fails a saving throw vs. Death Ray. If a jack o'lantern's candle is snuffed, it becomes instantly dormant; re-lighting the candle will restore it to life."
+    desc: "Water or wind-based attacks may snuff the monster's candle, if it fails a DC 12 CON check. If a jack o'lantern's candle is snuffed, it becomes instantly dormant; re-lighting the candle will restore it to life."
   - name: Camouflage
     desc: "When at rest or otherwise inert, it is impossible to tell from a normal fruit, as each can close its carved eyes, mouth, and other apertures and appear entirely ordinary."
 actions:

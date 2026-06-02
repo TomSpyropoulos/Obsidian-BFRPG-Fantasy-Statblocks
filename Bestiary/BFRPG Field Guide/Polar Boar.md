@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Polar Boar
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "5"
+layout: shadowdark
+ac: "14"
+level: "5"
 hp: 22
-thaco: "+5"
-modifier: 0
-stats: ["5", "22", "5 [14]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "22", "14", "+5"]
 attack: "1 tusk (2d6)"
 damage: "-"
-speed: "50' (10')'"
-jds: [11, 11, 13, 14, 15]
-moral: "9"
-xp: 360
-nbr: "Wild 1d6"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Cold Immunity
     desc: "Essentially immune to cold environmental effects. Extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, it receives a +4 bonus."

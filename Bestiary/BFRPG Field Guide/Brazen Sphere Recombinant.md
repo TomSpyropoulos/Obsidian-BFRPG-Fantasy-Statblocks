@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Brazen Sphere Recombinant
-layout: BFRPG
-ac: "4 [15]"
-hit_dice: "1*"
+layout: shadowdark
+ac: "15"
+level: "1"
 hp: 4
-thaco: "+1"
-modifier: 0
-stats: ["1*", "4", "4 [15]", "+1"]
+atk_bonus: "+1"
+modifier: 1
+stats: ["1", "4", "15", "+1"]
 attack: "2 sphere shots (1d4)"
 damage: "1d4 sphere shot"
-speed: "80'"
-jds: [12, 13, 14, 15, 17]
-moral: "12"
-xp: 37
-nbr: "1d3"
-loot: "100 gp worth of sapphires"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "double near"
+attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
 traits:
   - name: Sphere Shots
     desc: "Can fire out streams of spheres quite rapidly, allowing it to attack twice per round, out to a range of 60 feet. The fired spheres will roll back and be reabsorbed by the recombinant the round after they're fired."

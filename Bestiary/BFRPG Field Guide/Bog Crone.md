@@ -10,23 +10,17 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bog Crone
-layout: BFRPG
-ac: "5 [14]"
-hit_dice: "5+2**"
+layout: shadowdark
+ac: "14"
+level: "5"
 hp: 24
-thaco: "+5"
-modifier: 0
-stats: ["5+2**", "24", "5 [14]", "+5"]
+atk_bonus: "+5"
+modifier: 1
+stats: ["5", "24", "14", "+5"]
 attack: "2"
 damage: "1d4+2"
-speed: "30' Swim 40'"
-jds: [11, 11, 13, 14, 15]
-moral: "10"
-xp: 450
-nbr: "1"
-loot: "U; E, N in lair"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Aquatic
     desc: "Can breathe underwater."

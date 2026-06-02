@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Bubák
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "4*"
+layout: shadowdark
+ac: "13"
+level: "4"
 hp: 18
-thaco: "+4"
-modifier: 0
-stats: ["4*", "18", "6 [13]", "+4"]
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "13", "+4"]
 attack: "2 claws + special"
 damage: "1d6 claw + special"
-speed: "30'"
-jds: [11, 11, 13, 14, 15]
-moral: "8"
-xp: 280
-nbr: "1"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Deceptive Cry
-    desc: "This haunting ability can be used every round, and does not effect the bubák's ability to use its claws. It mimics the cries of a distressed infant, and has the effect of a charm monster spell on all those within earshot. Those who fail the save vs. spells see the bubák as a benevolent, helpful individual, easily allowing it within striking distance."
+    desc: "This haunting ability can be used every round, and does not effect the bubák's ability to use its claws. It mimics the cries of a distressed infant, and has the effect of a charm monster spell on all those within earshot. Those who fail the DC 12 INT check see the bubák as a benevolent, helpful individual, easily allowing it within striking distance."
 actions:
   - name: claws + special
     desc: "D20 to hit, 1d6 claw + special"

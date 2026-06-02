@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Barbed Devil Infernal
-layout: BFRPG
-ac: "0 [19]"
-hit_dice: "8*"
+layout: shadowdark
+ac: "19"
+level: "8"
 hp: 36
-thaco: "+8"
-modifier: 1
-stats: ["8*", "36", "0 [19]", "+8"]
+atk_bonus: "+8"
+modifier: 2
+stats: ["8", "36", "19", "+8"]
 attack: "2 claws / 1 tail / plus special"
 damage: "2d4 claw, 3d4 tail plus special"
-speed: "60'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 944
-nbr: "1d2 Lair 3d4"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Freakishly perceptive
     desc: "Effectively impossible to surprise."
   - name: Fear
-    desc: "Any living creature struck by a barbed devil must save vs. Magic Wands or suffer fear (as the reversed form of remove fear)."
+    desc: "Any living creature struck by a barbed devil must succeed on a DC 13 WIS check or suffer fear (as the reversed form of remove fear)."
   - name: Hold person
     desc: "Can create the effects of the spell hold person as often as once per round instead of attacking."
   - name: Flame

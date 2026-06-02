@@ -10,28 +10,22 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Linnorm
-layout: BFRPG
-ac: "3 [16]"
-hit_dice: "7**"
+layout: shadowdark
+ac: "16"
+level: "7"
 hp: 31
-thaco: "+7"
+atk_bonus: "+7"
 modifier: 1
-stats: ["7**", "31", "3 [16]", "+7"]
+stats: ["7", "31", "16", "+7"]
 attack: "1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 bite + poison, 1d10 claw, or breath"
-speed: "40'"
-jds: [9, 10, 12, 13, 14]
-moral: "9"
-xp: 800
-nbr: "1d2"
-loot: "E"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Breath Weapon
     desc: "Can breathe an 80-foot long, 30-foot wide cloud of fetid gas, much like a dragon's breath, for 7d8 points of damage."
   - name: Poisonous Bite
-    desc: "Those bitten must save vs. Poison or die."
+    desc: "Those bitten must succeed on a DC 13 CON check or die."
   - name: Poison Immunity
     desc: "A linnorm is immune to all poisons."
 actions:

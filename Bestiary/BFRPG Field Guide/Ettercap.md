@@ -10,26 +10,20 @@ source: BFRPG Field Guide
 
 ```statblock
 name: Ettercap
-layout: BFRPG
-ac: "6 [13]"
-hit_dice: "6+1"
+layout: shadowdark
+ac: "13"
+level: "6"
 hp: 28
-thaco: "+6"
-modifier: 0
-stats: ["6+1", "28", "6 [13]", "+6"]
+atk_bonus: "+6"
+modifier: 1
+stats: ["6", "28", "13", "+6"]
 attack: "2 claws, 1 bite + poison"
 damage: "1d3 claw, 1d8 bite + poison"
-speed: "30'"
-jds: [10, 11, 12, 14, 15]
-moral: "7"
-xp: 500
-nbr: "1d2"
-loot: "None"
-roll_jds: 1d20
-roll-moral: 2d6
+speed: "near"
+attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
   - name: Poison
-    desc: "The poison of an ettercap paralyzes its foe on a missed saving throw vs. Poison. This paralysis will wear off naturally in 1d6+6 turns."
+    desc: "The poison of an ettercap paralyzes its foe on a missed DC 13 CON check. This paralysis will wear off naturally in 1d6+6 turns."
   - name: Web
     desc: "An ettercap can throw a web eight times per day to entangle enemies. To hit, the ettercap must make an attack roll against AC11 + the target's Dexterity modifier (and any magic modifier). If the ettercap hits, the target is entangled. An entangled creature takes a -2 penalty on attack rolls and a -4 penalty on Dexterity. The web has a maximum range of 50 feet and is effective against targets of up to Medium size. The web anchors the target in place, preventing any movement. An entangled creature can break free from the web as per the web spell."
   - name: Webbing Sheets
