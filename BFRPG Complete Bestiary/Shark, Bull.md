@@ -1,0 +1,30 @@
+---
+statblock: inline
+name: Shark, Bull
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Core
+---
+
+```statblock
+name: Shark, Bull
+layout: Shadowdark
+ac: "12"
+level: "2"
+hp: 9
+atk_bonus: "+2"
+modifier: 0
+stats: ["2", "9", "12", "+2"]
+attack: "1 bite (2d4)"
+damage: "2d4 (`dice:2d4`)"
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
+actions:
+  - name: bite (2d4)
+    desc: "D20 to hit, 2d4 (`dice:2d4`)"
+source: BFRPG Core
+```
+
+Bull sharks are so named because of their stocky, broad build. Male bull sharks can grow up to 7' long and weigh around 200 pounds, while females have been known to be up to 12' long, weighing up to 500 pounds. Bull sharks are able to tolerate fresh water, and often travel up rivers in search of prey.

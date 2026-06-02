@@ -450,11 +450,21 @@ def parse_save_adjustments(save_entry):
             
     return adjustments
 
+def format_dice(text):
+    if not text:
+        return text
+    # Match standard dice notation: XdY optionally followed by + or - and Z, allowing spaces around the operator
+    pattern = r'\b(\d+d\d+(?:\s*[+-]\s*\d+)?)\b'
+    def repl(m):
+        dice_expr = m.group(1).replace(" ", "")
+        return f"{m.group(1)} (`dice:{dice_expr}`)"
+    return re.sub(pattern, repl, text)
+
 def clean_monster_name(raw_name, check_alias=False):
     # Hardcoded alias overrides for known database anomalies
     ALIAS_OVERRIDES = {
-        "Brown": "Brown Bear",
-        "Giant and Toad": "Giant Toad"
+        "Brown": "Bear, Brown",
+        "Giant and Toad": "Toad, Giant"
     }
 
     # 1. Handle parentheses for aliases
@@ -470,14 +480,11 @@ def clean_monster_name(raw_name, check_alias=False):
             part = part.strip()
             if part: aliases.append(part)
 
-    # 2. Reversal logic for commas and stripping "or" from start
+    # 2. Process stripping "or" from start and preserving commas
     def process(n):
         n = n.strip()
         # Strip leading "or "
         n = re.sub(r'^(?:or\s+)', '', n, flags=re.IGNORECASE).strip()
-        parts = [p.strip() for p in n.split(',')]
-        if len(parts) > 1:
-            return " ".join(reversed(parts))
         return n
 
     final_name = process(main_name)
@@ -604,8 +611,15 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
     for var_key, var_stats in variants_info.items():
         hd_str_full = str(var_stats.get("hitDice", "1"))
         hd_parts = re.split(r'\s+(?:to|or)\s+', hd_str_full, flags=re.IGNORECASE)
-        hd_str = hd_parts[0].strip().replace("*", "")
-        hd_str_sanitized = re.sub(r'[\+\-]\d+(?!d)', '', hd_str).strip()
+        hd_str = hd_parts[0].strip().replace("*", "").replace("½", "1/2")
+        
+        m_san = re.search(r'^(\d+d\d+|\d+/\d+|\d+\-\d+|\d+)', hd_str, re.IGNORECASE)
+        if m_san:
+            hd_str_sanitized = m_san.group(1)
+            if hd_str_sanitized == "1/2":
+                hd_str_sanitized = "1"
+        else:
+            hd_str_sanitized = hd_str
         
         save_entry = str(var_stats.get("saveAs") or "Fighter: 1")
         
@@ -729,7 +743,7 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             else: atks = list(atks_raw)
             dmg = str(var_stats.get("damage") or "")
             atk_str = " / ".join(atks) if atks else "-"
-            dmg_str = dmg if dmg else "-"
+            dmg_str = format_dice(dmg) if dmg else "-"
 
             stats_list = [hd_str_sanitized, str(hp_val), str(shadowdark_ac), atk_display]
             stats_field = json.dumps(stats_list)
@@ -746,7 +760,7 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             md = f"---\nstatblock: inline\nname: {full_name}\nobsidianUIMode: preview\ntags:\n  - monster\naliases: {q_aliases}\nsource: {source_name}\n---\n\n"
             md += "```statblock\n"
             md += f"name: {full_name}\n"
-            md += "layout: shadowdark\n"
+            md += "layout: Shadowdark\n"
             md += f"ac: {q_ac}\n"
             md += f"level: {q_hd_str}\n"
             md += f"hp: {hp_val}\n"
@@ -783,7 +797,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
                     an = (atk_p[i] if i < len(atk_p) else "Attack").strip()
                     dv = (dmg_p[i] if i < len(dmg_p) else "").strip()
                     dv_clean = dv.replace('"', "'")
-                    md += f"  - name: {an}\n    desc: \"D20 to hit, {dv_clean}\"\n"
+                    dv_clean_formatted = format_dice(dv_clean)
+                    md += f"  - name: {an}\n    desc: \"D20 to hit, {dv_clean_formatted}\"\n"
             
             md += f"source: {source_name}\n```\n"
             desc = statblock_portrayal.get("description", "")
@@ -844,7 +859,7 @@ def process_sourcebook(source_json, output_dir, source_label, check_alias=False)
             if outputs:
                 os.makedirs(output_dir, exist_ok=True)
                 for fname, content in outputs:
-                    clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-"]).strip()
+                    clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-," ]).strip()
                     out_path = os.path.join(output_dir, f"{clean_fname}.md")
                     with open(out_path, 'w') as out:
                         out.write(content)
@@ -855,17 +870,15 @@ def process_sourcebook(source_json, output_dir, source_label, check_alias=False)
             print(f"  Processed {i + 1}/{len(monsters)}...")
 
 def run_bulk(check_alias=False):
-    base_dir = os.path.join(SCRIPT_DIR, "../Bestiary")
+    base_dir = os.path.join(SCRIPT_DIR, "../BFRPG Complete Bestiary")
     
     # Process Core Rulebook
     core_json = os.path.join(SCRIPT_DIR, "bfrpg.json")
-    core_out = os.path.join(base_dir, "BFRPG Core")
-    process_sourcebook(core_json, core_out, "BFRPG Core", check_alias)
+    process_sourcebook(core_json, base_dir, "BFRPG Core", check_alias)
     
     # Process Field Guide Omnibus
     fg_json = os.path.join(SCRIPT_DIR, "fieldguide.json")
-    fg_out = os.path.join(base_dir, "BFRPG Field Guide")
-    process_sourcebook(fg_json, fg_out, "BFRPG Field Guide", check_alias)
+    process_sourcebook(fg_json, base_dir, "BFRPG Field Guide", check_alias)
     print("Conversion complete!")
 
 def run_tests():
@@ -876,11 +889,11 @@ def run_tests():
     # 1. Test Naming Engine
     print("\n--- 1. Testing Naming Engine ---")
     test_cases = [
-        ("Frog, Giant (or Toad, Giant)", "Giant Frog", ["Giant Toad"]),
+        ("Frog, Giant (or Toad, Giant)", "Frog, Giant", ["Toad, Giant"]),
         ("Medusa", "Medusa", []),
-        ("Beetle, Giant Fire", "Giant Fire Beetle", []),
-        ("Bear, Grizzly (or Brown)", "Grizzly Bear", ["Brown Bear"]),
-        ("Dragon, Ice (White Dragon)", "Ice Dragon", ["White Dragon"])
+        ("Beetle, Giant Fire", "Beetle, Giant Fire", []),
+        ("Bear, Grizzly (or Brown)", "Bear, Grizzly", ["Bear, Brown"]),
+        ("Dragon, Ice (White Dragon)", "Dragon, Ice", ["White Dragon"])
     ]
     for tc, expected_name, expected_aliases in test_cases:
         name, aliases = clean_monster_name(tc)
@@ -923,6 +936,28 @@ def run_tests():
         assert parsed_hd == expected_hd, f"Expected HD {expected_hd}, got {parsed_hd}"
         assert hp == expected_hp, f"Expected HP {expected_hp}, got {hp}"
     print("HD & HP Calculations: PASS")
+
+    # 3b. Test Display Level Sanitization
+    print("\n--- 3b. Testing Level Display Sanitization ---")
+    san_tests = [
+        ("1-1", "1-1"),
+        ("1/2 (1d4 HP)", "1"),
+        ("1 hit point", "1"),
+        ("1 HP*", "1"),
+        ("5+1*", "5"),
+        ("½ (1d4 hit points)", "1"),
+        ("1d4 Hit Points", "1d4"),
+        ("Special", "Special")
+    ]
+    for raw_hd, expected in san_tests:
+        calc_str = raw_hd.replace("*", "").replace("½", "1/2").strip()
+        m_san = re.search(r'^(\d+d\d+|\d+/\d+|\d+\-\d+|\d+)', calc_str, re.IGNORECASE)
+        sanitized = m_san.group(1) if m_san else calc_str
+        if sanitized == "1/2":
+            sanitized = "1"
+        print(f"Raw: '{raw_hd}' -> Sanitized Display: '{sanitized}'")
+        assert sanitized == expected, f"Expected '{expected}', got '{sanitized}'"
+    print("Level Display Sanitization: PASS")
 
     # 4. Test Shadowdark Attributes Modifier Calculations
     print("\n--- 4. Testing Shadowdark Attributes & Modifiers ---")
@@ -1059,6 +1094,22 @@ def run_tests():
         assert translated == expected, f"Failed translating: expected \"{expected}\", got \"{translated}\""
     print("Trait Grammatical Translations: PASS")
 
+    # 6. Test Dice Roller Formatting
+    print("\n--- 6. Testing Dice Roller Formatting ---")
+    dice_tests = [
+        ("1d8+1", "1d8+1 (`dice:1d8+1`)"),
+        ("1d8", "1d8 (`dice:1d8`)"),
+        ("3d4 thorn or 1d8 bite", "3d4 (`dice:3d4`) thorn or 1d8 (`dice:1d8`) bite"),
+        ("1d8 + 2", "1d8 + 2 (`dice:1d8+2`)"),
+        ("2d6-1", "2d6-1 (`dice:2d6-1`)"),
+        ("1-1", "1-1") # Should not format flat stats without 'd'
+    ]
+    for text, expected in dice_tests:
+        formatted = format_dice(text)
+        print(f"Original: \"{text}\"\n  Result: \"{formatted}\"")
+        assert formatted == expected, f"Failed dice format: expected \"{expected}\", got \"{formatted}\""
+    print("Dice Roller Formatting: PASS")
+
     print("\n==================================================")
     print("              ALL TESTS PASSED!                   ")
     print("==================================================")
@@ -1088,7 +1139,7 @@ def main():
         if outputs:
             os.makedirs(args.output_dir, exist_ok=True)
             for fname, content in outputs:
-                clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-"]).strip()
+                clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-," ]).strip()
                 out_path = os.path.join(args.output_dir, f"{clean_fname}.md")
                 with open(out_path, 'w') as out:
                     out.write(content)

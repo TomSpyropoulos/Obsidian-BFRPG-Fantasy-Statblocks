@@ -8,6 +8,8 @@ Welcome to the ultimate **Shadowdark RPG** bestiary for Obsidian! This repositor
 
 * **Obsidian Ready:** Pre-formatted in Markdown with clean YAML frontmatter that works plug-and-play with the *Fantasy Statblocks* plugin.
 * **Complete Shadowdark Layout:** Built specifically for the `shadowdark` layout, featuring ascending AC, Level, HP, Atk Bonus, and a custom Actions / Traits hierarchy.
+* **Preserved Comma-Separated Naming:** Retains original database comma-separated naming schemas (e.g., `Dragon, Ice` and `Elf Bugs, Swarm`) inside the YAML name, aliases, and vault filenames, keeping species and variants perfectly grouped together in your Obsidian folder sidebar.
+* **Interactive Dice Roller Integration:** Automatically parses and appends clickable Obsidian Dice Roller blocks (e.g. `1d8+1 (`dice:1d8+1`)`) next to all dice expressions inside the YAML `damage` field and action description strings.
 * **Dynamic 6-Attribute Modifiers:** Every monster features a complete `attributes` array `[STR, DEX, CON, INT, WIS, CHA]` calculated using customized Old-School OSR progression formulas (see conversion logic below).
 * **Speed Mapping & DEX Bonuses:** Automatic prioritization and translation of complex movement rates (like flying and swimming) into clean Shadowdark speed classes (`near`, `near (fly)`, `double near`, `double near (fly)`), which dynamically feed back into the monster's **DEX modifier**.
 * **Preceding-Word Contextual Trait Translation:** Traditional B/X saving throw categories (like *save vs. Poison*, *save vs. Spells*) have been translated into natural, grammatically flawless Shadowdark-style difficulty checks (e.g. `succeed on a DC [DC] [Attribute] check`), applied to **both** the YAML traits block and the main body paragraphs.
@@ -93,7 +95,9 @@ A context-aware linguistic engine scans all monster traits and description parag
   * *Noun form* (preceded by `a`, `the`, `their`, etc.): `"a save vs. spells"` $\to$ **`a DC [DC] INT check`**
   * *Verb form* (preceded by `they`, `must`, `to`, etc.): `"unless they save vs. magic"` $\to$ **`unless they succeed on a DC [DC] INT check`**
 * **Level & HP Sanitization (Frontmatter & Stats):**
-  * Old B/X special ability asterisks (`*` and `**`) and flat HP modifiers (like `+1`, `+2`, `-1`) are completely stripped from the frontmatter `level` field and the `stats` array (e.g. `5+1*` $\to$ `5`, `1-1` $\to$ `1`, `4**` $\to$ `4`). This preserves clean, elegant level numbers while keeping math calculations correct.
+  * Old B/X special ability asterisks (`*` and `**`) and flat HP modifiers (like `+1`, `+2`, `-1`) are completely stripped from the frontmatter `level` field and the `stats` array (e.g. `5+1*` $\to$ `5`, `1-1` $\to$ `1`, `4**` $\to$ `4`).
+  * Any fractional levels (like `1/2` or unicode `½`) are normalized and rounded up to `"1"` for standard Shadowdark campaign display.
+  * These display adjustments preserve clean, elegant level numbers while keeping internal mathematical calculations correct.
 * **Hit Dice to Levels Translation:**
   * `"hit dice"` (plural) $\to$ **`"levels"`**
   * `"hit die"` (singular) $\to$ **`"level"`**

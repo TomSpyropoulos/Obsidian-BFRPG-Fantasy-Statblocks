@@ -1,0 +1,33 @@
+---
+statblock: inline
+name: Ray, Sting
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Ray, Sting
+layout: Shadowdark
+ac: "12"
+level: "1"
+hp: 4
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "12", "+1"]
+attack: "1 sting (1d4 + poison)"
+damage: "-"
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
+traits:
+  - name: Concealment
+    desc: "They lie close to the bottom and often cover themselves with sand, they may not be seen (surprising on a roll of 1-4 on 1d6)."
+  - name: Paralyzing Poison
+    desc: "If the sting ray's attack hits, the victim must succeed on a DC 12 CON check or become paralyzed for 5d4 turns. While this does not kill the victim directly, should they fall into the water, drowning is a likely outcome."
+source: BFRPG Field Guide
+```
+
+A Sting Ray (or "Stingray") is a type of ray found in shallow tropical waters. They are normally peaceful, being bottom feeders, but if disturbed they may attack with their stinger. As they lie close to the bottom and often cover themselves with sand, they may not be seen (surprising on a roll of 1-4 on 1d6) thus increasing the danger. If the sting ray's attack hits, the victim must succeed on a DC 12 CON check or become paralyzed for 5d4 turns. While this does not kill the victim directly, should they fall into the water, drowning is a likely outcome.
+

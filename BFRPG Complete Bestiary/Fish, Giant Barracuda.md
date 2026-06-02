@@ -1,0 +1,42 @@
+---
+statblock: inline
+name: Fish, Giant Barracuda
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Core
+---
+
+```statblock
+name: Fish, Giant Barracuda
+layout: Shadowdark
+ac: "14"
+level: "9"
+hp: 48
+atk_bonus: "+8"
+modifier: 2
+stats: ["9", "48", "14", "+8"]
+attack: "1 bite"
+damage: "2d8+1 (`dice:2d8+1`)"
+speed: "near"
+attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+traits:
+  - name: Keen Eyesight
+    desc: "Surprised only on a 1 on 1d6."
+  - name: Quick Attack
+    desc: "Capable of surprising on 1-3 on 1d6 and gain a +2 bonus to Initiative."
+  - name: Break Off Attack
+    desc: "50% likely to break off the attack after 1d4 rounds if they haven't killed their prey."
+  - name: Attracted to Shiny Objects
+    desc: "Both kinds are attracted to shiny objects."
+actions:
+  - name: bite
+    desc: "D20 to hit, 2d8+1 (`dice:2d8+1`)"
+source: BFRPG Core
+```
+
+Barracuda are predatory fish found in salt water. Giant specimens can exceed 20'. They have elongated bodies, pointed heads and prominent jaws. Their bodies are covered with smooth scales, typically blue, gray or silver in color. They have extremely keen eyesight and are surprised only on a 1 on 1d6. Due to the quickness of their attack, barracudas are themselves capable of surprising on 1-3 on 1d6 and gain a +2 bonus to Initiative.
+
+Giant barracudas always appear singly and are 50% likely to break off the attack after 1d4 rounds if they haven't killed their prey. Both kinds are attracted to shiny objects.
+

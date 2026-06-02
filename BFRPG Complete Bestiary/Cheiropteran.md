@@ -1,0 +1,42 @@
+---
+statblock: inline
+name: Cheiropteran
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Cheiropteran
+layout: Shadowdark
+ac: "15"
+level: "4"
+hp: 18
+atk_bonus: "+4"
+modifier: 1
+stats: ["4", "18", "15", "+4"]
+attack: "1 weapon"
+damage: "By weapon +2"
+speed: "near"
+attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+traits:
+  - name: Echolocation
+    desc: "Blind (empty eye sockets sewn shut) but can 'see' through echolocation as a bat does."
+  - name: Immune to vision magic
+    desc: "Immune to any magic involving vision, including most illusions."
+  - name: Vulnerable to magical silence
+    desc: "Magical silence affects them as darkness would affect a sighted creature."
+actions:
+  - name: weapon
+    desc: "D20 to hit, By weapon +2"
+source: BFRPG Field Guide
+```
+
+Cheiropterans look like bugbears with the heads of great, misshapen bats. They are the bat-people of the deep under-dark. They are born with eyes, but their priests sacrificed their eyes to Camazotz shortly after birth, so almost all cheiropterans encountered will be blind, their empty eye sockets sewn shut. It can still "see" through echolocation as a bat does. It is typically armored with a chain mail shirt and wears hard, heavy boots.
+
+80% of a given force will be armed with halberds, and the other 20% with longbows. In addition to the treasure shown, an individual cheiropteran will carry 1d100 triangular bone coins. These are religious tokens, of value only to cheiropterans. It will also carry a strip of chewed rawhide. This is an ancestor-strip, bearing the teeth-marks of the preceding generations, and may be ransomed back to the cheiropteran leaders for as much as 10 gp. Priests will carry a silver holy symbol of Camazotz which is worth 25 gp on the open market, or 100 gp in ransom to the leaders.
+
+Wandering cheiropterans are sometimes (35%) found together with 3d6 chupacabras, which they train as hounds. A cheiropteran lair has a 90% chance of also containing 5d6 chupacabras.
+

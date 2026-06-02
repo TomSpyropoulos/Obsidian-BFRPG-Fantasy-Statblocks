@@ -1,0 +1,36 @@
+---
+statblock: inline
+name: Moon Goblin
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Moon Goblin
+layout: Shadowdark
+ac: "15"
+level: "2"
+hp: 9
+atk_bonus: "+2"
+modifier: 0
+stats: ["2", "9", "15", "+2"]
+attack: "1 weapon"
+damage: "1d6 (`dice:1d6`) or by weapon"
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+traits:
+  - name: Stealth
+    desc: "In their preferred wooded mountain terrain, they are able to hide very effectively; so long as they remain still there is only a 10% chance they will be detected. Even indoors in dungeons or in non-preferred terrain they are able to hide so well that there is only a 30% chance of detection while they remain still."
+actions:
+  - name: weapon
+    desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
+source: BFRPG Field Guide
+```
+
+Moon goblins, despite their name are not actually goblins, instead they are a distantly related race of mountain dwelling goblinoids, unusually well-organized compared to goblins, they display an affinity for metalwork and mining. Displaying more cunning, and wit than their goblin and hobgoblin cousins, though still less cunning than the fearsome bugbears. Their skin is blue-green, and they stand between 4 and 4.5 feet tall, with a stockier and more muscular build than goblins.
+
+Their experience with mining and metalwork means that moon goblin warriors are much better equipped. Full mail hauberks, covered with tabards, usually emblazoned with lunar images, they make and use most weapons, but show special fondness for heavy crossbows and spears. Their larger war-bands have even been known to construct wood- and stone-fortified camps.
+

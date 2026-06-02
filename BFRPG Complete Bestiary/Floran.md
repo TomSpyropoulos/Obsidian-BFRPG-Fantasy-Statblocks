@@ -1,0 +1,42 @@
+---
+statblock: inline
+name: Floran
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Floran
+layout: Shadowdark
+ac: "13"
+level: "1"
+hp: 4
+atk_bonus: "+1"
+modifier: 0
+stats: ["1", "4", "13", "+1"]
+attack: "1 claws or 1 weapon"
+damage: "1d4 (`dice:1d4`) or by weapon"
+speed: "near"
+attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+traits:
+  - name: Camouflage
+    desc: "When hiding amid dense foliage they can only be detected rolling a 1 in 1d6 (1-2 for elf characters)."
+actions:
+  - name: claws or 1 weapon
+    desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon"
+source: BFRPG Field Guide
+```
+
+Florans are humanoids with stunted features and bodies comprised of plant mass. They dwell in untamed wilderness areas.
+
+Florans avoid outsiders, but will fight to defend their territory. In combat they favor hit-and-run tactics, using stone spears, axes and occasionally primitive traps. When hiding amid dense foliage they can only be detected rolling a 1 in 1d6 (1-2 for elf characters).
+
+The average floran stands 5 feet tall, but their leaders can be up to twice that size. A group of 20 florans will be led by a 3 LVL chief; a group of 50 florans will be led by a 6 LVL elder. Floran lairs typically host one or more plant monster allies (favorites being the shambler or guard fern).
+
+According to legend, there are ways for florans to ritually transform a human into a floran. (The mechanism for how this might work is left to the GM.)
+
+Though they have no treasure, florans are reportedly delicious when sauteed or boiled in a stew.
+
