@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon / 1 screech or 2 claws"
 damage: "1d8 (`dice:1d8`) or by weapon, special screech or 1d4 (`dice:1d4`) claw"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Screech
     desc: "In combat, it can screech at an opponent when it attacks. The opponent must succeed on a DC 12 CON check or suffers a -2 to hit penalty for their next attack. This effect only lasts one round, but an owlbearlin may screech each round as a free action."

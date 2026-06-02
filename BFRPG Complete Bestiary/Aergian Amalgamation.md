@@ -19,7 +19,7 @@ modifier: 3
 stats: ["13", "68", "13", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 (`dice:2d4`) grasp, 1d6 (`dice:1d6`) weapon"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Tentacle Reach
     desc: "Its tentacle-like appendages can reach up to 10 feet in any direction but lack precision, making it unclear how many weapons it can attack with each round. Roll the 1d3 each round to see how many weapon attacks it can make, however its appendages are relatively weak, so any weapon it wields only does 1d6 points of damage."

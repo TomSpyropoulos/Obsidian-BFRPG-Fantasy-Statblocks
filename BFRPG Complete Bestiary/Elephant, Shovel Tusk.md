@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "19", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 tusk or trample"
 damage: "1d10 (`dice:1d10`) tusk, 4d10 (`dice:4d10`) trample"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 actions:
   - name: tusk or trample
     desc: "D20 to hit, 1d10 (`dice:1d10`) tusk, 4d10 (`dice:4d10`) trample"

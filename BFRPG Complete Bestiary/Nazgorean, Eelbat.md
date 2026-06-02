@@ -19,7 +19,7 @@ modifier: 2
 stats: ["1", "4", "13", "double near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 1 bite (1d6 + 1d6/round blood drain)"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round (blood drain)"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+2", "+0", "+0", "+1", "+0"]
 traits:
   - name: Darkvision
     desc: "Despite the lack of visual organs, it can sense its surroundings like a bat and it effectively has Darkvision out to 60 feet."

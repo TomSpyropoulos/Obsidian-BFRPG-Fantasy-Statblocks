@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 acid shot or 1 acid burst"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Acid Shot
     desc: "Spews highly-corrosive acid as a ranged attack (50-foot range) for 1d6 damage."

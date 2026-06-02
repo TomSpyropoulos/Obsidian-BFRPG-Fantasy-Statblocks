@@ -19,7 +19,7 @@ modifier: 3
 stats: ["14", "74", "22", "near"]
 attack: "+11 (`dice: 1d20+11`) 1 slam or 1 tongue"
 damage: "1d6 (`dice:1d6`) or special"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Paralyzing Tongue
     desc: "4-foot long tongue attack. Target must succeed on a DC 14 STR check or become paralyzed for 6d4 rounds."

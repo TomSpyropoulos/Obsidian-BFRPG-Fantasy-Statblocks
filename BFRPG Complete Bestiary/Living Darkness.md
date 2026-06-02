@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 shroud + drain"
 damage: "1d4 (`dice:1d4`) + special"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+6"]
+attributes: ["+1", "+1", "+1", "+3", "+3", "+1"]
 traits:
   - name: Insubstantial
     desc: "Immune to non-magical weapons and most spells except for magic missile, light, and continual light."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "17", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 bite or 1 horn"
 damage: "3d8 (`dice:3d8`) bite, 2d10 (`dice:2d10`) horn"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Charge
     desc: "Can charge for a +2 attack bonus."

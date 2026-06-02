@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite (1d10 + paralysis)"
 damage: "1d10 (`dice:1d10`) + paralysis"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Paralyzing Bite
     desc: "Any living creature bitten by a spiderwolf must succeed on a DC 12 STR check or be paralyzed for 1d6 turns. It will then ignore that paralyzed creature and attack another opponent, turning its attention back to any paralyzed victims only after all opposition is quelled."

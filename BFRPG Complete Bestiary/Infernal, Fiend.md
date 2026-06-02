@@ -19,7 +19,7 @@ modifier: 5
 stats: ["13", "68", "22", "double near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 2 weapons (see below) or special"
 damage: "1d4+4 (`dice:1d4+4`) club, 1d6+6 (`dice:1d6+6`) mace (see below) or special"
-attributes: ["+5", "+5", "+4", "+3", "+3", "+5"]
+attributes: ["+5", "+5", "+4", "+3", "+4", "+3"]
 traits:
   - name: Regeneration
     desc: "Regenerate at a rate of 2 hit points per round; damage inflicted by holy water (and possibly other holy items as determined by the GM) cannot be regenerated. Unlike a troll, a fiend will not continue to regenerate if reduced to zero or fewer hit points, but can in fact be slain in the normal way."

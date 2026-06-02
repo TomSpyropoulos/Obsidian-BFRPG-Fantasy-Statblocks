@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d10 (`dice:1d10`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Regeneration
     desc: "Trolls have the power of regeneration; they heal 1 hit point of damage each round after being injured. A troll reduced to 0 hit points is not dead, but only disabled for 2d6 rounds, at which point it will regain 1 hit point. Note that the troll may 'play dead' until it has regenerated further. Damage from fire and acid cannot be regenerated, and must heal at the normal rate; a troll can only be killed by this sort of damage. The lower CHA modifier (in parentheses) is used when the troll faces attackers armed with fire or acid."

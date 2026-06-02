@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "48", "19", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 bites or breath, 1 tail + lightning"
 damage: "2d8 (`dice:2d8`) bite, 9d8 (`dice:9d8`) breath, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round lightning"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
   - name: Lightning Aura
     desc: "All non-lightning-resistant creatures within 20 feet of the monster suffer 1d8 points of damage per round from being struck by little bolts of lightning."

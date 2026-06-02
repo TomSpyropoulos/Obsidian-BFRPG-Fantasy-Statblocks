@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Tracking
     desc: "5 in 6 chance to track prey in either form."

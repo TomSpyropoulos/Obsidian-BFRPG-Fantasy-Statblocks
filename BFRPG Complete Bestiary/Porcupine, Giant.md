@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "14", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 quill burst / 1 bite (see below)"
 damage: "See below for quill burst, 2d4 (`dice:2d4`) bite"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+0"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Quill Burst
     desc: "1d8 quills launched at up to four adjacent opponents; each quill does 1d4 points of damage on a successful hit. Barbed quills cause an additional 1d4 points of damage when removed."

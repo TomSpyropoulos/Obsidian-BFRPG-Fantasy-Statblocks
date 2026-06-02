@@ -19,7 +19,7 @@ modifier: 5
 stats: ["6", "27", "17", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 1 touch or 1 magic throw"
 damage: "1d6 (`dice:1d6`) touch, 2d6 (`dice:2d6`) magic throw"
-attributes: ["+1", "+5", "+1", "+1", "+1", "+3"]
+attributes: ["+1", "+5", "+1", "+1", "+2", "+1"]
 traits:
   - name: Invisible in Darkness
     desc: "When in darkness a shadow fiend is effectively invisible as per the spell."

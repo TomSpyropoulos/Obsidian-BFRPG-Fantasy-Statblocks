@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "16", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 spike + incubation"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Incubation
     desc: "When the loadstar strikes, its spikes dig into living flesh and deliver a fast-growing embryo. In one round, the wound site expands to form a blob under the skin, weighing 10 pounds and containing about 1 gallon of an orange liquid summoned from an extra-dimensional space. In the center floats the larva of the loadstar. If the site is lanced (doing another 1d4 points of damage) and squeezed immediately, the liquid may be flushed, killing the larva. Otherwise, the orange ichor converts to pure adipose tissue 10 minutes after injury. From that moment on, the fat must be lost in an ordinary way, typically through depriving oneself of food. 30 days after initial injury, a small loadstar emerges from the skin and floats away to find darkness.  The immediate consequence of a loadstar sting is the burden of the 10 extra pounds carried. This extra encumbrance can be debilitating to smaller adventurers or those struck multiple times. Adventures may need to drop all of their belongings in order to escape."

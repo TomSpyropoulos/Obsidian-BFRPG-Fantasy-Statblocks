@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "14", "double near"]
 attack: "+3 (`dice: 1d20+3`) 1 special"
 damage: "-"
-attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
+attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
   - name: Charm Person
     desc: "May charm a person and force them to leave the area. May use this ability as often as it likes; it functions like a charm person spell."

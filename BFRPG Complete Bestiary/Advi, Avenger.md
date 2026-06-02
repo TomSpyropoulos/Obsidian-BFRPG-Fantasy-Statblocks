@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 blades or 1 beam"
 damage: "2d8 (`dice:2d8`) blade, 4d6 (`dice:4d6`) beam"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Climb
     desc: "Its sharp legs allow it to climb vertical surfaces such as walls."

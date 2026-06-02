@@ -19,7 +19,7 @@ modifier: 4
 stats: ["18", "93", "23", "near"]
 attack: "+12 (`dice: 1d20+12`) 1 bite or 1 trample"
 damage: "3d8 (`dice:3d8`) bite, 4d10 (`dice:4d10`) trample"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
+attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
   - name: Trample
     desc: "In order to trample it must first move at least 10 feet."

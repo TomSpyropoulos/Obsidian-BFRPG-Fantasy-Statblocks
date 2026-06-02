@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "14", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 weapon or 1 unarmed"
 damage: "By weapon or 1d4 (`dice:1d4`)"
-attributes: ["+1", "+2", "+1", "+1", "+3", "+3"]
+attributes: ["+1", "+2", "+1", "+1", "+4", "+1"]
 traits:
   - name: Flight
     desc: "Use their wings to hover and weave during combat."

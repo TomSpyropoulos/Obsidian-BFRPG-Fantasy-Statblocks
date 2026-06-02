@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws (1d4) / 1 bite (1d8)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Regeneration
     desc: "Must have at least 50% of its body immersed in water for its regeneration to take effect. Regenerates from acid damage."

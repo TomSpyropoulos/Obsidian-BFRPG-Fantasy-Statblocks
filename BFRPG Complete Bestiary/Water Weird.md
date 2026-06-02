@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "22", "15", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 grab"
 damage: "See description"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Invisible at Rest
     desc: "When at rest in a body of water, or even a large pool or vessel of water, a water weird is invisible. Once it senses living creatures within reach, it will form itself into a watery serpent in 1d4 rounds, striking suddenly out of the water to grab unsuspecting victims (and surprising on 1-4 on 1d6)."

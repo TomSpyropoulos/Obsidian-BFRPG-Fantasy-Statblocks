@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "13", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite"
 damage: "1d8 (`dice:1d8`) bite + paralysis"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Invisibility
     desc: "Can turn invisible at-will but when doing so will produce a rattling chain noise as it moves and leaves no traces."

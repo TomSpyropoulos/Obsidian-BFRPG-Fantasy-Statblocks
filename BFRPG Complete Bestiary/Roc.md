@@ -19,7 +19,7 @@ modifier: 3
 stats: ["6", "27", "17", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`)"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Snatch
     desc: "Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry."

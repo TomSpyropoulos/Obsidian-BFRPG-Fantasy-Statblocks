@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 beam + Save Drain"
 damage: "Save Drain (Death)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Lantern Beam
     desc: "Their lantern lights apply a permanent save penalty of +1 to the target on DC 12 CON check against victims each time they are caught in the beam. The penalties may be removed with a casting of the **bless** spell, against which the victim must succeed on a DC 12 CON check. Success indicates one penalty is removed, and the other effects of **bless** are applied as well, while failure means nothing happens, and the spell is totally wasted."

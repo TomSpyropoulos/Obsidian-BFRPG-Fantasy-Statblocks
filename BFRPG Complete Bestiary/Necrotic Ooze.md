@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 slam (1d6)"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+4"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a wight), and is immune to sleep, charm, or hold spells. As it is mindless, mind reading is useless. It is likewise immune to disease and poison."

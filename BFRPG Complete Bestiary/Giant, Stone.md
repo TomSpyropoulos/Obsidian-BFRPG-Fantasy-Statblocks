@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "16", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 stone club or 1 thrown rock"
 damage: "3d6 (`dice:3d6`) or 3d6 (`dice:3d6`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Thrown rocks
     desc: "Can throw large stones up to 300' for 3d6 points of damage."

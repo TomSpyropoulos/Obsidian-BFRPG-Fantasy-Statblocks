@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or 1 spit"
 damage: "1d6 (`dice:1d6`) + confusion poison bite, special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Poisonous Bite
     desc: "Those bit must succeed on a DC 12 CON check or be blinded for 1d4 rounds as they won't stop seeing rainbow-colored flashes."

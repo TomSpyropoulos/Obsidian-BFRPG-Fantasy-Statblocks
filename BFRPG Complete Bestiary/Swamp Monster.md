@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "15", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 strikes (1d6 each)"
 damage: "1d6 (`dice:1d6`) strike"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Natural Camouflage
     desc: "50-1d6x10% chance (minimum 10%) of being detected. Surprise others on a 1-4 on 1d6 roll."

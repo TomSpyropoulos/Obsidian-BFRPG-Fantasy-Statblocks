@@ -19,7 +19,7 @@ modifier: 4
 stats: ["16", "95", "14", "near"]
 attack: "+12 (`dice: 1d20+12`) 1 bite, Drowning Grasp"
 damage: "2d8 (`dice:2d8`) bite, 1d8 (`dice:1d8`) Drowning Grasp"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+6"]
+attributes: ["+6", "+4", "+5", "+4", "+5", "+4"]
 traits:
   - name: Bite
     desc: "Anything bitten by a swamp ogre takes 2d8 points of damage, and must succeed on a DC 15 DEX check or be held inside the huge maw of the swamp ogre. Anything trapped in its mouth must succeed on a DC 15 STR check (one attempt per round) to escape. Those trapped in the ogre's mouth will risk drowning once the ogre slips back beneath the water."

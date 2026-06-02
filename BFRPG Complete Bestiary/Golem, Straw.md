@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "10", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon or 2 fists or 1 hug"
 damage: "by weapon or 1d4 (`dice:1d4`) fists or special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Damage Resistance
     desc: "Takes half damage from blunt weapons and no damage from piercing weapons."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "16", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 bite or fireball"
 damage: "2d6 (`dice:2d6`) bite or fireball"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Color-Changing Carapace
     desc: "Combined with silent flight, grants surprise on 1-3 on 1d6. Hide changes to brilliant orange-red when battle is joined."

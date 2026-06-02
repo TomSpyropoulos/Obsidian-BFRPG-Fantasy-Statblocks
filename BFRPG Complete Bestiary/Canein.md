@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) or by weapon"
-attributes: ["+4", "+0", "+2", "+0", "+0", "+1"]
+attributes: ["+4", "+0", "+2", "+0", "+0", "+0"]
 traits:
   - name: Keen Sense of Smell
     desc: "A canein has a keen sense of smell, able to identify individuals by scent alone. This also allows the canein to sense the presence of concealed or invisible creatures, and penalties associated with combating such foes are halved."

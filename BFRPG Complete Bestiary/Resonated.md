@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "15", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Regeneration
     desc: "Heals 1d8 hit points per hour. Even after being destroyed it will keep regenerating and will rise once its full HP are recovered."

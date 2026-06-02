@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "15", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 stinger / 1 constriction or spells/powers"
 damage: "1d4 (`dice:1d4`) + poison/2d6 (`dice:2d6`)"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+6"]
+attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
   - name: Constriction
     desc: "A cuhtli will wrap itself around its prey, inflicting 2d6 points of damage per round. Damage is automatic once one hit is scored and the cuhtli will then use its stinger for 1d4 points of damage plus poison (Succeed on a DC 13 CON check or die instantly) on subsequent rounds."

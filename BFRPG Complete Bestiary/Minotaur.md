@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "13", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 gore/1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`) , 1d6+2 (`dice:1d6+2`) or by weapon + 2"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Never Lost
     desc: "They never become lost."

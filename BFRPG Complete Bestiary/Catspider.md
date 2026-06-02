@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "12", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite (1d4 + poison) / 4 claws (1d2 + poison)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Poison
     desc: "Bite and claws are poisonous, inflicting 1d3 points of damage/round for 3 rounds."

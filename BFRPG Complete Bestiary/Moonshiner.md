@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Intoxicating Saliva
     desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale (CHA) checks (DC 12 CHA checks)."

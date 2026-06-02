@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "19", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 ray"
 damage: "special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Ever Vigilant
     desc: "Impossible to surprise."

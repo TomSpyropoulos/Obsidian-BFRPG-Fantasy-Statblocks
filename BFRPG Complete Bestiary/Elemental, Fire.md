@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "17", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+3", "+2", "+2", "+3", "+2"]
 traits:
   - name: Vulnerability to Water
     desc: "Take double damage when attacked by water (including water elementals). Cannot cross a body of water wider than their own diameter."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws (1d2) / 1 bite (1d4)"
 damage: "1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Regeneration
     desc: "If slain a manes turns into a foul-smelling gas cloud that seems to dissipate; after one day the manes reforms unharmed."

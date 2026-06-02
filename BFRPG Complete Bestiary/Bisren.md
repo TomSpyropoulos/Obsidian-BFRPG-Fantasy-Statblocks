@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "6", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 gore, charge, or by weapon"
 damage: "1d6 (`dice:1d6`), charge, or by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Gore
     desc: "1d6 points of damage with its horns."

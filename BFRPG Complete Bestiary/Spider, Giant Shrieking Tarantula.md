@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "17", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 bite"
 damage: "1d12 (`dice:1d12`) + poison"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Poisonous Bite
     desc: "Those bitten must succeed on a DC 13 CON check or be forced to dance wildly. The dance lasts 2d10 rounds, during which time the victim has a -4 penalty on attacks and further saving throws. Thieves or characters with similar Thief-like abilities may not utilize such skills while dancing. Onlookers must succeed on a DC 13 INT check or begin dancing themselves; such 'secondary' victims suffer the same penalties as above, but they will only dance for 2d4 rounds. During each round that those bitten are dancing, they must succeed on a DC 13 CON check again or take 1d4 points of damage. The secondary victims do not suffer this effect. Neutralize poison will cure the original victim, and dispel magic will stop the dance for all victims in the area of effect, whether original or secondary."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite + hold"
 damage: "2d4 (`dice:2d4`) + 2d4 (`dice:2d4`) per round"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Surprise
     desc: "Surprise their prey on 1-3 on 1d6."

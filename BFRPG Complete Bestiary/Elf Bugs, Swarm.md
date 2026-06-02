@@ -19,7 +19,7 @@ modifier: 3
 stats: ["3", "13", "16", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 thorn or bite"
 damage: "3d4 (`dice:3d4`) thorn or 1d8 (`dice:1d8`) bite"
-attributes: ["+0", "+3", "+0", "+0", "+0", "+1"]
+attributes: ["+0", "+3", "+0", "+0", "+0", "+0"]
 traits:
   - name: Hive-Mind
     desc: "Coordinate without talking or any other visible way of communication. Can make saving throws due to their innate ability to communicate with each other."

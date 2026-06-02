@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "54", "19", "near"]
 attack: "+10 (`dice: 1d20+10`) 6 blades or spell"
 damage: "2d12 (`dice:2d12`) blade, by spell"
-attributes: ["+5", "+3", "+3", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+3", "+3", "+5", "+3"]
 traits:
   - name: Horrifying Visage
     desc: "Any who behold it must make a DC 14 WIS check or start madly babbling until calmed by a casting of **remove fear.** Once this save has been passed they are immune to this effect."

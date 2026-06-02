@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws (1d3) / 1 bite (1d6)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Undead Immunities
     desc: "Immune to spells that affect the mind (including sleep, charm, and hold)."

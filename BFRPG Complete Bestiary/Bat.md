@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "1", "13", "near (fly)"]
 attack: "+0 (`dice: 1d20+0`) 1 special"
 damage: "Confusion"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Darkvision
     desc: "Natural sonar allows them to operate in total darkness."

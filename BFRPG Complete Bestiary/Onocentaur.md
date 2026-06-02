@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "16", "16", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 kick / 1 weapon"
 damage: "1d4 (`dice:1d4`) kick, by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Mule Kick
     desc: "Agile enough to deliver a mule kick to an opponent facing them."

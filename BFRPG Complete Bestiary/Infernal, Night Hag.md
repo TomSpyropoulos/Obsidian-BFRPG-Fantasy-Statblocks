@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "10", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 claw (2d6)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Limited Vulnerability
     desc: "Can only be hit by silver, iron (but not steel), or magical weapons."

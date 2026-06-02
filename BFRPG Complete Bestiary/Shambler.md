@@ -19,7 +19,7 @@ modifier: 3
 stats: ["13", "68", "19", "near"]
 attack: "+10 (`dice: 1d20+10`) 2 slam + constrict"
 damage: "2d6 (`dice:2d6`) slam, 4d6 (`dice:4d6`) constrict"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Engulf
     desc: "If a shambler hits with both its attacks against the same creature, that creature is engulfed by the monster. The victim can no longer attack or cast spells, and suffers 4d6 points of damage each round due to suffocation. It can only engulf man-sized or smaller creatures and may only engulf one such creature at a time. It will expel any such creature from its body 1d4 rounds after the victim dies. Attacks against a shambling mound which has engulfed a victim require a DC 14 CON check for the victim each time the monster is hit; if the save fails, the victim suffers half (rounded down) of the damage done to the monster (which still takes full damage). The victim does benefit from the monster's resistance to fire or cold, but takes full damage from lightning attacks."

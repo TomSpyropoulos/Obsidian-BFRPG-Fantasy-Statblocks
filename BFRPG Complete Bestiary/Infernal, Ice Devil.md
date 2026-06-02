@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "17", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 claw, cold aura, or breath weapon"
 damage: "1d3 (`dice:1d3`) claw +1d4 (`dice:1d4`) cold, or breath weapon"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Cold Damage
     desc: "Whenever an ice devil attacks, an additional 1d4 points of cold damage is dealt."

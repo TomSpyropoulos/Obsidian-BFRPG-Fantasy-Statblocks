@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "6", "16", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon + 1 bite"
 damage: "1d6 (`dice:1d6`) or by weapon, 1d4 (`dice:1d4`) bite"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Darkvision
     desc: "90-foot range."

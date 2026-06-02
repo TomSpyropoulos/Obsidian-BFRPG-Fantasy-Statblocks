@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 punches"
 damage: "4d4 (`dice:4d4`) punch"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Territorial Display
     desc: "If they notice someone or something encroaching on their territory, they will approach with their chest puffed out and head held high."

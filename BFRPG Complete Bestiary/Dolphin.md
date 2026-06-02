@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "14", "double near"]
 attack: "+2 (`dice: 1d20+2`) 1 ram"
 damage: "2d4 (`dice:2d4`)"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 actions:
   - name: ram
     desc: "D20 to hit, 2d4 (`dice:2d4`)"

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws/1 stinger"
 damage: "1d10 (`dice:1d10`)/1d10 (`dice:1d10`)/1d6 (`dice:1d6`) + poison"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Claw Advantage
     desc: "If a claw attack hits, the giant scorpion receives a +2 attack bonus with its stinger (but two claw hits do not give a double bonus)."

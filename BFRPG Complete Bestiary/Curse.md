@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "14", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 devour (2d6)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Liquid Form
     desc: "As a liquid it can fit through a space as small as 5 inches wide."

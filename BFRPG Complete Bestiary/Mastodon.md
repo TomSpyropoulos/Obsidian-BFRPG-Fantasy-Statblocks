@@ -19,7 +19,7 @@ modifier: 3
 stats: ["15", "78", "17", "near"]
 attack: "+11 (`dice: 1d20+11`) 2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
 damage: "-"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 source: BFRPG Core
 ```
 

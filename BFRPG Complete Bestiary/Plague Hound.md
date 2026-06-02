@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite + special"
 damage: "2d4 (`dice:2d4`) + paralysis"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Paralysis
     desc: "Those bitten by a plague hound must succeed on a DC 12 STR check or be paralyzed for 2d8 turns; elves are immune to this effect."

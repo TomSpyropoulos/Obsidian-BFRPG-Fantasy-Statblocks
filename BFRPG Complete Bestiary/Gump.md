@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 fists or 1 weapon"
 damage: "1d8+3 (`dice:1d8+3`) fist or by weapon +3"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Paralyzing Gaze
     desc: "Anyone who meets the gaze of a gump must succeed on a DC 12 STR check at +2 or suffer the effects of a hold person spell for 1d4+1 rounds. Anyone facing a gump in combat is deemed to have met its gaze, as is anyone who is surprised by the monster. Those who attempt to fight a gump while averting their eyes suffer a -4 penalty on attack rolls. It is safe to view a gump's reflection in a mirror or other reflective surface; anyone using a mirror to fight a gump suffers a penalty of -2 to attack. Characters fighting a gump must make the saving throw each round if not taking measures to avoid the monster's gaze."

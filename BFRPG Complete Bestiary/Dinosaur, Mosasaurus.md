@@ -19,7 +19,7 @@ modifier: 4
 stats: ["12", "64", "12", "double near"]
 attack: "+10 (`dice: 1d20+10`) 2 claws / 1 tail lash"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) tail lash"
-attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 actions:
   - name: claws
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) tail lash"

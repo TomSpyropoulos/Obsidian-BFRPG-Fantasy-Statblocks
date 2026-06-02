@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 claw or weapon"
 damage: "1d6+1 (`dice:1d6+1`) or by weapon"
-attributes: ["+0", "+0", "+0", "+2", "+0", "+1"]
+attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Vulnerability and Resistance
     desc: "Takes +1 damage from attacks that are metal- or fire-based, and -1 damage from all else."

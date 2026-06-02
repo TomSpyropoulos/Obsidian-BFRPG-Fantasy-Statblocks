@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "13", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 claws / 1 bite / special"
 damage: "1d4+2 (`dice:1d4+2`) claw, 1d8+2 (`dice:1d8+2`) bite"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Regeneration
     desc: "They heal 2 hit points of damage each round after being injured. They can regenerate slightly faster than their cousins due to their great adaptability. A marsh troll reduced to 0 hit points is not dead, but only disabled for 2d10 rounds, at which point it will regain 2 hit points. Note that the troll may 'play dead' until it has regenerated further."

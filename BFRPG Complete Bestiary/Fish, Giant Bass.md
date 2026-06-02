@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Swallow Whole
     desc: "On a natural attack roll of 20 a giant bass will swallow whole a dwarf-sized or smaller creature, which then takes 2d4 damage per round until it is dead. Swallowed characters can attack only with daggers or similar short weapons. Note that each giant bass can swallow at most one character, and a giant bass which has swallowed a character will attempt to retreat (having achieved its goal)."

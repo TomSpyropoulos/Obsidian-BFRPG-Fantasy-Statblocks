@@ -19,7 +19,7 @@ modifier: 2
 stats: ["1", "4", "14", "double near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Silent Flight
     desc: "Ability to fly without making a sound."

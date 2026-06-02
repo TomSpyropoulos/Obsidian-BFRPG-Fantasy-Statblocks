@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "16", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 1 weapon"
 damage: "By weapon + 2"
-attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
+attributes: ["+1", "+3", "+1", "+1", "+5", "+1"]
 traits:
   - name: Spellcasting
     desc: "They have spellcasting capabilities equal those of a 9th-level Cleric."

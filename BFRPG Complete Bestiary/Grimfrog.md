@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 special"
 damage: "Special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Surprise
     desc: "Surprise on 1-3 on 1d6 even if they have been noticed by their potential victims (unless such victims are already familiar with grimfrogs)."

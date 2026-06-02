@@ -19,7 +19,7 @@ modifier: 2
 stats: ["2", "9", "11", "double near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 1 flogging (1d6)"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+2", "+0", "+0", "+1", "+0"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, and hold spells."

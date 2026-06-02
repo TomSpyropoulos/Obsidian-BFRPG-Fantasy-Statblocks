@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 claws, 1 bite, or 1 weapon"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Untraceable Movement
     desc: "Uhul have a mystical ability to move through their environments without leaving any sign of their passage. They leave no footprints or scent behind regardless of the terrain they move through, making them impossible to track through non-magical means. So stealthy are they, that they surprise on a 1-3 on a 1d6."

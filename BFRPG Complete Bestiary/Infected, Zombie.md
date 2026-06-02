@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "11", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon +1"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Collective Connection
     desc: "The undead remains attached to the collective, if it still exists."

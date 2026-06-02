@@ -19,7 +19,7 @@ modifier: 2
 stats: ["6", "27", "16", "double near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite (2d10)"
 damage: "-"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 source: BFRPG Core
 ```
 

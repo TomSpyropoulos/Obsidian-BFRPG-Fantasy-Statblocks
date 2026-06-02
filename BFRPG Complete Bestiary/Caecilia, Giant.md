@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "13", "near"]
 attack: "+6 (`dice: 1d20+6`) -"
 damage: "1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round if swallowed"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Sensitive to Sound and Vibrations
     desc: "Nearly blind, but can find prey regardless of light or darkness using sound and vibration."

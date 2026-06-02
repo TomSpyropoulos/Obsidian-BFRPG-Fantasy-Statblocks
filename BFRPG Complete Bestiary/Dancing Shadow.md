@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "18", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 claw + dance"
 damage: "1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`)+CON modifier hours die of exhaustion dance"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Shadow Disguise
     desc: "Upon contact with a humanoid, latches onto the creature and disguises itself as the creature's shadow almost flawlessly. The only clues are that it will never flicker, and sometimes it will lay in the incorrect direction based on the available light sources."

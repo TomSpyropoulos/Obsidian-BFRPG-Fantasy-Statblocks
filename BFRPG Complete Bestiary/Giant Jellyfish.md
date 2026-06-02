@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "10", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 tentacle brush"
 damage: "1d10 (`dice:1d10`) plus paralysis"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Nearly Invisible
     desc: "Surprising on a 1-4 on 1d6."

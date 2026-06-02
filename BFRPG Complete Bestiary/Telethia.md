@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "19", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 2 claws / 2 bites or special"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite, special"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
   - name: Mind Reading
     desc: "Can use mind reading (as the spell, but continuously)."

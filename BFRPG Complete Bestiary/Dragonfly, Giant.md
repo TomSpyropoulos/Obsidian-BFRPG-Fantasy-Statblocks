@@ -19,7 +19,7 @@ modifier: 3
 stats: ["4", "18", "19", "double near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 bite (2d10)"
 damage: "2d10 (`dice:2d10`)"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Aerial Agility
     desc: "Fast, agile fliers capable of highly accurate aerial ambushes, able to fly in any direction, and changing direction suddenly, able to propel themselves upward, downward, forward, backward, to left and to right with equal agility."

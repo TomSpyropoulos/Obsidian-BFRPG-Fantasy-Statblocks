@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "17", "near"]
 attack: "+5 (`dice: 1d20+5`) By weapon"
 damage: "By weapon"
-attributes: ["+1", "+1", "+1", "+1", "+3", "+6"]
+attributes: ["+1", "+1", "+1", "+1", "+5", "+1"]
 traits:
   - name: Invisibility
     desc: "Can lurk invisibly and silently."

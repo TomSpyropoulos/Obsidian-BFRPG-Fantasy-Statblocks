@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) all + paralysis + stench"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Paralysis
     desc: "Living creatures hit by a ghast's bite or claw attack must succeed on a DC 12 STR check or be paralyzed for 2d8 turns. Elves are immune to this paralysis."

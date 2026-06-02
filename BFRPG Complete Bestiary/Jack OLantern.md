@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "14", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 breath"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+0", "+1", "+0", "+2", "+0", "+2"]
+attributes: ["+0", "+1", "+0", "+2", "+1", "+0"]
 traits:
   - name: Fire Breath
     desc: "Can project fire from its openings; this breath weapon is in the form of a cone 5 feet wide at the base with a range of 5 feet in front of the creature. Anyone caught in the blaze suffers 2d6 points of fire damage; Succeed on a DC 12 DEX check for only half damage."

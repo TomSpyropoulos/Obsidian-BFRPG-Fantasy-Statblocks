@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
-attributes: ["+0", "+0", "+0", "+0", "+2", "+3"]
+attributes: ["+0", "+0", "+0", "+0", "+3", "+0"]
 traits:
   - name: Wasting Disease
     desc: "Those struck by the heucova's claws must succeed on a DC 12 CON check or contract a terrible wasting disease. Each day the target takes 1d3 points of Constitution damage. Those reduced to 0 Constitution die and rise as a zombie on the following day, under the control of the heucova. A **cure disease** spell must be used to prevent death. Ability points lost due to a heucova's disease return at a rate of 1 per day of complete rest."

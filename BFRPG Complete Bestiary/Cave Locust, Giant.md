@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "15", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 1 bite or 1 bump or 1 spit"
 damage: "1d2 (`dice:1d2`) or 1d4 (`dice:1d4`)* or special"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-2"]
+attributes: ["+2", "+1", "+0", "+0", "-1", "+0"]
 traits:
   - name: Shrieking
     desc: "All giant cave locusts in a group will shriek when disturbed, attracting wandering monsters. The GM should roll a wandering monster check each round that one or more cave locusts are attacking; if wandering monsters are indicated, they will arrive in 1d4 rounds."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "18", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Eyeless
     desc: "A gray render has no eyes; instead, it depends on sound to locate prey (treat as 90-foot Darkvision). Thus, a silent opponent is as good as invisible to the monster."

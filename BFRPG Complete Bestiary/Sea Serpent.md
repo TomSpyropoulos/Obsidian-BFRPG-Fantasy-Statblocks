@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Constrict Ship
     desc: "Can wrap around a ship and constrict; roll 2d10 for damage to the vehicle, and reduce any effective Hardness by half."

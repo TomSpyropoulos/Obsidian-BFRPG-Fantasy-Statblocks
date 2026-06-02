@@ -19,7 +19,7 @@ modifier: 2
 stats: ["2", "9", "15", "double near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 1 charge (dive) or 2 claws + 1 bite"
 damage: "2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Dive Attack
     desc: "When diving from a great height, the dragonhawke deals 2 x claw damage with +2 attack and -2 to AC for first round after dive."

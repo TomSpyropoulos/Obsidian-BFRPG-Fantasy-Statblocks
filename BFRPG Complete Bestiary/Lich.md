@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "18", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 touch, weapon, or spell"
 damage: "1d8 (`dice:1d8`) + drain, by weapon, or by spell"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Terror
     desc: "Simply encountering a lich for the first time is so terrifying that the subject must succeed on a DC 14 INT check or flee for 2d6 rounds."

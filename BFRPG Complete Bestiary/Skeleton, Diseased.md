@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon or 1 unarmed + disease"
 damage: "By weapon or 1d8 (`dice:1d8`) + disease"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Weapon Resistance
     desc: "Slashing weapons do half-damage and piercing weapons only do 1 point of damage; crushing weapons do normal damage."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["6", "27", "16", "near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 claws + suffocation"
 damage: "1d4 (`dice:1d4`) claw + suffocation"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 traits:
   - name: Engulf
     desc: "Depending on its location relative to prey, it may fly, drop, or wrap itself around the victim, who must make a DC 13 DEX check Weapon or be engulfed. Once engulfed, the captured individuals' limbs cannot move."

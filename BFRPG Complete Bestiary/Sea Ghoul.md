@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws (1d4) / 1 bite (1d4) + paralysis (1 per day)"
 damage: "1d4 (`dice:1d4`) claws, 1d4 (`dice:1d4`) bite + paralysis (1 per day), poison"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Paralysis
     desc: "Can paralyze one medium-sized creature per day with bite (Succeed on a DC 12 STR check)."

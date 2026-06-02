@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "16", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 (`dice:2d8`) bite + poison, 1d10 (`dice:1d10`) claw, or breath"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Breath Weapon
     desc: "Can breathe an 80-foot long, 30-foot wide cloud of fetid gas, much like a dragon's breath, for 7d8 points of damage."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "15", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 claws or 1 bite or 1 spell"
 damage: "1d6 (`dice:1d6`) claw + hold or 2d6 (`dice:2d6`) bite"
-attributes: ["+1", "+3", "+1", "+1", "+1", "+5"]
+attributes: ["+1", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Feed on Fear
     desc: "When encountered in its natural form, all opponents must make a DC 12 CHA check each round. For every person who fails, their morale (CHA) is semi-permanently lowered by 1, and the baubas heals 1d6 HP. Only a **restoration** spell will return their morale (CHA) to normal."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1d6", "3", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon or one bite"
 damage: "1d4 (`dice:1d4`) or by weapon or 1d3 (`dice:1d3`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Weapon Proficiency
     desc: "+1 bonus to attacks with crossbows of various types (or fire-arms if the setting allows)."

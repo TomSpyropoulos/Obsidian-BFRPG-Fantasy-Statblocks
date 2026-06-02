@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1"
 damage: "2d4 (`dice:2d4`) + paralysis"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Transparency
     desc: "Surprise prey on a roll of 1-3 on 1d6."

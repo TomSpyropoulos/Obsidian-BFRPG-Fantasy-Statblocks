@@ -19,7 +19,7 @@ modifier: 2
 stats: ["6", "28", "17", "near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite or 1d8 spikes (180' range)"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d4 (`dice:2d4`) or 1d6 (`dice:1d6`) per spike"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
   - name: Tail Spikes
     desc: "The manticore may fire spikes from its tail as projectiles (180' range, 1d6 damage per spike). A maximum of 24 spikes are available, and the manticore regrows 1d6 per day."

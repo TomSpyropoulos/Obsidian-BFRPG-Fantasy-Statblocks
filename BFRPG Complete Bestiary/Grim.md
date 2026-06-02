@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "33", "19", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+1", "+1", "+2", "+1", "+3", "+6"]
+attributes: ["+1", "+1", "+2", "+1", "+5", "+1"]
 traits:
   - name: Never Surprised
     desc: "A grim is never surprised and will lurk invisibly and silently."

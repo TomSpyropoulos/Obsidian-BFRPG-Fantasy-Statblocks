@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "14", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 punch or weapon + special"
 damage: "1d6 (`dice:1d6`) punch by weapon + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Igniting Pitch
     desc: "When a pitch skeleton strikes in combat, a thick black substance is left behind which promptly ignites, causing 1d6 points of fire damage on the round following the successful attack. On the next round the fire does 1d4 points of damage, then 1d2 points, and finally 1 point on the fifth round. Additional successful strikes from the pitch skeleton restarts this process at 1d6 points of damage on the next round."

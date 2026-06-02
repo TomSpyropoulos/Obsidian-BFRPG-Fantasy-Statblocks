@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "19", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 bites + lightning"
 damage: "2d4 (`dice:2d4`) bite, 1d8 (`dice:1d8`)/round lightning"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Lightning Aura
     desc: "All creatures within 20 feet of the salamander that are not lightning-resistant suffer 1d8 points of damage per round."

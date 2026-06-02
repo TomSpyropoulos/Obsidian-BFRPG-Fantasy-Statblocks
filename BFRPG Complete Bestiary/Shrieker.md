@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) Special"
 damage: "None"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Shrieking
     desc: "Movement or light within 10 feet, or causing any damage to one, will cause one to wail for 1d4 rounds. The GM should generally roll a wandering monster check each round that this monster wails."

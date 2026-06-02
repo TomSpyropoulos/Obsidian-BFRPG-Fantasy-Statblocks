@@ -19,7 +19,7 @@ modifier: 5
 stats: ["20", "103", "23", "near"]
 attack: "+13 (`dice: 1d20+13`) 3 lashes + special"
 damage: "4d6 (`dice:4d6`) lash, + special"
-attributes: ["+7", "+5", "+6", "+5", "+5", "+10"]
+attributes: ["+7", "+5", "+6", "+5", "+7", "+5"]
 traits:
   - name: Grappling Hold
     desc: "When three successful attacks are made on a target in a single round, the chain golem has achieved a grappling hold and may apply a special attack to the victim the following round: constriction, tearing, or hurling. Characters thus held may escape with a successful DC 16 CON check, per the wrestling rules in the Basic Fantasy RPG Core Rules."

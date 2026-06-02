@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "14", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 slam"
 damage: "3d4 (`dice:3d4`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Shapeshifting
     desc: "Can assume the general shape of any object or creature that fills roughly 150 cubic feet. Body is hard and has a rough texture, no matter what appearance it might present. Anyone who closely examines the mimic can easily detect the ruse."

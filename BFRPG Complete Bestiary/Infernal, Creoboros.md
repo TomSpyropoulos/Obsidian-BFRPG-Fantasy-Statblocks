@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "71", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 3 claws, 3 bites, 1 tail, or special"
 damage: "1d8 (`dice:1d8`) claw, 1d10 (`dice:1d10`) bite, 1d4 (`dice:1d4`) + constriction 2d8 (`dice:2d8`) tail, or special"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Snake Growth
     desc: "Snakes grow as the creature matures. Youths (8 LVL) have no snakes. Young Adults (12 LVL) have one on the crown of each head. Adults (16 LVL) have three additional ones on their throats. Elders (20 LVL) have one more on each front paw."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 touch"
 damage: "1d4 + 1 (`dice:1d4+1`) point Strength loss"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Strength Drain
     desc: "Attack drains 1 point of Strength. Victims reduced to 2 or fewer points of Strength collapse and become unable to move; those reduced to 0 Strength die and rise as shadows a day later (at nightfall). Strength points lost are recovered at a rate of 1 point per turn."

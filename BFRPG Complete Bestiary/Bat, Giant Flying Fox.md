@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "13", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 bite (1d6)"
 damage: "-"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Darkvision
     desc: "Natural sonar grants Darkvision to a range of 90 feet."

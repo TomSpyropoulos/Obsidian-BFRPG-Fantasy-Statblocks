@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+2", "+0", "-1", "+1", "+1", "+1"]
+attributes: ["+2", "+0", "-1", "+1", "+1", "+0"]
 traits:
   - name: Camouflage
     desc: "So long as one remains still, there is only a 10% chance it will be detected in forest terrain. Even indoors, underground, or in non-preferred terrain they are able to hide such that there is only a 30% chance of detection."

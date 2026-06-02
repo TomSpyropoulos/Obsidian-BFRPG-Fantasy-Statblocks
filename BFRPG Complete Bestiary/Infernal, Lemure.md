@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "11", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 claw (1d4)"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Telepathic Control
     desc: "All other infernals can telepathically control a lemure without effort; while it is thus controlled, a lemure has a morale (CHA) of 11."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "14", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 weapon"
 damage: "By weapon +2"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Spell-like Abilities (at-will)
     desc: "speak with monster, water breathing, ventriloquism, clairvoyance, and darkvision"

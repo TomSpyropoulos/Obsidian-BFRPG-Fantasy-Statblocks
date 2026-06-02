@@ -19,7 +19,7 @@ modifier: 3
 stats: ["13", "68", "14", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 2 fists"
 damage: "3d6 (`dice:3d6`) giant weapon, 3d6 (`dice:3d6`) fist"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Giant Bow
     desc: "Its bow has double the range of a standard longbow."

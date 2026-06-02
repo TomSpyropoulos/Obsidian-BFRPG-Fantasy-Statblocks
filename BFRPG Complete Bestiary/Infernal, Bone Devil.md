@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "40", "20", "double near"]
 attack: "+8 (`dice: 1d20+8`) 1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
 damage: "3d4 (`dice:3d4`) hook, 2d4 (`dice:2d4`) plus 1d4 (`dice:1d4`) STR damage tail"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+3", "+2", "+2", "+3", "+2"]
 traits:
   - name: Bone Hook
     desc: "Hook inflicts 3d4 points of damage, and may become stuck fast if the target of a successful attack fails to succeed on a DC 13 STR check. If this happens, tail attacks made by the bone devil on the trapped opponent are at a bonus of +2 on the attack roll. The bone devil can always free its weapon from a stuck victim with a single round's work."

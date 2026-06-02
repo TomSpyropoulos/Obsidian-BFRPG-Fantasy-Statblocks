@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) Special, see below"
 damage: "Special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Infestation
     desc: "If any living creature makes prolonged contact with an infested wooden object or structure (at least one combat round), up to 1d8+8 of them will enter the creature, preferably via an orifice, but if necessary they will puncture the skin."

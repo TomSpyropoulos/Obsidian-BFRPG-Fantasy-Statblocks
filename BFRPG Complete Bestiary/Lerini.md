@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Swimming
     desc: "Can hold its breath up to 10 minutes."

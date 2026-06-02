@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 weapon + gaze or spell"
 damage: "1d8 (`dice:1d8`) + paralysis or by spell"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+3"]
+attributes: ["+1", "+1", "+1", "+3", "+2", "+1"]
 traits:
   - name: Gaze Attack
     desc: "They may choose one opponent to lock eyes with. The opponent must succeed on a DC 12 STR check or be paralyzed for 1d4 rounds. The gaze effect is ineffective against monachians, even if reflected by a mirror or shiny surface. If they choose to cast a spell, they may not use their gaze attack that round."

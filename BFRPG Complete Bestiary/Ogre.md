@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "19", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 huge weapon"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
   - name: Strength bonus
     desc: "If normal weapons are employed, an ogre has a +3 bonus to damage due to strength."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "19", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 bite or 1 breath or 1 constrict"
 damage: "2d8 (`dice:2d8`) bite, breath, 2d6 (`dice:2d6`) constrict*"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Surprise
     desc: "Bury themselves in snow and leap forth, surprising on 1-4 on 1d6."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "13", "near"]
 attack: "+6 (`dice: 1d20+6`) 3 \u00d7 bludgeon (1d6)"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Wailing Stench
     desc: "Anyone within 40 feet must succeed on a DC 13 CON check to avoid a -2 on all rolls."

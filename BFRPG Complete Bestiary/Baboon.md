@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "5", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite (1d4)"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Group tactics
     desc: "Single individuals suffer a -2 penalty to morale (CHA)."

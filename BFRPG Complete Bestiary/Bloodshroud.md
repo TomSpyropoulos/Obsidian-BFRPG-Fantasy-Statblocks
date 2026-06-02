@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "11", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 whip + enshroud / 1 blood spray"
 damage: "1d4 (`dice:1d4`) whip +special, blinding blood spray"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 traits:
   - name: Damage Resistance
     desc: "Takes half damage from bludgeoning weapons, and only 1 point from piercing weapons (plus any magical bonus)."

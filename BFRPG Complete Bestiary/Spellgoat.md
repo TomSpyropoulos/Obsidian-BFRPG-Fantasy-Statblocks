@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "12", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 charge (1d4)"
 damage: "-"
-attributes: ["+0", "+0", "+0", "+2", "+0", "-2"]
+attributes: ["+0", "+0", "+0", "+2", "-1", "+0"]
 traits:
   - name: Random Spell Casting
     desc: "When disturbed, angered, or scared, a magical effect occurs. Choose 6 1st-level Wizard spells and form a list. Whenever attacked, roll 1d6 with the number rolled being the spell cast. A spellgoat can only 'cast' a specific spell once per day."

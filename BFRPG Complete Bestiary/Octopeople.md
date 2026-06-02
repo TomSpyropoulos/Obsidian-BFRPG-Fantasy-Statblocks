@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "12", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 tentacle or by weapon"
 damage: "1d10 (`dice:1d10`) + paralysis tentacle, by weapon"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Perfect Disguise
     desc: "Can disguise themselves by donning the skin of a human or other humanoid, perfectly mimicking the appearance of their victim. This illusion can only be penetrated by means of the **true seeing** spell, or detected, though not seen through, by the **detect illusion** spell. **Detect magic** does not reveal this disguise."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["6", "27", "14", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 claws"
 damage: "1d6 (`dice:1d6`) claw"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
   - name: Silent Flight
     desc: "Glides silently just a few feet above its prey and plunges to strike when directly overhead."

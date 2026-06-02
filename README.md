@@ -74,7 +74,7 @@ Monsters default to `+0` for all 6 modifiers. We then apply these layering formu
   * Magic-User saving throws $\to$ **`+2 INT`**
   * Cleric saving throws $\to$ **`+2 WIS`**
   * Thief saving throws $\to$ **`+2 DEX`**
-* **Charisma Modifier:** Derived directly from morale as $\text{Morale} - 7$ (defaults to `+0` if morale is absent).
+* **Wisdom Modifier Morale Boost:** Wisdom receives a modifier boost based on morale: `int((morale_val - 7) / 2)` (defaults to `+0` if morale is absent).
 * **Racial Save Modifiers:**
   * **Elf:** `-1 CON`, `+1 INT`, `+1 WIS`
   * **Dwarf:** `+1 STR`, `+1 CON`, `-1 CHA`

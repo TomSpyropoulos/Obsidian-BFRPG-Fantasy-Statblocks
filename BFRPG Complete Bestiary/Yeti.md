@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "22", "13", "double near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws + hug (see below)"
 damage: "1d6 (`dice:1d6`) claw, 2d8 (`dice:2d8`) hug"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+2"]
+attributes: ["+3", "+2", "+2", "+1", "+1", "+1"]
 traits:
   - name: Hug
     desc: "If a yeti hits with both of its claw attacks, it is able to subject the victim to a hug attack (similar to bears) which does an additional automatic 2d8 points of damage. Only man-sized or smaller opponents can be hugged in this way."

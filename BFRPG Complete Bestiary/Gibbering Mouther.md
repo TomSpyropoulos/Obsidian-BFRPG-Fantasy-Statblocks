@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 6 bites + special"
 damage: "1d6 (`dice:1d6`) + special"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Gibbering
     desc: "As soon as a mouther spots something edible, it begins a constant gibbering. All creatures (other than mouthers) within 60 feet must succeed on a DC 13 STR check or be affected as though by a confusion spell for 1d2 rounds."

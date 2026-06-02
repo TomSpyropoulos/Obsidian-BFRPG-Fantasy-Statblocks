@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 stab"
 damage: "1d6 (`dice:1d6`) per HD"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Climbing
     desc: "Can climb hard surfaces at full speed, even moving unhindered while upside down."

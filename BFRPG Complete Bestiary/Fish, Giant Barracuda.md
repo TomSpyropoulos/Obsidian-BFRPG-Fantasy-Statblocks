@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "14", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite"
 damage: "2d8+1 (`dice:2d8+1`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Keen Eyesight
     desc: "Surprised only on a 1 on 1d6."

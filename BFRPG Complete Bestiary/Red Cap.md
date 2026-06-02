@@ -19,7 +19,7 @@ modifier: 2
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon"
-attributes: ["+0", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Thief abilities
     desc: "Within its lair a red cap has the abilities of a 6th-level Thief, including the sneak attack ability. Outside its lair a red cap's Thief abilities are only 3rd-level."

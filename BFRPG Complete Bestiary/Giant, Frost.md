@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "55", "16", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 giant weapon or 1 thrown rock"
 damage: "4d6 (`dice:4d6`) or 3d6 (`dice:3d6`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Thrown Rocks
     desc: "A frost giant can throw large stones up to 200' for 3d6 damage."

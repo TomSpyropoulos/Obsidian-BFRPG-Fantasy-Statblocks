@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "17", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 slam or 1 weapon"
 damage: "1d6 (`dice:1d6`) slam, by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Cleric spell abilities
     desc: "Has Cleric spell abilities of 3rd to 5th level (based on its levels)."

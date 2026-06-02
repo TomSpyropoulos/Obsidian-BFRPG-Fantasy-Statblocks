@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite"
 damage: "1d8 (`dice:1d8`) + poison or wrestling"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Ambush
     desc: "When lying in wait in its tunnel, it surprises on 1-4 on 1d6."

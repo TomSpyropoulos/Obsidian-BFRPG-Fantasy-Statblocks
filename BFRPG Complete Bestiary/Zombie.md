@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Undead
     desc: "May be Turned by Clerics. Immune to sleep, charm and hold magics. Mindless - immune to mind reading."

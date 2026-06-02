@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 firedart or 1 fireball"
 damage: "1d3 (`dice:1d3`) firedart, 2d6 (`dice:2d6`) fireball"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Firedart
     desc: "Shoots tiny darts of fire from its candles for 1d3 damage."

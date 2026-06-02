@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 3 bites (see below)"
 damage: "1 pt snake bite, 1d2 (`dice:1d2`) panther bite for 1 HD\n1d2 (`dice:1d2`) snake bite, 1d3 (`dice:1d3`) panther bite for 2 HD\n1d3 (`dice:1d3`) snake bite, 1d4 (`dice:1d4`) panther bite for 3 HD\n1d4 (`dice:1d4`) snake bite, 1d6 (`dice:1d6`) panther bite for 4 HD"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Deception
     desc: "As their deception ability is less refined than that of adults, their actual location varies between 1 and 3 feet from their projected image. This displacement causes a 50% chance of a miss on any first attack. Thereafter, all attacks against the kitten will be at a penalty of -1 to the attack roll. This is not cumulative with the penalty for fighting blind. As a mental power, this ability does not affect mindless creatures, constructs such as golems or living statues, or any sort of undead. Living creatures which are not mindless will be affected even if they do not use sight to target the kitten."

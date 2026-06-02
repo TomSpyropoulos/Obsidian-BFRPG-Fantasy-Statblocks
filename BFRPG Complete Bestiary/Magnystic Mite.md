@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "15", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite + Save Drain"
 damage: "Save Drain (Wands)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Save Drain
     desc: "Once latched on, applies a save-targeting penalty against the victim's succeeds on a DC 12 WIS check. Any single mite can only apply the penalty once, and the penalty persists until it is removed."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 fist or Weapon"
 damage: "1d12 (`dice:1d12`) or by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Shapechange
     desc: "Can take on the appearance of nearly any other humanoid ranging from 3 feet up to 7 feet in height. Can duplicate the appearance of clothing and equipment worn by a creature, but such items are part of the creature and cannot be laid down or handed to someone."

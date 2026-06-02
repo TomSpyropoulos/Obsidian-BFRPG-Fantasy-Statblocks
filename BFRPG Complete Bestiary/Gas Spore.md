@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "2", "10", "near (fly)"]
 attack: "+0 (`dice: 1d20+0`) 1 touch or special"
 damage: "See below"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+1", "+0", "+0", "+2", "+0"]
 traits:
   - name: Explosion
     desc: "Killing a gas spore will cause it to explode, inflicting 6d6 points of damage on all within a 20-foot radius; a successful DC 12 WIS check reduces damage by half."

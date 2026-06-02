@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 \u00d7 weapon (by weapon) / 1 \u00d7 tail (1d6)"
 damage: "by weapon, 1d6 (`dice:1d6`) tail"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Fire Resistance
     desc: "Their skin provides protection against heat, and they take half-damage from fire-based attacks. If the attack permits a saving throw, and it's successful, they take only one-quarter damage."

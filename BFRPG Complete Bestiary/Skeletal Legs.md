@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 2"
 damage: "1d3 (`dice:1d3`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Surprise
     desc: "Gain surprise on 1-3 on 1d6."

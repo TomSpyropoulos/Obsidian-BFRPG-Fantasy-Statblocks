@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws / 1 bite"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Pack tactics
     desc: "Will form small packs to improve their hunting effectiveness."

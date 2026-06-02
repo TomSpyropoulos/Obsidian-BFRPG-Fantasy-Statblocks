@@ -19,7 +19,7 @@ modifier: 3
 stats: ["6", "33", "23", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
 damage: "2d4+2 (`dice:2d4+2`) hoof, 2d4 (`dice:2d4`) bite, or special"
-attributes: ["+3", "+3", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+3", "+2", "+1", "+2", "+1"]
 traits:
   - name: Size Change
     desc: "Nightmares are able to change sizes, from the size of a warhorse up to a giant form twice that size, but despite these changes their statistics (levels, attacks, and so on) are not affected. This ability allows them to serve as steeds for demons and devils of various sizes."

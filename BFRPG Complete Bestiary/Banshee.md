@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "18", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 touch + wail"
 damage: "level drain touch + wail"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Wail
     desc: "Once per day, the banshee's endless weeping reaches a hideous crescendo, and anyone within a 50-foot radius who hears it must succeed on a DC 13 CON check or die in 2d6 rounds; those who fail their saving throw may be saved by application of a remove curse spell."

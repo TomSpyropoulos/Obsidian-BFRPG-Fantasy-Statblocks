@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "12", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 weapon"
 damage: "1d4 (`dice:1d4`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Ranged Combat
     desc: "Preferring to stay out of melee, vihm receive a bonus of +1 to hit and damage with ranged attacks."

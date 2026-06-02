@@ -19,7 +19,7 @@ modifier: 3
 stats: ["6", "27", "16", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 1 touch"
 damage: "Energy drain 2 levels/touch"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Energy Drain
     desc: "On any successful hit against a living creature, a spectre drains two life energy levels in addition to doing normal damage."

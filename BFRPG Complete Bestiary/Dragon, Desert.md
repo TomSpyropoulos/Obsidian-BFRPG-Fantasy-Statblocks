@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "48", "19", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath/1 tail"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/3d8 (`dice:3d8`) or breath/1d8 (`dice:1d8`)"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
   - name: Ambush
     desc: "When buried in sand with only eyes and nostrils exposed, surprises on a roll of 1-4 on 1d6 when victims come within 100 feet."

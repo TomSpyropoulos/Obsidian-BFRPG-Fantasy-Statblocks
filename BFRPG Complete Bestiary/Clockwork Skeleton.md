@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "11", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 punch or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+1", "+0", "+2", "+0"]
 traits:
   - name: Construct
     desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale (CHA) and always fights until destroyed."

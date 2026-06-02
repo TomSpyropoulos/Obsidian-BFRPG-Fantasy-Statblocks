@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 bludgeon or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+4"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Resistance to Physical Damage
     desc: "Take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."

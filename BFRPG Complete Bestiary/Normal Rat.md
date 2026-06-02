@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite per pack"
 damage: "1d6 (`dice:1d6`) + disease"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-2"]
+attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
   - name: Swarm Attack
     desc: "Each point of damage done to the swarm reduces their numbers by one animal."

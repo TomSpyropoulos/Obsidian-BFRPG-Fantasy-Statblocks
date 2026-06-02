@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "11", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Tactical Theft
     desc: "Barrodes will try to overwhelm opponents with large numbers. They surround enemies and, with the enemy distracted, proceed to pull off armor and steal weapons to render them helpless. Stolen items remain unharmed and can be recovered after the group is defeated."

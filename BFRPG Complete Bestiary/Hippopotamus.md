@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite or 1 trample"
 damage: "2d6 (`dice:2d6`) bite, 4d6 (`dice:4d6`) trample"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 actions:
   - name: bite or 1 trample
     desc: "D20 to hit, 2d6 (`dice:2d6`) bite, 4d6 (`dice:4d6`) trample"

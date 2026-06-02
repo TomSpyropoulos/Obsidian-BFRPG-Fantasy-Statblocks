@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 4 fireballs"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 actions:
   - name: fireballs
     desc: "D20 to hit, 1d6 (`dice:1d6`)"

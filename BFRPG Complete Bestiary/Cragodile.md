@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "19", "near"]
 attack: "+8 (`dice: 1d20+8`) 1"
 damage: "2d8 (`dice:2d8`) bite, 3d6 (`dice:3d6`) tail"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Surprise
     desc: "Surprises on 1-4 on 1d6 when submerged."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "14", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 weapon"
 damage: "By weapon or 1d4 (`dice:1d4`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Shapeshifting
     desc: "A baldander is able to take the exact form of any creature it kills, along with most of its abilities, including spells."

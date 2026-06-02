@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "27", "17", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 claws (2d4) / 1 bite (1d6)"
 damage: "2d4 (`dice:2d4`) claw, 1d6 (`dice:1d6`) bite"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 60' and superior eyesight while underwater."

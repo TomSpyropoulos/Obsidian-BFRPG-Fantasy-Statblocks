@@ -19,7 +19,7 @@ modifier: 3
 stats: ["14", "74", "19", "near"]
 attack: "+11 (`dice: 1d20+11`) 1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Strength Bonus
     desc: "+3 on damage die rolls; this is in addition to the magic bonus of the knight's sword."

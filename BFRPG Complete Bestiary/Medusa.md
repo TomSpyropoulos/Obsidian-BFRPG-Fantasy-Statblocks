@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 snakebite + gaze"
 damage: "1d6 (`dice:1d6`)+poison + petrification"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Petrifying Gaze
     desc: "The gaze of a medusa will petrify any creature who meets it unless a DC 12 STR check is made. In general, any creature surprised by the medusa will meet its gaze. Those who attempt to fight the monster while averting their eyes suffer penalties of -4 on attack rolls and -2 to AC."

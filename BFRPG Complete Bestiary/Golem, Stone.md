@@ -19,7 +19,7 @@ modifier: 3
 stats: ["14", "74", "24", "near"]
 attack: "+11 (`dice: 1d20+11`) 1 + special"
 damage: "3d8 (`dice:3d8`) + special"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Slow Effect
     desc: "A stone golem can use a slow effect, as the spell, once every other round; a DC 14 INT check is allowed to resist. The effect has a range of 10 feet and a duration of 2d6 rounds."

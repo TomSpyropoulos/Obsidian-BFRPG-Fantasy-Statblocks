@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "4", "12", "near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 1 bite, or Breath Weapon"
 damage: "1d4+1 (`dice:1d4+1`) bite or Breath Weapon"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Breath Weapon
     desc: "Rabbidrakes may exhale a breath weapon in a 10-foot by 5-foot line, dealing 2d6 points of damage. After this, it must wait until it rolls a 1 on a 1d8 (performed before it acts each round) to use its breathe weapon again"

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws, 1 bite (or 1 weapon, 1 claw, 1 bite)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite or by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Communication
     desc: "Able to communicate with wolves and speak Common plus 4 other languages."

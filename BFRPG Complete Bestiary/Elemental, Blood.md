@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "58", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 \u00d7 fist (1d6 / 1d8 / 1d8)"
 damage: "-"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Engulf and Heal
     desc: "A blood elemental can engulf the freshly-killed body of a (formerly) living creature and heal; for each level the creature possessed when it was alive, the blood elemental will heal 2 hit points. This action takes a full round for the blood elemental to complete. For example, a blood elemental that engulfs the body of what once was a 10 LVL creature will heal up to 20 hit points by the beginning of the next round."

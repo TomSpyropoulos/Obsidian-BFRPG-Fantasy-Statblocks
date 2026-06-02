@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 special"
 damage: "special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Dissolves Organic Matter
     desc: "Devours flesh and organic materials on contact. Can dissolve normal metal or enchanted wood in a turn and normal wood in 2d4 rounds. Does not harm stone or enchanted metal."

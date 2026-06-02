@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or weapon"
 damage: "1d6 (`dice:1d6`) bite or by weapon+ special"
-attributes: ["+2", "+0", "+2", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+2", "+0", "+0", "+0"]
 traits:
   - name: Natural Armor
     desc: "A chelonian's thick skin grants it a base AC of 13, and its back is especially tough (AC 17). Use these figures unless armor worn grants better AC."

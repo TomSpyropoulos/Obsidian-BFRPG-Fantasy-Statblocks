@@ -19,7 +19,7 @@ modifier: 4
 stats: ["12", "64", "17", "near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 1 fire bolt or 1 incinerate or special"
 damage: "1d8 (`dice:1d8`) fire bolt, 12d6 (`dice:12d6`) incinerate, or special"
-attributes: ["+5", "+4", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+4", "+4", "+3", "+5", "+3"]
 traits:
   - name: Fire Bolt
     desc: "Typically flings bolts of fire at opponents (1d8 damage)."

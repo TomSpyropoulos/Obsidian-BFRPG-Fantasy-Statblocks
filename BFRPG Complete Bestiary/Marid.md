@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "19", "double near"]
 attack: "+8 (`dice: 1d20+8`) 1 slam or 1 water jet"
 damage: "2d8 (`dice:2d8`) slam, 2d6 (`dice:2d6`) water jet"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+3", "+2", "+2", "+4", "+2"]
 traits:
   - name: Create Food and Drink
     desc: "Creating tasty and nourishing food for up to 2d6 humans or similar creatures, once per day."

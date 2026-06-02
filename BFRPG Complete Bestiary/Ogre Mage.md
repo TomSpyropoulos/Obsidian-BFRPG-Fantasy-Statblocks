@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "24", "16", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (`dice:2d6+3`) (large weapon), by weapon +3, by spell, 12d4 (`dice:12d4`) breath"
-attributes: ["+1", "+2", "+2", "+3", "+1", "+4"]
+attributes: ["+1", "+2", "+2", "+3", "+2", "+1"]
 traits:
   - name: Spellcasting (at-will)
     desc: "An ogre mage may cast fly, invisibility, darkness, and polymorph self at-will (one choice per round) as often as desired."

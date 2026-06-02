@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 bites"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Swift attacks
     desc: "Giant shrews move so swiftly that they are able to bite twice per round, and they may attack two different adjacent opponents in this way."

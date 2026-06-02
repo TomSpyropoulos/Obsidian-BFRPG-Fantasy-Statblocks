@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "13", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 pseudopod (3d8)"
 damage: "3d8 (`dice:3d8`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Splitting
     desc: "If attacked with normal or magical weapons, or with lightning or electricity, a black jelly suffers no injury, but will be split into two jellies; the GM should divide the original creature's levels between the two however they see fit, with the limitation that neither pudding may have less than two levels. A two level black jelly is simply unharmed by such attacks, but cannot be split further."

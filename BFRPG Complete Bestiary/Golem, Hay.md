@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 punch + special"
 damage: "2d6 (`dice:2d6`) + special"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
   - name: Damage Resistance
     desc: "A hay golem takes only half damage from bludgeoning weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."

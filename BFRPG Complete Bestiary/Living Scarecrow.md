@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "20", "12", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 slam / 1 weapon"
 damage: "1d6+1 (`dice:1d6+1`) slam, by weapon"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Darkvision
     desc: "Darkvision out to 60 feet."

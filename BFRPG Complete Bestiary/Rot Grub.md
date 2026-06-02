@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "9", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Burrowing
     desc: "A rot grub secretes an anesthetic when it bites and will burrow into the flesh. A burrowing grub can be noticed if the victim succeeds at a Wisdom check. If successful, the victim sees strange rippling beneath his skin. If failed, the creature does not notice the grubs."

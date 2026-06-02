@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "16", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 claws + special"
 damage: "1d8 (`dice:1d8`) claw + special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Magical Attacks
     desc: "All hexcore zombies attack as if their attacks were magical and can only be hurt by magical damage."

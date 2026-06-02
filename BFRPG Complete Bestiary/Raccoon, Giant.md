@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "15", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (2d6)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Intelligent
     desc: "Highly intelligent with their own chittering dialect, which they use to communicate with mundane raccoons and humanoid rakun."

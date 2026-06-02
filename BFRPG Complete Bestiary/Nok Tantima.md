@@ -19,7 +19,7 @@ modifier: 5
 stats: ["12", "64", "19", "double near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 (`dice:2d8`) bite or 1d12 (`dice:1d12`) claw or by spell"
-attributes: ["+5", "+5", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+5", "+4", "+3", "+5", "+3"]
 traits:
   - name: Flying Attack
     desc: "When flying they attack with their lower legs. On the ground they bite with their hawk-like beaks. They prefer to attack while flying, until they lose more than half their hit points, at which point they will either land to fight or fly away."

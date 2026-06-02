@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 fists (2d6/2d6)"
 damage: "-"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Camouflage
     desc: "Treants are slow to act when potential enemies are nearby, preferring watch them carefully before taking any action. Because of their excellent camouflage treants gain surprise on 1-4 on 1d6."

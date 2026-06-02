@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "20", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 claws/1 bite"
 damage: "2d6 (`dice:2d6`)/2d6 (`dice:2d6`)/2d10 (`dice:2d10`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Detect Invisible
     desc: "Able to detect invisible creatures or objects within 60'."

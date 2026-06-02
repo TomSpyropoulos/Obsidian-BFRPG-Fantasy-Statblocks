@@ -19,7 +19,7 @@ modifier: 7
 stats: ["30", "150", "21", "near"]
 attack: "+15 (`dice: 1d20+15`) 2 claws/1 bite or breath"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)/10d6 (`dice:10d6`) or 30d8 (`dice:30d8`)"
-attributes: ["+9", "+7", "+8", "+7", "+7", "+10"]
+attributes: ["+9", "+7", "+8", "+7", "+8", "+7"]
 traits:
   - name: Poison Immunity
     desc: "Due to their massive size, dragon turtles are immune to virtually all poisons."

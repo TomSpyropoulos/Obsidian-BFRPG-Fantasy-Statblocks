@@ -19,7 +19,7 @@ modifier: 2
 stats: ["2", "9", "12", "double near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 2 talons / 1 beak"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d4 (`dice:1d4`)"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 actions:
   - name: talons
     desc: "D20 to hit, 1d6 (`dice:1d6`)"

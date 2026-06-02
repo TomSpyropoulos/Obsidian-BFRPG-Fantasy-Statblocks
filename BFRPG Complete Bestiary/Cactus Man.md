@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "14", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 claws or hug"
 damage: "1d8 (`dice:1d8`) claw or 2d8 (`dice:2d8`) hug"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Hug
     desc: "Attempt a hug, treated as a grapple that deals 2d8 damage each round."

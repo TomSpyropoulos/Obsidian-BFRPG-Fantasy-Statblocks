@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "33", "16", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 giant weapon or 1 thrown lava rock"
 damage: "3d6 (`dice:3d6`) weapon or 2d6 (`dice:2d6`) thrown rock"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Lava Rock
     desc: "They manifest said lava-filled rock within their appendages to throw at their opponents. The damage dealt by this attack counts as fire damage."

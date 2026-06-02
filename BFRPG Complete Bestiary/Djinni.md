@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "32", "14", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 1 fist or 1 whirlwind"
 damage: "2d8 (`dice:2d8`) or 2d6 (`dice:2d6`)"
-attributes: ["+3", "+3", "+2", "+1", "+1", "+6"]
+attributes: ["+3", "+3", "+2", "+1", "+3", "+1"]
 traits:
   - name: Magical Powers
     desc: "Djinn have a number of magical powers, which can be used at will (that is, without needing magic words or gestures): create food and drink, creating tasty and nourishing food for up to 2d6 humans or similar creatures, once per day; become invisible, with unlimited uses per day; create normal items, creating up to 1,000 pounds of soft goods or wooden items of permanent nature or metal goods lasting at most a day, once per day; assume gaseous form, as the potion, up to one hour per day; and create illusions, as the spell phantasmal force but including sound as well as visual elements, three times per day."

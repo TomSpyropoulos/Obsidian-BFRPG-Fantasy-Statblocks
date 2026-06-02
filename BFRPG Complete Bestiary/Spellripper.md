@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws + spell rip"
 damage: "1d4 (`dice:1d4`) claw"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Spell Rip
     desc: "Spell casting characters struck by the spellripper's claw must succeed on a DC 12 INT check or have one of their highest-level prepared spells ripped and possibly absorbed."

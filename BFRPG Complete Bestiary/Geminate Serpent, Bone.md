@@ -19,7 +19,7 @@ modifier: 2
 stats: ["11", "58", "22", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 bite or 1 spell or 1 constrict"
 damage: "2d10 (`dice:2d10`) bite, bone to blade, 3d6 (`dice:3d6`) constrict*"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Surprise
     desc: "Lay still, playing dead and leaping to attack when curious creatures investigate, allowing them to surprise on 1-3 on a 1d6 surprise roll."

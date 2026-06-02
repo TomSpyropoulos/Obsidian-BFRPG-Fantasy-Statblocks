@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "14", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 3 lightning bolts (1d4)"
 damage: "-"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Lightning Aura
     desc: "Anyone who touches the lightning with something conductive (such as a metal sword) must succeed on a DC 12 INT check or receive a -3 penalty on attack rolls due to numbness for 1 turn. This penalty is not cumulative."

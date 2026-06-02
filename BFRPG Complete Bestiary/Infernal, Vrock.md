@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "12", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws (1d4) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) talon, 1d6 (`dice:1d6`) bite"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+6"]
+attributes: ["+4", "+4", "+2", "+2", "+4", "+2"]
 traits:
   - name: Immunity to non-magical weapons
     desc: "A vrock is immune to non-magical weapons."

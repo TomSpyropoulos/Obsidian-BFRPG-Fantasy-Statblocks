@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "22", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 tail (2d6)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 actions:
   - name: tail (2d6)
     desc: "D20 to hit, 2d6 (`dice:2d6`)"

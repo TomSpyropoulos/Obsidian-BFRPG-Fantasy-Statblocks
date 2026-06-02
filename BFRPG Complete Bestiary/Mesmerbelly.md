@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 club"
 damage: "1d6 (`dice:1d6`) Club"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Mesmerize
     desc: "The mesmerbelly with the lowest Levels in the group can show cherished memories on its belly square. Anyone within 30 feet who can see the mesmerbelly's belly must succeed on a DC 12 INT check or be utterly mesmerized. The save may be repeated each round."

@@ -19,7 +19,7 @@ modifier: 5
 stats: ["12", "54", "24", "double near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
 damage: "-"
-attributes: ["+5", "+5", "+3", "+3", "+3", "+4"]
+attributes: ["+5", "+5", "+3", "+3", "+3", "+3"]
 traits:
   - name: Telepathy
     desc: "Can communicate with any other intelligent creature by means of their unique form of telepathy."

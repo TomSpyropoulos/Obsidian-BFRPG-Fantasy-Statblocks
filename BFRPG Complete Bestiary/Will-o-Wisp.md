@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "28", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 shock (2d8)"
 damage: "-"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
   - name: Avoids Combat
     desc: "A will-o'-wisp usually avoids combat."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "12", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite + special"
 damage: "1d6 (`dice:1d6`) bite + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Musk Spray
     desc: "If attacked, a giant skunk will turn away from its opponent and release a spray of incredibly foul-smelling musk that covers an area 20 feet wide by 20 feet high for a distance of 2d6 x 10 feet behind it; the giant skunk then simply moves away at a normal walking pace. Any normal living creature within the area of effect must succeed on a DC 13 CON check or be blinded for 3d12 turns; even if this save is made, the victim will move away for at least a round, and suffers a penalty of -5 (or -25% as appropriate) on all rolls made for the next 2d4 turns. All such victims will smell terrible for at least a full day, causing other characters or creatures to avoid them, or possibly even attack to drive them away. Traces of the stench persist for 1d4 additional days, with reduced effects as determined by the GM."

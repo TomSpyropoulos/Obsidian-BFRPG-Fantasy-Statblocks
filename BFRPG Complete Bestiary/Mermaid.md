@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Enchanting Song
     desc: "A mermaid's song will attract any man within 100 yards, but generally has no effect on women. Men within the area of effect must succeed on a DC 12 INT check to resist, or else they will move toward the mermaid with amorous intent as directly as possible. If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit. Affected men will submit to anything the mermaid desires. When she tires of him, he might be freed or slain, depending on the mermaid's temperament."

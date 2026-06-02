@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "18", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/3d8 (`dice:3d8`) or breath"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Breath Weapon
     desc: "Steam (Cloud)"

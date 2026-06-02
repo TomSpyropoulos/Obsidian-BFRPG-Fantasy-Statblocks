@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "13", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (1d6+3 + poison)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Poison
     desc: "Those bitten by a king cobra must succeed on a DC 13 CON check or suffer 6d6 points of damage immediately, followed by another 6d6 points of damage in the following round. A successful save halves the damage."

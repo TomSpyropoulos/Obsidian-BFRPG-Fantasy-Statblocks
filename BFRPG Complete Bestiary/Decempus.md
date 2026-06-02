@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "22", "14", "double near"]
 attack: "+4 (`dice: 1d20+4`) Up to 8 whip or grab"
 damage: "1d4 (`dice:1d4`) whip, or 1d2 (`dice:1d2`) + bind grab"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+4"]
+attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
   - name: Whip and Grab
     desc: "Normally attacks by alternating whips and grabs motions from each free limb. The whip attack does 1d4 points of damage. The grab attack only does 1d2 points of damage, but the victim finds themself bound. A bound victim has a chance to free themself each round (1+Strength bonus on 1d8). A limb might be severed with 8 points of damage, which do not count against the creature's hit points."

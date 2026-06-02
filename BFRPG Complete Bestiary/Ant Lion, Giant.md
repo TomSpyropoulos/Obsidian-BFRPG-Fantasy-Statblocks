@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite (1d10)"
 damage: "1d10 (`dice:1d10`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Trapdoor Ambush
     desc: "Builds underground tunnels with multiple trapdoors about nine feet in diameter. The trap doors are difficult to locate (normal trap detection rules), as they are camouflaged to look like the surrounding materials. When a victim reaches the center, the ground gives way, swirling downward like water down a drain and dragging the victim below. The depth of the drop is generally ten to twenty feet, and normal falling damage is inflicted."

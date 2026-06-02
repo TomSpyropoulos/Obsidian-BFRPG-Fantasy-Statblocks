@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "14", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 2 claws/1 bite/1 horn"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d6 (`dice:1d6`)/1d4 (`dice:1d4`)"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Stone Disguise
     desc: "Can remain still indefinitely, appearing as stone statues. Surprise on 1-4 on 1d6 if foes do not otherwise suspect them."

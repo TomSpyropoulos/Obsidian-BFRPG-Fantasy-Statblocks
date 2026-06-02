@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite + hold"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Blood Drain
     desc: "Once a giant leech hits in combat, it attaches to the victim and sucks blood, causing an additional 1d6 damage each round until the victim or the leech is dead. There is no way to remove the leech other than to kill it."

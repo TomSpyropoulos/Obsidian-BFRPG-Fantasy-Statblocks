@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or 1 spit"
 damage: "1d4 (`dice:1d4`) + poison bite or special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Spit Poison
     desc: "Can spit its magically potent poison up to 5 feet. Anyone hit by its spit attack must make a DC 12 CON check or become blinded."

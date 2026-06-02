@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "16", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 fist + special"
 damage: "1d6 (`dice:1d6`) fist + special"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+3"]
+attributes: ["+1", "+1", "+1", "+3", "+2", "+1"]
 traits:
   - name: Terrifying Form
     desc: "A character that sees the true form must succeed on a DC 12 INT check (at -2 penalty) or else react as if struck by a **cause fear** spell, forcing the affected to flee for 2 turns. Anyone affected that is unable to flee will cower in place. Even those who successfully save are unnerved by the sight, and will have a -2 penalty to attacks or actions."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "20", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 bite, 2 claws, or 1 bite + special"
 damage: "1d12 (`dice:1d12`) bite, 2d6 (`dice:2d6`) claw"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Lock Jaws
     desc: "Against large prey, it will lock its jaws, inflicting 8 points of damage per round. It will simultaneously rake with 2d4 of its claws, each inflicting another 2d6 points of damage, until either it or its prey is dead. Against smaller opponents such as humanoids, the ichneumon will only be able to attack with one bite and its front 2 claws each round."

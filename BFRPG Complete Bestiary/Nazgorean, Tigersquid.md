@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "15", "near"]
 attack: "+7 (`dice: 1d20+7`) 6 tentacles, 1 bite (special) / 2 tentacles (special)"
 damage: "Grab, 1d12 (`dice:1d12`) or constrict"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Sound Sense
     desc: "Senses environment by sound alone, can detect heartbeats. Only magical silence will 'blind' them."

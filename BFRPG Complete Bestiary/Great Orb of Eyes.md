@@ -19,7 +19,7 @@ modifier: 4
 stats: ["12", "64", "18", "near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 1d4 rays or spell-like ability"
 damage: "By ray or spell"
-attributes: ["+3", "+4", "+4", "+5", "+3", "+5"]
+attributes: ["+3", "+4", "+4", "+5", "+4", "+3"]
 traits:
   - name: All-Around Vision
     desc: "Only surprised at the GM's discretion."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 punch or weapon"
 damage: "1d6 (`dice:1d6`) punch, by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Reanimation
     desc: "Each time reduced to 0 HP, rises again 1d4 rounds later with half its previous HP allotment (round up, minimum 1 hp). Can be permanently destroyed during inactive period by **bless** spell, holy water, or other holy powers."

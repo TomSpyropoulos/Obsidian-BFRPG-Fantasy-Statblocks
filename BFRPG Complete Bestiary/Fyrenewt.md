@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "11", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon or 1 breath"
 damage: "By weapon or 2d4 (`dice:2d4`) breath"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Breath Weapon
     desc: "Cone-shaped spray of fluid that ignites upon contact with air. Usable once every ten rounds. 2d4 damage to creatures within 10 feet (half damage if succeed on a DC 12 DEX check succeeds)."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite + heat"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Heat Aura
     desc: "All non-fire-resistant creatures within 20' of the monster suffer 1d8 points of damage per round from the heat."

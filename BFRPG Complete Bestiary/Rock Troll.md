@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws, 1 bite"
 damage: "1d6+6 (`dice:1d6+6`) claw, 1d12+2 (`dice:1d12+2`) bite"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Regeneration
     desc: "Its regeneration repairs damage at 3 hit points per round at the beginning of the third round after it has been injured; this regeneration includes the re-bonding of severed members. The loathsome members of a rock troll have the ability to fight on even if severed from the body."

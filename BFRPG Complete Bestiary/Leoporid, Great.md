@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "13", "double near"]
 attack: "+3 (`dice: 1d20+3`) 1 antler or 1 rake (against large only)"
 damage: "2d4 (`dice:2d4`) antler, 2d6 (`dice:2d6`) rake"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Charging attack
     desc: "May use antlers in charging attacks (following normal charging rules)."

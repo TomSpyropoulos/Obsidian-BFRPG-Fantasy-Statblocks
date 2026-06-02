@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or 1 weapon or special"
 damage: "1d6 (`dice:1d6`) bite or by weapon or special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Shapeshifting
     desc: "When a selkie wraps itself in its magical seal skin they (or anyone who steals their skin) transforms into a seal in but a single round. Remaining in that form until they remove the skin. Selkie guard their sealskins with their very lives, for without it, they cannot return to their seal form."

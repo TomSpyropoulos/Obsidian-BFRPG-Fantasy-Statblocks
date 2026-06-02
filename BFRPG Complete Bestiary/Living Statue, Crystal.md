@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "15", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 fists (1d6/1d6)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 source: BFRPG Core
 ```
 

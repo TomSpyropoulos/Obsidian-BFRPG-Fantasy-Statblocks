@@ -19,7 +19,7 @@ modifier: 2
 stats: ["3", "13", "14", "double near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d10 (`dice:1d10`)"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Mount Capability
     desc: "Can be raised in captivity as a flying mount. Light load up to 400 pounds; heavy load up to 900 pounds."

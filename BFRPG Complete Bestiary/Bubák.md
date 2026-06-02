@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws + special"
 damage: "1d6 (`dice:1d6`) claw + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Deceptive Cry
     desc: "This haunting ability can be used every round, and does not effect the bubák's ability to use its claws. It mimics the cries of a distressed infant, and has the effect of a charm monster spell on all those within earshot. Those who fail the DC 12 INT check see the bubák as a benevolent, helpful individual, easily allowing it within striking distance."

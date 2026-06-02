@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "4", "12", "near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`) + 1d4 (`dice:1d4`)/round blood drain"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Blood Drain
     desc: "If a stirge hits, it attaches and inflicts 1d4 damage initially, then 1d4 damage per round as it drains blood."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "13", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Darkvision
     desc: "Natural sonar allows them to operate in total darkness."

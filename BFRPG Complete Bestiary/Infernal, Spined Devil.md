@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite or 2 blades or spines or by weapon"
 damage: "1d6 (`dice:1d6`) + poison or 1d8+2 (`dice:1d8+2`) or 4d6 (`dice:4d6`) or by weapon + 2"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Immunities
     desc: "Only magic weapons harm spined devils, and they are immune to non-magical fire or poison."

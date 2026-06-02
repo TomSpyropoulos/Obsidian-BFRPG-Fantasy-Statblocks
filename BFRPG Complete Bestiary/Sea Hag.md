@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "19", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 daggers"
 damage: "1d4+4 (`dice:1d4+4`)"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+5"]
+attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Horrific Appearance
     desc: "The sight of a sea hag is so revolting that anyone who sets eyes upon one must succeed on a DC 12 INT check or instantly be weakened, reducing their Strength by 2d6 points for 1d6 turns. This damage cannot reduce a victim's Strength score below 0, but anyone reduced to 0 falls to the ground helpless. Creatures that are affected by this power or that successfully save against it cannot be affected again for 24 hours."

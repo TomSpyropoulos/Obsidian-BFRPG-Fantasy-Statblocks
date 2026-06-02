@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1-1", "3", "10", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Innate Spellcasting
     desc: "Can cast light (or its reverse, darkness) and purify food and water once per day. These innate powers are cast at first-level ability."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "11", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 horn/head butt or 1 trample"
 damage: "1d4 (`dice:1d4`) butt, 2d4 (`dice:2d4`) trample"
-attributes: ["+2", "+0", "+1", "+0", "+0", "-2"]
+attributes: ["+2", "+0", "+1", "+0", "-1", "+0"]
 traits:
   - name: Stampede
     desc: "When spooked, cattle will stampede (run in a group). Anyone caught in the path of the stampede will suffer at least one trampling attack, as determined by the GM."

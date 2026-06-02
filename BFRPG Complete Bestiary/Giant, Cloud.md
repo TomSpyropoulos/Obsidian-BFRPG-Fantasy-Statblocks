@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "67", "18", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 1 thrown rock"
 damage: "6d6 (`dice:6d6`) or 3d6 (`dice:3d6`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Thrown Rocks
     desc: "Can throw large stones up to 200' for 3d6 points of damage each."

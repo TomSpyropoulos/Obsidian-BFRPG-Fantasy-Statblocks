@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 5 to 8 bites (2d6)"
 damage: "-"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+6"]
+attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
   - name: Sound-based Perception
     desc: "Depends on sound to locate prey (treat as Darkvision out to 60 feet). A silent opponent is as good as invisible to the monster."

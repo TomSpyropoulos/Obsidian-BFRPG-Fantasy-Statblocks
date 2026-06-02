@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "5", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or 1 weapon"
 damage: "1d3 (`dice:1d3`) bite, by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "-2"]
+attributes: ["+2", "+0", "+1", "+0", "-1", "+0"]
 traits:
   - name: Pack Courage
     desc: "Individually or in small groups, these creatures are cowardly, but in larger groups they become much braver; any group of 16 or more will have a morale (CHA) of 8."

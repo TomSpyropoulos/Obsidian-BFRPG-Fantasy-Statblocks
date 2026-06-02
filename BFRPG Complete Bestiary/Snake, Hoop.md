@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "13", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite or 1 tail sting"
 damage: "1d4 (`dice:1d4`) bite, 1d4 (`dice:1d4`) + poison sting"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Hoop Attack
     desc: "Grabs tail with mouth and rolls like a wheel, moving at twice normal speed (60'). Flings spiked, venomous tail at target. Target must succeed on a DC 12 CON check or die in 1d4 rounds. After hoop attack, reverts to regular bite attacks."

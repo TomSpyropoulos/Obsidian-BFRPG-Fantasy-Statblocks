@@ -671,8 +671,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             elif cls == "thief":
                 dx_mod += 2
                 
-            # 3. Charisma modifier: morale - 7
-            ch_mod += (morale_val - 7)
+            # 3. Wisdom modifier Morale boost: int((morale_val - 7) / 2)
+            ws_mod += int((morale_val - 7) / 2)
             
             # 4. Racial save bonuses:
             # Elf: -1 CON, +1 INT, +1 WIS
@@ -989,8 +989,8 @@ def run_tests():
         elif cls == "thief":
             dx_mod += 2
             
-        # 3. Charisma modifier
-        ch_mod += (morale_val - 7)
+        # 3. Wisdom modifier Morale boost
+        ws_mod += int((morale_val - 7) / 2)
         
         # 4. Racial save bonuses
         if bonus == "elf":
@@ -1030,16 +1030,16 @@ def run_tests():
     assert res1 == [0, 2, 0, 0, 0, 0], f"Hob failed: {res1}"
 
     # Test case 2: Gnome (Fighter: 1, morale 8, speed 20, dwarf bonus)
-    # Expected: STR +3, DEX +0, CON +1, INT +0, WIS +0, CHA +0
+    # Expected: STR +3, DEX +0, CON +1, INT +0, WIS +0, CHA -1
     res2 = compute_attributes("1", "Fighter: 1 (with Dwarf bonuses)", "8", "20'")
     print(f"Gnome parsed modifiers: {res2}")
-    assert res2 == [3, 0, 1, 0, 0, 0], f"Gnome failed: {res2}"
+    assert res2 == [3, 0, 1, 0, 0, -1], f"Gnome failed: {res2}"
 
     # Test case 3: Gerbalaine (Fighter: 1, morale 8, halfling bonus)
-    # Expected: STR +1, DEX +2, CON +0, INT +0, WIS +0, CHA +1
+    # Expected: STR +1, DEX +2, CON +0, INT +0, WIS +0, CHA +0
     res3 = compute_attributes("1", "Fighter: 1 (Halfling bonuses)", "8", "20'")
     print(f"Gerbalaine parsed modifiers: {res3}")
-    assert res3 == [1, 2, 0, 0, 0, 1], f"Gerbalaine failed: {res3}"
+    assert res3 == [1, 2, 0, 0, 0, 0], f"Gerbalaine failed: {res3}"
 
     # Test case 4: Sprite (Magic-User: 4, morale 7, elf bonus)
     # Expected: STR +0, DEX +0, CON -1, INT +3, WIS +1, CHA +0
@@ -1051,13 +1051,13 @@ def run_tests():
     # HD 5+1 (Fighter save, speed Fly 120', morale 9)
     # HD scaling: 5 / 4 = 1 bonus to all
     # Fighter save: +2 STR
-    # Morale 9: +2 CHA
+    # Morale 9: +1 WIS boost
     # Special HD (+1 hp): +1 CON
     # Speed Fly 120' -> double near (fly): +2 DEX
-    # Expected: STR 1+2=3, DEX 1+2=3, CON 1+1=2, INT 1, WIS 1, CHA 1+2=3
+    # Expected: STR 1+2=3, DEX 1+2=3, CON 1+1=2, INT 1, WIS 1+1=2, CHA 1
     res5 = compute_attributes("5+1*", "Fighter: 5", "9", "Fly 120'")
     print(f"Fast High-HD Giant parsed modifiers: {res5}")
-    assert res5 == [3, 3, 2, 1, 1, 3], f"High HD failed: {res5}"
+    assert res5 == [3, 3, 2, 1, 2, 1], f"High HD failed: {res5}"
     
     # Test case 6: Flat save adjustments inside saveAs
     # Fighter: 1 (+2 Poison saves) -> CON +2

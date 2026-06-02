@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "18", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 butt or 1 trample"
 damage: "2d8 (`dice:2d8`) or 2d12 (`dice:2d12`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+2"]
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 actions:
   - name: butt or 1 trample
     desc: "D20 to hit, 2d8 (`dice:2d8`) or 2d12 (`dice:2d12`)"

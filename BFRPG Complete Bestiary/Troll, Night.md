@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "1d8 (`dice:1d8`) claw, 1d12 (`dice:1d12`) bite"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Stealth
     desc: "Can hide and move as silently as a Thief equal to their levels."

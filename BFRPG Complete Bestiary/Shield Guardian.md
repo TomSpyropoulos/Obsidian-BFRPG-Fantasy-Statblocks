@@ -19,7 +19,7 @@ modifier: 3
 stats: ["15", "92", "19", "near"]
 attack: "+11 (`dice: 1d20+11`) 1 fist"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Amulet Link
     desc: "Magically linked to a particular magical amulet and will protect its bearer at any cost. Will always follow the amulet. If separated by more than 100 feet, enters a dormant state, standing still and waiting impassively for the return of the amulet."

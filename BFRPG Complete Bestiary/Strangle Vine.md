@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "14", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 entangle + special"
 damage: "1d8 (`dice:1d8`) entangle + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Surprise
     desc: "Surprises on a roll of 1-4 on 1d6 (1-5 on 1d6 for underground variety)."

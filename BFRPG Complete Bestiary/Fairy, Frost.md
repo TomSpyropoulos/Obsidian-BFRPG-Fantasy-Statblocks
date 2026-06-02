@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 4 icy shards + slow"
 damage: "1d8 (`dice:1d8`) icy shard + slow"
-attributes: ["+2", "+2", "+3", "+4", "+2", "+1"]
+attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 traits:
   - name: Icy Shards
     desc: "Attacks by throwing shards of ice. The extreme cold of the shards reduces movements similar to a slow spell."

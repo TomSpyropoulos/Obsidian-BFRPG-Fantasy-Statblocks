@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 bite or 1 breath"
 damage: "1d6 (`dice:1d6`) or 1d6 (`dice:1d6`) per Hit Die"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Fire Breath
     desc: "May breathe fire a number of times per day equal to its levels. Cone 10' wide at far end, length varies by LVL: 10' long (3-4 LVL), 20' long (5-6 LVL), 30' long (7 LVL). Damage 1d6 per LVL. Succeed on a DC 12 DEX check for half damage."

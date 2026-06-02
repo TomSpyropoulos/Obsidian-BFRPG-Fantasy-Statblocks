@@ -19,7 +19,7 @@ modifier: 2
 stats: ["6", "27", "14", "near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 1 touch + insane babbling"
 damage: "energy drain (1 level)"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Insane babbling
     desc: "Causes all creatures within 60 feet to succeed on a DC 13 STR check or stop and stare blankly, unable to move, attack, or defend for one round. Anyone who saves successfully will be unaffected by the allip's babble for 24 hours."

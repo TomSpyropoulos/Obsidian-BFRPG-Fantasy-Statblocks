@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "17", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) -"
 damage: "2d8 (`dice:2d8`)/1d6 (`dice:1d6`) + poison or 1d10 (`dice:1d10`)/1d10 (`dice:1d10`)/1d6 (`dice:1d6`) + poison"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
   - name: Poisonous Stinger
     desc: "Any living creature hit by the wyvern's stinger must succeed on a DC 13 CON check or die."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 1"
 damage: "1"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 actions:
   - name: 1
     desc: "D20 to hit, 1"

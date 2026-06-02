@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "17", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 bite"
 damage: "1d6 (`dice:1d6`) bite (female) or 2d12 (`dice:2d12`) bite (male)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
   - name: bite
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite (female) or 2d12 (`dice:2d12`) bite (male)"

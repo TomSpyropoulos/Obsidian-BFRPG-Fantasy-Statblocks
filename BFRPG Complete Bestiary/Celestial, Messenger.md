@@ -19,7 +19,7 @@ modifier: 3
 stats: ["5", "22", "16", "double near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 1 weapon"
 damage: "By weapon + 1"
-attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
+attributes: ["+1", "+3", "+1", "+1", "+5", "+1"]
 traits:
   - name: Telepathy
     desc: "Possess a limited form of telepathy, allowing them to communicate with any creature within 50 feet without needing to speak."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "17", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 fists"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`) + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Weapon Adhesion
     desc: "If struck by a non-magical metal (even partially metal) weapon, the weapon may become stuck in the monster. If this happens, it cannot be removed until the statue is 'killed.' The wielder is allowed a DC 12 INT check to avoid this."

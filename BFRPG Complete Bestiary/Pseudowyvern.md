@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "18", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 bite or 1 sting"
 damage: "1 or 1 + poison"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Camouflage
     desc: "10% chance of being detected when still, 30% when moving in tropical rain forests, jungle, and other warm and humid climates."

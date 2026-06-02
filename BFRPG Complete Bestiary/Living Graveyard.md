@@ -19,7 +19,7 @@ modifier: 10
 stats: ["40", "195", "20", "near"]
 attack: "+16 (`dice: 1d20+16`) 1 tombstone + special"
 damage: "2d6 (`dice:2d6`) tombstone + special"
-attributes: ["+10", "+10", "+11", "+12", "+10", "+15"]
+attributes: ["+10", "+10", "+11", "+12", "+12", "+10"]
 traits:
   - name: Tombstone Attack
     desc: "Shoots gravestones as grenade-like attacks, dealing 2d6 damage. Loses 1 HP per tombstone shot, can shoot up to a quarter of its HP. On miss, target succeeds on a DC 20 DEX check or suffers half-damage from explosion."

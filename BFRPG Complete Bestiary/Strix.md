@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "5", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite (1d4)"
 damage: "-"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Terrifying Scream
     desc: "When heard all within 120 feet must succeed on a DC 12 INT check or be paralyzed with fear for 2d4 rounds."

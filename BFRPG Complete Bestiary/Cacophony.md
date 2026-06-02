@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "14", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
 damage: "1d6 (`dice:1d6`) toot, 1d4 (`dice:1d4`) bang, 2d8 (`dice:2d8`) clash, cause fear ding"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Ding
     desc: "Once every three rounds the cacophony may use its 'ding', causing one target to succeed on a DC 12 INT check or run in fear for 2 turns, as the spell cause fear."

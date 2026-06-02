@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1-1", "3", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite / 1 weapon"
 damage: "1d4 (`dice:1d4`) bite, by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Venomous Bite
     desc: "When using a small or medium-sized melee weapon, a gila may also bite for 1d4 points of damage, which also delivers a painful but otherwise mild toxin. Those affected must succeed on a DC 12 CON check or suffer an additional 1d3 points of damage and a -1 attack and damage penalties for the next four hours. Multiple bites will cause additional damage and the penalties are cumulative. While the toxin is active rest is impossible, as are activities that require rest or inactivity (such as spell memorization). A neutralize poison spell will nullify this lingering effect."

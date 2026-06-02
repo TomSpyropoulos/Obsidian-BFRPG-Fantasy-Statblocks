@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "18", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 hooves (1d8)"
 damage: "1d8 (`dice:1d8`) hoof"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
   - name: Telepathy
     desc: "Limited telepathy allows them to communicate with their riders, and with any other celestial beings within fifty feet."

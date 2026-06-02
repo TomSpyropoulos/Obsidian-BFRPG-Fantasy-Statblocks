@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (2d6+1)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 source: BFRPG Field Guide
 ```
 

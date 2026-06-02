@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "15", "near"]
 attack: "+7 (`dice: 1d20+7`) 6 claws or 6 weapons + breath weapon"
 damage: "1d6 (`dice:1d6`) per claw or by weapon + 6d6 (`dice:6d6`) fire breath"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Fire Breath
     desc: "Can breathe a cone of fire up to 30 feet long and 15 feet wide once per day, dealing 6d6 points of damage to all creatures in the area."

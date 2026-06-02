@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 punch, 1 weapon or 1 trample"
 damage: "1d6 (`dice:1d6`) punch, by weapon, 3d6 (`dice:3d6`) trample"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Alertness
     desc: "Only has a 1 in 6 chance of being surprised."

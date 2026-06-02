@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "22", "15", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (2d6) / 1 sting (1d3 + paralysis)"
 damage: "2d6 (`dice:2d6`) bite, 1d3 (`dice:1d3`) sting + paralysis"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Surprise Attack
     desc: "Attacks with surprise by leaping out of the water; this attack is so sudden and fast that it can surprise others on a roll of 1-3 on 1d4."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "50", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 fists or 1 boulder"
 damage: "1d10+4 (`dice:1d10+4`) fist, 3d6 (`dice:3d6`) boulder"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Create Darkness
     desc: "Once per day, can be used at will without needing magic words or gestures."

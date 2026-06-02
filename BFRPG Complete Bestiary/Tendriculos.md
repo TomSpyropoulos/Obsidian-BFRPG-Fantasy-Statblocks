@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite (2d8) / 2 tendrils (1d6)"
 damage: "-"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Swallow Whole
     desc: "A tendriculos can swallow whole any creature smaller than itself if it hits with a natural 20 on its bite attack. Once inside the plant's mass, the opponent must succeed on a DC 13 STR check each round or be paralyzed for 3d6 rounds by the tendriculos's digestive juices, suffering 2d6 points of acid damage each round. A swallowed creature can cut its way out by using a light slashing or piercing weapon to inflict damage of at least half the monster's hit points to its interior (AC 14). If a victim escapes this way, the hole they made closes instantly; any other swallowed opponents must cut their own way out."

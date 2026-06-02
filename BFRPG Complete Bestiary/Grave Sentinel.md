@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "19", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Perceive without eyes
     desc: "Grave sentinels perceive the world around them without the need for eyes."

@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "17", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) -"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
   - name: Vulnerability to Earth
     desc: "Take double damage when attacked by earth-based attacks (including by earth elementals)."

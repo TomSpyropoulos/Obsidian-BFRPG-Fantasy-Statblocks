@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "15", "near"]
 attack: "+5 (`dice: 1d20+5`) 5 to 12 bites"
 damage: "1d10 (`dice:1d10`) per bite"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Multiple Heads
     desc: "If a character using a melee weapon chooses to strike at a particular head, and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore. Such damage also applies to the monster's total hit points."

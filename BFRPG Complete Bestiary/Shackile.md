@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "15", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon, 1 beak, or special"
 damage: "1d6 (`dice:1d6`) or by weapon, 1d4 (`dice:1d4`) beak, or special"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Dual Nature
     desc: "The face on their chest is intelligent and can speak Common, however it only controls the body from beneath the shoulders, effectively only controlling its legs. The creature's arms and wings are controlled by the goose head, which is no more intelligent than a normal goose, and if anything is even more aggressive, attacking anything that gets close to it except other shackiles."

@@ -19,7 +19,7 @@ modifier: 6
 stats: ["18", "93", "20", "double near (fly)"]
 attack: "+12 (`dice: 1d20+12`) 1 weapon"
 damage: "By weapon +3"
-attributes: ["+6", "+6", "+5", "+4", "+4", "+8"]
+attributes: ["+6", "+6", "+5", "+4", "+6", "+4"]
 traits:
   - name: Enhanced Combat
     desc: "Physical attacks with a weapon deal an additional 3 points of damage per attack."

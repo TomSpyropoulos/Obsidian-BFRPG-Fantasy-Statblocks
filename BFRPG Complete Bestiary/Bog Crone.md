@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "24", "14", "near"]
 attack: "+5 (`dice: 1d20+5`) 2"
 damage: "1d4+2 (`dice:1d4+2`)"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
   - name: Aquatic
     desc: "Can breathe underwater."

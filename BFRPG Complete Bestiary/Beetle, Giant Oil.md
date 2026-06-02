@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite + spray (see below)"
 damage: "2d4 (`dice:2d4`) bite, special spray"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: All-around Vision
     desc: "Their eyes are arranged on the sides of their heads such that they can see perfectly well behind them as well as in front, negating any normal bonus for attacking from behind."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "27", "14", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 fists"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
   - name: Superior Nocturnal Vision
     desc: "The sasquatch has nocturnal vision that is superior to human sight, though it does not have actual Darkvision."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "53", "20", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 bite or 1 breath or 1 constrict"
 damage: "2d10 (`dice:2d10`) bite, breath, 2d8 (`dice:2d8`) constrict*"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Sleep Gas (Cloud)
     desc: "Breath weapon that attempts to put targets to sleep."

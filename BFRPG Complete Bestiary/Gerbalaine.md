@@ -19,7 +19,7 @@ modifier: 2
 stats: ["1", "4", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 punch or weapon (large form)"
 damage: "1d4 (`dice:1d4`) or by weapon (large form)"
-attributes: ["+1", "+2", "+0", "+0", "+0", "-1"]
+attributes: ["+1", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Larger Form
     desc: "Up to 3 times per day, a gerbalaine may magically assume a larger form, growing to approximately halfling size. It is this form that gives the above statistics when pressed for a fight, although a gerbalaine is more likely to run away than fight."

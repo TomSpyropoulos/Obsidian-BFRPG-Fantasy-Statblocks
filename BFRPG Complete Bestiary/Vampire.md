@@ -19,7 +19,7 @@ modifier: 2
 stats: ["7", "31", "17", "near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 1 weapon or special"
 damage: "1d8 (`dice:1d8`) or by weapon or special"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Charm Gaze
     desc: "A vampire can charm anyone who meets its gaze; a DC 13 INT check is allowed to resist, but at a penalty of -2 due to the power of the charm. This charm is so powerful that the victim will not resist being bitten by the vampire."

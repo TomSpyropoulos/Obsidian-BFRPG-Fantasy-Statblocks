@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) special"
 damage: "see below"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Stimulus
     desc: "Deep spores react to specific stimuli (pick one or roll 1d8):  1-2. Noise, these deep spores will be drawn to any noise greater than the ambient environment 3-4. Light, these deep spores will be drawn to the brightest light source within 300'. 5-6. Heat, drawn to anything warmer than the natural surroundings. Body heat will be enough in many dungeons. 7. Movement, these deep spores will be drawn to anything moving 10' a round or quicker. 8. Magic, these deep spores will be draw to spell cast at a distance up to the spell level x 100', permanent magical items will only draw their attention if brought within 60'."

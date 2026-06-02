@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 punch or by spell"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Undead
     desc: "Can be Turned by a Cleric (as a mummy), and is immune to sleep, charm or hold spells."

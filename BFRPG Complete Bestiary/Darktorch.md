@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 torch"
 damage: "1d6 (`dice:1d6`) + darkness"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Invisible in Darkness
     desc: "While in complete darkness, the darktorch is invisible, however even the slightest glimmer of light will reveal it."

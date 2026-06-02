@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "15", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 claws (1d6) / 1 bite (1d8) / 1 hug (2d8) / quill (1d8)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 2d8 (`dice:2d8`) hug, 1d8 (`dice:1d8`) quill"
-attributes: ["+3", "+1", "+1", "+1", "+1", "-1"]
+attributes: ["+3", "+1", "+1", "+1", "+0", "+1"]
 traits:
   - name: Hug
     desc: "A successful hit by both claws on the same opponent in a given round means that opponent has automatically been hugged and suffers 2d8 additional damage."

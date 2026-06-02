@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "19", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 touch/1 gaze"
 damage: "1d8 (`dice:1d8`) + special"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Fear
     desc: "Seeing a ghost is so terrible that the victim must succeed on a DC 14 INT check or flee for 2d6 rounds. A character or creature who successfully saves vs. a given ghost's fear attack may not be so affected by that ghost again, but of course may still be affected by another."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "14", "16", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 bite (2d6)"
 damage: "-"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: All-around Vision
     desc: "Suffer no penalty to Armor Class when attacked from behind."

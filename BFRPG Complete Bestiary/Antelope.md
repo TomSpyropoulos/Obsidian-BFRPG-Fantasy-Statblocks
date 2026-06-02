@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "4", "12", "double near"]
 attack: "+1 (`dice: 1d20+1`) 1 butt"
 damage: "1d4 (`dice:1d4`) or 1d6 (`dice:1d6`) or 1d8 (`dice:1d8`)"
-attributes: ["+2", "+1", "+0", "+0", "+0", "-2"]
+attributes: ["+2", "+1", "+0", "+0", "-1", "+0"]
 actions:
   - name: butt
     desc: "D20 to hit, 1d4 (`dice:1d4`) or 1d6 (`dice:1d6`) or 1d8 (`dice:1d8`)"

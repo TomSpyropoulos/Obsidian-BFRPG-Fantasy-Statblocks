@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 4 water jets or 1 flood"
 damage: "1d8 (`dice:1d8`) water jet, 4d6 (`dice:4d6`) flood"
-attributes: ["+2", "+2", "+3", "+4", "+2", "+1"]
+attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 actions:
   - name: water jets or 1 flood
     desc: "D20 to hit, 1d8 (`dice:1d8`) water jet, 4d6 (`dice:4d6`) flood"

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["6", "28", "17", "double near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite / 1 Constrict / 1 weapon"
 damage: "1d6 (`dice:1d6`)+poison bite, 2d6 (`dice:2d6`) constrict, by weapon"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
   - name: Poisonous Bite
     desc: "Causes paralysis for 1d4 turns when a victim fails a DC 13 CON check."

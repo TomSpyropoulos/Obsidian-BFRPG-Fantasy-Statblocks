@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 touch"
 damage: "Energy drain (1 level)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Energy Drain
     desc: "If a wight touches (or is touched by) a living creature, that living creature suffers one level of energy drain. No saving throw is allowed. Striking a wight with a weapon does not count as 'touching' it."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 weapon (sword)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Erratic Movement
     desc: "Anyone trying to attack with ranged weapons suffers a -2 penalty to their attack roll."

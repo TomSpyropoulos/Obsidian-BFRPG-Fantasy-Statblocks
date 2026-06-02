@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "20", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite or breath / 1 tail"
 damage: "1d6 (`dice:1d6`) claw, 3d8 (`dice:3d8`) bite or Sonic Breath, 1d6 (`dice:1d6`) tail"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
   - name: Echolocation
     desc: "An advanced form of echolocation similar to that of bats allows them to 'see' in total darkness, functioning equivalently to darkvision out to 240 feet and even detecting invisible creatures within that range."

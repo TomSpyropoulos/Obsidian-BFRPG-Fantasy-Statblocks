@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 8 tentacles/1 bite"
 damage: "1d4 (`dice:1d4`) per tentacle/1d10 (`dice:1d10`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Bite Attack
     desc: "In order to bite a creature, the giant squid must hit with at least two tentacles first."

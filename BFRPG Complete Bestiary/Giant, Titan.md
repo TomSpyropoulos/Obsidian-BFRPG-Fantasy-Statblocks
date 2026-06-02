@@ -19,7 +19,7 @@ modifier: 4
 stats: ["17", "88", "15", "near"]
 attack: "+12 (`dice: 1d20+12`) 1 giant weapon or 1 thrown rock or Spell"
 damage: "7d6 (`dice:7d6`) giant weapon, 6d6 (`dice:6d6`) rock, or by spell"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+5"]
+attributes: ["+6", "+4", "+5", "+4", "+4", "+4"]
 traits:
   - name: Spellcasting
     desc: "Able to use both Wizard and Cleric spells up to 7th-level; each will have 2 available spells of each level for each type of magic."

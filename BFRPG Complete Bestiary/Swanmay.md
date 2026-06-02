@@ -19,7 +19,7 @@ modifier: 3
 stats: ["4", "18", "13", "double near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or buffet or 1 weapon"
 damage: "1d6 (`dice:1d6`) bite or 2d4 (`dice:2d4`) buffet or by weapon"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Shapeshifting
     desc: "When they wrap themselves in their magical feather cloaks, they transform instantly into elegant swans. Without the cloak, a swanmay cannot transform and appears entirely human. The loss of her cloak renders a swanmay vulnerable, and she will do anything to retrieve it."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 explosion"
 damage: "blindness"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Delicate
     desc: "Can be destroyed with as little as a touch."

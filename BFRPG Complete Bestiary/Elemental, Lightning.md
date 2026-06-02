@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "18", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) special"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
   - name: Magnetic Draw
     desc: "Can magnetically draw metal items towards itself as if using telekinesis."

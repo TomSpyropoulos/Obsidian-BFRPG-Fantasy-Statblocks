@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "30", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 2 claws (humanoid) / 1 bite (dog)"
 damage: "1d6 (`dice:1d6`) claw or 2d4 (`dice:2d4`) bite"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
   - name: Terrifying Gaze
     desc: "Anyone who meets the gaze of a barghest will feel the heat of the monster's stare; such characters must succeed on a DC 13 STR check or be paralyzed in terror for 1d6+1 turns (or until the barghest is slain). A character is deemed to have met the gaze of the barghest if they face it in combat, or if the character is surprised by the monster. Fighting a barghest with gaze averted results in a penalty of -4 on all attack rolls. Those who succeed at the saving throw are immune to the monster's gaze for the remainder of the combat (at least one full turn at the minimum)."

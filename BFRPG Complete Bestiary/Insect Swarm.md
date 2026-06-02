@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "9", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 1 swarm"
 damage: "1d3 (`dice:1d3`) (double against no armor)"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+4"]
+attributes: ["+2", "+1", "+0", "+0", "+2", "+0"]
 actions:
   - name: swarm
     desc: "D20 to hit, 1d3 (`dice:1d3`) (double against no armor)"

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "32", "20", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 bite (4d6)"
 damage: "4d6 (`dice:4d6`)"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Cannot be flanked
     desc: "Because a xorn's symmetrically-placed eyes allow it to look in any direction, it cannot be flanked."

@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "40", "16", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
   - name: Magical Weapon Immunity
     desc: "Can only be harmed by magical weapons."

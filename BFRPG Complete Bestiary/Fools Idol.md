@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws or 1 spray of coins"
 damage: "2d4 (`dice:2d4`) claw, 1d12 (`dice:1d12`) spray of coins"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Spray of Coins
     desc: "May grab and throw a shower of gold pieces at foes up to 40 feet away, doing 1d12 damage due to their great strength."

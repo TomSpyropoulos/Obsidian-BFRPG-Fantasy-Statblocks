@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 touch"
 damage: "special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Rust Touch
     desc: "The touch of any part of an ironbane's body transforms metal objects into rust (or verdigris, or other oxides as appropriate). Non-magical metal attacked by an ironbane, or that touches the monster (such as a sword used to attack it), is instantly ruined. A non-magical metal weapon used to attack the monster does half damage before being destroyed. Magic weapons or armor lose one 'plus' each time they make contact with the ironbane; this loss is permanent."

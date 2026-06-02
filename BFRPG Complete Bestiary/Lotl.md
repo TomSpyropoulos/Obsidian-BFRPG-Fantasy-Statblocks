@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 2 claws or 1 bite"
 damage: "1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) + disease bite"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+6"]
+attributes: ["+1", "+1", "+1", "+3", "+3", "+1"]
 traits:
   - name: Extreme Reactions
     desc: "Due to a clashing combination of savage instincts and human-like intelligence, a lotl's reactions when encountered are more extreme than those of other creatures; instead of a regular reaction roll the GM uses the following table without any modifier:  1d8   Result 1-2   Immediate attack 3-4   Indifference towards the PCs 5-6   Very Favorable"

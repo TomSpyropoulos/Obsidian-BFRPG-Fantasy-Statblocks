@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 12 leg strikes"
 damage: "1d3 (`dice:1d3`) leg"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-3"]
+attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
   - name: Armor Piercing
     desc: "The front legs are long, thin, and unrealistically sharp to the point of ignoring any non-magical armor."

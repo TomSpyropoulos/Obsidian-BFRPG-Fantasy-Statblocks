@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 grabs, 1 lick"
 damage: "Special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Darkvision
     desc: "Darkvision to 30 feet."

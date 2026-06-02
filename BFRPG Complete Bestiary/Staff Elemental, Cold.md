@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 actions:
   - name: 1
     desc: "D20 to hit, 1d12 (`dice:1d12`)"

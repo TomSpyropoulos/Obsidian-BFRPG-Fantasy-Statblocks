@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite (1d6)"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Invisibility
     desc: "Anyone attacking a phantom fungus does so at -4 unless the attacker can detect invisible creatures."

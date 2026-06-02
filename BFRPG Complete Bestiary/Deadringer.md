@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "15", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 touch or bell"
 damage: "Attract all undead touch, deaf 1d4 (`dice:1d4`) rounds bell"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Bell Ringing
     desc: "All undead within a 20-foot radius of a deadringer who is ringing its bell benefit from a +1 bonus to both their attack and damage rolls, and any bodies within 50 feet of the deadringer will animate as a resonated (see page 223), when the bell is rung."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "23", "near"]
 attack: "+10 (`dice: 1d20+10`) 6 legs or resin shot"
 damage: "2d6 (`dice:2d6`) leg or resin"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
   - name: Multiple Eyes
     desc: "A juggernaut syring's entire body is filled with white eyes of different sizes, making them impossible to surprise."

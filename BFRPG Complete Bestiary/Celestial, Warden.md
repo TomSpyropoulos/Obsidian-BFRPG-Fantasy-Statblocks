@@ -19,7 +19,7 @@ modifier: 4
 stats: ["12", "64", "24", "near (fly)"]
 attack: "+10 (`dice: 1d20+10`) 1 weapon"
 damage: "By weapon +3"
-attributes: ["+3", "+4", "+4", "+3", "+5", "+7"]
+attributes: ["+3", "+4", "+4", "+3", "+7", "+3"]
 traits:
   - name: Teleport
     desc: "Can teleport at-will and without failure. Can teleport and strike in the same round."

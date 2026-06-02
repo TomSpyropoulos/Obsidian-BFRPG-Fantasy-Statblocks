@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "18", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 bite or 1 breath or 1 constrict"
 damage: "2d4 (`dice:2d4`) bite, breath, 1d6 (`dice:1d6`) constrict*"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Paralytic Bite
     desc: "Their bite has a 30% chance of paralyzing the target unless a DC 13 STR check is made."

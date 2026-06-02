@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "19", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 bite"
 damage: "4d6 (`dice:4d6`) bite"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Camouflage
     desc: "Gain surprise on 1-4 on 1d6 when partially submerged in swampy area."

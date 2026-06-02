@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "15", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) 2 claws, 1 bite or 1 charge"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, 2d4 (`dice:2d4`) charge"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Charge
     desc: "The antlers are only used when charging (following normal charging rules for double damage), and then it will attack with claws and biting after such a charge."

@@ -19,7 +19,7 @@ modifier: 6
 stats: ["16", "84", "17", "double near (fly)"]
 attack: "+12 (`dice: 1d20+12`) 1 (see below)"
 damage: "4d8 (`dice:4d8`)"
-attributes: ["+6", "+6", "+5", "+4", "+4", "+6"]
+attributes: ["+6", "+6", "+5", "+4", "+5", "+4"]
 traits:
   - name: Invisibility
     desc: "Surprises on 1-4 on 1d6. Combatants unable to see it suffer the usual penalty for attacking an invisible opponent."

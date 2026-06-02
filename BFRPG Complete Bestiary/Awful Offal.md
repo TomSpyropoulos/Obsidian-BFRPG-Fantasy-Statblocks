@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite or spit"
 damage: "1d8 (`dice:1d8`) bite or 1d8 (`dice:1d8`) spit"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Acid Spit
     desc: "Can spit bile up to 30 feet, causing 1d8 points of acid damage and dissolving any organic matter it contacts (particularly wood) in 1d3 rounds."

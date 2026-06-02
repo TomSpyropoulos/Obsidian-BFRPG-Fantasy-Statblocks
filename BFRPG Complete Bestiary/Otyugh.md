@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 2 tentacles / 1 bite + special"
 damage: "1d6 (`dice:1d6`) tentacle, 1d8 (`dice:1d8`) bite + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Tentacle Grapple
     desc: "Deals automatic tentacle damage with a successful attack on every round that its prey is held."

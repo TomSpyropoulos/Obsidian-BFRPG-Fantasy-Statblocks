@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "21", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite, 2 claws or 4 claws"
 damage: "3d8 (`dice:3d8`) bite, 2d6 (`dice:2d6`) claw"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Leap Attack
     desc: "Can leap 10 feet through the air and attack prey with all four claws but cannot bite with such an attack."

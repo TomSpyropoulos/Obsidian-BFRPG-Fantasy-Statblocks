@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "13", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d8 (`dice:2d8`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Ambush Predator
     desc: "Surprising on 1-4 on 1d6 in their natural environment (forests and tall-grass prairies)."

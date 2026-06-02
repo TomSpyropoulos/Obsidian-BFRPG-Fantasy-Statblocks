@@ -19,7 +19,7 @@ modifier: 4
 stats: ["16", "84", "14", "near"]
 attack: "+12 (`dice: 1d20+12`) 1 giant weapon or 1 thrown rock"
 damage: "7d6 (`dice:7d6`) (8d6 (`dice:8d6`)) weapon, 4d6 (`dice:4d6`) rock"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+7"]
+attributes: ["+6", "+4", "+5", "+4", "+5", "+4"]
 traits:
   - name: Thrown Rocks
     desc: "A mountain giant can throw large stones up to 240' for 4d6 points of damage each"

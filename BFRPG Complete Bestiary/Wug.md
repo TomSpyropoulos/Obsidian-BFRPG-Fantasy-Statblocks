@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d8 (`dice:1d8`) punch, by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Ambush Tactics
     desc: "Prefers to attack from ambush and is cunning enough to use the terrain to its advantage."

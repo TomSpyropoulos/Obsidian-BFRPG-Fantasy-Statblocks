@@ -19,7 +19,7 @@ modifier: 3
 stats: ["4", "18", "14", "double near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 touch (1d6 + energy drain (1 level))"
 damage: "-"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Energy Drain
     desc: "Touch attack drains 1 level."

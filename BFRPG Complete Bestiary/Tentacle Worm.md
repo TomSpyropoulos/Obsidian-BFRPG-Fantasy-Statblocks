@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 6 tentacles"
 damage: "paralysis"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Paralysis
     desc: "Those hit must succeed on a DC 12 STR check or be paralyzed 2d4 turns. No matter how many of a tentacle worm's attacks hit an opponent in a given round, only one saving throw is required in each such round."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["5", "22", "15", "double near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 2 forelegs (1d8) / 1 bite (1d12)"
 damage: "-"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Camouflage
     desc: "Possesses a chameleon-like ability to change its exoskeleton color to blend in with its surroundings. Locating one that is hiding (from a distance) requires a roll of 1 on 1d6."

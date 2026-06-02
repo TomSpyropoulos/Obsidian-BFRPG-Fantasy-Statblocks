@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 4 tentacles"
 damage: "1d6 (`dice:1d6`) tentacle"
-attributes: ["+2", "+2", "+2", "+4", "+2", "+4"]
+attributes: ["+2", "+2", "+2", "+4", "+3", "+2"]
 traits:
   - name: Tentacle Transformation
     desc: "A blow from an aboleth's tentacle deals 1d6 points of damage. Any living creature hit by a tentacle must succeed on a DC 13 STR check or begin to transform over the next 1d4+1 turns. The skin gradually becomes a translucent, slimy membrane. An afflicted creature must remain moistened with fresh water or suffer 1d12 points of damage each turn. **Cure disease** or **remove curse** cast before the transformation is complete will restore an afflicted creature to normal. After the transformation is complete, only a **heal** spell can reverse it."

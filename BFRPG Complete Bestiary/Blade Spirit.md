@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "16", "near"]
 attack: "+8 (`dice: 1d20+8`) 3/2 by weapon"
 damage: "By weapon +4"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Undead Immunities
     desc: "Impervious to poison, sleep, charm, and hold spells."

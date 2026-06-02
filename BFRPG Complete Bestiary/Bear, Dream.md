@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "16", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws + hug / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 2d8 (`dice:2d8`) hug, 1d8 (`dice:1d8`) bite"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Hug Attack
     desc: "If it succeeds both claw attacks against the same target it performs a hug attack (2d8 damage)."

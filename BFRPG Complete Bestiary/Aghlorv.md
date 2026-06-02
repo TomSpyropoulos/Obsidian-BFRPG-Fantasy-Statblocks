@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 claw (quadrupedal) / 2 claws + hold (bipedal)"
 damage: "1d8+1 (`dice:1d8+1`) claw"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Bipedal Attack
     desc: "When attacking bipedally, on a successful hit an aghlorv may hold its target with two of its attacking arms; this will give the target the grappled condition and reduce the number of attacks available to the aghlorv to only one claw per round (as long as the hold lasts)."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "16", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Darkvision
     desc: "Perfect Darkvision up to 200 feet in complete non-magical darkness."

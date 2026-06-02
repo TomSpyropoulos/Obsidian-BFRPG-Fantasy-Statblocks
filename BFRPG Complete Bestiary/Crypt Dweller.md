@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Magical weapons required
     desc: "Can only be damaged by magical weapons or spells. Strikes from normal weapons will only make the crypt dweller pause slightly, making it lose initiative on the following round."

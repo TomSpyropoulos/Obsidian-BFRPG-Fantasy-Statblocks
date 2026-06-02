@@ -19,7 +19,7 @@ modifier: 9
 stats: ["36", "178", "19", "near"]
 attack: "+16 (`dice: 1d20+16`) 5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
-attributes: ["+11", "+9", "+10", "+9", "+9", "+13"]
+attributes: ["+11", "+9", "+10", "+9", "+11", "+9"]
 traits:
   - name: Constricting Tentacles
     desc: "Once an opponent has been hit, the kraken wraps a tentacle around the victim and automatically inflicts 7d6 points of damage each round. Victims caught in the kraken's tentacles attack at -4."

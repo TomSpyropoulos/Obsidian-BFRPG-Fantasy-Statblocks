@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "6", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 bite"
 damage: "1d2 + 2 (`dice:1d2+2`) per round"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+1", "+0", "+2", "+0"]
 traits:
   - name: Blood Drain
     desc: "Deals initial damage on attack, then causes 2 points of blood loss damage each round thereafter until the victim or the lamprey is dead."

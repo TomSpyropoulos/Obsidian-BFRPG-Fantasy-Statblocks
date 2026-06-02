@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "10", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon or spell"
 damage: "1d6 (`dice:1d6`) or by weapon, or per spell"
-attributes: ["+0", "+0", "+0", "+2", "+0", "+1"]
+attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Magic-User Abilities
     desc: "An adult boglin has the abilities of a Wizard of a level equal to twice the monster's levels."

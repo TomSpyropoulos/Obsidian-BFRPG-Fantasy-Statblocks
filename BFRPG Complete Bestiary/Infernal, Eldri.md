@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "47", "15", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws or fire blast or spell"
 damage: "1d4 (`dice:1d4`) claw, 2d6 (`dice:2d6`) fire blast, by spell"
-attributes: ["+2", "+4", "+3", "+4", "+2", "+4"]
+attributes: ["+2", "+4", "+3", "+4", "+3", "+2"]
 traits:
   - name: Fire Blast
     desc: "Can create blasts of flame from its hands up to 120 feet."

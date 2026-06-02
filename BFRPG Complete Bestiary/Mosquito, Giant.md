@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "1d3 (`dice:1d3`) + 1d3 (`dice:1d3`)/round (blood drain)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Swarm
     desc: "1d6+1 mosquitos attack each living creature they encounter."

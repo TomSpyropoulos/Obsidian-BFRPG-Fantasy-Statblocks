@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon +1"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Damage Resistance
     desc: "Takes only half damage from blunt weapons and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."

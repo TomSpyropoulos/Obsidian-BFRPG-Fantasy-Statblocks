@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Material Resistances
     desc: "Wooden furniture only takes half damage from sharp objects; textile-based furniture takes double damage from sharp objects, but no damage from bludgeoning weapons. Both however will take only 1 point of damage from arrows. Metal and stone furniture will only take damage from bludgeoning weapons."

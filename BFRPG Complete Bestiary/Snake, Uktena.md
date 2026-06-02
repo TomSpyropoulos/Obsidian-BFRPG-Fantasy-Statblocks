@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "14", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite"
 damage: "2d6 (`dice:2d6`) + poison"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Poison
     desc: "Those bitten must succeed on a DC 13 CON check with a -2 penalty or fall comatose immediately and die within 2d4 turns."

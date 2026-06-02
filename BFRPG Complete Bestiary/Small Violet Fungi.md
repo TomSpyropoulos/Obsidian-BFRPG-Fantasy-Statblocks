@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 to 4 (see below)"
 damage: "Special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Flailing Arms
     desc: "Has 1d4 branches or 'arms' which are normally folded against the creature's stalk and 80% unnoticeable; these arms are 1 foot long for each level of the fungus, and whenever any creature comes within this range (as determined by the GM), they begin to flail around wildly."

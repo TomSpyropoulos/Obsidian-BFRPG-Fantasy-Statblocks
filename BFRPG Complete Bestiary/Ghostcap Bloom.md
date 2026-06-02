@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 \u00d7 entangle (1d4 + entangle)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Surprise
     desc: "Remaining still and appearing as an ordinary plant, surprises on a roll of 1-3 on 1d6."

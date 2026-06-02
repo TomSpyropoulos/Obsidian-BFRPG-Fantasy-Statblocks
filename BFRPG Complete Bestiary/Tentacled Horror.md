@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "74", "13", "near"]
 attack: "+9 (`dice: 1d20+9`) 5 tentacles + crush"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) crush"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Crush
     desc: "A successful hit with three or more tentacles indicates a crush attack for an additional 3d6 points of damage."

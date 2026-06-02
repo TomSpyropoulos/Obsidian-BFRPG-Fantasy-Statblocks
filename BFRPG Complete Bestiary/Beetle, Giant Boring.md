@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "17", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (2d10)"
 damage: "2d10 (`dice:2d10`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Hive Behavior
     desc: "Any attack against one individual is likely to attract all others within 180 feet."

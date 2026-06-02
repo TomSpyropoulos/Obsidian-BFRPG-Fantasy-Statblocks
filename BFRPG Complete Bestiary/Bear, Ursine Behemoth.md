@@ -19,7 +19,7 @@ modifier: 3
 stats: ["15", "78", "20", "near"]
 attack: "+11 (`dice: 1d20+11`) 2 claws, 1 bite or hug (vs. Large)"
 damage: "2d6 (`dice:2d6`) claw, 2d8 (`dice:2d8`) bite, 4d6 (`dice:4d6`) hug"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
+attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 actions:
   - name: claws, 1 bite or hug (vs. Large)
     desc: "D20 to hit, 2d6 (`dice:2d6`) claw, 2d8 (`dice:2d8`) bite, 4d6 (`dice:4d6`) hug"

@@ -19,7 +19,7 @@ modifier: 9
 stats: ["36", "162", "23", "near"]
 attack: "+16 (`dice: 1d20+16`) 1 bite, 1 tail or special"
 damage: "5d8 (`dice:5d8`) + poison bite, 5d12 (`dice:5d12`) tail, special"
-attributes: ["+11", "+9", "+9", "+9", "+9", "+12"]
+attributes: ["+11", "+9", "+9", "+9", "+10", "+9"]
 traits:
   - name: Poison Bite
     desc: "A successful bite delivers a potent toxin; the victim must succeed on a DC 19 CON check or die."

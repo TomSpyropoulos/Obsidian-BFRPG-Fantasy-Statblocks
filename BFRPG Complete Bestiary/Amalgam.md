@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "17", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 engulf"
 damage: "1d6 (`dice:1d6`) + energy drain (1 level)"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+4", "+2", "+2", "+4", "+2"]
 traits:
   - name: Engulf
     desc: "An amalgam attacks by engulfing a target with its 'body.' Creatures caught suffer 1d6 points of damage due to cold each round, and also suffer one level of energy drain. Those resistant to cold or naturally-adapted to cold conditions may make a DC 13 INT check every round to ignore the cold damage, but no saving throw applies to the energy drain."

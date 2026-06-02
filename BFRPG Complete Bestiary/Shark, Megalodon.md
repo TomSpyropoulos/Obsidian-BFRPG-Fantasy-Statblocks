@@ -19,7 +19,7 @@ modifier: 4
 stats: ["12", "64", "14", "double near"]
 attack: "+10 (`dice: 1d20+10`) 1 bite"
 damage: "2d12 (`dice:2d12`)"
-attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 traits:
   - name: Blood Detection
     desc: "Can smell blood in the water miles away."

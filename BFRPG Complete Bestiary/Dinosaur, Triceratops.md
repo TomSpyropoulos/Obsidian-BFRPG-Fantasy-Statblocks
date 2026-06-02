@@ -19,7 +19,7 @@ modifier: 2
 stats: ["11", "58", "18", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 gore or 1 trample"
 damage: "3d6 (`dice:3d6`) or 3d6 (`dice:3d6`) (special, see below)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Trample
     desc: "Up to two adjacent man-sized or up to four smaller opponents may be trampled simultaneously; the triceratops rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit."

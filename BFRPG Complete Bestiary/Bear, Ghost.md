@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "40", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 claws + hug, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`) bite, 2d6 (`dice:2d6`) hug"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Fear Roar
     desc: "When a ghost bear roars it causes fear in similar fashion as the reverse of the spell remove fear, except that it causes all creatures within 120 feet to become frightened; those that fail to succeed on a DC 13 INT check will flee for 2 turns. Creatures with 6 or more levels are immune to this effect. The ghost bear will roar every 1d4 rounds in addition to any standard attacks."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "35", "17", "near"]
 attack: "+7 (`dice: 1d20+7`) -"
 damage: "1d6 (`dice:1d6`) + petrification"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
   - name: Petrifying Bite
     desc: "Any living creature bitten must succeed on a DC 13 STR check or be turned to stone."

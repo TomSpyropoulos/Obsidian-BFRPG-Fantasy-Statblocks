@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "15", "near"]
 attack: "+10 (`dice: 1d20+10`) 2 claws, 1 bite"
 damage: "2d6 (`dice:2d6`) claw, 3d4 (`dice:3d4`) bite"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Silver or magical weapons required
     desc: "Can only be harmed by silver or magical weapons (including spells)."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 grapple"
 damage: "special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Grapple Attack
     desc: "Target must succeed on a DC 12 CON check or be cocooned. Target loses all movement capabilities and suffocates in 1d2 (+ Constitution bonus) rounds (minimum of 1)."

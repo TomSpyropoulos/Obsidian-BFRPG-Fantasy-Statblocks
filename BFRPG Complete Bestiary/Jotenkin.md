@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "16", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon +1"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Cold Resistance
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, a jotenkin receives a +4 bonus."

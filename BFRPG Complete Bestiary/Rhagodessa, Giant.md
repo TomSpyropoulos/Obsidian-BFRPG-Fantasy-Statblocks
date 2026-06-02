@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 legs/1 bite"
 damage: "grab/grab/2d8 (`dice:2d8`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Sticky Pedipalps
     desc: "A hit by a leg does no damage, but the victim is stuck fast and will be drawn to the rhagodessa's mouth on the next round and automatically hit for 2d8 points of damage; this repeats each round, so long as the victim is held. Escaping from the sticky hold requires a successful roll to open doors. If both legs hit, this roll frees the victim from just one of them; a second roll is needed to fully escape."

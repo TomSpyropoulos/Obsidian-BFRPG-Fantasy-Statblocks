@@ -19,7 +19,7 @@ modifier: 4
 stats: ["10", "54", "17", "double near (fly)"]
 attack: "+9 (`dice: 1d20+9`) 1 weapon"
 damage: "By weapon + 2"
-attributes: ["+2", "+4", "+3", "+2", "+4", "+7"]
+attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
   - name: Enhanced Weapon Damage
     desc: "Physical attacks with a weapon deal an additional 2 points of damage."

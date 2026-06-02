@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "15", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 touch"
 damage: "1d6 (`dice:1d6`) + Wisdom drain"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Icy Touch
     desc: "An odeum attacks the minds of living creatures, damaging them with its icy touch. In addition to normal damage done, any living creature touched by an odeum takes 1d4 points of Wisdom damage. A creature reduced to less than 3 points of Wisdom by this attack is driven insane and acts as if under the effects of a **confusion** spell until its Wisdom is restored to at least 3 points. (Assume that non-character monsters have a Wisdom of 9 for this purpose)."

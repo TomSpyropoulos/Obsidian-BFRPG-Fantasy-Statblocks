@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "15", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 claw / 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Surprise
     desc: "In combat, felisians surprise on a roll of 1-4 on 1d6."

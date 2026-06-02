@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "11", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 dissolve"
 damage: "3d4 (`dice:3d4`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Gold Sense
     desc: "Can sense the presence and general direction of any gold within a mile of itself."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "17", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws, 1 bite or special (hug or fire breath)"
 damage: "2d6 (`dice:2d6`) claw, 1d10 (`dice:1d10`) bite, or see below"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+1"]
+attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Rock Drop
     desc: "Can drop heavy rocks from distance for 3d4 points of damage."

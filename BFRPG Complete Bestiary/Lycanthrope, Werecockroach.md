@@ -19,7 +19,7 @@ modifier: 1
 stats: ["3", "13", "14", "near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+1", "+5", "+0", "+0", "+1"]
+attributes: ["+2", "+1", "+5", "+0", "+0", "+0"]
 traits:
   - name: Shapeshifting
     desc: "Can assume three forms: human, giant cockroach (6-foot long), or roachman (intermediate form with humanoid shape, insect mandibles, antennae, bug eyes, spikes, and wings)."

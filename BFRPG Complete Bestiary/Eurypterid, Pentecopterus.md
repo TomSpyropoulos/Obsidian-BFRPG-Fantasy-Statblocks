@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws (1d6)"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 actions:
   - name: claws (1d6)
     desc: "D20 to hit, 1d6 (`dice:1d6`)"

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1d6", "3", "14", "near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
-attributes: ["+2", "+1", "-1", "+1", "+1", "+1"]
+attributes: ["+2", "+1", "-1", "+1", "+1", "+0"]
 traits:
   - name: Hiding
     desc: "90% undetectable when still in forested environment. 70% effective hiding indoors."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "19", "14", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 sting (1d6 + poison)"
 damage: "1d6 (`dice:1d6`) + poison"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+4"]
+attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
   - name: Poison
     desc: "A victim stung by a giant wasp must succeed on a DC 12 CON check or die."

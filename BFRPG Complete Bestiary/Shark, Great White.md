@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite (2d10)"
 damage: "-"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Electromagnetic Sense
     desc: "Able to sense the electromagnetic fields of living creatures, allowing them to find prey even when light or water clarity are poor."

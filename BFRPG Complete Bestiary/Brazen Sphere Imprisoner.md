@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "19", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) Engulf"
 damage: "Special"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+3", "+2", "+2", "+4", "+2"]
 traits:
   - name: Engulf
     desc: "Upon activation, all spheres within the vicinity roll toward the intruder at a speed of 60 feet per round, merging into the larger spherical form. The intruder can evade this enclosure by making a DC 13 DEX check. Failure results in the spheres creating a metallic cage around the victim, rendering them immobile."

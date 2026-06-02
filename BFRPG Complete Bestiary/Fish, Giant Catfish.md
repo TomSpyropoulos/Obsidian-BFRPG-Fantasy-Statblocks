@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite/2 fins"
 damage: "2d8 (`dice:2d8`)/1d4 (`dice:1d4`)+poison/1d4 (`dice:1d4`)+poison"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Fin Poison
     desc: "Fins are edged with a natural poison that causes a painful burning sensation for 3d10 rounds if a DC 13 CON check is failed. The pain causes the affected character or creature to suffer a -1 penalty on all attack rolls and saving throws; further poisonings will increase this penalty by -1 each, down to a maximum penalty of -5 as well as adding 6 rounds to the duration of the poison effect."

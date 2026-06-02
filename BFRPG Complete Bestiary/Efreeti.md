@@ -19,7 +19,7 @@ modifier: 4
 stats: ["10", "54", "20", "double near (fly)"]
 attack: "+9 (`dice: 1d20+9`) -"
 damage: "2d8 (`dice:2d8`) or special"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+4", "+3", "+2", "+4", "+2"]
 traits:
   - name: Become invisible
     desc: "Can become invisible at will, with unlimited uses per day."

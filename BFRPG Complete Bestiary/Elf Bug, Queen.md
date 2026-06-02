@@ -19,7 +19,7 @@ modifier: 2
 stats: ["7", "31", "14", "near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 1 weapon or magic missile"
 damage: "1d6 (`dice:1d6`) or by weapon or magic missile"
-attributes: ["+1", "+2", "+1", "+3", "+1", "+4"]
+attributes: ["+1", "+2", "+1", "+3", "+2", "+1"]
 traits:
   - name: Energy Bolts
     desc: "Elf bug queens have the ability to fire energy bolts every other round; these energy bolts are exactly the same as the magic missile spell, as if it was cast by a 7th-level Wizard."

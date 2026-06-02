@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 fists"
 damage: "1d6 (`dice:1d6`) fist"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Semi-sentient
     desc: "The magic thread that animates the raggidy gives it the barest hint of sentience, allowing the raggidy to act semi-independently and follow orders better than most constructs. Understands the language of its creator but does not speak."

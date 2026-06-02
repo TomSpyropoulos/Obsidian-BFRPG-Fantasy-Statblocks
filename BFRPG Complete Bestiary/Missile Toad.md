@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1-2", "2", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1d4 (`dice:1d4`) + poison"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Contact Poison
     desc: "Contact-poison secretion transfers on touch with bare skin. Poison damage for 1d6 rounds."

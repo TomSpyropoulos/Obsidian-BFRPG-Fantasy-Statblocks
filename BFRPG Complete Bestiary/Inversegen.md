@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "13", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite or spell"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Spiritual Hammer Variant
     desc: "Frequently casts a variant of spiritual hammer which manifests a trident instead, dealing a base of 1d8 points of damage; it uses this to attack foes from the rear."

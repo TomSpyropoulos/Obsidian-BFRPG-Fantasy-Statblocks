@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "17", "near"]
 attack: "+6 (`dice: 1d20+6`) 4 or 2"
 damage: "1d8 (`dice:1d8`) or by weapons"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Four Arms
     desc: "Equally dexterous with all four arms. May carry and use without penalty four weapons: a sword, a dagger or short sword, a short staff, and a switch (the switch is to drive off spirits)."

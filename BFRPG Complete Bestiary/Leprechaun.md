@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "18", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 miniature weapon (1d2)"
 damage: "1d2 (`dice:1d2`)"
-attributes: ["+0", "+0", "+0", "+2", "+0", "-2"]
+attributes: ["+0", "+0", "+0", "+2", "-1", "+0"]
 traits:
   - name: Darkvision
     desc: "Darkvision out to 60 feet."

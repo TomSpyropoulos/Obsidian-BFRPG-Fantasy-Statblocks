@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "12", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 claws or 1 weapon"
 damage: "1d6 (`dice:1d6`) claw or by weapon +1"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Mind reading
     desc: "Their horns also provide a limited form of mind reading such that they cannot be surprised."

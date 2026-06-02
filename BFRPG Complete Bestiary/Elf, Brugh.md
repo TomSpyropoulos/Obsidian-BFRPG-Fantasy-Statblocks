@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "11", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
-attributes: ["+0", "+0", "-1", "+3", "+1", "+2"]
+attributes: ["+0", "+0", "-1", "+3", "+2", "+0"]
 traits:
   - name: Innate Magic
     desc: "Each brugh elf can detect magic at-will, become invisible at-will, and once per day can cast confusion as a 7th-level Wizard. Unlike a brownie, however, a brugh elf cannot attack or cast spells while invisible. A person peering through a stone with a naturally-bored hole in it can see an invisible brugh elf as though by a detect invisible spell."

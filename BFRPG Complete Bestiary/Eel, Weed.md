@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d2 (`dice:1d2`) + poison"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Camouflage
     desc: "Weed eels surprise on 1-5 on 1d6 due to their camouflage, and will lie in wait for potential victims to move close enough to attack."

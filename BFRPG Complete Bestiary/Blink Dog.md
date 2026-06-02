@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite (1d6)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+0"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Teleportation
     desc: "Can teleport up to 120 feet at will. When attacked by a known attacker, may succeed on a DC 12 CON check to teleport 1d6 x 10 feet in a random direction (never into solid matter or dangerous areas)."

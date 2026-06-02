@@ -19,7 +19,7 @@ modifier: 2
 stats: ["11", "58", "15", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 bite/1 sting"
 damage: "2d8 (`dice:2d8`)/1d8 (`dice:1d8`)+poison"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Poisonous Stinger
     desc: "Those injured by the tail stinger must succeed on a DC 14 CON check or die."

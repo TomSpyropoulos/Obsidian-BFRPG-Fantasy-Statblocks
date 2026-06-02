@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1"
 damage: "2d4 (`dice:2d4`) + paralysis"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Paralysis
     desc: "Any character hit by a gelatinous cube must save vs. Paralyzation or be paralyzed for 2d4 turns."

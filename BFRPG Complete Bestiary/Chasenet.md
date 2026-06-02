@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 spines (1d12) / 1 bite (1d4)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-2"]
+attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
   - name: Defensive Spines
     desc: "When cornered, launches itself at attackers with long porcupine-like spines erupting from its fur."

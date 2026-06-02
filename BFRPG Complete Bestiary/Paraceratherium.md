@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "54", "12", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 kick"
 damage: "2d8 (`dice:2d8`) kick"
-attributes: ["+5", "+3", "+3", "+3", "+3", "+2"]
+attributes: ["+5", "+3", "+3", "+3", "+3", "+3"]
 actions:
   - name: kick
     desc: "D20 to hit, 2d8 (`dice:2d8`) kick"

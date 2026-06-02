@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "4", "14", "double near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws or 1 bite"
 damage: "1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) bite"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Bite and hold
     desc: "Against large prey a velociraptor will bite and hold on in order to use its claws for automatic damage each round; however, while holding its AC drops to 11."

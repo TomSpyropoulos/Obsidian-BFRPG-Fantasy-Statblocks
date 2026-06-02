@@ -19,7 +19,7 @@ modifier: 3
 stats: ["5", "22", "15", "double near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 2 claws, 1 bite or breath, 1 tail"
 damage: "1d6 (`dice:1d6`) claw, 2d10 (`dice:2d10`) or breath, 1d8 (`dice:1d8`) tail"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Surprise Attack
     desc: "When hunting on the wing, attacking suddenly from above, surprise on 1-3 on 1d6."

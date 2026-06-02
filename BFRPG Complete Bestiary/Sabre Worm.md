@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "45", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 sabre claws / 1 bite / 1 breath weapon"
 damage: "1d6+3 (`dice:1d6+3`) claw, 4d4 (`dice:4d4`) bite or 6d6 (`dice:6d6`) breath"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Ambush
     desc: "Bursts through the surface, surprising on a 1-3 (1d6)."

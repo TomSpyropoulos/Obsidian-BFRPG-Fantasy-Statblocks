@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 spray"
 damage: "Stun"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Stunning Spray
     desc: "Range 5'. On hit, stuns target for a full turn. Succeed on a DC 12 CON check negates. Stunned character can neither move nor take action for remainder of current round and all of next round."

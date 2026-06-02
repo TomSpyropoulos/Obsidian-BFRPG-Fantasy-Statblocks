@@ -19,7 +19,7 @@ modifier: 3
 stats: ["4", "18", "14", "double near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 2 hooves (1d6/1d6)"
 damage: "-"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 source: BFRPG Core
 ```
 

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 tongue or 1 bite"
 damage: "grab or 1d4+1 (`dice:1d4+1`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Tongue Attack
     desc: "A giant frog can stretch its tongue out up to 15' and drag up to dwarf-sized prey to its mouth; on every subsequent round, the victim is hit automatically."

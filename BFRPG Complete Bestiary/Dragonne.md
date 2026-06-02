@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "17", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "2d6 (`dice:2d6`) claw, 2d4 (`dice:2d4`) bite"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
   - name: Roar
     desc: "Every 1d4 rounds can produce a tremendous roar. Within 120 feet: temporary weakness causing -2 penalty to attack rolls, damage, and Strength checks for 2d6 rounds (Succeed on a DC 13 STR check negates). Within 30 feet: also deafened for 2d6 rounds (no save). Deafened creatures react only to what they see/feel, surprised on 1-3 on 1d6, -1 to initiative, but immune to further roars until deafness ends."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d4+2 (`dice:1d4+2`) claw, 1d6 (`dice:1d6`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Berserk Rage
     desc: "A wolverine that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. While in its rage it has +2 to hit but -2 to AC."

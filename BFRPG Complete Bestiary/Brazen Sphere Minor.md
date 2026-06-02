@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "19", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 bludgeon (1d6)"
 damage: "1d6 (`dice:1d6`) bludgeon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Speed Burst
     desc: "Can double its movement rate to 120 feet once per day for three rounds."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "19", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 2 claws, or weapon"
 damage: "1d4 (`dice:1d4`) claw, or by weapon"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Infernal Pitchfork
     desc: "65% chance, 2d6+1 damage"

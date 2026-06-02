@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "19", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 bite (+ special on 20)"
 damage: "4d6 (`dice:4d6`) (7-8 HD), 5d6 (`dice:5d6`) (9-12 HD), or 6d6 (`dice:6d6`) (13-14 HD) (+ possible special)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Swallow Whole
     desc: "On an attack roll of 20, the remorhaz swallows prey of small or medium size whole. Once inside, the opponent takes 2d8 points of bludgeoning damage plus 8d6 points of fire damage per round from the remorhaz's gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 15). Once the victim exits, muscular action closes the hole; another swallowed opponent must cut their own way out."

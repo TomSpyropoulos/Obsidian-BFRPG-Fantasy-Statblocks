@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "1", "9", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Anesthetic
     desc: "Releases an anesthetic to avoid detection when burrowing. A Wisdom check will reveal it burrowing under the skin."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1d4", "2", "12", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "1d4 (`dice:1d4`) + disease"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Disease
     desc: "5% chance of causing disease. Infected character sickens in 3d6 hours and loses one point of Constitution per hour. Succeed on a DC 12 CON check (adjusted by current Constitution bonus or penalty) after each point lost to break fever. Zero Constitution means death."

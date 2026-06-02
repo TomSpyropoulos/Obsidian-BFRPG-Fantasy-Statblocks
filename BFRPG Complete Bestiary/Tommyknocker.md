@@ -19,7 +19,7 @@ modifier: 2
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d4 (`dice:1d4`) bite"
-attributes: ["+0", "+2", "+0", "+0", "+0", "+2"]
+attributes: ["+0", "+2", "+0", "+0", "+1", "+0"]
 traits:
   - name: Move Silently and Hide
     desc: "75% success rate, which allows them to move about a mine undetected."

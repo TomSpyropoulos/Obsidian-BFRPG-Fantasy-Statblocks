@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "11", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 strangle (1d4 + Special)"
 damage: "1d4 (`dice:1d4`) + Special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Strangle
     desc: "A crawling claw deals 1d4 points of damage as it grabs its target and continues to deal 1d4 points of damage each round by strangling. Because it seizes its victim by the neck, a creature in the crawling claw's grasp cannot speak or cast spells."

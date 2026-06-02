@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "14", "13", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) + Poison or by weapon"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
   - name: Venomous Bite
     desc: "Their sharp venomous fangs enable them to deliver their poison with a bite, which causes 1d4 points of damage per round for 1d4 rounds, unless a successful DC 12 CON check is made."

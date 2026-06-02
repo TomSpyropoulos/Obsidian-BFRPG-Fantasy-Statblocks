@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1"
 damage: "1d10 (`dice:1d10`) + 1d8 (`dice:1d8`) cold"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Negative Flame
     desc: "Their pole flame casts a radius of darkness rather than normal illumination. The flame behaves as normal fire, able to ignite and spread to flammable objects, but deals cold damage instead of fire."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite (1d8 + poison)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Poison
     desc: "Those bitten must succeed on a DC 12 CON check or be forced to dance wildly. The dance lasts 2d10 rounds, during which time the victim has a -4 penalty on attack and saving throw rolls. If the victim is a Thief, he or she cannot use any Thief abilities while dancing."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 tendrils or 1 constrict"
 damage: "1d6 (`dice:1d6`) tendrils, 2d4 (`dice:2d4`) constrict"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Enthrall
     desc: "The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a DC 12 INT check."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["6", "27", "16", "double near (fly)"]
 attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite or breath/1 tail"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d8 (`dice:2d8`) or breath/1d4 (`dice:1d4`)"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Breath Weapon
     desc: "Cold (Cone). Length and width vary by age (see Age Table)."

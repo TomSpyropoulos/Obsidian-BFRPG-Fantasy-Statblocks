@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "36", "15", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 4 tentacles or acid ink"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) acid ink"
-attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+3", "+2", "+2", "+4", "+2"]
 traits:
   - name: Entangle
     desc: "Against smaller or less powerful prey, if two or more tentacle attacks are successful, it will wrap itself about its target. The entangled individual is crushed and strangled, receiving 2d6 points of damage automatically each round (instead of regular tentacle attacks). The entangled individual must successfully roll an open doors attempt to break free, but may be entangled again in subsequent rounds."

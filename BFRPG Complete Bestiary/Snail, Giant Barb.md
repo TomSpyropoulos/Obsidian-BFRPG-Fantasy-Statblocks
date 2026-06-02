@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "16", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or 1 barb"
 damage: "1d8 (`dice:1d8`) bite, 1d4 (`dice:1d4`) barb"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Barb Attack
     desc: "Can spit dagger-sized teeth with range of 30 feet, dealing 1d4 points of damage."

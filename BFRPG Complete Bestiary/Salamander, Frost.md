@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "20", "near"]
 attack: "+10 (`dice: 1d20+10`) 4 claws/1 bite + cold"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`) + 1d8 (`dice:1d8`)/round"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Cold Aura
     desc: "All non-cold-resistant creatures within 20' suffer 1d8 points of damage per round from the cold."

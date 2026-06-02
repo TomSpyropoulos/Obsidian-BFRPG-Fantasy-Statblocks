@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "14", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 weapon or 1 vocalization"
 damage: "1d8 (`dice:1d8`) or paralysis"
-attributes: ["+1", "+1", "+1", "+1", "+3", "+3"]
+attributes: ["+1", "+1", "+1", "+1", "+4", "+1"]
 traits:
   - name: Vocalization Defense
     desc: "At the start of combat, all apatosapiens will chant in a long, low tone. Ogre-sized or smaller opponents must make a DC 13 STR check or be immobilized for 1d6 rounds. This saving throw is only made once: successful PCs are immune to the chant for the remainder of that combat. Apatosapiens may immobilize up to their own number of opponents. They do not kill immobilized opponents, but may strip them of their weapons or restrain them with ropes."

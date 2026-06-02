@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "13", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite + poison"
 damage: "1d4-1 (`dice:1d4-1`) + poison"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Telepathic Link
     desc: "Telepathically linked with its creator. Knows what its master knows and can convey everything it sees and hears up to 1,500 feet."

@@ -19,7 +19,7 @@ modifier: 4
 stats: ["11", "58", "21", "double near (fly)"]
 attack: "+9 (`dice: 1d20+9`) 2 claws + paralysis, 1 bite or breath, 1 tail"
 damage: "1d8 (`dice:1d8`) claw, 4d8 (`dice:4d8`) bite, or breath, 1d8 (`dice:1d8`) tail"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
   - name: Breath Weapon
     desc: "Breathes a cloud of freezing fog (100' long x 55' wide). In addition to dealing damage, this breath inflicts **mummy rot** on those affected unless they succeed on a DC 14 CON check."

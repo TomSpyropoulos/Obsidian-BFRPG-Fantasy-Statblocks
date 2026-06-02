@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 dagger or fist"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+0", "+0", "+0", "+2", "+0", "-1"]
+attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Tree Bond
     desc: "Mystically bound to a single enormous oak tree. Must never stray more than 300 yards from it or become ill and die within 4d6 hours. Lives as long as her tree; if the dryad dies, her tree dies also, and vice versa."

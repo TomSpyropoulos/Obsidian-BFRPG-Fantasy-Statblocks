@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "17", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 weapon or special"
 damage: "By weapon or special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Steam Breath
     desc: "Can expel a cone of hot steam from its mouth in a 10-foot cone that does 1d12 points of damage, unless those hit by it succeed on a DC 12 DEX check for half damage. However, it takes 5 rounds after it breathes its steam attack before it can build enough pressure to use this attack again."

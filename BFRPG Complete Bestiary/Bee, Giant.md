@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "2", "12", "near (fly)"]
 attack: "+0 (`dice: 1d20+0`) 1 sting"
 damage: "1d4 (`dice:1d4`) + poison"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
   - name: Poison Sting
     desc: "Those stung by a giant bee must succeed on a DC 12 CON check or die. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature; the bee then dies."

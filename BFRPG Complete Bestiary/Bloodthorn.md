@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "12", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 whip-like tendrils"
 damage: "1d6 (`dice:1d6`) + Grapple"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Grapple
     desc: "If a target is hit, it takes 1d6 points of damage, and unless it makes a DC 12 STR check it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful DC 12 STR check."

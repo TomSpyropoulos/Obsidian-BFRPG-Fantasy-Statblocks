@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "17", "near"]
 attack: "+4 (`dice: 1d20+4`) 4 punches or 2 weapons"
 damage: "1d6 (`dice:1d6`) punch, by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Swift Combat
     desc: "Can move after attacking instead of before; one will move into striking range, perform two attack routines (one at the end of the round when it moves, the other at the beginning of the next round) and then move away in that second round."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "17", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 bite (1d8)"
 damage: "1d8 (`dice:1d8`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Immunity to Poison and Disease
     desc: "The balroach is immune to all poisons, diseases, or similar types of afflictions."

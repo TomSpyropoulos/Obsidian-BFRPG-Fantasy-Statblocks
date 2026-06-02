@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "14", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 tail lash (1d4)"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+2"]
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 actions:
   - name: tail lash (1d4)
     desc: "D20 to hit, 1d4 (`dice:1d4`)"

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["9", "48", "15", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 bite / 1 constrict / or spells/powers"
 damage: "1d4 (`dice:1d4`) bite + poison, 2d4 (`dice:2d4`) constrict"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
   - name: Poison
     desc: "Bite does 1d3 points of damage plus deadly poison (Succeed on a DC 13 CON check or die instantly)."

@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "23", "11", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 4 spells"
 damage: "By spell"
-attributes: ["+1", "+2", "+2", "+3", "+1", "+2"]
+attributes: ["+1", "+2", "+2", "+3", "+1", "+1"]
 traits:
   - name: Terrifying Appearance
     desc: "Any living creature must succeed on a DC 13 INT check or be paralyzed for 2d8 rounds."

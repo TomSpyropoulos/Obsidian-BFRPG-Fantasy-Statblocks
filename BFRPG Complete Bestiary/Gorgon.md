@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 gore or 1 breath"
 damage: "2d6 (`dice:2d6`) or petrification breath"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Petrification Breath
     desc: "Breath covers an area 60' long by 10' wide. Can be used as many times per day as the monster has levels, but no more often than every other round. A DC 13 STR check is allowed to resist."

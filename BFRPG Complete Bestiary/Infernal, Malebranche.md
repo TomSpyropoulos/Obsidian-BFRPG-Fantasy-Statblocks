@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "27", "23", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 1 tail / 1 weapon or spell"
 damage: "1d4 (`dice:1d4`) tail, by weapon, by spell"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
   - name: Magical weapons required
     desc: "As the malebranche is an infernal, it can only be hurt by magical weapons (+1 or better)."

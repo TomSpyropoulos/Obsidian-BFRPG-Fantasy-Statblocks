@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "15", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 claws"
 damage: "2d4 (`dice:2d4`)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Intelligence
     desc: "Intelligent animals with cognitive ability similar to a gorilla. Can operate doors and other simple mechanisms, but have no language."

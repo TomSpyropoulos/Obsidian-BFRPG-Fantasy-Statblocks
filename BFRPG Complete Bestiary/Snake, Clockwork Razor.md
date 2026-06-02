@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "16", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 lash or constrict"
 damage: "2d6 (`dice:2d6`) lash, 3d10 (`dice:3d10`) constrict"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Lash
     desc: "Can lash out with their tail, using the blades to slash their foes for 2d6 damage."

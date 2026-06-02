@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite (1d6 + paralysis + disease)"
 damage: "1d6 (`dice:1d6`) + paralysis + disease"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Paralysis
     desc: "Those bitten must succeed on a DC 12 STR check or be paralyzed for 2d8 turns; elves are immune to this effect."

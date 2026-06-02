@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 weapon"
 damage: "By weapon +2"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Echolocation
     desc: "Blind (empty eye sockets sewn shut) but can 'see' through echolocation as a bat does."

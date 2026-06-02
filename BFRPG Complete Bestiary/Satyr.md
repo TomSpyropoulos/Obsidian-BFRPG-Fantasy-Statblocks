@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "14", "near"]
 attack: "+5 (`dice: 1d20+5`) 1 head butt (1d6) / 1 dagger (1d4) / 1 weapon (by weapon)"
 damage: "1d6 (`dice:1d6`) head butt, 1d4 (`dice:1d4`) dagger, or by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Keen Senses
     desc: "Almost impossible to surprise in the wild."

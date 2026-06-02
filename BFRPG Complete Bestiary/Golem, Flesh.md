@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "19", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 fists"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Cold and Fire Vulnerability
     desc: "A magical attack that deals cold or fire damage slows a flesh golem (as the slow spell) for 2d6 rounds, with no saving throw."

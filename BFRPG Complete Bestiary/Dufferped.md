@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1d6 (`dice:1d6`)"
-attributes: ["+3", "+0", "+1", "+0", "+0", "+0"]
+attributes: ["+3", "+0", "+1", "+0", "+0", "-1"]
 traits:
   - name: Invisibility
     desc: "Once a day, dufferpeds have the ability to become invisible as per the spell, though as they are unable to quiet their complaining and swearing, and their hopping is loud; the ability does not help them sneak around."

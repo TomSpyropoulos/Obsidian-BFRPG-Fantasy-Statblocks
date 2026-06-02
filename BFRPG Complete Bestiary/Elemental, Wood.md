@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "16", "near"]
 attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Extra Damage vs. Wood
     desc: "Deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood)."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 bites, 2 claws or 2 tails"
 damage: "2d6 (`dice:2d6`) bite,1d6 (`dice:1d6`) claw, 1d10 (`dice:1d10`) tail"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Multi-directional Attack
     desc: "Can attack opponents in front with its bites and claws, while assaulting opponents behind with its tails; however, it cannot attack a single opponent with its bite, claws, and tails."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["5", "22", "16", "double near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 2 claws, 1 bite or 1 breath"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 2d8 (`dice:2d8`) breath"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Surprise
     desc: "Can surprise on 1-4 on 1d6 in snowy or foggy conditions."

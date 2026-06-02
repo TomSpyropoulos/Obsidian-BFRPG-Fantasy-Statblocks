@@ -19,7 +19,7 @@ modifier: 2
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "By weapon"
-attributes: ["+0", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Superhuman Agility
     desc: "Their super-human agility counts as them having a +5 Dexterity modifier."

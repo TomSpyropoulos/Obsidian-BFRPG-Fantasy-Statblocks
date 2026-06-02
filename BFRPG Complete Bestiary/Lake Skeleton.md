@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon + special"
 damage: "1d6 (`dice:1d6`) or by weapon"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Water Jet
     desc: "Once per hour, a lake skeleton may do an extra attack by projecting a jet of water from its mouth. The stream shoots out in a straight line 15 feet in length and 5 feet in width. Anyone within range must succeed on a DC 12 DEX check or take 2d6 points of damage."

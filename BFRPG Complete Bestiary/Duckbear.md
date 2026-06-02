@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "14", "near"]
 attack: "+6 (`dice: 1d20+6`) 2 claws (1d8) / 1 peck (1d10) / 1 hug (3d6)"
 damage: "-"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 source: BFRPG Field Guide
 ```
 

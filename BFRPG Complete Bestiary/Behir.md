@@ -19,7 +19,7 @@ modifier: 3
 stats: ["13", "68", "19", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 bite+constriction, 6 claws or breath"
 damage: "2d10 (`dice:2d10`) bite, 1d8 (`dice:1d8`) constriction, 1d4 (`dice:1d4`) claw, or breath"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Bite and Constrict
     desc: "A behir will bite its foe and then coil around it. On following rounds, the behir causes 1d8 points of constriction damage and rakes at the victim with 6 of its claws for 1d4 points of damage each."

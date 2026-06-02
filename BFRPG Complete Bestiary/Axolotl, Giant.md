@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 bite or gaze"
 damage: "1d8 (`dice:1d8`) bite, or Mind Swap"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Magical Nature
     desc: "Can only be harmed by magical weapons."

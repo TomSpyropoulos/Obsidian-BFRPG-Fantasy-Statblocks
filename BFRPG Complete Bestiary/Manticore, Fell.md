@@ -19,7 +19,7 @@ modifier: 3
 stats: ["5", "22", "15", "double near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite, 1d4 (`dice:1d4`) spikes"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+5"]
+attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Tail Spikes
     desc: "Can shoot spikes from tail causing 1d4 points of damage per attack; can have up to 20 spikes, and regrow 1d4 spikes per day."

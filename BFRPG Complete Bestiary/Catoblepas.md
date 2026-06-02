@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "12", "near"]
 attack: "+7 (`dice: 1d20+7`) 1 tail or gaze"
 damage: "1d6 (`dice:1d6`) tail, save vs. Death Ray or die gaze"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Death Gaze
     desc: "Its gaze shines with a pale green beam of light; any creature touched by this ray must succeed on a DC 13 CON check or die instantly. Its ungainly-balanced neck and general unwillingness to get involved means that it will only be able to bring its head to bear once every 1d4 rounds. However, if it should gain surprise a catoblepas will nearly always forget itself and glance upward long enough to use its gaze."

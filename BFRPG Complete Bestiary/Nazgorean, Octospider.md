@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 spray or 1 grapple and bite"
 damage: "Special, see below"
-attributes: ["+0", "+0", "+0", "+0", "+2", "-6"]
+attributes: ["+0", "+0", "+0", "+0", "-1", "+0"]
 traits:
   - name: Multiple Eyes
     desc: "Due to their many eyes, they are hard to surprise, only being so affected on a 1 on 1d12 if their opponents are visible to them. Their vision is superior in that they can see invisible creatures 50% of the time and reduce the effects of partial invisibility or concealment by half (or double the chance of detection, depending on how the concealment is defined). Thus, individuals wearing an elven cloak are only 40% invisible to an octospider, while a halfling hiding in natural surroundings is noticed 20% of the time, or 60% when hiding in a dungeon. For Thieves, reduce the chance to hide by half."

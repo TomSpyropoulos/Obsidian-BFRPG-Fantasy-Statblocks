@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "17", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite or breath/1 tail"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d10 (`dice:2d10`) or breath/1d6 (`dice:1d6`)"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Underwater Ambush
     desc: "Often hide underwater with only part of head above waterline. Leap up suddenly when prey comes within 100', surprising on a roll of 1-4 on 1d6."

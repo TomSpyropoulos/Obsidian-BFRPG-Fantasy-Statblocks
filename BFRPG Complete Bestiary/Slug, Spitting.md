@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "10", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite or spit"
 damage: "1d4 (`dice:1d4`) + special bite, 1d8 (`dice:1d8`) + special spit"
-attributes: ["+0", "+0", "+0", "+2", "+0", "+2"]
+attributes: ["+0", "+0", "+0", "+2", "+1", "+0"]
 traits:
   - name: Bite Attack
     desc: "Although generally slow-moving, the spitting slug possesses a muscular internal 'mouth' that it can extend outward rapidly to engulf a limb-sized object and latch on. Inside its mouth are small spines that secrete a paralyzing toxin (Succeed on a DC 12 STR check + Constitution bonus or be unable to move) and digestive acids dealing 1 point of damage per round for as long as the slug is attached. A character wearing armor automatically saves, and does not take the acid damage* (see below). Characters that are affected by the toxin get a save each round to overcome the poison. If the victim is not paralyzed, treat this similar to wrestling with the victim as the defender."

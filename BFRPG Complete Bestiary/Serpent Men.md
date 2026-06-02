@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "15", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`) bite, or by weapon type"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Shape Shift
     desc: "All serpent men can shape shift to human form, but they cannot change their chosen human appearance."

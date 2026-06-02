@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 gore / 1 trample"
 damage: "2d10 (`dice:2d10`) gore or 2d10 (`dice:2d10`) (+ special) trample"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Trample
     desc: "A pentaceratops will usually attempt to trample smaller opponents. Two adjacent man-sized or up to three smaller opponents may be trampled simultaneously; it rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit."

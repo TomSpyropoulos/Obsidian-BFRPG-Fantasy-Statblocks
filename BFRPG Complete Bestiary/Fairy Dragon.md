@@ -19,7 +19,7 @@ modifier: 2
 stats: ["3", "13", "14", "double near (fly)"]
 attack: "+3 (`dice: 1d20+3`) 1 bite or breath or spell"
 damage: "1d2 (`dice:1d2`) bite or special"
-attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Invisibility
     desc: "Can become invisible at will, and remain invisible even while attacking."

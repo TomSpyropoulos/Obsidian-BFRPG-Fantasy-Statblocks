@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "11", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 per patch"
 damage: "1d4 (`dice:1d4`) + special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Surprise
     desc: "The ghost shroom remains motionless until it suddenly attacks, thus surprising on a roll of 1-3 on 1d6."

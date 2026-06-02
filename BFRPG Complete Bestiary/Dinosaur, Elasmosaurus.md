@@ -19,7 +19,7 @@ modifier: 4
 stats: ["15", "78", "12", "double near"]
 attack: "+11 (`dice: 1d20+11`) 1 bite (2d12)"
 damage: "-"
-attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 traits:
   - name: Grapple and Drag
     desc: "On any successful hit, an elasmosaur has established a hold on the victim, who will then be pulled into and under the water unless they can make a successful DC 15 CON check to break free. An elasmosaur is not strong enough to thus move any creature weighing more than 300 pounds."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "14", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 whip (1d3) / 1 shortsword (1d6)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Whip Attack
     desc: "Whip attack does damage only to targets of Armor Class 13 or less, but always holds the target."

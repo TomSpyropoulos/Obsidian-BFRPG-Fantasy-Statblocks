@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 gore or 1 weapon"
 damage: "2d6 (`dice:2d6`) gore, by weapon +3"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Cold Immunity
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, it receives a +4 bonus."

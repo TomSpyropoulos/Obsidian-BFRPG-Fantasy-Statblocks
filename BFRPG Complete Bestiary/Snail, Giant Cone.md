@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "15", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 dart (1d6 + paralysis)"
 damage: "1d6 (`dice:1d6`) + paralysis"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Poison Dart
     desc: "Has a natural long and narrow hypodermic tube (a modified tooth) to inject poison, and can launch it up to 20 feet. Stricken victims must succeed on a DC 12 CON check or be paralyzed for 2d6 hours."

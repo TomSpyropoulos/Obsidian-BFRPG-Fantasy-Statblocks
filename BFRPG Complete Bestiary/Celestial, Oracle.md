@@ -19,7 +19,7 @@ modifier: 4
 stats: ["11", "58", "16", "double near (fly)"]
 attack: "+9 (`dice: 1d20+9`) 1 weapon"
 damage: "By weapon + 2"
-attributes: ["+2", "+4", "+3", "+2", "+4", "+6"]
+attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
   - name: Spellcasting
     desc: "Cast spells as a 12th-level Cleric."

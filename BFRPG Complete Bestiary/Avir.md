@@ -19,7 +19,7 @@ modifier: 2
 stats: ["1", "7", "14", "double near (fly)"]
 attack: "+1 (`dice: 1d20+1`) 2 kicks / 1 lance"
 damage: "1d4 (`dice:1d4`) kick, or by weapon"
-attributes: ["+2", "+2", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+2", "+1", "+0", "+0", "+0"]
 traits:
   - name: Dive Attack
     desc: "Gets +4 on its attack rolls and does double damage."

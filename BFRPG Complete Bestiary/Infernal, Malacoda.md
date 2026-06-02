@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "22", "19", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 2 horns, 2 hands or tail"
 damage: "2d8 (`dice:2d8`) horn, 2d4 (`dice:2d4`) hand, 3d4 (`dice:3d4`) tail"
-attributes: ["+1", "+2", "+1", "+1", "+3", "+2"]
+attributes: ["+1", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Natural Weapons
     desc: "Malacoda can neither use nor need weapons, as their bodies are fearsomely designed. They will primarily strike with their barbed hands (2d4) and tail (3d4) but may also gore with their horns once per encounter (2d8)."

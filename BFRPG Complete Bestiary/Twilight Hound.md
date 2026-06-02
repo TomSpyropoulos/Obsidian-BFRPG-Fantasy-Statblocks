@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) 2 bites or 1 bite + poison"
 damage: "1d10 (`dice:1d10`) bite or 1d4 (`dice:1d4`) bite + poison"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Death Strike
     desc: "Whenever the twilight hound is mortally wounded, the snake tail will bite the nearest creature viciously; the victim must succeed on a DC 13 CON check or die, after which the hound will dissolve into nothing as it returns to its native plane."

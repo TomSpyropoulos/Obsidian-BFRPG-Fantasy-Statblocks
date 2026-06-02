@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "23", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 pincers / 2 fists / 1 bite"
 damage: "2d6 (`dice:2d6`) pincer, 1d3 (`dice:1d3`) fist, 1d4+1 (`dice:1d4+1`) bite"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Spell-like Powers
     desc: "A glabrezu can perform any of the following spell-like powers as often as desired, instead of attacking: cause fear (reverse of the remove fear spell), darkness (as the reverse of light) with a 10-foot radius, levitate, polymorph self, or telekinesis, all as if a 10th-level Wizard."

@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "13", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 tail lash (2d6)"
 damage: "2d6 (`dice:2d6`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
+attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Superior Senses
     desc: "Due to their superior senses of smell and hearing, lambeosaurs are only surprised on a 1 on 1d6."

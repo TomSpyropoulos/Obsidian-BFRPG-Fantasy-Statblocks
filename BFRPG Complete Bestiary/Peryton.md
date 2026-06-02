@@ -19,7 +19,7 @@ modifier: 3
 stats: ["4", "18", "12", "double near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 antler (+2 to hit)"
 damage: "4d4 (`dice:4d4`) antler"
-attributes: ["+1", "+3", "+1", "+1", "+3", "+4"]
+attributes: ["+1", "+3", "+1", "+1", "+4", "+1"]
 traits:
   - name: Immune to non-magical weapons
     desc: "Immune to non-magical weapons."

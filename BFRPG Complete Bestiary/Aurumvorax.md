@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "17", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 bite + special"
 damage: "1d8 (`dice:1d8`)"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Ambush
     desc: "Surprise on a roll of 1-2."

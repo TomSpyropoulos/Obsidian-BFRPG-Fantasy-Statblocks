@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "22", "15", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 1 bite or special"
 damage: "1d4+1 (`dice:1d4+1`) or special"
-attributes: ["+3", "+2", "+2", "+1", "+1", "+6"]
+attributes: ["+3", "+2", "+2", "+1", "+3", "+1"]
 traits:
   - name: Main Eye - Spell Turning
     desc: "The main eye of an oculus vigilans has a power similar to a ring of spell turning, projecting a cone of contrary magical force 100 feet long and 20 feet wide at the base (farthest point). Spells cast within this area of effect will rebound just as if the oculus were wearing such a ring."

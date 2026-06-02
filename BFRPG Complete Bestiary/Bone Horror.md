@@ -19,7 +19,7 @@ modifier: 2
 stats: ["4", "18", "13", "near (fly)"]
 attack: "+4 (`dice: 1d20+4`) 2 claws or 1 sting"
 damage: "1d6+3 (`dice:1d6+3`) claw or 1d4 (`dice:1d4`)+poison sting"
-attributes: ["+1", "+2", "+1", "+1", "+3", "+6"]
+attributes: ["+1", "+2", "+1", "+1", "+5", "+1"]
 traits:
   - name: Immunity to mundane weapons
     desc: "Only harmed by magical weapons, fire, or spells."

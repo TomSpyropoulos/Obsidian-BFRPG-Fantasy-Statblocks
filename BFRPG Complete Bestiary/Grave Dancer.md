@@ -19,7 +19,7 @@ modifier: 0
 stats: ["Special", "Special", "15", "near"]
 attack: "+1 (`dice: 1d20+1`) None"
 damage: "None"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Dance Aura
     desc: "All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale (CHA). Creatures which cannot hear the music will be unaffected."

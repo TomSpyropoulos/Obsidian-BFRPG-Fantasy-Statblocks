@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "14", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8+2 (`dice:1d8+2`) or by weapon +2"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Expert Horseman
     desc: "Prefers to fight from horseback using large two-handed scimitars and longbows in combat."

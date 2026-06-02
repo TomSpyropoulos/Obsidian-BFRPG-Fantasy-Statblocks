@@ -19,7 +19,7 @@ modifier: 3
 stats: ["10", "54", "15", "near (fly)"]
 attack: "+9 (`dice: 1d20+9`) Special"
 damage: "3d6 (`dice:3d6`)"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
+attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
   - name: Sphere of Flames
     desc: "Appears as a 20-foot diameter sphere of flame. Attacks by charging and engulfing foes in flames (3d6 damage)."

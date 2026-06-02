@@ -19,7 +19,7 @@ modifier: 2
 stats: ["1", "2", "10", "double near (fly)"]
 attack: "+0 (`dice: 1d20+0`) 1 talon or 1 beak"
 damage: "1d4 (`dice:1d4`) talon or 1d4 (`dice:1d4`) beak"
-attributes: ["+2", "+2", "+0", "+0", "+0", "-1"]
+attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 actions:
   - name: talon or 1 beak
     desc: "D20 to hit, 1d4 (`dice:1d4`) talon or 1d4 (`dice:1d4`) beak"

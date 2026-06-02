@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "13", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 touch or 1 bite"
 damage: "Save Drain (Poison) or 1d6 (`dice:1d6`) bite + Poison"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Poisonous Oil Touch
     desc: "Touch attack applies a save-targeting penalty on DC 12 CON check. The save-targeting effect causes the named saving throw category to receive a penalty of -1, which is cumulative with any further penalties. The penalty may either be applied to the roll as a -1 or to the target value as a +1."

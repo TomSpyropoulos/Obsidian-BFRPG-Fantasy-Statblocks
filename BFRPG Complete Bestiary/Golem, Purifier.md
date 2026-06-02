@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 fists or 1 flame"
 damage: "2d10 (`dice:2d10`) fist, 3d6 (`dice:3d6`) flame"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
   - name: Flame Attack
     desc: "Holds its arms out in front of it and belches fire from them in a 30-foot long cone, 20-foot wide at its far end. Victims can succeed on a DC 13 DEX check for half damage."

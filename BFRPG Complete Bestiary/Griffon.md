@@ -19,7 +19,7 @@ modifier: 3
 stats: ["7", "31", "17", "double near (fly)"]
 attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d8 (`dice:2d8`)"
-attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Preference for Horses
     desc: "Will attack a horse over anything else. When mounted and horses come within 120', roll a DC 12 CHA check; if failed, the griffon will try to attack immediately."

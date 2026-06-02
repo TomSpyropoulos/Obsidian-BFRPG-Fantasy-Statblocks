@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or per spell"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Undead Resilience
     desc: "Takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus)."

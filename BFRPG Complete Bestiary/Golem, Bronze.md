@@ -19,7 +19,7 @@ modifier: 6
 stats: ["20", "103", "19", "double near"]
 attack: "+13 (`dice: 1d20+13`) 1 fist + special"
 damage: "3d10 (`dice:3d10`) + special"
-attributes: ["+7", "+6", "+6", "+5", "+5", "+10"]
+attributes: ["+7", "+6", "+6", "+5", "+7", "+5"]
 traits:
   - name: Molten Interior
     desc: "Creatures hit by one in combat suffer an additional 1d10 damage from the heat (unless resistant to heat or fire). If one is hit in combat, molten metal spurts out, spraying the attacker for 2d6 damage. A DC 16 CON check is allowed to avoid the metal spray."

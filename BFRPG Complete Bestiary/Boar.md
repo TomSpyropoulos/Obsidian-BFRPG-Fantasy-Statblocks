@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 tusk (2d4)"
 damage: "2d4 (`dice:2d4`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 actions:
   - name: tusk (2d4)
     desc: "D20 to hit, 2d4 (`dice:2d4`)"

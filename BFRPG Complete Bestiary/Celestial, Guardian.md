@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "48", "16", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws"
 damage: "1d10 (`dice:1d10`) claw"
-attributes: ["+2", "+4", "+3", "+2", "+4", "+6"]
+attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
   - name: Spellcasting
     desc: "Casts spells as a 10th-level Cleric."

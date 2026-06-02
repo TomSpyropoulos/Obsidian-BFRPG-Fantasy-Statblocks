@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "64", "10", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 swarm of mirror butterflies"
 damage: "3d6 (`dice:3d6`) + blind"
-attributes: ["+3", "+3", "+4", "+5", "+3", "+2"]
+attributes: ["+3", "+3", "+4", "+5", "+3", "+3"]
 traits:
   - name: Mirror Butterflies
     desc: "The butterflies are actually part of the oak itself and completely under its control. They blind creatures for 1d6 turns with the reflections of their wings unless a DC 14 STR check is made. The swarm attacks blinded creatures by preference, doing 3d6 damage per round, stripping victims to bare bones. The oak draws nourishment from whatever they devour."

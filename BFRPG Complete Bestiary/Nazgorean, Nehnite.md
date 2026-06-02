@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1d4", "2", "10", "near"]
 attack: "+0 (`dice: 1d20+0`) 1 bite or small weapon"
 damage: "1d2 (`dice:1d2`)+poison bite, 1d4 (`dice:1d4`) or by weapon"
-attributes: ["+0", "+0", "+1", "+2", "+0", "+1"]
+attributes: ["+0", "+0", "+1", "+2", "+0", "+0"]
 traits:
   - name: Poisonous Bite
     desc: "Those bitten must succeed on a DC 12 CON check or suffer an additional 2d6 points of damage."

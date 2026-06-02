@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "18", "near"]
 attack: "+3 (`dice: 1d20+3`) 1"
 damage: "1d10 (`dice:1d10`) + berserk"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Berserk
     desc: "If a skerraxis' attack exceeds a target's defense by 3 or more, they must succeed on a DC 12 INT check or become possessed momentarily by the anger of the skerraxis, attacking the nearest ally (moving towards that ally if necessary) on their next turn."

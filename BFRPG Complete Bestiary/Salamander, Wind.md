@@ -19,7 +19,7 @@ modifier: 3
 stats: ["10", "52", "23", "near (fly)"]
 attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
   - name: Nearly Transparent
     desc: "Hard to spot, surprising on 1-4 on 1d6."

@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "12", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite + special"
 damage: "1d4 (`dice:1d4`) claw, 1d6 (`dice:1d6`) bite + paralysis"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Six Eye-Stalks
     desc: "Six eyes on stalks arranged in a hexagonal pattern. Can direct eyes any way it wishes. Many eyes combined with excellent hearing means cannot generally be surprised."

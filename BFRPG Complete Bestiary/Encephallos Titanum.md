@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "15", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 spore spray"
 damage: "Special"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Spore Spray
     desc: "Whenever a large prey comes in contact with the flower, the appendage shoots a cloud of spores at it, point blank. A DC 13 DEX check must be made to avoid the spores, otherwise the victim suffers hallucinations for 1d4 turns, falls comatose thereafter, and rises as an infected under the control of the infectious mind after 1d6+8 hours."

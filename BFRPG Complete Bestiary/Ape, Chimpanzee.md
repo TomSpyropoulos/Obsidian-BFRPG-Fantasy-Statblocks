@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "5", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 fists"
 damage: "1d4 (`dice:1d4`)"
-attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 actions:
   - name: fists
     desc: "D20 to hit, 1d4 (`dice:1d4`)"

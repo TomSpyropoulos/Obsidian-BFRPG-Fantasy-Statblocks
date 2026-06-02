@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "14", "near"]
 attack: "+3 (`dice: 1d20+3`) 1 scythe (1d8)"
 damage: "1d8 (`dice:1d8`)"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Riddles
     desc: "Enjoys engaging in conversation, asking complicated and difficult riddles. If one answers correctly, she might tell them a great secret (spoken in riddles, of course)."

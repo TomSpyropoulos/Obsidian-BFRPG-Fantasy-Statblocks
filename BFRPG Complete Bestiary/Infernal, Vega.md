@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "48", "16", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 whip + special"
 damage: "2d6 (`dice:2d6`) + special"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
   - name: Whip Pull
     desc: "On a successful hit can choose to pull a creature close enough to itself that the heat radiating from its body deals 3d6 points of damage."

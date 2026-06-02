@@ -19,7 +19,7 @@ modifier: 1
 stats: ["1", "4", "15", "double near"]
 attack: "+1 (`dice: 1d20+1`) 2 sphere shots (1d4)"
 damage: "1d4 (`dice:1d4`) sphere shot"
-attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+1", "+0", "+0", "+2", "+0"]
 traits:
   - name: Sphere Shots
     desc: "Can fire out streams of spheres quite rapidly, allowing it to attack twice per round, out to a range of 60 feet. The fired spheres will roll back and be reabsorbed by the recombinant the round after they're fired."

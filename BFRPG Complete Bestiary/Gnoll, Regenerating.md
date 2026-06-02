@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "14", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "2d4 (`dice:2d4`) or by weapon +1"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Regeneration
     desc: "Regenerating gnolls possess a unique regenerative ability, similar to their distant relatives, the trolls, that allows them to heal one hit point of damage each round after being injured. Unlike trolls however, gnolls will die when their hit points reach zero. Moreover, wounds caused by fire and acid cannot be regenerated and require normal healing. When confronted with attackers wielding fire or acid, regenerating gnolls exhibit a lower morale (CHA) (6) due to their heightened vulnerability."

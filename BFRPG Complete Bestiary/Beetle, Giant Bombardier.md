@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "15", "near"]
 attack: "+2 (`dice: 1d20+2`) 1 bite + special"
 damage: "1d6 (`dice:1d6`) + special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
+attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Toxic Spray
     desc: "Sprays a cone of very hot and noxious gases 10' long and 10' wide at the far end. Causes 2d6 points of damage (Succeed on a DC 12 CON check for half damage). Can be used up to five times per day, but no more often than once per three rounds."

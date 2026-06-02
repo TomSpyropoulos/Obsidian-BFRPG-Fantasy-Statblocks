@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "12", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws (1d3) / 1 bite (1d3 + disease)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Zombie Leprosy
     desc: "Humanoids bitten by leper zombies may be infected with zombie leprosy. Each time a humanoid is bitten or clawed, there is a 10% (cumulative per bite and blow) chance of the infection being passed. The afflicted humanoid is allowed to succeed on a DC 12 CON check; if the save is failed, the humanoid dies in 3 days. An afflicted humanoid who dies of zombie leprosy rises as a leper zombie at midnight of the following day."

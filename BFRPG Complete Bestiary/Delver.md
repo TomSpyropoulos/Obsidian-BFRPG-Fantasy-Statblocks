@@ -19,7 +19,7 @@ modifier: 4
 stats: ["18", "93", "23", "near"]
 attack: "+12 (`dice: 1d20+12`) 2 flippers"
 damage: "1d6 (`dice:1d6`) + special"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
+attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
   - name: Corrosive Slime
     desc: "A delver produces a mucus-like slime that is highly corrosive. Merely touching it causes 2d6 points of damage to organic creatures. To metallic creatures or objects the slime deals 4d8 points of damage, and rocks, and rock-like creatures (earth elementals for example) the slime causes 8d10 points of damage. On the round following a successful hit, the victim takes 1d6 points of damage from the slime unless is it washed off with at least a quart of fluid. For metal or stone creatures, this damage is half of the noted corrosive damage listed (2d8 or 4d10 respectively). Anyone attacking a delver with natural weapons will take damage from the corrosive slime each time an attack succeeds unless they succeed on a DC 15 STR check."

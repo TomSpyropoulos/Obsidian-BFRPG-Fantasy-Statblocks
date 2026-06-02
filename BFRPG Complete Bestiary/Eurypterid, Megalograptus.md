@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "4", "10", "near"]
 attack: "+1 (`dice: 1d20+1`) 2 claws / 1 sting"
 damage: "1d6 (`dice:1d6`) claw, or 1d8 (`dice:1d8`) sting + poison"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Poison Sting
     desc: "This venom paralyzes prey, unless a successful DC 12 CON check is made, allowing the megalograptus a chance to feed on the subdued victim."

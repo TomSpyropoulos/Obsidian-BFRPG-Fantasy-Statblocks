@@ -19,7 +19,7 @@ modifier: 1
 stats: ["5", "22", "16", "near"]
 attack: "+5 (`dice: 1d20+5`) Special"
 damage: "Special"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+2"]
+attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
   - name: Possession Attack
     desc: "When a wretchling senses intelligent beings nearby, it selects one at random and begins stalking them. Once it manages to get within 40 feet of its target undetected, it will attack. If it succeeds in its attack roll, the victim must succeed on a DC 13 INT check. On a successful save, the victim becomes immediately aware of the wretchling, however they will also be stunned for a single round unable to act. However, if the save fails, the wretchling's body dissolves into a dark, smoky mist that enters the target's body through their eyes, nose, and mouth, allowing the wretchling to possess its new host."

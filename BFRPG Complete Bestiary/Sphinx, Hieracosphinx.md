@@ -19,7 +19,7 @@ modifier: 4
 stats: ["9", "48", "18", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite + rake"
 damage: "2d4 (`dice:2d4`) claw, 1d10 (`dice:1d10`) bite, 2d4 (`dice:2d4`) rake"
-attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
+attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
   - name: Rake
     desc: "On any successful attack with both its claw attacks, a hieracosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."

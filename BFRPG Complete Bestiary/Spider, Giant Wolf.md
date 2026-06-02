@@ -19,7 +19,7 @@ modifier: 2
 stats: ["9", "48", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 bite (1d12 + poison)"
 damage: "-"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
   - name: Poison Bite
     desc: "Anyone bitten by a giant wolf spider must succeed on a DC 13 CON check or be paralyzed for 2d6 turns. A neutralize poison spell will negate this effect."

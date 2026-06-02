@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "19", "near"]
 attack: "+9 (`dice: 1d20+9`) 1 weapon plus energy drain"
 damage: "1d10+3 (`dice:1d10+3`) plus energy"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Aura of Fear
     desc: "At first sight, all living creatures of 4 LVL or less must succeed on a DC 14 CON check or become fearful of the spirit of vengeance, fleeing at maximum speed for 1d4+1 rounds."

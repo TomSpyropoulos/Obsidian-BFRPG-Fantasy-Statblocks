@@ -19,7 +19,7 @@ modifier: 1
 stats: ["2", "9", "14", "near (fly)"]
 attack: "+2 (`dice: 1d20+2`) None"
 damage: "Special"
-attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
+attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
   - name: Dream Consumption
     desc: "During the night seeks out intelligent creatures that are asleep, consuming the dreams of all within a 30-foot radius. This process takes a turn, during which it will emit a pale white light reminiscent of the moon."

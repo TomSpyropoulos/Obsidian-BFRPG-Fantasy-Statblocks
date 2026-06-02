@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) -"
 damage: "4d4 (`dice:4d4`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
+attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
   - name: Invisibility
     desc: "Invisible stalkers have an amorphous form. A detect invisible spell shows only a dim outline of a cloud. Apply the standard penalty of -4 on the attack die when an invisible stalker is attacked by a creature which is unable to see it."

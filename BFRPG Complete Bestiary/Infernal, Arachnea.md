@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "15", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 (`dice:1d6`) + poison bite, 1d6 (`dice:1d6`) + heals creature kiss, 1d4 (`dice:1d4`) + 2HP/round dagger"
-attributes: ["+1", "+1", "+1", "+3", "+1", "+2"]
+attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
   - name: Spell-like Abilities
     desc: "Can use at will, in either form: **web**, **charm person**, **teleport**, **hold person**, **darkness 15' radius**, **mind reading**, and **clairaudience** (as the potion)."

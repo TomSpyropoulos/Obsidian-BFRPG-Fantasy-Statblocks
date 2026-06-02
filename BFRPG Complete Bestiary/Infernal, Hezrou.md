@@ -19,7 +19,7 @@ modifier: 2
 stats: ["10", "54", "21", "near"]
 attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite or spell"
 damage: "1d4 (`dice:1d4`) claw, 4d4 (`dice:4d4`) bite, by spell"
-attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
+attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
   - name: Grab
     desc: "If a hezrou hits with both claws it automatically grabs its opponent, preventing any normal man-sized or smaller foe from moving as well as gaining a +2 with all subsequent bite attacks. A victim held in this way cannot generally attack, but may break free with a normal roll to open doors."

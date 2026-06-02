@@ -19,7 +19,7 @@ modifier: 3
 stats: ["12", "67", "24", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 weapon"
 damage: "By weapon +3"
-attributes: ["+3", "+3", "+4", "+3", "+5", "+8"]
+attributes: ["+3", "+3", "+4", "+3", "+7", "+3"]
 traits:
   - name: Teleportation
     desc: "Hover in the air and teleport at-will, as per the spell, without failure. They can teleport and strike in the same round."

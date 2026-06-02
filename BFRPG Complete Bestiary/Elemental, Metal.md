@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "17", "near"]
 attack: "+8 (`dice: 1d20+8`) 1 \u00d7 punch, stomp, or special (1d12)"
 damage: "1d12 (`dice:1d12`)"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Metal Damage
     desc: "Metal armor affords no protection against a metal elemental, and indeed it deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal."

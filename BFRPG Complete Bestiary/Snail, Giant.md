@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "16", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 slam (1d8 + poison)"
 damage: "1d8 (`dice:1d8`) + poison (paralysis)"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Poison Mucus
     desc: "Slam attack delivers poison. Victim must succeed on a DC 13 CON check or be paralyzed for 1 turn."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "10", "near"]
 attack: "+4 (`dice: 1d20+4`) 1 grab (1d4 + 1 pt. CON loss)"
 damage: "1d4 + 1 (`dice:1d4+1`) pt. CON loss"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Grab Attack
     desc: "A hit by its hands inflicts 1d4 points of cold damage and the victim must succeed on a DC 12 STR check. If the save is failed the victim becomes calm and is paralyzed. The omotharkin holds onto the victim and drains 1 point of Constitution and inflicts 1d4 points of cold damage each round afterwards."

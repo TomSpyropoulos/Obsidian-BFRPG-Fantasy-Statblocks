@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "12", "near"]
 attack: "+3 (`dice: 1d20+3`) 2 hooves (1d4) / 1 bite (1d6)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Undead Immunities
     desc: "Immune to sleep, charm, or hold magic. Never fail morale (CHA) and will fight until destroyed."

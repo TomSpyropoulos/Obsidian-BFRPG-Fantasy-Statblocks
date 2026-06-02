@@ -19,7 +19,7 @@ modifier: 1
 stats: ["6", "27", "17", "near"]
 attack: "+6 (`dice: 1d20+6`) 1 giant axe, 1 giant club or 1 ground slam"
 damage: "1d8 + 4 (`dice:1d8+4`) axe, 2d6 (`dice:2d6`) club or 1d10 (`dice:1d10`) to all surrounding enemies"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Ground Slam
     desc: "Normally a hruul will attack with both weapons that it carries, but if one is surrounded or facing large numbers it will pound the ground with its over-sized third arm, sending a concussive blast that will damage all nearby enemies with flying debris; additionally, all affected enemies must succeed on a DC 13 DEX check or be knocked prone."

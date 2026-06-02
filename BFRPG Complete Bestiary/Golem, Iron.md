@@ -19,7 +19,7 @@ modifier: 4
 stats: ["17", "88", "24", "near"]
 attack: "+12 (`dice: 1d20+12`) 1 + special"
 damage: "4d10 (`dice:4d10`) + special"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+9"]
+attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
   - name: Poisonous Gas
     desc: "Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round. Those within the area of effect must succeed on a DC 15 DEX check or die. This ability can be used up to 3 times per day."

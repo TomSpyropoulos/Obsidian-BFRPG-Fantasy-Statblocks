@@ -19,7 +19,7 @@ modifier: 3
 stats: ["8", "44", "21", "near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 sword, or 1 whip, + special"
 damage: "1d12+1 (`dice:1d12+1`) sword, 2d6+1 (`dice:2d6+1`) whip, + special"
-attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
+attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
   - name: Flame Shroud
     desc: "May shroud themselves in flame at will; these flames inflicts 2d6 points of damage to anyone who touches them, or who is touched by them."

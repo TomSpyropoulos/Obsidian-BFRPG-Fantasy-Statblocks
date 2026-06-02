@@ -19,7 +19,7 @@ modifier: 0
 stats: ["1", "2", "13", "near"]
 attack: "+0 (`dice: 1d20+0`) 2 claws (1d2) / 1 bite (1d4)"
 damage: "-"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Regeneration
     desc: "Healing 2 HP each turn. A slain trobold will rise up in a mere 1d3 rounds."

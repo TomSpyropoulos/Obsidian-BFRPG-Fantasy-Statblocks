@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "35", "13", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite, or 1 snake bite, or breath"
 damage: "1d6 (`dice:1d6`) claw, 1d10 (`dice:1d10`) bite, 1d6 (`dice:1d6`) snake bite + poison, or 3d4 (`dice:3d4`) breath"
-attributes: ["+3", "+1", "+2", "+1", "+1", "+3"]
+attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
   - name: Fire Breath
     desc: "On the first round and every odd round thereafter, the goat head will shoot a ball of flames that will automatically hit one opponent for 3d4 points of damage; a successful DC 13 DEX check will half this damage."

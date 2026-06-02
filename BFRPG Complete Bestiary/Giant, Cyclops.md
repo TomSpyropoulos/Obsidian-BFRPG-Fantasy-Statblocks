@@ -19,7 +19,7 @@ modifier: 3
 stats: ["13", "68", "14", "near"]
 attack: "+10 (`dice: 1d20+10`) 1 giant club or 1 rock (thrown)"
 damage: "3d10 (`dice:3d10`) or 3d6 (`dice:3d6`)"
-attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
+attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
   - name: Rock Throwing
     desc: "A cyclops can throw a large rock up to 200' for 3d6 points of damage, but they aim poorly and thus suffer an attack penalty of -2."

@@ -19,7 +19,7 @@ modifier: 1
 stats: ["4", "18", "14", "near"]
 attack: "+4 (`dice: 1d20+4`) 2 hooves/1 weapon"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`) or by weapon"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
+attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Charge
     desc: "May charge with a spear or lance just as a man on horseback, with the same bonuses."

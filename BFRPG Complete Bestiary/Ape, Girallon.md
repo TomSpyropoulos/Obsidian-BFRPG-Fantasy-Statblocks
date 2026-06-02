@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "15", "near"]
 attack: "+7 (`dice: 1d20+7`) 4 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
+attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
   - name: Rend
     desc: "A girallon that hits with two or more claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d4 points of damage."

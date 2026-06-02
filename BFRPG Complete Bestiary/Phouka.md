@@ -19,7 +19,7 @@ modifier: 2
 stats: ["5", "22", "15", "near (fly)"]
 attack: "+5 (`dice: 1d20+5`) 1 bite, or weapon"
 damage: "1d6 (`dice:1d6`) bite, or by weapon"
-attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
+attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 traits:
   - name: Shapechanging
     desc: "Phoukas can shift their shape at will, transforming into a horse, goat, crow, cockrel or hound in a single round, as often as they wish. While in animal form, they retain their hit points, Armour Class, and general intelligence, but their ability to wield weapons or perform fine manipulations is limited, restricting their attack to their bite."

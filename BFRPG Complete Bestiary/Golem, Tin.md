@@ -19,7 +19,7 @@ modifier: 1
 stats: ["7", "31", "18", "near"]
 attack: "+7 (`dice: 1d20+7`) 2 hands"
 damage: "Special"
-attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
+attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
   - name: Grapple Attack
     desc: "Must score a hit with both hands in melee. If one hand hits, the target is unable to flee and will effectively have AC 11 against the other hand's attack. Once both hands have hit, the golem will place its target into the heavy work tool, inflicting 3d6 damage if it succeeds. Very strong characters can succeed on a DC 13 CON check (with STR bonus) to resist being forced into the tool."

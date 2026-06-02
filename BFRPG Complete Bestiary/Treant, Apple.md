@@ -19,7 +19,7 @@ modifier: 2
 stats: ["8", "36", "18", "near"]
 attack: "+8 (`dice: 1d20+8`) 2 fists or 1 projectile fruit"
 damage: "2d6 (`dice:2d6`) fist or 1d6 (`dice:1d6`) fruit"
-attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
+attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
   - name: Projectile Fruit
     desc: "During warmer months, can hurl fruit at range 120 feet for 1d6 damage, destroying the fruit. May fire while moving at normal rates."

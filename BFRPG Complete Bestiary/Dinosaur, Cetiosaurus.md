@@ -19,7 +19,7 @@ modifier: 6
 stats: ["24", "122", "13", "near"]
 attack: "+14 (`dice: 1d20+14`) 1 trample"
 damage: "3d6 (`dice:3d6`)"
-attributes: ["+8", "+6", "+7", "+6", "+6", "+7"]
+attributes: ["+8", "+6", "+7", "+6", "+6", "+6"]
 actions:
   - name: trample
     desc: "D20 to hit, 3d6 (`dice:3d6`)"

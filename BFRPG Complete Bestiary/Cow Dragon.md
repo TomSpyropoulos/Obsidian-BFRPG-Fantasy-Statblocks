@@ -19,7 +19,7 @@ modifier: 4
 stats: ["8", "36", "18", "double near (fly)"]
 attack: "+8 (`dice: 1d20+8`) 1 gore or breath"
 damage: "3d8 (`dice:3d8`) gore or 7d8 (`dice:7d8`) breath"
-attributes: ["+4", "+4", "+2", "+2", "+2", "+3"]
+attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
   - name: Breath Weapon
     desc: "Exhales scalding hot milk in a 60-foot cone. Can be used seven times per day, but no more than once every other round. Does 7d8 points of damage; victims may make a DC 13 DEX check for half damage."

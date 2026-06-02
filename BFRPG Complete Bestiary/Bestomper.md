@@ -19,7 +19,7 @@ modifier: 3
 stats: ["11", "49", "19", "near (fly)"]
 attack: "+9 (`dice: 1d20+9`) 1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 (`dice:3d6`) stomp, 2d6 (`dice:2d6`) bite, or eye beam (see below)"
-attributes: ["+2", "+3", "+2", "+4", "+2", "+6"]
+attributes: ["+2", "+3", "+2", "+4", "+4", "+2"]
 traits:
   - name: Wail
     desc: "While agitated, emits a wail in a 90-degree arc. All creatures within 40 feet must succeed on a DC 14 INT check or fall prone for 1d6 rounds."

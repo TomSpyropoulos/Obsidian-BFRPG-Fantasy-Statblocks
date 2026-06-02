@@ -19,7 +19,7 @@ modifier: 0
 stats: ["2", "9", "11", "near"]
 attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 1d4 (`dice:1d4`) bite"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
+attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
   - name: Camouflage
     desc: "Surprise on 1-3 on 1d6."

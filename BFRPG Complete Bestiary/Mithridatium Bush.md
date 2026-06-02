@@ -19,7 +19,7 @@ modifier: 0
 stats: ["3", "13", "10", "near"]
 attack: "+3 (`dice: 1d20+3`) Special"
 damage: "Special"
-attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
+attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
   - name: Soporific Pollen
     desc: "When any living creature approaches within 5 feet the pods open, revealing exotic deep crimson flowers edged with black. These blossoms exude soporific pollen which can affect all living creatures within a 5-foot radius. Those within the radius must succeed on a DC 12 CON check or fall into a dreamless sleep, with grogginess lasting a full hour after waking (-2 on all attack rolls and saving throws, and -10% for Thief abilities)."

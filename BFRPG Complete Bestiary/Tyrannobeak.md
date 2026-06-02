@@ -19,7 +19,7 @@ modifier: 4
 stats: ["18", "93", "22", "near"]
 attack: "+12 (`dice: 1d20+12`) 2 claws / 1 beak"
 damage: "2d8 (`dice:2d8`) claw, 4d6 (`dice:4d6`) bite"
-attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
+attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
   - name: Leap Attack
     desc: "When possible, a tyrannobeak typically first attacks by leaping (counts as a charge attack) with both claws and a bite."
