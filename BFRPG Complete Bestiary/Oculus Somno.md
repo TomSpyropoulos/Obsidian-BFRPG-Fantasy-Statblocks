@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "15", "+8"]
-attack: "Gaze / 3 proboscis"
+stats: ["8", "36", "15", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) Gaze / 3 proboscis"
 damage: "Sleep Gaze, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round proboscis"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Sleep Gaze

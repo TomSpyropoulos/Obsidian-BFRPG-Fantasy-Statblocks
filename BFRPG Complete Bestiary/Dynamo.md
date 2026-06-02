@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "14", "+2"]
-attack: "3 lightning bolts (1d4)"
+stats: ["2", "9", "14", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 3 lightning bolts (1d4)"
 damage: "-"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Lightning Aura

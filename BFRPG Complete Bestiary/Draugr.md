@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "16", "+8"]
-attack: "1 weapon"
+stats: ["9", "48", "16", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 weapon"
 damage: "1d10+3 (`dice:1d10+3`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Ice Breath

@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "9", "+7"]
-attack: "1 weapon (also see mount)"
+stats: ["7", "31", "9", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 weapon (also see mount)"
 damage: "1d8 (`dice:1d8`) or by weapon (also see mount)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Fear Aura

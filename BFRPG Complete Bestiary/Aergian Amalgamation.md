@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "13", "+10"]
-attack: "1 grasp (2d4) / 1d3 weapons (1d6 each)"
+stats: ["13", "68", "13", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 (`dice:2d4`) grasp, 1d6 (`dice:1d6`) weapon"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Tentacle Reach

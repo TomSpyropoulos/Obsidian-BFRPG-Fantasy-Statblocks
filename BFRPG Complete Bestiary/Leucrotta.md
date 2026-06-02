@@ -16,10 +16,9 @@ level: "6"
 hp: 28
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "28", "15", "+6"]
-attack: "1 bite or 2 kicks"
+stats: ["6", "28", "15", "double near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite or 2 kicks"
 damage: "3d6 (`dice:3d6`) bite, 1d6 (`dice:1d6`) kick"
-speed: "double near"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+1"]
 traits:
   - name: Voice Mimicry

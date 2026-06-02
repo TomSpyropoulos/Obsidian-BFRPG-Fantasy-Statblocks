@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "14", "+2"]
-attack: "1 bite (1d8 + poison)"
+stats: ["2", "9", "14", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bite (1d8 + poison)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 source: BFRPG Field Guide
 ```

@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 2
-stats: ["1", "4", "14", "+1"]
-attack: "1 punch or weapon (large form)"
+stats: ["1", "4", "14", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 punch or weapon (large form)"
 damage: "1d4 (`dice:1d4`) or by weapon (large form)"
-speed: "near"
 attributes: ["+1", "+2", "+0", "+0", "+0", "-1"]
 traits:
   - name: Larger Form

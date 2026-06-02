@@ -16,10 +16,9 @@ level: "18"
 hp: 93
 atk_bonus: "+12"
 modifier: 4
-stats: ["18", "93", "23", "+12"]
-attack: "1 bite or 1 trample"
+stats: ["18", "93", "23", "near"]
+attack: "+12 (`dice: 1d20+12`) 1 bite or 1 trample"
 damage: "3d8 (`dice:3d8`) bite, 4d10 (`dice:4d10`) trample"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 traits:
   - name: Trample

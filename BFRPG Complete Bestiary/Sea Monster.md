@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "14", "+7"]
-attack: "1 bite or 1-8 tentacles or 1-4 claws"
+stats: ["7", "31", "14", "double near"]
+attack: "+7 (`dice: 1d20+7`) 1 bite or 1-8 tentacles or 1-4 claws"
 damage: "from 3d8 (`dice:3d8`) to 5d10 (`dice:5d10`) bite, or 2d6 (`dice:2d6`) to 4d6 (`dice:4d6`) tentacle, or 2d4 (`dice:2d4`) to 4d4 (`dice:4d4`) claw"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 actions:
   - name: bite or 1-8 tentacles or 1-4 claws

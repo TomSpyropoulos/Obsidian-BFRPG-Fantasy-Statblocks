@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "12", "+3"]
-attack: "6 tentacles"
+stats: ["3", "13", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) 6 tentacles"
 damage: "paralysis"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Paralysis

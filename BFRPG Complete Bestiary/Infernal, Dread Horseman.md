@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "17", "+6"]
-attack: "1 slam or 1 weapon"
+stats: ["6", "27", "17", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 slam or 1 weapon"
 damage: "1d6 (`dice:1d6`) slam, by weapon"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Cleric spell abilities

@@ -16,10 +16,9 @@ level: "15"
 hp: 78
 atk_bonus: "+11"
 modifier: 3
-stats: ["15", "78", "18", "+11"]
-attack: "1 giant weapon or 1 lightning bolt"
+stats: ["15", "78", "18", "near"]
+attack: "+11 (`dice: 1d20+11`) 1 giant weapon or 1 lightning bolt"
 damage: "8d6 (`dice:8d6`) or 15d6 (`dice:15d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Lightning Bolts

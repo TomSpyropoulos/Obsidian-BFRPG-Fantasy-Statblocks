@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "48", "15", "+8"]
-attack: "2 claws (1d4) / 1 lion bite (2d4) / 1 goat horns (1d8) / 1 dragon bite (2d4) or breath (3d6)"
+stats: ["9", "48", "15", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws (1d4) / 1 lion bite (2d4) / 1 goat horns (1d8) / 1 dragon bite (2d4) or breath (3d6)"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite (lion or dragon), 1d8 (`dice:1d8`) horns (goat), 3d4 (`dice:3d4`) dragon breath"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Dragon Breath

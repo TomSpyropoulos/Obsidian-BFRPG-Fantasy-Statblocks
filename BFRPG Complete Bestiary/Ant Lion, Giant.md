@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "15", "+4"]
-attack: "1 bite (1d10)"
+stats: ["4", "18", "15", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite (1d10)"
 damage: "1d10 (`dice:1d10`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Trapdoor Ambush

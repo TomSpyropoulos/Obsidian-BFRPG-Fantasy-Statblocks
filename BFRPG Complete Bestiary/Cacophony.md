@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "14", "+4"]
-attack: "1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
+stats: ["4", "18", "14", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 ding (cause fear)"
 damage: "1d6 (`dice:1d6`) toot, 1d4 (`dice:1d4`) bang, 2d8 (`dice:2d8`) clash, cause fear ding"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
 traits:
   - name: Ding

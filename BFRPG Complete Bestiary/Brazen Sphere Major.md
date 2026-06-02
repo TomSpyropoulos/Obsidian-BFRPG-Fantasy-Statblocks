@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "19", "+10"]
-attack: "2 bludgeon or 2d4 sphere shots"
+stats: ["12", "64", "19", "near"]
+attack: "+10 (`dice: 1d20+10`) 2 bludgeon or 2d4 sphere shots"
 damage: "1d6 (`dice:1d6`) bludgeon, 1d4 (`dice:1d4`) sphere shot"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Sphere Shot

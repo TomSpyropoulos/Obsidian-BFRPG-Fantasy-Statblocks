@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 2
-stats: ["1", "4", "13", "+1"]
-attack: "1 bite (1d6 + 1d6/round blood drain)"
+stats: ["1", "4", "13", "double near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 bite (1d6 + 1d6/round blood drain)"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round (blood drain)"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+3"]
 traits:
   - name: Darkvision

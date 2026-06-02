@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "20", "+8"]
-attack: "2 bite or 1 breath or 1 constrict"
+stats: ["8", "36", "20", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 bite or 1 breath or 1 constrict"
 damage: "2d12 (`dice:2d12`)+energy drain (1 level), breath, 2d4 (`dice:2d4`) constrict*"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
   - name: Shadow-bound

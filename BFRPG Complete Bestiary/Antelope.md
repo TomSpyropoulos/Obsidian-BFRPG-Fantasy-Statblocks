@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "12", "+1"]
-attack: "1 butt"
+stats: ["1", "4", "12", "double near"]
+attack: "+1 (`dice: 1d20+1`) 1 butt"
 damage: "1d4 (`dice:1d4`) or 1d6 (`dice:1d6`) or 1d8 (`dice:1d8`)"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "-2"]
 actions:
   - name: butt

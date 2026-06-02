@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "11", "+1"]
-attack: "1 weapon"
+stats: ["1", "4", "11", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
-speed: "near"
 attributes: ["+0", "+0", "-1", "+3", "+1", "+2"]
 traits:
   - name: Innate Magic

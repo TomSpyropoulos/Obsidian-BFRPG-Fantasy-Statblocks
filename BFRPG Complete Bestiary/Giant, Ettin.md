@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "16", "+10"]
-attack: "2 giant weapon"
+stats: ["13", "68", "16", "near"]
+attack: "+10 (`dice: 1d20+10`) 2 giant weapon"
 damage: "3d6 (`dice:3d6`) giant weapon (right hand), 2d8 (`dice:2d8`) giant weapon (left hand)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Two-Headed

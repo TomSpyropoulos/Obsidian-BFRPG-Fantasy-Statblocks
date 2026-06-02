@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "14", "+4"]
-attack: "2 hooves (1d6/1d6)"
+stats: ["4", "18", "14", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 2 hooves (1d6/1d6)"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 source: BFRPG Core
 ```

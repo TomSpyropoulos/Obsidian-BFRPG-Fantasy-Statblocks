@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 2
-stats: ["3", "13", "14", "+3"]
-attack: "2 claws/1 bite"
+stats: ["3", "13", "14", "double near (fly)"]
+attack: "+3 (`dice: 1d20+3`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d10 (`dice:1d10`)"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Mount Capability

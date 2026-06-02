@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "12", "+2"]
-attack: "1 to 4 (see below)"
+stats: ["2", "9", "12", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 to 4 (see below)"
 damage: "Special"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Flailing Arms

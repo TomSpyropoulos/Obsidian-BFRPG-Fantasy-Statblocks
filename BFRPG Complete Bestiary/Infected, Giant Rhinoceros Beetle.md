@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "17", "+10"]
-attack: "1 bite or 1 horn"
+stats: ["12", "64", "17", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 bite or 1 horn"
 damage: "3d8 (`dice:3d8`) bite, 2d10 (`dice:2d10`) horn"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Charge

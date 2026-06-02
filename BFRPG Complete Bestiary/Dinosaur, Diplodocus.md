@@ -16,10 +16,9 @@ level: "24"
 hp: 122
 atk_bonus: "+14"
 modifier: 6
-stats: ["24", "122", "13", "+14"]
-attack: "1 trample"
+stats: ["24", "122", "13", "near"]
+attack: "+14 (`dice: 1d20+14`) 1 trample"
 damage: "3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+8", "+6", "+7", "+6", "+6", "+7"]
 actions:
   - name: trample

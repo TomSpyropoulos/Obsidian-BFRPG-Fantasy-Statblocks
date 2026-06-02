@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "19", "+8"]
-attack: "1 slam or 1 water jet"
+stats: ["8", "36", "19", "double near"]
+attack: "+8 (`dice: 1d20+8`) 1 slam or 1 water jet"
 damage: "2d8 (`dice:2d8`) slam, 2d6 (`dice:2d6`) water jet"
-speed: "double near"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
 traits:
   - name: Create Food and Drink

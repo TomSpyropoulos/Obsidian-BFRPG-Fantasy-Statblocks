@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "15", "+1"]
-attack: "2 sphere shots (1d4)"
+stats: ["1", "4", "15", "double near"]
+attack: "+1 (`dice: 1d20+1`) 2 sphere shots (1d4)"
 damage: "1d4 (`dice:1d4`) sphere shot"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
 traits:
   - name: Sphere Shots

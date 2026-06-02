@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "13", "+7"]
-attack: "1 kick (2d4)"
+stats: ["7", "31", "13", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 kick (2d4)"
 damage: "2d4 (`dice:2d4`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
   - name: kick (2d4)

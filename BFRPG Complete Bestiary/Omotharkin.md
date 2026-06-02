@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "10", "+4"]
-attack: "1 grab (1d4 + 1 pt. CON loss)"
+stats: ["4", "18", "10", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 grab (1d4 + 1 pt. CON loss)"
 damage: "1d4 + 1 (`dice:1d4+1`) pt. CON loss"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Grab Attack

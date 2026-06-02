@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "19", "+9"]
-attack: "1 weapon plus energy drain"
+stats: ["10", "54", "19", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 weapon plus energy drain"
 damage: "1d10+3 (`dice:1d10+3`) plus energy"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Aura of Fear

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "1 bite or breath"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite or breath"
 damage: "1d6 (`dice:1d6`) bite, 4d6 (`dice:4d6`) breath"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Breath Weapon

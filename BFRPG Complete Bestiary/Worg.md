@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "13", "+3"]
-attack: "1 bite"
+stats: ["3", "13", "13", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 bite"
 damage: "1d6 (`dice:1d6`) bite"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Languages

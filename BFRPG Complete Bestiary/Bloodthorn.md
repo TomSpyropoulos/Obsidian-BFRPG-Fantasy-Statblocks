@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "12", "+4"]
-attack: "2 whip-like tendrils"
+stats: ["4", "18", "12", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 whip-like tendrils"
 damage: "1d6 (`dice:1d6`) + Grapple"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Grapple

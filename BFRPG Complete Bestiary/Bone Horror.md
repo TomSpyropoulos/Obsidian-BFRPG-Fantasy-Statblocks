@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "13", "+4"]
-attack: "2 claws or 1 sting"
+stats: ["4", "18", "13", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 2 claws or 1 sting"
 damage: "1d6+3 (`dice:1d6+3`) claw or 1d4 (`dice:1d4`)+poison sting"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+1", "+3", "+6"]
 traits:
   - name: Immunity to mundane weapons

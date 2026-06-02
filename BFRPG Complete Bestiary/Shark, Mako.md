@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "14", "+4"]
-attack: "1 bite (2d6)"
+stats: ["4", "18", "14", "double near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite (2d6)"
 damage: "-"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Leap

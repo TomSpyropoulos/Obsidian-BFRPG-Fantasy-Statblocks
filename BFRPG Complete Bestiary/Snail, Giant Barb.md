@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "16", "+4"]
-attack: "1 bite or 1 barb"
+stats: ["4", "18", "16", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite or 1 barb"
 damage: "1d8 (`dice:1d8`) bite, 1d4 (`dice:1d4`) barb"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Barb Attack

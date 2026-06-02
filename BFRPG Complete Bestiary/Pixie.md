@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "16", "+1"]
-attack: "1 dagger (1d4)"
+stats: ["1", "4", "16", "near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 dagger (1d4)"
 damage: "1d4 (`dice:1d4`)"
-speed: "near (fly)"
 attributes: ["+2", "+1", "-1", "+1", "+1", "+0"]
 traits:
   - name: Invisible

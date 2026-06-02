@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "14", "+4"]
-attack: "2 claws/1 bite/1 horn"
+stats: ["4", "18", "14", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 2 claws/1 bite/1 horn"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d6 (`dice:1d6`)/1d4 (`dice:1d4`)"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
 traits:
   - name: Stone Disguise

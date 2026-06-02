@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "15", "+3"]
-attack: "1 weapon, 1 beak, or special"
+stats: ["3", "13", "15", "near (fly)"]
+attack: "+3 (`dice: 1d20+3`) 1 weapon, 1 beak, or special"
 damage: "1d6 (`dice:1d6`) or by weapon, 1d4 (`dice:1d4`) beak, or special"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
 traits:
   - name: Dual Nature

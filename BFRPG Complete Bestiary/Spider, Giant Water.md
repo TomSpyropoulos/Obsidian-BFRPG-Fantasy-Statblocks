@@ -16,10 +16,9 @@ level: "3"
 hp: 16
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "16", "14", "+3"]
-attack: "1 bite (1d4 + poison)"
+stats: ["3", "16", "14", "double near"]
+attack: "+3 (`dice: 1d20+3`) 1 bite (1d4 + poison)"
 damage: "-"
-speed: "double near"
 attributes: ["+2", "+1", "+1", "+0", "+0", "+0"]
 traits:
   - name: Air-breather

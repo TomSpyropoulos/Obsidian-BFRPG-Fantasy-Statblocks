@@ -16,10 +16,9 @@ level: "7"
 hp: 33
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "33", "17", "+7"]
-attack: "1 dagger (special) or special"
+stats: ["7", "33", "17", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 1 dagger (special) or special"
 damage: "2d4 (`dice:2d4`) special dagger or special"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+3"]
 traits:
   - name: Magical Venomous Dagger

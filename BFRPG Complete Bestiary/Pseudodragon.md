@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "17", "+2"]
-attack: "1 bite or 1 sting + poison"
+stats: ["2", "9", "17", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 1 bite or 1 sting + poison"
 damage: "1 point bite, 1d3 (`dice:1d3`) sting + poison (sleep)"
-speed: "near (fly)"
 attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
   - name: Telepathy

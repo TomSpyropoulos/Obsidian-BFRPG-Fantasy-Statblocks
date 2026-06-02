@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "6", "+2"]
-attack: "1 bite (1d4) / 2 claw (1d4)"
+stats: ["2", "9", "6", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bite (1d4) / 2 claw (1d4)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Leap

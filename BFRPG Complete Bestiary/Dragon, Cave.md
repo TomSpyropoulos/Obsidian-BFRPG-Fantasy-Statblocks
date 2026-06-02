@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "48", "20", "+8"]
-attack: "2 claws / 1 bite or breath / 1 tail"
+stats: ["9", "48", "20", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite or breath / 1 tail"
 damage: "1d6 (`dice:1d6`) claw, 3d8 (`dice:3d8`) bite or Sonic Breath, 1d6 (`dice:1d6`) tail"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Echolocation

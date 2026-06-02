@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "15", "+6"]
-attack: "3 bites (1d6 snake bite, 1d8 panther bite)"
+stats: ["6", "27", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 3 bites (1d6 snake bite, 1d8 panther bite)"
 damage: "1d6 (`dice:1d6`) snake bite, 1d8 (`dice:1d8`) panther bite"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Displacement

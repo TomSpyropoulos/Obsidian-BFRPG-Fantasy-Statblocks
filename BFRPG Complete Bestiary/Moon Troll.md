@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "15", "+10"]
-attack: "2 claws, 1 bite"
+stats: ["12", "64", "15", "near"]
+attack: "+10 (`dice: 1d20+10`) 2 claws, 1 bite"
 damage: "2d6 (`dice:2d6`) claw, 3d4 (`dice:3d4`) bite"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Silver or magical weapons required

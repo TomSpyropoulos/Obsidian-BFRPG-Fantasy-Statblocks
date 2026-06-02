@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "14", "+2"]
-attack: "None"
+stats: ["2", "9", "14", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) None"
 damage: "Special"
-speed: "near (fly)"
 attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
 traits:
   - name: Dream Consumption

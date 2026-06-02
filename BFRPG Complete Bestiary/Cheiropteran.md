@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "15", "+4"]
-attack: "1 weapon"
+stats: ["4", "18", "15", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 weapon"
 damage: "By weapon +2"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Echolocation

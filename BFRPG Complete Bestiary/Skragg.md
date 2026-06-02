@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "13", "+4"]
-attack: "2 claws (1d4) / 1 bite (1d8)"
+stats: ["4", "18", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 claws (1d4) / 1 bite (1d8)"
 damage: "-"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Regeneration

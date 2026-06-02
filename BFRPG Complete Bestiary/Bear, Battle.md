@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "19", "+8"]
-attack: "2 claws + hug or 2 spears"
+stats: ["8", "36", "19", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws + hug or 2 spears"
 damage: "1d4+1 (`dice:1d4+1`) claw, 2d8 (`dice:2d8`) hug, 1d6 (`dice:1d6`) spear"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Four Arms

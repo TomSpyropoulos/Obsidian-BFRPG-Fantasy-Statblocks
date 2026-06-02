@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "11", "+2"]
-attack: "1 dagger or 1 spell"
+stats: ["2", "9", "11", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or per spell"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Undead Resilience

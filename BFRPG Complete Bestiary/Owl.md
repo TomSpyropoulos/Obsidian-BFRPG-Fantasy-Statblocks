@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 2
-stats: ["1", "4", "14", "+1"]
-attack: "2 talons (1d4) / 1 beak (1d4)"
+stats: ["1", "4", "14", "double near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Silent Flight

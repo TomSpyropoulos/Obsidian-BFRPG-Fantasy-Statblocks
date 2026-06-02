@@ -16,10 +16,9 @@ level: "8"
 hp: 58
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "58", "17", "+8"]
-attack: "2 \u00d7 fist (1d6 / 1d8 / 1d8)"
+stats: ["8", "58", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 \u00d7 fist (1d6 / 1d8 / 1d8)"
 damage: "-"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Engulf and Heal

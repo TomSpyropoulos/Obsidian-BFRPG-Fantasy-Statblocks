@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "15", "+7"]
-attack: "2 claws / 1 bite / hug / additional set of legs"
+stats: ["7", "31", "15", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws / 1 bite / hug / additional set of legs"
 damage: "2d4 (`dice:2d4`) claw, 2d6 (`dice:2d6`) bite, 2d6 (`dice:2d6`) hug, use of additional sets of legs until a claw attack misses"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Multi-Legged Attack

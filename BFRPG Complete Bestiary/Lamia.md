@@ -16,10 +16,9 @@ level: "6"
 hp: 28
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "28", "17", "+6"]
-attack: "1 bite / 1 Constrict / 1 weapon"
+stats: ["6", "28", "17", "double near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite / 1 Constrict / 1 weapon"
 damage: "1d6 (`dice:1d6`)+poison bite, 2d6 (`dice:2d6`) constrict, by weapon"
-speed: "double near"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
 traits:
   - name: Poisonous Bite

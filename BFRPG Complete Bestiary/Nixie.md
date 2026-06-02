@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "15", "+1"]
-attack: "1 dagger"
+stats: ["1", "4", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 dagger"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "-1"]
 traits:
   - name: Powerful Charm

@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "15", "+7"]
-attack: "2 claws + poison / 1 bite + hug + sting"
+stats: ["7", "31", "15", "near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 2 claws + poison / 1 bite + hug + sting"
 damage: "1d4 (`dice:1d4`) + poison claw, 1d6 (`dice:1d6`) bite, 1d6 (`dice:1d6`) hug + 1d6 (`dice:1d6`) + poison sting"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Poisonous Claws

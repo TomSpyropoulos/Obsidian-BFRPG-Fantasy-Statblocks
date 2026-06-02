@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "16", "+10"]
-attack: "1 claw + special"
+stats: ["12", "64", "16", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 claw + special"
 damage: "1d8 (`dice:1d8`) + special"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Acid Spray

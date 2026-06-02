@@ -16,10 +16,9 @@ level: "17"
 hp: 88
 atk_bonus: "+12"
 modifier: 4
-stats: ["17", "88", "24", "+12"]
-attack: "1 + special"
+stats: ["17", "88", "24", "near"]
+attack: "+12 (`dice: 1d20+12`) 1 + special"
 damage: "4d10 (`dice:4d10`) + special"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+9"]
 traits:
   - name: Poisonous Gas

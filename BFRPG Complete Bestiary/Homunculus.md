@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "13", "+2"]
-attack: "1 bite + poison"
+stats: ["2", "9", "13", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bite + poison"
 damage: "1d4-1 (`dice:1d4-1`) + poison"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Telepathic Link

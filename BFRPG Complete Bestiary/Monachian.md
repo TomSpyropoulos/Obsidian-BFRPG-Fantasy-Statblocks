@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "13", "+4"]
-attack: "1 weapon + gaze or spell"
+stats: ["4", "18", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 weapon + gaze or spell"
 damage: "1d8 (`dice:1d8`) + paralysis or by spell"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+3"]
 traits:
   - name: Gaze Attack

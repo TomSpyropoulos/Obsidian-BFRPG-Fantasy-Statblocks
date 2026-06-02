@@ -16,10 +16,9 @@ level: "11"
 hp: 49
 atk_bonus: "+9"
 modifier: 3
-stats: ["11", "49", "19", "+9"]
-attack: "1 stomp / 1 bite / 1 eye beam"
+stats: ["11", "49", "19", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 1 stomp / 1 bite / 1 eye beam"
 damage: "3d6 (`dice:3d6`) stomp, 2d6 (`dice:2d6`) bite, or eye beam (see below)"
-speed: "near (fly)"
 attributes: ["+2", "+3", "+2", "+4", "+2", "+6"]
 traits:
   - name: Wail

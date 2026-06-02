@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "15", "+8"]
-attack: "2 claws / 1 bite"
+stats: ["8", "36", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "1d8 (`dice:1d8`) claw, 1d12 (`dice:1d12`) bite"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Stealth

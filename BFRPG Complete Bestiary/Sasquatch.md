@@ -16,10 +16,9 @@ level: "5"
 hp: 27
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "27", "14", "+5"]
-attack: "2 fists"
+stats: ["5", "27", "14", "near"]
+attack: "+5 (`dice: 1d20+5`) 2 fists"
 damage: "1d6 (`dice:1d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+2"]
 traits:
   - name: Superior Nocturnal Vision

@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "14", "+4"]
-attack: "1 touch (1d6 + energy drain (1 level))"
+stats: ["4", "18", "14", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 touch (1d6 + energy drain (1 level))"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+6"]
 traits:
   - name: Energy Drain

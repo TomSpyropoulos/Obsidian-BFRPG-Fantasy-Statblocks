@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "19", "+8"]
-attack: "2 fists"
+stats: ["9", "48", "19", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 fists"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Cold and Fire Vulnerability

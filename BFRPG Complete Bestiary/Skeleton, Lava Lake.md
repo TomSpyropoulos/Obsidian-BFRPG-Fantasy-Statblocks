@@ -16,10 +16,9 @@ level: "7"
 hp: 33
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "33", "16", "+7"]
-attack: "1 giant weapon or 1 thrown lava rock"
+stats: ["7", "33", "16", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 giant weapon or 1 thrown lava rock"
 damage: "3d6 (`dice:3d6`) weapon or 2d6 (`dice:2d6`) thrown rock"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Lava Rock

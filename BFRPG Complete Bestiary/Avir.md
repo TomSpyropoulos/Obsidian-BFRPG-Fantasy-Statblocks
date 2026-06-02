@@ -16,10 +16,9 @@ level: "1"
 hp: 7
 atk_bonus: "+1"
 modifier: 2
-stats: ["1", "7", "14", "+1"]
-attack: "2 kicks / 1 lance"
+stats: ["1", "7", "14", "double near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 2 kicks / 1 lance"
 damage: "1d4 (`dice:1d4`) kick, or by weapon"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+1", "+0", "+0", "+1"]
 traits:
   - name: Dive Attack

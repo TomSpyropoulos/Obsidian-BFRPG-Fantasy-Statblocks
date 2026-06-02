@@ -16,10 +16,9 @@ level: "6"
 hp: 30
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "30", "15", "+6"]
-attack: "2 claws (humanoid) / 1 bite (dog)"
+stats: ["6", "30", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 claws (humanoid) / 1 bite (dog)"
 damage: "1d6 (`dice:1d6`) claw or 2d4 (`dice:2d4`) bite"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Terrifying Gaze

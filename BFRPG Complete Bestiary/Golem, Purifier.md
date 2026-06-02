@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "17", "+8"]
-attack: "2 fists or 1 flame"
+stats: ["8", "36", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 fists or 1 flame"
 damage: "2d10 (`dice:2d10`) fist, 3d6 (`dice:3d6`) flame"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
 traits:
   - name: Flame Attack

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "22", "12", "+5"]
-attack: "1 bite (2d6)"
+stats: ["5", "22", "12", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 bite (2d6)"
 damage: "2d6 (`dice:2d6`)"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite (2d6)

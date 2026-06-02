@@ -16,10 +16,9 @@ level: "4"
 hp: 22
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "22", "14", "+4"]
-attack: "Up to 8 whip or grab"
+stats: ["4", "22", "14", "double near"]
+attack: "+4 (`dice: 1d20+4`) Up to 8 whip or grab"
 damage: "1d4 (`dice:1d4`) whip, or 1d2 (`dice:1d2`) + bind grab"
-speed: "double near"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+4"]
 traits:
   - name: Whip and Grab

@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "13", "+10"]
-attack: "1 tail lash (2d6)"
+stats: ["12", "64", "13", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 tail lash (2d6)"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 traits:
   - name: Superior Senses

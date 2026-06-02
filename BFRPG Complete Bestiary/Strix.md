@@ -16,10 +16,9 @@ level: "1"
 hp: 5
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "5", "11", "+1"]
-attack: "1 bite (1d4)"
+stats: ["1", "5", "11", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite (1d4)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Terrifying Scream

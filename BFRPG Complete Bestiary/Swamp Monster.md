@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "15", "+5"]
-attack: "2 strikes (1d6 each)"
+stats: ["5", "22", "15", "near"]
+attack: "+5 (`dice: 1d20+5`) 2 strikes (1d6 each)"
 damage: "1d6 (`dice:1d6`) strike"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Natural Camouflage

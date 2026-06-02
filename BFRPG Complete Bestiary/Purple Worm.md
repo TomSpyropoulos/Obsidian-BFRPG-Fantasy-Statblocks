@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "15", "+9"]
-attack: "1 bite/1 sting"
+stats: ["11", "58", "15", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 bite/1 sting"
 damage: "2d8 (`dice:2d8`)/1d8 (`dice:1d8`)+poison"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Poisonous Stinger

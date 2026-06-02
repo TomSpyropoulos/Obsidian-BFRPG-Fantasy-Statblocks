@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "14", "+7"]
-attack: "2 claws, 1 bite"
+stats: ["7", "31", "14", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite"
 damage: "1d8 (`dice:1d8`) claw, 2d6 (`dice:2d6`) bite"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Surprise

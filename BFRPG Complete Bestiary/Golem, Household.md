@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "2", "10", "+0"]
-attack: "1"
+stats: ["1", "2", "10", "near"]
+attack: "+0 (`dice: 1d20+0`) 1"
 damage: "1"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 actions:
   - name: 1

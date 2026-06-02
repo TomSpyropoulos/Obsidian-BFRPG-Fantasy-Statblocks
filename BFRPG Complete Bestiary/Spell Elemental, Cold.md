@@ -16,10 +16,9 @@ level: "16"
 hp: 84
 atk_bonus: "+12"
 modifier: 4
-stats: ["16", "84", "21", "+12"]
-attack: "1"
+stats: ["16", "84", "21", "near"]
+attack: "+12 (`dice: 1d20+12`) 1"
 damage: "3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+7"]
 actions:
   - name: 1

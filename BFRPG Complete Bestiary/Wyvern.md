@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "17", "+7"]
-attack: "-"
+stats: ["7", "31", "17", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) -"
 damage: "2d8 (`dice:2d8`)/1d6 (`dice:1d6`) + poison or 1d10 (`dice:1d10`)/1d10 (`dice:1d10`)/1d6 (`dice:1d6`) + poison"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Poisonous Stinger

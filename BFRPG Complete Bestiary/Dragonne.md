@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "48", "17", "+8"]
-attack: "2 claws / 1 bite"
+stats: ["9", "48", "17", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "2d6 (`dice:2d6`) claw, 2d4 (`dice:2d4`) bite"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
 traits:
   - name: Roar

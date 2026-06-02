@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "10", "+10"]
-attack: "1 swarm of mirror butterflies"
+stats: ["12", "64", "10", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 swarm of mirror butterflies"
 damage: "3d6 (`dice:3d6`) + blind"
-speed: "near"
 attributes: ["+3", "+3", "+4", "+5", "+3", "+2"]
 traits:
   - name: Mirror Butterflies

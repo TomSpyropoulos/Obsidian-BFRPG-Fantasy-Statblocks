@@ -16,10 +16,9 @@ level: "4"
 hp: 19
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "19", "13", "+4"]
-attack: "2 fists + swallow"
+stats: ["4", "19", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 fists + swallow"
 damage: "1d8 (`dice:1d8`) fist + special"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Swallow Whole

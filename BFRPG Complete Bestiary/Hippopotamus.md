@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "16", "+6"]
-attack: "1 bite or 1 trample"
+stats: ["6", "27", "16", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite or 1 trample"
 damage: "2d6 (`dice:2d6`) bite, 4d6 (`dice:4d6`) trample"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 actions:
   - name: bite or 1 trample

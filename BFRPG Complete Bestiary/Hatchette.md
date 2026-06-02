@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "12", "+4"]
-attack: "2 claws / 1 beak"
+stats: ["4", "18", "12", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 claws / 1 beak"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) beak"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Axe-like Beak

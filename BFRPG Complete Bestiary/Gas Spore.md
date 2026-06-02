@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 1
-stats: ["1", "2", "10", "+0"]
-attack: "1 touch or special"
+stats: ["1", "2", "10", "near (fly)"]
+attack: "+0 (`dice: 1d20+0`) 1 touch or special"
 damage: "See below"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+5"]
 traits:
   - name: Explosion

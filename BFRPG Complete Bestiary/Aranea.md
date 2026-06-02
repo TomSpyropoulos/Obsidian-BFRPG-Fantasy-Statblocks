@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "12", "+4"]
-attack: "spider form: 1 bite, web, or spells / hybrid form: 1 bite, web, spells, or weapon / humanoid form: spells or weapon"
+stats: ["4", "18", "12", "near"]
+attack: "+4 (`dice: 1d20+4`) spider form: 1 bite, web, or spells / hybrid form: 1 bite, web, spells, or weapon / humanoid form: spells or weapon"
 damage: "1d6 (`dice:1d6`) bite+poison or by weapon"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
   - name: Shapechanger

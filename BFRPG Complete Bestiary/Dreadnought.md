@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "23", "+9"]
-attack: "1 lance or 2 cannons"
+stats: ["10", "54", "23", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 lance or 2 cannons"
 damage: "2d12 (`dice:2d12`) lance, 3d6 (`dice:3d6`) cannon"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Cannon Range

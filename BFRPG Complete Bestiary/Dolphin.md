@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "14", "+2"]
-attack: "1 ram"
+stats: ["2", "9", "14", "double near"]
+attack: "+2 (`dice: 1d20+2`) 1 ram"
 damage: "2d4 (`dice:2d4`)"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
 actions:
   - name: ram

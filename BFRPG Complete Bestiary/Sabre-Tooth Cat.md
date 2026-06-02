@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "13", "+8"]
-attack: "2 claws/1 bite"
+stats: ["8", "36", "13", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Ambush Predator

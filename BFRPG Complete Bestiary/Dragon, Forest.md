@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "18", "+8"]
-attack: "2 claws/1 bite or breath/1 tail"
+stats: ["8", "36", "18", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath/1 tail"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/3d8 (`dice:3d8`) or breath/1d6 (`dice:1d6`)"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+3"]
 traits:
   - name: Poison Immunity

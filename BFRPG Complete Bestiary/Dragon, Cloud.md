@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 4
-stats: ["11", "58", "21", "+9"]
-attack: "2 claws, 1 bite or breath, 1 tail"
+stats: ["11", "58", "21", "double near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws, 1 bite or breath, 1 tail"
 damage: "2d4 (`dice:2d4`) claw, 6d6 (`dice:6d6`) bite or breath, 2d4 (`dice:2d4`) tail"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
 traits:
   - name: Variable Breath Weapon

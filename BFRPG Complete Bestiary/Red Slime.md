@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "10", "+1"]
-attack: "1 slam"
+stats: ["1", "4", "10", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 slam"
 damage: "1d4 (`dice:1d4`) (1HD), 1d6 (`dice:1d6`) (2HD), 1d8 (`dice:1d8`) (3HD), 1d10 (`dice:1d10`) (4HD), 1d12 (`dice:1d12`) (5HD), or 2d8 (`dice:2d8`) (6HD)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Pseudopod

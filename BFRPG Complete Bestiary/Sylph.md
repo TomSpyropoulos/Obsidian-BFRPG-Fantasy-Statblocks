@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 2
-stats: ["3", "13", "10", "+3"]
-attack: "None (special, see below)"
+stats: ["3", "13", "10", "double near (fly)"]
+attack: "+3 (`dice: 1d20+3`) None (special, see below)"
 damage: "None"
-speed: "double near (fly)"
 attributes: ["+0", "+2", "+0", "+2", "+0", "+0"]
 traits:
   - name: Weather Immunity

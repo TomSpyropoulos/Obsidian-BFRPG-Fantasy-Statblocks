@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "48", "28", "+8"]
-attack: "1 shock (2d8)"
+stats: ["9", "48", "28", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 1 shock (2d8)"
 damage: "-"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+7"]
 traits:
   - name: Avoids Combat

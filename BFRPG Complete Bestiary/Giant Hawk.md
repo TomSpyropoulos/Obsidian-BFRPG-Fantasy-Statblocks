@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "13", "+4"]
-attack: "1 claw or bite"
+stats: ["4", "18", "13", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 claw or bite"
 damage: "1d6 (`dice:1d6`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 actions:
   - name: claw or bite

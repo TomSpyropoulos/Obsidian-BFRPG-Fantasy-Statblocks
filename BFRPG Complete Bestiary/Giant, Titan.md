@@ -16,10 +16,9 @@ level: "17"
 hp: 88
 atk_bonus: "+12"
 modifier: 4
-stats: ["17", "88", "15", "+12"]
-attack: "1 giant weapon or 1 thrown rock or Spell"
+stats: ["17", "88", "15", "near"]
+attack: "+12 (`dice: 1d20+12`) 1 giant weapon or 1 thrown rock or Spell"
 damage: "7d6 (`dice:7d6`) giant weapon, 6d6 (`dice:6d6`) rock, or by spell"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+5"]
 traits:
   - name: Spellcasting

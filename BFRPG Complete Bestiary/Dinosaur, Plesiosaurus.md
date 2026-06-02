@@ -16,10 +16,9 @@ level: "20"
 hp: 103
 atk_bonus: "+13"
 modifier: 6
-stats: ["20", "103", "12", "+13"]
-attack: "1 bite"
+stats: ["20", "103", "12", "double near"]
+attack: "+13 (`dice: 1d20+13`) 1 bite"
 damage: "2d10 (`dice:2d10`)"
-speed: "double near"
 attributes: ["+7", "+6", "+6", "+5", "+5", "+6"]
 traits:
   - name: Grapple and Drag

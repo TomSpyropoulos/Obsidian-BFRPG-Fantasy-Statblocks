@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "27", "14", "+6"]
-attack: "1 touch + insane babbling"
+stats: ["6", "27", "14", "near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 1 touch + insane babbling"
 damage: "energy drain (1 level)"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+6"]
 traits:
   - name: Insane babbling

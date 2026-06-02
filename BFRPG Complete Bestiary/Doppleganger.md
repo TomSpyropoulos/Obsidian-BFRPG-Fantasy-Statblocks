@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "14", "+4"]
-attack: "1 fist or Weapon"
+stats: ["4", "18", "14", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 fist or Weapon"
 damage: "1d12 (`dice:1d12`) or by weapon"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Shapechange

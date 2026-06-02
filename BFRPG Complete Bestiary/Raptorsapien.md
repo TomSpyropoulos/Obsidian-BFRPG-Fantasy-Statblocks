@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "16", "+6"]
-attack: "1 weapon / 1 bite or 1 tail"
+stats: ["6", "27", "16", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 weapon / 1 bite or 1 tail"
 damage: "1d8 (`dice:1d8`) or by weapon, 1d8 (`dice:1d8`) bite or 1d10 (`dice:1d10`) tail"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Tail Attack

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 3
-stats: ["6", "27", "17", "+6"]
-attack: "2 claws/1 bite"
+stats: ["6", "27", "17", "double near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Snatch

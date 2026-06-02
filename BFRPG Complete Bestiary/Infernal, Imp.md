@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "18", "+2"]
-attack: "1 tail stinger (1d4 + poison)"
+stats: ["2", "9", "18", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 1 tail stinger (1d4 + poison)"
 damage: "1d4 (`dice:1d4`) + poison"
-speed: "near (fly)"
 attributes: ["+0", "+1", "+0", "+0", "+2", "+0"]
 traits:
   - name: Shapeshifter

@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "17", "+4"]
-attack: "1 bite"
+stats: ["4", "18", "17", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite"
 damage: "3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 actions:
   - name: bite

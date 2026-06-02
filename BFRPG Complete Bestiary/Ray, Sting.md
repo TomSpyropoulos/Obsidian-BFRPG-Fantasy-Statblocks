@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "12", "+1"]
-attack: "1 sting (1d4 + poison)"
+stats: ["1", "4", "12", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 sting (1d4 + poison)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Concealment

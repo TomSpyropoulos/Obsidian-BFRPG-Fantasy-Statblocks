@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "15", "+8"]
-attack: "4 tentacles"
+stats: ["8", "36", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 4 tentacles"
 damage: "1d6 (`dice:1d6`) tentacle"
-speed: "near"
 attributes: ["+2", "+2", "+2", "+4", "+2", "+4"]
 traits:
   - name: Tentacle Transformation

@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "17", "+8"]
-attack: "1 punch, 1 weapon or 1 trample"
+stats: ["9", "48", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 punch, 1 weapon or 1 trample"
 damage: "1d6 (`dice:1d6`) punch, by weapon, 3d6 (`dice:3d6`) trample"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Alertness

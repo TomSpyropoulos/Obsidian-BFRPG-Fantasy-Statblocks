@@ -16,10 +16,9 @@ level: "14"
 hp: 74
 atk_bonus: "+11"
 modifier: 3
-stats: ["14", "74", "19", "+11"]
-attack: "1 weapon"
+stats: ["14", "74", "19", "near"]
+attack: "+11 (`dice: 1d20+11`) 1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
 traits:
   - name: Strength Bonus

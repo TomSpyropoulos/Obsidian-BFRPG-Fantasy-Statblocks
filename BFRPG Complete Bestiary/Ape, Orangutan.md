@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "12", "+2"]
-attack: "1 maul"
+stats: ["2", "9", "12", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 maul"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: maul

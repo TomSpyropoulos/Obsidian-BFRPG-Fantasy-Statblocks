@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "18", "+8"]
-attack: "1 gore or breath"
+stats: ["8", "36", "18", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 1 gore or breath"
 damage: "3d8 (`dice:3d8`) gore or 7d8 (`dice:7d8`) breath"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+3"]
 traits:
   - name: Breath Weapon

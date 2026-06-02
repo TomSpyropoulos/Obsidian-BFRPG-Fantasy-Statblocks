@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 4
-stats: ["12", "64", "24", "+10"]
-attack: "1 weapon"
+stats: ["12", "64", "24", "near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 1 weapon"
 damage: "By weapon +3"
-speed: "near (fly)"
 attributes: ["+3", "+4", "+4", "+3", "+5", "+7"]
 traits:
   - name: Teleport

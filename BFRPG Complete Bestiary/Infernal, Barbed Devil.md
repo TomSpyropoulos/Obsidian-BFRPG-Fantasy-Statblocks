@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "19", "+8"]
-attack: "2 claws / 1 tail / plus special"
+stats: ["8", "36", "19", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 tail / plus special"
 damage: "2d4 (`dice:2d4`) claw, 3d4 (`dice:3d4`) tail plus special"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Freakishly perceptive

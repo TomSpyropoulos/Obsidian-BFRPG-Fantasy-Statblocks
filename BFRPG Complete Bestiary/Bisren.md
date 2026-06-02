@@ -16,10 +16,9 @@ level: "1"
 hp: 6
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "6", "14", "+1"]
-attack: "1 gore, charge, or by weapon"
+stats: ["1", "6", "14", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 gore, charge, or by weapon"
 damage: "1d6 (`dice:1d6`), charge, or by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: Gore

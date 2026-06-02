@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "16", "+7"]
-attack: "1 bite (2d8 + poison) / 2 claws (1d10) / breath"
+stats: ["7", "31", "16", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 bite (2d8 + poison) / 2 claws (1d10) / breath"
 damage: "2d8 (`dice:2d8`) bite + poison, 1d10 (`dice:1d10`) claw, or breath"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Breath Weapon

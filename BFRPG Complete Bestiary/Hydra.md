@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "15", "+5"]
-attack: "5 to 12 bites"
+stats: ["5", "22", "15", "near"]
+attack: "+5 (`dice: 1d20+5`) 5 to 12 bites"
 damage: "1d10 (`dice:1d10`) per bite"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Multiple Heads

@@ -16,10 +16,9 @@ level: "10"
 hp: 45
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "45", "17", "+9"]
-attack: "2 sabre claws / 1 bite / 1 breath weapon"
+stats: ["10", "45", "17", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 sabre claws / 1 bite / 1 breath weapon"
 damage: "1d6+3 (`dice:1d6+3`) claw, 4d4 (`dice:4d4`) bite or 6d6 (`dice:6d6`) breath"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Ambush

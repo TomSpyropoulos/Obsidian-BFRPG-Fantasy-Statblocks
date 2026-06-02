@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "13", "+2"]
-attack: "2 claws / 1 bite"
+stats: ["2", "9", "13", "near"]
+attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) all + paralysis"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Paralysis

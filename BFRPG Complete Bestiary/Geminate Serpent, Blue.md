@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "18", "+7"]
-attack: "2 bite or 1 breath or 1 constrict"
+stats: ["7", "31", "18", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 bite or 1 breath or 1 constrict"
 damage: "2d12 (`dice:2d12`) bite, breath, 3d4 (`dice:3d4`)* constrict*"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
 traits:
   - name: Freeze Breath

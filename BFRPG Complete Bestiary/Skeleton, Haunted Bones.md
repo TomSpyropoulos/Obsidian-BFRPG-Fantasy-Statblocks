@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "12", "+3"]
-attack: "1 bludgeon or weapon"
+stats: ["3", "13", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 bludgeon or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+4"]
 traits:
   - name: Resistance to Physical Damage

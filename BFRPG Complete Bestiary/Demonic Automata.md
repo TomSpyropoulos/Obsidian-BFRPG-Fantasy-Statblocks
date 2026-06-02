@@ -16,10 +16,9 @@ level: "12"
 hp: 54
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "54", "19", "+10"]
-attack: "6 blades or spell"
+stats: ["12", "54", "19", "near"]
+attack: "+10 (`dice: 1d20+10`) 6 blades or spell"
 damage: "2d12 (`dice:2d12`) blade, by spell"
-speed: "near"
 attributes: ["+5", "+3", "+3", "+3", "+3", "+8"]
 traits:
   - name: Horrifying Visage

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "1 quill burst / 1 bite (see below)"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 quill burst / 1 bite (see below)"
 damage: "See below for quill burst, 2d4 (`dice:2d4`) bite"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+0"]
 traits:
   - name: Quill Burst

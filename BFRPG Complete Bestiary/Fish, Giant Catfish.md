@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "15", "+8"]
-attack: "1 bite/2 fins"
+stats: ["8", "36", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 bite/2 fins"
 damage: "2d8 (`dice:2d8`)/1d4 (`dice:1d4`)+poison/1d4 (`dice:1d4`)+poison"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Fin Poison

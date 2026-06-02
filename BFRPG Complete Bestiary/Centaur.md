@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "14", "+4"]
-attack: "2 hooves/1 weapon"
+stats: ["4", "18", "14", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 hooves/1 weapon"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`) or by weapon"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Charge

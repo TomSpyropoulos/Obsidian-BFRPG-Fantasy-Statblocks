@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "17", "+6"]
-attack: "4 or 2"
+stats: ["6", "27", "17", "near"]
+attack: "+6 (`dice: 1d20+6`) 4 or 2"
 damage: "1d8 (`dice:1d8`) or by weapons"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Four Arms

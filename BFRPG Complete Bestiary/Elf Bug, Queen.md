@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "14", "+7"]
-attack: "1 weapon or magic missile"
+stats: ["7", "31", "14", "near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 1 weapon or magic missile"
 damage: "1d6 (`dice:1d6`) or by weapon or magic missile"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+3", "+1", "+4"]
 traits:
   - name: Energy Bolts

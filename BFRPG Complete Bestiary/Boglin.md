@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "10", "+1"]
-attack: "1 weapon or spell"
+stats: ["1", "4", "10", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 weapon or spell"
 damage: "1d6 (`dice:1d6`) or by weapon, or per spell"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+1"]
 traits:
   - name: Magic-User Abilities

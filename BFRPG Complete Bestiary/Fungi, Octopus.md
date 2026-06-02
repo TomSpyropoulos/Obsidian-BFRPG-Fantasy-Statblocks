@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "1 tentacle or 1 tentacle + bite (at +4)"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 tentacle or 1 tentacle + bite (at +4)"
 damage: "1d6 (`dice:1d6`) tentacle, 1d10 (`dice:1d10`) bite"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Tentacle Grab

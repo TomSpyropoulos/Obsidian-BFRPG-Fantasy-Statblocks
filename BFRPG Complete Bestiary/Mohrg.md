@@ -16,10 +16,9 @@ level: "14"
 hp: 74
 atk_bonus: "+11"
 modifier: 3
-stats: ["14", "74", "22", "+11"]
-attack: "1 slam or 1 tongue"
+stats: ["14", "74", "22", "near"]
+attack: "+11 (`dice: 1d20+11`) 1 slam or 1 tongue"
 damage: "1d6 (`dice:1d6`) or special"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Paralyzing Tongue

@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "12", "+2"]
-attack: "1 fist or beam weapon"
+stats: ["2", "9", "12", "double near"]
+attack: "+2 (`dice: 1d20+2`) 1 fist or beam weapon"
 damage: "1d3 (`dice:1d3`) fist, 1d8 (`dice:1d8`) beam weapon"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Beam Weapon

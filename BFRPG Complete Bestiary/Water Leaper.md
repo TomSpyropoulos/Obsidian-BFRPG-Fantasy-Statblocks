@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "22", "15", "+5"]
-attack: "1 bite (2d6) / 1 sting (1d3 + paralysis)"
+stats: ["5", "22", "15", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 bite (2d6) / 1 sting (1d3 + paralysis)"
 damage: "2d6 (`dice:2d6`) bite, 1d3 (`dice:1d3`) sting + paralysis"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 traits:
   - name: Surprise Attack

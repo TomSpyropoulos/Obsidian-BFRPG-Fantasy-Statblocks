@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "14", "+10"]
-attack: "1 tail lash (1d4)"
+stats: ["12", "64", "14", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 tail lash (1d4)"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+2"]
 actions:
   - name: tail lash (1d4)

@@ -16,10 +16,9 @@ level: "1"
 hp: 1
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "1", "16", "+0"]
-attack: "1 ramming (1d4+1)"
+stats: ["1", "1", "16", "near"]
+attack: "+0 (`dice: 1d20+0`) 1 ramming (1d4+1)"
 damage: "1d4+1 (`dice:1d4+1`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Ramming

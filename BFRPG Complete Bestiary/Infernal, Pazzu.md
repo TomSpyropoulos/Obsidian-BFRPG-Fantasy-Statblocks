@@ -16,10 +16,9 @@ level: "9"
 hp: 40
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "40", "14", "+8"]
-attack: "2 claws (1d6) / 2 talons (1d8) / 1 bite (1d6)"
+stats: ["9", "40", "14", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws (1d6) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) talon, 1d6 (`dice:1d6`) bite"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+6"]
 traits:
   - name: Insect Plague

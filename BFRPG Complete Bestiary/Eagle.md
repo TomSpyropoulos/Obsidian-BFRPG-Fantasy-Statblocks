@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 2
-stats: ["2", "9", "12", "+2"]
-attack: "2 talons / 1 beak"
+stats: ["2", "9", "12", "double near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 2 talons / 1 beak"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d4 (`dice:1d4`)"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 actions:
   - name: talons

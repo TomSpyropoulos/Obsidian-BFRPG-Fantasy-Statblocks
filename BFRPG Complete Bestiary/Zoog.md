@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "2", "13", "+0"]
-attack: "1 dagger or 1 bite"
+stats: ["1", "2", "13", "near"]
+attack: "+0 (`dice: 1d20+0`) 1 dagger or 1 bite"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Despise cats

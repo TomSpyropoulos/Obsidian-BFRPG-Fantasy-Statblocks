@@ -16,10 +16,9 @@ level: "2"
 hp: 11
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "11", "13", "+2"]
-attack: "1 horn/head butt or 1 trample"
+stats: ["2", "11", "13", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 horn/head butt or 1 trample"
 damage: "1d4 (`dice:1d4`) butt, 2d4 (`dice:2d4`) trample"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "-2"]
 traits:
   - name: Stampede

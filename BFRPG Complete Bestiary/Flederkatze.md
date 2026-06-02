@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "18", "+2"]
-attack: "2 claws / 1 bite + poison"
+stats: ["2", "9", "18", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite + poison"
 damage: "1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
-speed: "near (fly)"
 attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
   - name: Echolocation

@@ -16,10 +16,9 @@ level: "7"
 hp: 32
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "32", "14", "+7"]
-attack: "1 fist or 1 whirlwind"
+stats: ["7", "32", "14", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 1 fist or 1 whirlwind"
 damage: "2d8 (`dice:2d8`) or 2d6 (`dice:2d6`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+6"]
 traits:
   - name: Magical Powers

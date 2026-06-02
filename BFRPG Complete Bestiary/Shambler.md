@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "19", "+10"]
-attack: "2 slam + constrict"
+stats: ["13", "68", "19", "near"]
+attack: "+10 (`dice: 1d20+10`) 2 slam + constrict"
 damage: "2d6 (`dice:2d6`) slam, 4d6 (`dice:4d6`) constrict"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Engulf

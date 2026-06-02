@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "19", "+9"]
-attack: "2 bites + lightning"
+stats: ["10", "54", "19", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 bites + lightning"
 damage: "2d4 (`dice:2d4`) bite, 1d8 (`dice:1d8`)/round lightning"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Lightning Aura

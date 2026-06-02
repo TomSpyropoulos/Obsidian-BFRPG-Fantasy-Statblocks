@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "12", "+4"]
-attack: "1 grapple"
+stats: ["4", "18", "12", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 grapple"
 damage: "Special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Grapple and Throttle

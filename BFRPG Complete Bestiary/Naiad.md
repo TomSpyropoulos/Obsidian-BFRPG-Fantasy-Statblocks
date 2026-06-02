@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "14", "+3"]
-attack: "1 special"
+stats: ["3", "13", "14", "double near"]
+attack: "+3 (`dice: 1d20+3`) 1 special"
 damage: "-"
-speed: "double near"
 attributes: ["+0", "+1", "+0", "+2", "+0", "-1"]
 traits:
   - name: Charm Person

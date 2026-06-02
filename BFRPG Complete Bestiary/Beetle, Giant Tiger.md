@@ -16,10 +16,9 @@ level: "3"
 hp: 14
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "14", "16", "+3"]
-attack: "1 bite (2d6)"
+stats: ["3", "14", "16", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 bite (2d6)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+2"]
 traits:
   - name: All-around Vision

@@ -16,10 +16,9 @@ level: "10"
 hp: 52
 atk_bonus: "+9"
 modifier: 3
-stats: ["10", "52", "23", "+9"]
-attack: "2 claws / 1 bite"
+stats: ["10", "52", "23", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
 traits:
   - name: Nearly Transparent

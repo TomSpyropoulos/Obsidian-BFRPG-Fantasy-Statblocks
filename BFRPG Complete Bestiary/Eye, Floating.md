@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 1
-stats: ["1", "2", "10", "+0"]
-attack: "Special, see below"
+stats: ["1", "2", "10", "double near"]
+attack: "+0 (`dice: 1d20+0`) Special, see below"
 damage: "None"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Paralyzing Gaze

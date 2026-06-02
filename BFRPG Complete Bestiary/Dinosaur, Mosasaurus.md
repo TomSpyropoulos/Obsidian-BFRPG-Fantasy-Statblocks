@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 4
-stats: ["12", "64", "12", "+10"]
-attack: "2 claws / 1 tail lash"
+stats: ["12", "64", "12", "double near"]
+attack: "+10 (`dice: 1d20+10`) 2 claws / 1 tail lash"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) tail lash"
-speed: "double near"
 attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
 actions:
   - name: claws

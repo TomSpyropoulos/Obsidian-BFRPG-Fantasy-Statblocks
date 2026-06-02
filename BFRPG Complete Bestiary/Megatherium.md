@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "12", "+8"]
-attack: "2 claws"
+stats: ["9", "48", "12", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws"
 damage: "1d10 (`dice:1d10`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 actions:
   - name: claws

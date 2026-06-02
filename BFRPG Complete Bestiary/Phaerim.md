@@ -16,10 +16,9 @@ level: "1d6"
 hp: 3
 atk_bonus: "+1"
 modifier: 1
-stats: ["1d6", "3", "14", "+1"]
-attack: "1 weapon"
+stats: ["1d6", "3", "14", "near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
-speed: "near (fly)"
 attributes: ["+2", "+1", "-1", "+1", "+1", "+1"]
 traits:
   - name: Hiding

@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "16", "+9"]
-attack: "1 tail/1 bite or 1 trample"
+stats: ["11", "58", "16", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 tail/1 bite or 1 trample"
 damage: "2d8 (`dice:2d8`)/1d6 (`dice:1d6`) or 2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 actions:
   - name: tail

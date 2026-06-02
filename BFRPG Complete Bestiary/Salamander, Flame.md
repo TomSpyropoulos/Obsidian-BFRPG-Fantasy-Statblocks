@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "18", "+8"]
-attack: "2 claws/1 bite + heat"
+stats: ["8", "36", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite + heat"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Heat Aura

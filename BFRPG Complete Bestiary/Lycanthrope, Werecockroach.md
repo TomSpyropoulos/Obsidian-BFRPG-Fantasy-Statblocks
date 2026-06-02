@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "14", "+3"]
-attack: "1 bite or 1 weapon"
+stats: ["3", "13", "14", "near (fly)"]
+attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+5", "+0", "+0", "+1"]
 traits:
   - name: Shapeshifting

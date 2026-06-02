@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "13", "+6"]
-attack: "2 claws / 1 bite / 1 hug / 1 phantasmal vision"
+stats: ["6", "27", "13", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 claws / 1 bite / 1 hug / 1 phantasmal vision"
 damage: "1d6 (`dice:1d6`) claw, 1d12 (`dice:1d12`) bite, 2d6 (`dice:2d6`) hug, phantasmal vision (see below)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Phantasmal Vision

@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "18", "+8"]
-attack: "2 fists (2d6/2d6)"
+stats: ["8", "36", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 fists (2d6/2d6)"
 damage: "-"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Camouflage

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "12", "+5"]
-attack: "1 bite + special"
+stats: ["5", "22", "12", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 bite + special"
 damage: "1d6 (`dice:1d6`) bite + special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Musk Spray

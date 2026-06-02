@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 3
-stats: ["5", "22", "15", "+5"]
-attack: "2 claws / 1 bite / 1d6 spikes"
+stats: ["5", "22", "15", "double near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 2 claws / 1 bite / 1d6 spikes"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite, 1d4 (`dice:1d4`) spikes"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+5"]
 traits:
   - name: Tail Spikes

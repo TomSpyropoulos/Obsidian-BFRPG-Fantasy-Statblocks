@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "10", "+1"]
-attack: "1 bite plus spines (special)"
+stats: ["1", "4", "10", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite plus spines (special)"
 damage: "1d8 (`dice:1d8`) bite plus poison"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Venomous Spines

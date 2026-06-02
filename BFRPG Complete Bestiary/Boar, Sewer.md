@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "17", "+7"]
-attack: "1 bite or 1 charge"
+stats: ["7", "31", "17", "double near"]
+attack: "+7 (`dice: 1d20+7`) 1 bite or 1 charge"
 damage: "1d10 (`dice:1d10`) bite, 1d12 (`dice:1d12`) charge"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 traits:
   - name: Thick Blubber

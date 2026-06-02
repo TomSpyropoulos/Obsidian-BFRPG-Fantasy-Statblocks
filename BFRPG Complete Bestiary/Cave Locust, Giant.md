@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "15", "+2"]
-attack: "1 bite or 1 bump or 1 spit"
+stats: ["2", "9", "15", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 1 bite or 1 bump or 1 spit"
 damage: "1d2 (`dice:1d2`) or 1d4 (`dice:1d4`)* or special"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "-2"]
 traits:
   - name: Shrieking

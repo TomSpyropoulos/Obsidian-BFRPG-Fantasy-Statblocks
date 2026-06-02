@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "14", "+8"]
-attack: "1 weapon"
+stats: ["8", "36", "14", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 weapon"
 damage: "By weapon +2"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Spell-like Abilities (at-will)

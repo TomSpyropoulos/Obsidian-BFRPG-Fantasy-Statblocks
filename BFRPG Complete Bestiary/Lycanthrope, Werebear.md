@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "17", "+6"]
-attack: "-"
+stats: ["6", "27", "17", "near"]
+attack: "+6 (`dice: 1d20+6`) -"
 damage: "2d4 (`dice:2d4`)/2d4 (`dice:2d4`)/2d8 (`dice:2d8`) + 2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 source: BFRPG Core
 ```

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "17", "+6"]
-attack: "1 giant axe, 1 giant club or 1 ground slam"
+stats: ["6", "27", "17", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 giant axe, 1 giant club or 1 ground slam"
 damage: "1d8 + 4 (`dice:1d8+4`) axe, 2d6 (`dice:2d6`) club or 1d10 (`dice:1d10`) to all surrounding enemies"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Ground Slam

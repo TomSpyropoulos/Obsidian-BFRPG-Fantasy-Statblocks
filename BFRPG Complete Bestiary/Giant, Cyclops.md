@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "14", "+10"]
-attack: "1 giant club or 1 rock (thrown)"
+stats: ["13", "68", "14", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 giant club or 1 rock (thrown)"
 damage: "3d10 (`dice:3d10`) or 3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Rock Throwing

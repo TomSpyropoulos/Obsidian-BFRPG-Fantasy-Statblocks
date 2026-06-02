@@ -16,10 +16,9 @@ level: "10"
 hp: 57
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "57", "16", "+9"]
-attack: "1 giant weapon or 1 thrown rock"
+stats: ["10", "57", "16", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 giant weapon or 1 thrown rock"
 damage: "4d6 (`dice:4d6`) giant weapon, 3d6 (`dice:3d6`) rock"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Amphibious

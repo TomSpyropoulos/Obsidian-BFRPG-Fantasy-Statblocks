@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 3
-stats: ["11", "58", "16", "+9"]
-attack: "2 claws / 3 heads / 1 breath"
+stats: ["11", "58", "16", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws / 3 heads / 1 breath"
 damage: "1d6 (`dice:1d6`) claw, 2d4 (`dice:2d4`) head, 3d4 (`dice:3d4`) cold breath"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Cold Breath

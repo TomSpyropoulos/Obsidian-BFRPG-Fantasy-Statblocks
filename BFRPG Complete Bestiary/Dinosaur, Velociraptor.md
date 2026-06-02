@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "14", "+1"]
-attack: "2 claws or 1 bite"
+stats: ["1", "4", "14", "double near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws or 1 bite"
 damage: "1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) bite"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+1"]
 traits:
   - name: Bite and hold

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 3
-stats: ["5", "22", "16", "+5"]
-attack: "1 weapon"
+stats: ["5", "22", "16", "double near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 weapon"
 damage: "By weapon + 1"
-speed: "double near (fly)"
 attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
 traits:
   - name: Telepathy

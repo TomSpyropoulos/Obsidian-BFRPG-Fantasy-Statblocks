@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "17", "+3"]
-attack: "2 pincers"
+stats: ["3", "13", "17", "near"]
+attack: "+3 (`dice: 1d20+3`) 2 pincers"
 damage: "2d6 (`dice:2d6`)/2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Eye stalks

@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "2", "11", "+0"]
-attack: "1 strangle (1d4 + Special)"
+stats: ["1", "2", "11", "near"]
+attack: "+0 (`dice: 1d20+0`) 1 strangle (1d4 + Special)"
 damage: "1d4 (`dice:1d4`) + Special"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Strangle

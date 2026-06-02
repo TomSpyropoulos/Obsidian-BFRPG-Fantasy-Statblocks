@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "12", "+4"]
-attack: "1 antler (+2 to hit)"
+stats: ["4", "18", "12", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 antler (+2 to hit)"
 damage: "4d4 (`dice:4d4`) antler"
-speed: "double near (fly)"
 attributes: ["+1", "+3", "+1", "+1", "+3", "+4"]
 traits:
   - name: Immune to non-magical weapons

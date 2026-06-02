@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "16", "+9"]
-attack: "1 constrict / 1 bite or 1 spit"
+stats: ["11", "58", "16", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 constrict / 1 bite or 1 spit"
 damage: "2d4 (`dice:2d4`) constrict, 1d6 (`dice:1d6`) + poison bite, or poison spit"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Constrict

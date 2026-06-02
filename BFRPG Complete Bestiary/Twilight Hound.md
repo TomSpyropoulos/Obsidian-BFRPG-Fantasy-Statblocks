@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "16", "+5"]
-attack: "2 bites or 1 bite + poison"
+stats: ["5", "22", "16", "near"]
+attack: "+5 (`dice: 1d20+5`) 2 bites or 1 bite + poison"
 damage: "1d10 (`dice:1d10`) bite or 1d4 (`dice:1d4`) bite + poison"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Death Strike

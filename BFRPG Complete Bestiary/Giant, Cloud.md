@@ -16,10 +16,9 @@ level: "12"
 hp: 67
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "67", "18", "+10"]
-attack: "1 giant weapon or 1 thrown rock"
+stats: ["12", "67", "18", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 1 thrown rock"
 damage: "6d6 (`dice:6d6`) or 3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+6"]
 traits:
   - name: Thrown Rocks

@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "17", "+9"]
-attack: "4 claws + poison"
+stats: ["10", "54", "17", "near"]
+attack: "+9 (`dice: 1d20+9`) 4 claws + poison"
 damage: "1d8 (`dice:1d8`) claw + poison"
-speed: "near"
 attributes: ["+2", "+2", "+3", "+4", "+2", "+1"]
 traits:
   - name: Hallucinogenic Claws

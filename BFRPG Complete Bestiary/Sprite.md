@@ -16,10 +16,9 @@ level: "1d4"
 hp: 2
 atk_bonus: "+0"
 modifier: 1
-stats: ["1d4", "2", "14", "+0"]
-attack: "1 dagger or 1 spell"
+stats: ["1d4", "2", "14", "near (fly)"]
+attack: "+0 (`dice: 1d20+0`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or by spell"
-speed: "near (fly)"
 attributes: ["+0", "+1", "-1", "+3", "+1", "+0"]
 traits:
   - name: Remove Curse/Bestow Curse

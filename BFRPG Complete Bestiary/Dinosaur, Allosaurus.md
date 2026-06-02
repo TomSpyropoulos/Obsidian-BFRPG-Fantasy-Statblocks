@@ -16,10 +16,9 @@ level: "15"
 hp: 78
 atk_bonus: "+11"
 modifier: 3
-stats: ["15", "78", "14", "+11"]
-attack: "2 claws / 1 bite"
+stats: ["15", "78", "14", "near"]
+attack: "+11 (`dice: 1d20+11`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 4d6 (`dice:4d6`) bite"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 actions:
   - name: claws

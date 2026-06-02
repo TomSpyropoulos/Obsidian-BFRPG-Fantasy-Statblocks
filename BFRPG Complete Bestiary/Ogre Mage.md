@@ -16,10 +16,9 @@ level: "5"
 hp: 24
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "24", "16", "+5"]
-attack: "1 weapon (+3 to hit) or spells or breath"
+stats: ["5", "24", "16", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 weapon (+3 to hit) or spells or breath"
 damage: "2d6+3 (`dice:2d6+3`) (large weapon), by weapon +3, by spell, 12d4 (`dice:12d4`) breath"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+2", "+3", "+1", "+4"]
 traits:
   - name: Spellcasting (at-will)

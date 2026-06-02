@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "23", "+9"]
-attack: "2 pincers / 2 fists / 1 bite"
+stats: ["10", "54", "23", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 pincers / 2 fists / 1 bite"
 damage: "2d6 (`dice:2d6`) pincer, 1d3 (`dice:1d3`) fist, 1d4+1 (`dice:1d4+1`) bite"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+4"]
 traits:
   - name: Spell-like Powers

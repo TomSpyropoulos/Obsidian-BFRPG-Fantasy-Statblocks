@@ -16,10 +16,9 @@ level: "16"
 hp: 84
 atk_bonus: "+12"
 modifier: 4
-stats: ["16", "84", "17", "+12"]
-attack: "1 bite + cold or breath or death explosion"
+stats: ["16", "84", "17", "near"]
+attack: "+12 (`dice: 1d20+12`) 1 bite + cold or breath or death explosion"
 damage: "2d8 (`dice:2d8`) bite, 1d8 (`dice:1d8`) cold, 15d6 (`dice:15d6`) breath, 20d6 (`dice:20d6`) death explosion"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+7"]
 traits:
   - name: Trill

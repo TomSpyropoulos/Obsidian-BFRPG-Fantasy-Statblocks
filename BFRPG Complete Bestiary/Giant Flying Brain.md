@@ -16,10 +16,9 @@ level: "5"
 hp: 23
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "23", "11", "+5"]
-attack: "4 spells"
+stats: ["5", "23", "11", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 4 spells"
 damage: "By spell"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+2", "+3", "+1", "+2"]
 traits:
   - name: Terrifying Appearance

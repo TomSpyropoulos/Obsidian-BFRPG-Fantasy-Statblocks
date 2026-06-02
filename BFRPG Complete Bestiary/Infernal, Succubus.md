@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "19", "+7"]
-attack: "2 claws or by weapon + special"
+stats: ["7", "31", "19", "near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 2 claws or by weapon + special"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+1", "+3", "+1"]
 traits:
   - name: Life-Draining Kiss

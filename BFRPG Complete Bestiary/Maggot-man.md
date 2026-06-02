@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "16", "+4"]
-attack: "1 fist + special"
+stats: ["4", "18", "16", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 fist + special"
 damage: "1d6 (`dice:1d6`) fist + special"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+3"]
 traits:
   - name: Terrifying Form

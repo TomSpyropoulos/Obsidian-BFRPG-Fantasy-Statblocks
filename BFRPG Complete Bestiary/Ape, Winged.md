@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "13", "+3"]
-attack: "2 claws or 1 rock"
+stats: ["3", "13", "13", "near (fly)"]
+attack: "+3 (`dice: 1d20+3`) 2 claws or 1 rock"
 damage: "1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) rock"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Aerial Attack

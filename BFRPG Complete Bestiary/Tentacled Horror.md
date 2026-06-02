@@ -16,10 +16,9 @@ level: "10"
 hp: 74
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "74", "13", "+9"]
-attack: "5 tentacles + crush"
+stats: ["10", "74", "13", "near"]
+attack: "+9 (`dice: 1d20+9`) 5 tentacles + crush"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) crush"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Crush

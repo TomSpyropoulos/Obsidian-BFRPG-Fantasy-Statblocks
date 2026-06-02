@@ -16,10 +16,9 @@ level: "3"
 hp: 16
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "16", "16", "+3"]
-attack: "1 choke"
+stats: ["3", "16", "16", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 choke"
 damage: "1d3 (`dice:1d3`) + special"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Choke

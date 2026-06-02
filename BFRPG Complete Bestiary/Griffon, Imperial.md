@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "48", "18", "+8"]
-attack: "2 claws / 1 bite"
+stats: ["9", "48", "18", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
 traits:
   - name: Mount Capacity

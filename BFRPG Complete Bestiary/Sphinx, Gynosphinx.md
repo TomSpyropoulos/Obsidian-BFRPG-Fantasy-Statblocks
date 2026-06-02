@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "20", "+8"]
-attack: "2 claws + rake"
+stats: ["8", "36", "20", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws + rake"
 damage: "2d4 (`dice:2d4`) claw, 2d4 (`dice:2d4`) rake"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
   - name: Rake

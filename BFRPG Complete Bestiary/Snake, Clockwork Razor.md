@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "16", "+2"]
-attack: "1 lash or constrict"
+stats: ["2", "9", "16", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 lash or constrict"
 damage: "2d6 (`dice:2d6`) lash, 3d10 (`dice:3d10`) constrict"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Lash

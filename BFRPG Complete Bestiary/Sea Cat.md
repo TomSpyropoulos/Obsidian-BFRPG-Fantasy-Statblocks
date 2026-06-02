@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "17", "+9"]
-attack: "2 claws / 1 bite"
+stats: ["11", "58", "17", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Rending

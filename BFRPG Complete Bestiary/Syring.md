@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "18", "+3"]
-attack: "2 claws / 1 bite"
+stats: ["3", "13", "18", "near"]
+attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d10 (`dice:1d10`) claw, 1d6 (`dice:1d6`) bite + poison"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Impale

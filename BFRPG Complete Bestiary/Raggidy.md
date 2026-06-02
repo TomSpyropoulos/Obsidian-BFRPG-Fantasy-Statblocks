@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "13", "+3"]
-attack: "2 fists"
+stats: ["3", "13", "13", "near"]
+attack: "+3 (`dice: 1d20+3`) 2 fists"
 damage: "1d6 (`dice:1d6`) fist"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Semi-sentient

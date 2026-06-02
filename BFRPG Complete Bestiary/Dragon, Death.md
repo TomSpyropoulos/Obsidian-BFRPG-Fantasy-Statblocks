@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 4
-stats: ["11", "58", "21", "+9"]
-attack: "2 claws + paralysis, 1 bite or breath, 1 tail"
+stats: ["11", "58", "21", "double near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws + paralysis, 1 bite or breath, 1 tail"
 damage: "1d8 (`dice:1d8`) claw, 4d8 (`dice:4d8`) bite, or breath, 1d8 (`dice:1d8`) tail"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+5"]
 traits:
   - name: Breath Weapon

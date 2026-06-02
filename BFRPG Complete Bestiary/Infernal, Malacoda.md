@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "22", "19", "+5"]
-attack: "2 horns, 2 hands or tail"
+stats: ["5", "22", "19", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 2 horns, 2 hands or tail"
 damage: "2d8 (`dice:2d8`) horn, 2d4 (`dice:2d4`) hand, 3d4 (`dice:3d4`) tail"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+1", "+3", "+2"]
 traits:
   - name: Natural Weapons

@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "21", "+9"]
-attack: "2 claws / 1 bite or spell"
+stats: ["10", "54", "21", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite or spell"
 damage: "1d4 (`dice:1d4`) claw, 4d4 (`dice:4d4`) bite, by spell"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+6"]
 traits:
   - name: Grab

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "11", "+5"]
-attack: "1 pseudopod (2d6)"
+stats: ["5", "22", "11", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 pseudopod (2d6)"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Immunity

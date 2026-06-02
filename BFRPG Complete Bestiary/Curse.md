@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "14", "+7"]
-attack: "1 devour (2d6)"
+stats: ["7", "31", "14", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 devour (2d6)"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Liquid Form

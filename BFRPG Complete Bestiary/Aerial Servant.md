@@ -16,10 +16,9 @@ level: "16"
 hp: 84
 atk_bonus: "+12"
 modifier: 6
-stats: ["16", "84", "17", "+12"]
-attack: "1 (see below)"
+stats: ["16", "84", "17", "double near (fly)"]
+attack: "+12 (`dice: 1d20+12`) 1 (see below)"
 damage: "4d8 (`dice:4d8`)"
-speed: "double near (fly)"
 attributes: ["+6", "+6", "+5", "+4", "+4", "+6"]
 traits:
   - name: Invisibility

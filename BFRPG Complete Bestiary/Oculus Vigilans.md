@@ -16,10 +16,9 @@ level: "4"
 hp: 22
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "22", "15", "+4"]
-attack: "1 bite or special"
+stats: ["4", "22", "15", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 bite or special"
 damage: "1d4+1 (`dice:1d4+1`) or special"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+6"]
 traits:
   - name: Main Eye - Spell Turning

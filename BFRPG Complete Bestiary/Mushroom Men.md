@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "12", "+1"]
-attack: "1"
+stats: ["1", "4", "12", "near"]
+attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1-2 HD: 1d4 (`dice:1d4`) or by weapon -1; 3-5 HD: 1d6 (`dice:1d6`) or by weapon; 6-8 HD: 1d8 (`dice:1d8`) or by weapon +1; 9+ HD: 1d10 (`dice:1d10`) or by weapon +2"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "-6"]
 traits:
   - name: Darkvision

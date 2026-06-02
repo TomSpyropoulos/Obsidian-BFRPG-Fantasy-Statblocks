@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "14", "+7"]
-attack: "1 bite"
+stats: ["7", "31", "14", "double near"]
+attack: "+7 (`dice: 1d20+7`) 1 bite"
 damage: "1d4 (`dice:1d4`) + poison bite"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Poison bite

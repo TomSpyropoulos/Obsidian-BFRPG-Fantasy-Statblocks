@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "13", "+3"]
-attack: "2 claws / 1 bite"
+stats: ["3", "13", "13", "near"]
+attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d4+2 (`dice:1d4+2`) claw, 1d6 (`dice:1d6`) bite"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Berserk Rage

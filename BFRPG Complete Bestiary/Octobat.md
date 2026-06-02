@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "15", "+8"]
-attack: "4 tentacles or acid ink"
+stats: ["8", "36", "15", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 4 tentacles or acid ink"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) acid ink"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
 traits:
   - name: Entangle

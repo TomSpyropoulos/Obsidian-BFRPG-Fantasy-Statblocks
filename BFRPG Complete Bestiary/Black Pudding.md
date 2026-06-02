@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "13", "+9"]
-attack: "1 pseudopod"
+stats: ["10", "54", "13", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 pseudopod"
 damage: "3d8 (`dice:3d8`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Splitting

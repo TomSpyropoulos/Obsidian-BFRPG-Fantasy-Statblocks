@@ -16,10 +16,9 @@ level: "8"
 hp: 39
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "39", "17", "+8"]
-attack: "1 gore, or 1 bite, or charge"
+stats: ["8", "39", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 gore, or 1 bite, or charge"
 damage: "2d8+2 (`dice:2d8+2`) gore, 1d10+3 (`dice:1d10+3`) bite, 4d8+2 (`dice:4d8+2`) charge"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Charge

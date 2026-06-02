@@ -16,10 +16,9 @@ level: "5"
 hp: 27
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "27", "23", "+5"]
-attack: "1 tail / 1 weapon or spell"
+stats: ["5", "27", "23", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 tail / 1 weapon or spell"
 damage: "1d4 (`dice:1d4`) tail, by weapon, by spell"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+3"]
 traits:
   - name: Magical weapons required

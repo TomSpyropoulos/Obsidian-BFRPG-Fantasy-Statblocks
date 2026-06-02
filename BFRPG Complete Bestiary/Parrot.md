@@ -16,10 +16,9 @@ level: "1"
 hp: 2
 atk_bonus: "+0"
 modifier: 2
-stats: ["1", "2", "10", "+0"]
-attack: "1 talon or 1 beak"
+stats: ["1", "2", "10", "double near (fly)"]
+attack: "+0 (`dice: 1d20+0`) 1 talon or 1 beak"
 damage: "1d4 (`dice:1d4`) talon or 1d4 (`dice:1d4`) beak"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "-1"]
 actions:
   - name: talon or 1 beak

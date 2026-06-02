@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "13", "+1"]
-attack: "1 bite or 1 tail sting"
+stats: ["1", "4", "13", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite or 1 tail sting"
 damage: "1d4 (`dice:1d4`) bite, 1d4 (`dice:1d4`) + poison sting"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Hoop Attack

@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "15", "+2"]
-attack: "1 bite + spray (see below)"
+stats: ["2", "9", "15", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bite + spray (see below)"
 damage: "2d4 (`dice:2d4`) bite, special spray"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: All-around Vision

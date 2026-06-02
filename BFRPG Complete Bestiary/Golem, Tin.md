@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "18", "+7"]
-attack: "2 hands"
+stats: ["7", "31", "18", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 hands"
 damage: "Special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Grapple Attack

@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "17", "+9"]
-attack: "1 gore / 1 trample"
+stats: ["10", "54", "17", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 gore / 1 trample"
 damage: "2d10 (`dice:2d10`) gore or 2d10 (`dice:2d10`) (+ special) trample"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Trample

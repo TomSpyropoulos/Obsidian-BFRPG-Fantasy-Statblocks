@@ -16,10 +16,9 @@ level: "1"
 hp: 1
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "1", "15", "+0"]
-attack: "1 bite + Save Drain"
+stats: ["1", "1", "15", "near"]
+attack: "+0 (`dice: 1d20+0`) 1 bite + Save Drain"
 damage: "Save Drain (Wands)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Save Drain

@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 2
-stats: ["2", "9", "14", "+2"]
-attack: "1 weapon"
+stats: ["2", "9", "14", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "By weapon"
-speed: "near"
 attributes: ["+0", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Superhuman Agility

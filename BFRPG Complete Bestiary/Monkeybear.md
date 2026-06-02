@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "13", "+1"]
-attack: "2 claws, 1 bite or 1 grab"
+stats: ["1", "4", "13", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws, 1 bite or 1 grab"
 damage: "1d3 (`dice:1d3`) claw, 1d6 (`dice:1d6`) bite or grab"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Grab Attack

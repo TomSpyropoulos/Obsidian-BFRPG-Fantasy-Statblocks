@@ -16,10 +16,9 @@ level: "36"
 hp: 178
 atk_bonus: "+16"
 modifier: 9
-stats: ["36", "178", "21", "+16"]
-attack: "1 bite or special"
+stats: ["36", "178", "21", "near"]
+attack: "+16 (`dice: 1d20+16`) 1 bite or special"
 damage: "3d20 (`dice:3d20`)"
-speed: "near"
 attributes: ["+11", "+9", "+10", "+9", "+9", "+9"]
 traits:
   - name: Sonic Blast

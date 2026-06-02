@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "18", "+8"]
-attack: "1 bite (2d10)"
+stats: ["8", "36", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 bite (2d10)"
 damage: "-"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Electromagnetic Sense

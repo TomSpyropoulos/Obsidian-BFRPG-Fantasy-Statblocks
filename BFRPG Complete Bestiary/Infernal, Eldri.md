@@ -16,10 +16,9 @@ level: "9"
 hp: 47
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "47", "15", "+8"]
-attack: "2 claws or fire blast or spell"
+stats: ["9", "47", "15", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws or fire blast or spell"
 damage: "1d4 (`dice:1d4`) claw, 2d6 (`dice:2d6`) fire blast, by spell"
-speed: "double near (fly)"
 attributes: ["+2", "+4", "+3", "+4", "+2", "+4"]
 traits:
   - name: Fire Blast

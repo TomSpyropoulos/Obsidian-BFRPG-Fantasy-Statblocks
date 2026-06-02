@@ -16,10 +16,9 @@ level: "3"
 hp: 14
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "14", "12", "+3"]
-attack: "1 head butt (2d8)"
+stats: ["3", "14", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 head butt (2d8)"
 damage: "2d8 (`dice:2d8`) head butt"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Charge

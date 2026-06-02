@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "15", "+6"]
-attack: "1 special"
+stats: ["6", "27", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 special"
 damage: "Special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Surprise

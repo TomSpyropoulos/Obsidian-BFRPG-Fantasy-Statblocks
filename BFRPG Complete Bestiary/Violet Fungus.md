@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "12", "+2"]
-attack: "4 tentacles (1d6 + poison)"
+stats: ["2", "9", "12", "near"]
+attack: "+2 (`dice: 1d20+2`) 4 tentacles (1d6 + poison)"
 damage: "1d6 (`dice:1d6`) + poison"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Poison

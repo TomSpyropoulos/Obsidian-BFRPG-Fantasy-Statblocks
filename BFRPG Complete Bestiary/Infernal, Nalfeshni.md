@@ -16,10 +16,9 @@ level: "11"
 hp: 49
 atk_bonus: "+9"
 modifier: 3
-stats: ["11", "49", "20", "+9"]
-attack: "2 claws / 1 bite"
+stats: ["11", "49", "20", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+5"]
 traits:
   - name: Spell-like Powers (at will)

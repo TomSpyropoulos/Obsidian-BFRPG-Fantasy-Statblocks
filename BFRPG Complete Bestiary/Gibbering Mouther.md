@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "18", "+8"]
-attack: "6 bites + special"
+stats: ["9", "48", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 6 bites + special"
 damage: "1d6 (`dice:1d6`) + special"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Gibbering

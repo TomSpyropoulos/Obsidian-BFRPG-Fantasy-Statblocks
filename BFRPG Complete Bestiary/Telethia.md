@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "19", "+7"]
-attack: "2 claws / 2 bites or special"
+stats: ["7", "31", "19", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 2 claws / 2 bites or special"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite, special"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Mind Reading

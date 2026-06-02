@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "15", "+7"]
-attack: "6 tentacles, 1 bite (special) / 2 tentacles (special)"
+stats: ["7", "31", "15", "near"]
+attack: "+7 (`dice: 1d20+7`) 6 tentacles, 1 bite (special) / 2 tentacles (special)"
 damage: "Grab, 1d12 (`dice:1d12`) or constrict"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Sound Sense

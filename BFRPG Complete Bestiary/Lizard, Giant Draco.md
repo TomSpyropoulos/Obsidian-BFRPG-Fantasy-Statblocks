@@ -16,10 +16,9 @@ level: "4"
 hp: 20
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "20", "14", "+4"]
-attack: "1 bite (1d10)"
+stats: ["4", "20", "14", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 bite (1d10)"
 damage: "1d10 (`dice:1d10`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
   - name: Gliding Flight

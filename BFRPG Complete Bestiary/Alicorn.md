@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "18", "+4"]
-attack: "2 hooves/1 horn"
+stats: ["4", "18", "18", "double near"]
+attack: "+4 (`dice: 1d20+4`) 2 hooves/1 horn"
 damage: "2d4 (`dice:2d4`)/2d4 (`dice:2d4`)/2d6 (`dice:2d6`)"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
 traits:
   - name: Invisibility

@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "12", "+1"]
-attack: "2 claws (1d3) / 1 bite (1d3 + disease)"
+stats: ["1", "4", "12", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws (1d3) / 1 bite (1d3 + disease)"
 damage: "-"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Zombie Leprosy

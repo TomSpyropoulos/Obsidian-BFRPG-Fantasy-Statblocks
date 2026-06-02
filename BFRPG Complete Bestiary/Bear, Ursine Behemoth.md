@@ -16,10 +16,9 @@ level: "15"
 hp: 78
 atk_bonus: "+11"
 modifier: 3
-stats: ["15", "78", "20", "+11"]
-attack: "2 claws, 1 bite or hug (vs. Large)"
+stats: ["15", "78", "20", "near"]
+attack: "+11 (`dice: 1d20+11`) 2 claws, 1 bite or hug (vs. Large)"
 damage: "2d6 (`dice:2d6`) claw, 2d8 (`dice:2d8`) bite, 4d6 (`dice:4d6`) hug"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+7"]
 actions:
   - name: claws, 1 bite or hug (vs. Large)

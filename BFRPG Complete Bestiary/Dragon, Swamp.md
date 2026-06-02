@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "17", "+7"]
-attack: "2 claws/1 bite or breath/1 tail"
+stats: ["7", "31", "17", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite or breath/1 tail"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d10 (`dice:2d10`) or breath/1d6 (`dice:1d6`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Underwater Ambush

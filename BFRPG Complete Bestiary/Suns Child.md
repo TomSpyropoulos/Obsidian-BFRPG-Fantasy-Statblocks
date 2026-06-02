@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 3
-stats: ["10", "54", "15", "+9"]
-attack: "Special"
+stats: ["10", "54", "15", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) Special"
 damage: "3d6 (`dice:3d6`)"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+4"]
 traits:
   - name: Sphere of Flames

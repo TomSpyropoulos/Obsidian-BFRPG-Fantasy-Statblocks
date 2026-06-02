@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "19", "+4"]
-attack: "1 bite (2d10)"
+stats: ["4", "18", "19", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 bite (2d10)"
 damage: "2d10 (`dice:2d10`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Aerial Agility

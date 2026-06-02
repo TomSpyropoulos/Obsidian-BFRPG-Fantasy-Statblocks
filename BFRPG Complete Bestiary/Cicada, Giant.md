@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "16", "+4"]
-attack: "1 bite or special"
+stats: ["4", "18", "16", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 bite or special"
 damage: "1d6 (`dice:1d6`) or special"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+2"]
 traits:
   - name: Cicada Singing

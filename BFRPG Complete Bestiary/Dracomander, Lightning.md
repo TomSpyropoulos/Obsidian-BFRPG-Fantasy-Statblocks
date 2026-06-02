@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "48", "19", "+8"]
-attack: "2 bites or breath, 1 tail + lightning"
+stats: ["9", "48", "19", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 bites or breath, 1 tail + lightning"
 damage: "2d8 (`dice:2d8`) bite, 9d8 (`dice:9d8`) breath, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round lightning"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
 traits:
   - name: Lightning Aura

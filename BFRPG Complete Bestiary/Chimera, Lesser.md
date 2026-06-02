@@ -16,10 +16,9 @@ level: "7"
 hp: 35
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "35", "13", "+7"]
-attack: "2 claws, 1 bite, or 1 snake bite, or breath"
+stats: ["7", "35", "13", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite, or 1 snake bite, or breath"
 damage: "1d6 (`dice:1d6`) claw, 1d10 (`dice:1d10`) bite, 1d6 (`dice:1d6`) snake bite + poison, or 3d4 (`dice:3d4`) breath"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+3"]
 traits:
   - name: Fire Breath

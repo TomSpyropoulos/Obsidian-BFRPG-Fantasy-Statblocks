@@ -16,10 +16,9 @@ level: "6"
 hp: 33
 atk_bonus: "+6"
 modifier: 3
-stats: ["6", "33", "23", "+6"]
-attack: "2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
+stats: ["6", "33", "23", "double near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 2 hooves (2d4+2) / 1 bite (2d4) / 1 breath (special)"
 damage: "2d4+2 (`dice:2d4+2`) hoof, 2d4 (`dice:2d4`) bite, or special"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+3"]
 traits:
   - name: Size Change

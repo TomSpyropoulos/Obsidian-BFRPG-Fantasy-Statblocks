@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 5
-stats: ["12", "64", "19", "+10"]
-attack: "1 bite (on ground) / 2 claws (flying) / spell"
+stats: ["12", "64", "19", "double near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 (`dice:2d8`) bite or 1d12 (`dice:1d12`) claw or by spell"
-speed: "double near (fly)"
 attributes: ["+5", "+5", "+4", "+3", "+3", "+8"]
 traits:
   - name: Flying Attack

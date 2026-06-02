@@ -16,10 +16,9 @@ level: "16"
 hp: 95
 atk_bonus: "+12"
 modifier: 4
-stats: ["16", "95", "14", "+12"]
-attack: "1 bite, Drowning Grasp"
+stats: ["16", "95", "14", "near"]
+attack: "+12 (`dice: 1d20+12`) 1 bite, Drowning Grasp"
 damage: "2d8 (`dice:2d8`) bite, 1d8 (`dice:1d8`) Drowning Grasp"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+6"]
 traits:
   - name: Bite

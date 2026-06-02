@@ -16,10 +16,9 @@ level: "3"
 hp: 14
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "14", "14", "+3"]
-attack: "1 weapon"
+stats: ["3", "14", "14", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8+2 (`dice:1d8+2`) or by weapon +2"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Expert Horseman

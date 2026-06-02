@@ -16,10 +16,9 @@ level: "5"
 hp: 24
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "24", "14", "+5"]
-attack: "2"
+stats: ["5", "24", "14", "near"]
+attack: "+5 (`dice: 1d20+5`) 2"
 damage: "1d4+2 (`dice:1d4+2`)"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Aquatic

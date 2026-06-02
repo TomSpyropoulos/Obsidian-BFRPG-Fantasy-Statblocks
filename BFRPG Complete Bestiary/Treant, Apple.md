@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "18", "+8"]
-attack: "2 fists or 1 projectile fruit"
+stats: ["8", "36", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 fists or 1 projectile fruit"
 damage: "2d6 (`dice:2d6`) fist or 1d6 (`dice:1d6`) fruit"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Projectile Fruit

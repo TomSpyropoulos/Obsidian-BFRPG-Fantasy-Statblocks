@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "11", "+2"]
-attack: "1 beam + Save Drain"
+stats: ["2", "9", "11", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 beam + Save Drain"
 damage: "Save Drain (Death)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Lantern Beam

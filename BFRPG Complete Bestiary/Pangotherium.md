@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "15", "+7"]
-attack: "2 claws"
+stats: ["7", "31", "15", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws"
 damage: "2d4 (`dice:2d4`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Intelligence

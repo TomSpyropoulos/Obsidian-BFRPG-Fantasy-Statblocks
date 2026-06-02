@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 3
-stats: ["10", "54", "13", "+9"]
-attack: "1 smother"
+stats: ["10", "54", "13", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 1 smother"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`) per round"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Ceiling Camouflage

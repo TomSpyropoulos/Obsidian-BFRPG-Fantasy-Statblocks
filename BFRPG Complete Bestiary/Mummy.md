@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "16", "+5"]
-attack: "1 touch + disease"
+stats: ["5", "22", "16", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 touch + disease"
 damage: "1d12 (`dice:1d12`) + disease"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Undead

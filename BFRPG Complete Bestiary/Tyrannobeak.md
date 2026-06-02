@@ -16,10 +16,9 @@ level: "18"
 hp: 93
 atk_bonus: "+12"
 modifier: 4
-stats: ["18", "93", "22", "+12"]
-attack: "2 claws / 1 beak"
+stats: ["18", "93", "22", "near"]
+attack: "+12 (`dice: 1d20+12`) 2 claws / 1 beak"
 damage: "2d8 (`dice:2d8`) claw, 4d6 (`dice:4d6`) bite"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 traits:
   - name: Leap Attack

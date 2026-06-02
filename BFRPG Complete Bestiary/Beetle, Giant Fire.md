@@ -16,10 +16,9 @@ level: "1"
 hp: 6
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "6", "15", "+1"]
-attack: "1 bite (2d4)"
+stats: ["1", "6", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite (2d4)"
 damage: "2d4 (`dice:2d4`)"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Glowing Organs

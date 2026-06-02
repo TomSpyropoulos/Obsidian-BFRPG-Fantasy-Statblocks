@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 3
-stats: ["6", "27", "14", "+6"]
-attack: "2 claws"
+stats: ["6", "27", "14", "double near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 2 claws"
 damage: "1d6 (`dice:1d6`) claw"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+3"]
 traits:
   - name: Silent Flight

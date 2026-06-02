@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "22", "13", "+5"]
-attack: "1 beak + special"
+stats: ["5", "22", "13", "near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 1 beak + special"
 damage: "1d6 (`dice:1d6`) + petrification"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Petrification

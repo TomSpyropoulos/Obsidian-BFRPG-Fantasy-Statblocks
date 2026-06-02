@@ -16,10 +16,9 @@ level: "Special"
 hp: Special
 atk_bonus: "+1"
 modifier: 0
-stats: ["Special", "Special", "15", "+1"]
-attack: "None"
+stats: ["Special", "Special", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) None"
 damage: "None"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Dance Aura

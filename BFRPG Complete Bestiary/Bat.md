@@ -16,10 +16,9 @@ level: "1"
 hp: 1
 atk_bonus: "+0"
 modifier: 1
-stats: ["1", "1", "13", "+0"]
-attack: "1 special"
+stats: ["1", "1", "13", "near (fly)"]
+attack: "+0 (`dice: 1d20+0`) 1 special"
 damage: "Confusion"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Darkvision

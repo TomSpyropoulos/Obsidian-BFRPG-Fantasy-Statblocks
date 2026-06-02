@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "13", "+5"]
-attack: "2 claws (1d10) / 1 bite (1d12)"
+stats: ["5", "22", "13", "near"]
+attack: "+5 (`dice: 1d20+5`) 2 claws (1d10) / 1 bite (1d12)"
 damage: "-"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Darkvision

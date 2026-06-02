@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "15", "+4"]
-attack: "2 legs/1 bite"
+stats: ["4", "18", "15", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 legs/1 bite"
 damage: "grab/grab/2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Sticky Pedipalps

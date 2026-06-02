@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "27", "16", "+6"]
-attack: "2 claws + suffocation"
+stats: ["6", "27", "16", "near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 2 claws + suffocation"
 damage: "1d4 (`dice:1d4`) claw + suffocation"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+3"]
 traits:
   - name: Engulf

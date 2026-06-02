@@ -16,10 +16,9 @@ level: "1"
 hp: 5
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "5", "13", "+1"]
-attack: "2 claws or by weapon"
+stats: ["1", "5", "13", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws or by weapon"
 damage: "1d2 (`dice:1d2`) claw, by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 actions:
   - name: claws or by weapon

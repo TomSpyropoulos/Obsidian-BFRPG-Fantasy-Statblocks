@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "12", "+2"]
-attack: "1 bite or spit"
+stats: ["2", "9", "12", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bite or spit"
 damage: "1d8 (`dice:1d8`) bite or 1d8 (`dice:1d8`) spit"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Acid Spit

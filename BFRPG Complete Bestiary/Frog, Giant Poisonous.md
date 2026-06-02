@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "11", "+1"]
-attack: "1 bite (1 point plus poison bite)"
+stats: ["1", "4", "11", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite (1 point plus poison bite)"
 damage: "1 point plus poison bite"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Poison Skin

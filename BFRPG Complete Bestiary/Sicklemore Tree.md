@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "13", "+4"]
-attack: "4-8 sickle branch (as hit dice)"
+stats: ["4", "18", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 4-8 sickle branch (as hit dice)"
 damage: "1d6 (`dice:1d6`) branch"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 actions:
   - name: 4-8 sickle branch (as hit dice)

@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "12", "+1"]
-attack: "2 claws + spell rip"
+stats: ["1", "4", "12", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws + spell rip"
 damage: "1d4 (`dice:1d4`) claw"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Spell Rip

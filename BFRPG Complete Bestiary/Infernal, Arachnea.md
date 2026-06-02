@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "15", "+6"]
-attack: "1 bite (spider) or kiss (woman) or dagger"
+stats: ["6", "27", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 (`dice:1d6`) + poison bite, 1d6 (`dice:1d6`) + heals creature kiss, 1d4 (`dice:1d4`) + 2HP/round dagger"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+2"]
 traits:
   - name: Spell-like Abilities

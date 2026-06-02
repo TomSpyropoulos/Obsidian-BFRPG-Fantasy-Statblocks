@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "21", "+9"]
-attack: "1 fist"
+stats: ["11", "58", "21", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 fist"
 damage: "3d10 (`dice:3d10`)"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Cursed Wounds

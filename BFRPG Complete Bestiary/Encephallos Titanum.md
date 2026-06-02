@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "15", "+8"]
-attack: "1 spore spray"
+stats: ["9", "48", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 spore spray"
 damage: "Special"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Spore Spray

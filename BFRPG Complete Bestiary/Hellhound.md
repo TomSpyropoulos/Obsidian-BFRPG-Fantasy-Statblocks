@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "13", "+3"]
-attack: "1 bite or 1 breath"
+stats: ["3", "13", "13", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 bite or 1 breath"
 damage: "1d6 (`dice:1d6`) or 1d6 (`dice:1d6`) per Hit Die"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+2"]
 traits:
   - name: Fire Breath

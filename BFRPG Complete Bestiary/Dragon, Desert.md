@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "48", "19", "+8"]
-attack: "2 claws/1 bite or breath/1 tail"
+stats: ["9", "48", "19", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath/1 tail"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/3d8 (`dice:3d8`) or breath/1d8 (`dice:1d8`)"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+4"]
 traits:
   - name: Ambush

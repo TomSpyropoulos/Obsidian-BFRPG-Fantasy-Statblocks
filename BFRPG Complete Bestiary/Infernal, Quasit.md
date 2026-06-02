@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "18", "+2"]
-attack: "2 claws / 1 bite"
+stats: ["2", "9", "18", "near"]
+attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Shapechanger

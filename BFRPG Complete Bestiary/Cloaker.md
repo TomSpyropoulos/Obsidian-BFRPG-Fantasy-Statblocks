@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "27", "18", "+6"]
-attack: "1 bite (1d6) / 1 tail (1d6) / special (crush)"
+stats: ["6", "27", "18", "near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 1 bite (1d6) / 1 tail (1d6) / special (crush)"
 damage: "1d6 (`dice:1d6`) bite, 1d6 (`dice:1d6`) crush + special"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Surprise

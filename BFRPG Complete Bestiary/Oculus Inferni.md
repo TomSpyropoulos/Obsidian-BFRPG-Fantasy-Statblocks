@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "48", "16", "+8"]
-attack: "1 bite or fireball"
+stats: ["9", "48", "16", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 1 bite or fireball"
 damage: "2d6 (`dice:2d6`) bite or fireball"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+3"]
 traits:
   - name: Color-Changing Carapace

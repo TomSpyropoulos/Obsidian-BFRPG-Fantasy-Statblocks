@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "14", "+5"]
-attack: "1 pseudopod"
+stats: ["5", "22", "14", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 pseudopod"
 damage: "Paralysis + special (see below)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Near Invisibility

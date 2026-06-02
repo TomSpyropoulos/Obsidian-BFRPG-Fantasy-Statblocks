@@ -16,10 +16,9 @@ level: "11"
 hp: 49
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "49", "21", "+9"]
-attack: "2 claws + constrict, or paralysis bite"
+stats: ["11", "49", "21", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 claws + constrict, or paralysis bite"
 damage: "2d6+5 (`dice:2d6+5`) claws, 3d6+5 (`dice:3d6+5`) constrict, or paralysis"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+5"]
 traits:
   - name: Ambush

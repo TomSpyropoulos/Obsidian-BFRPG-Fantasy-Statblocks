@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "20", "+10"]
-attack: "1 bite, 2 claws, or 1 bite + special"
+stats: ["12", "64", "20", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 bite, 2 claws, or 1 bite + special"
 damage: "1d12 (`dice:1d12`) bite, 2d6 (`dice:2d6`) claw"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Lock Jaws

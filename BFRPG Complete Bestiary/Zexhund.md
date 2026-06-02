@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "17", "+2"]
-attack: "1 bludgeon (3d6)"
+stats: ["2", "9", "17", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 bludgeon (3d6)"
 damage: "3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Hammer-head Strike

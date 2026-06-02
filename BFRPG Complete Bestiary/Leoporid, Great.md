@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "13", "+3"]
-attack: "1 antler or 1 rake (against large only)"
+stats: ["3", "13", "13", "double near"]
+attack: "+3 (`dice: 1d20+3`) 1 antler or 1 rake (against large only)"
 damage: "2d4 (`dice:2d4`) antler, 2d6 (`dice:2d6`) rake"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
 traits:
   - name: Charging attack

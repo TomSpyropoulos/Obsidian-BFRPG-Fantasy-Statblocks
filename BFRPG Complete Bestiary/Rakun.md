@@ -16,10 +16,9 @@ level: "1d6"
 hp: 3
 atk_bonus: "+1"
 modifier: 0
-stats: ["1d6", "3", "11", "+1"]
-attack: "1 weapon or one bite"
+stats: ["1d6", "3", "11", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 weapon or one bite"
 damage: "1d4 (`dice:1d4`) or by weapon or 1d3 (`dice:1d3`) bite"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Weapon Proficiency

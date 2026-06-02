@@ -16,10 +16,9 @@ level: "2"
 hp: 11
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "11", "12", "+2"]
-attack: "1 fist (1d8)"
+stats: ["2", "11", "12", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 fist (1d8)"
 damage: "1d8 (`dice:1d8`)"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+5"]
 traits:
   - name: Vulnerability to Fire

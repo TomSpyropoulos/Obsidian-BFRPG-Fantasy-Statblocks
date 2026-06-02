@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "17", "+7"]
-attack: "2 claws/1 bite"
+stats: ["7", "31", "17", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d8 (`dice:2d8`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Preference for Horses

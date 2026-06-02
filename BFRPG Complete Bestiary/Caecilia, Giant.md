@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "13", "+6"]
-attack: "-"
+stats: ["6", "27", "13", "near"]
+attack: "+6 (`dice: 1d20+6`) -"
 damage: "1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round if swallowed"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Sensitive to Sound and Vibrations

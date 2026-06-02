@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "15", "+5"]
-attack: "2 claws (1d6) / 1 bite (1d8) / 1 hug (2d8) / quill (1d8)"
+stats: ["5", "22", "15", "near"]
+attack: "+5 (`dice: 1d20+5`) 2 claws (1d6) / 1 bite (1d8) / 1 hug (2d8) / quill (1d8)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 2d8 (`dice:2d8`) hug, 1d8 (`dice:1d8`) quill"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "-1"]
 traits:
   - name: Hug

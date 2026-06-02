@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "12", "+3"]
-attack: "Special"
+stats: ["3", "13", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) Special"
 damage: "None"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Shrieking

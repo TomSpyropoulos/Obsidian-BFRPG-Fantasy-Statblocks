@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "15", "+10"]
-attack: "1 club"
+stats: ["12", "64", "15", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 club"
 damage: "3d6 (`dice:3d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Confusion

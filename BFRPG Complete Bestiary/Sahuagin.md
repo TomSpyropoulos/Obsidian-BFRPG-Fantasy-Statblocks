@@ -16,10 +16,9 @@ level: "2"
 hp: 11
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "11", "15", "+2"]
-attack: "1 trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
+stats: ["2", "11", "15", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
 damage: "1d8 (`dice:1d8`) trident, 1d4 (`dice:1d4`) bite, 1d4 (`dice:1d4`) talon, or by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Sense Movement

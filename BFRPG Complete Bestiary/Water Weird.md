@@ -16,10 +16,9 @@ level: "3"
 hp: 22
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "22", "15", "+3"]
-attack: "1 grab"
+stats: ["3", "22", "15", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 grab"
 damage: "See description"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+3"]
 traits:
   - name: Invisible at Rest

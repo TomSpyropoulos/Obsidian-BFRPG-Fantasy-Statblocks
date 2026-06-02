@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "18", "+4"]
-attack: "1 bite + hold or 1 spit"
+stats: ["4", "18", "18", "double near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite + hold or 1 spit"
 damage: "3d6 (`dice:3d6`) + 1d4 (`dice:1d4`)/round or 4d8 (`dice:4d8`) (acid)"
-speed: "double near"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
   - name: Bite and Hold

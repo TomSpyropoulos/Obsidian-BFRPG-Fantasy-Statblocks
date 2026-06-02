@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "10", "+8"]
-attack: "Special"
+stats: ["9", "48", "10", "near"]
+attack: "+8 (`dice: 1d20+8`) Special"
 damage: "Special"
-speed: "near"
 attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 traits:
   - name: Telepathy

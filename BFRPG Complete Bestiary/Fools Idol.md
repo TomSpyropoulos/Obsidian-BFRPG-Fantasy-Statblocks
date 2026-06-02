@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "14", "+2"]
-attack: "2 claws or 1 spray of coins"
+stats: ["2", "9", "14", "near"]
+attack: "+2 (`dice: 1d20+2`) 2 claws or 1 spray of coins"
 damage: "2d4 (`dice:2d4`) claw, 1d12 (`dice:1d12`) spray of coins"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Spray of Coins

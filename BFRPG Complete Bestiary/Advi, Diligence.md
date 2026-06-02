@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "25", "+10"]
-attack: "4 tools"
+stats: ["12", "64", "25", "near"]
+attack: "+10 (`dice: 1d20+10`) 4 tools"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 actions:
   - name: tools

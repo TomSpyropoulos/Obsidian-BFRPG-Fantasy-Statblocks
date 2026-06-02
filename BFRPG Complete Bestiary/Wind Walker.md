@@ -16,10 +16,9 @@ level: "6"
 hp: 30
 atk_bonus: "+6"
 modifier: 3
-stats: ["6", "30", "12", "+6"]
-attack: "Special"
+stats: ["6", "30", "12", "double near (fly)"]
+attack: "+6 (`dice: 1d20+6`) Special"
 damage: "3d6 (`dice:3d6`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
   - name: Naturally Invisible

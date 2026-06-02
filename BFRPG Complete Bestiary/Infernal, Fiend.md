@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 5
-stats: ["13", "68", "22", "+10"]
-attack: "2 weapons (see below) or special"
+stats: ["13", "68", "22", "double near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 2 weapons (see below) or special"
 damage: "1d4+4 (`dice:1d4+4`) club, 1d6+6 (`dice:1d6+6`) mace (see below) or special"
-speed: "double near (fly)"
 attributes: ["+5", "+5", "+4", "+3", "+3", "+5"]
 traits:
   - name: Regeneration

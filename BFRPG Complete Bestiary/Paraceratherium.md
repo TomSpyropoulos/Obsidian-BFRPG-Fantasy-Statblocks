@@ -16,10 +16,9 @@ level: "12"
 hp: 54
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "54", "12", "+10"]
-attack: "1 kick"
+stats: ["12", "54", "12", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 kick"
 damage: "2d8 (`dice:2d8`) kick"
-speed: "near"
 attributes: ["+5", "+3", "+3", "+3", "+3", "+2"]
 actions:
   - name: kick

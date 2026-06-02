@@ -16,10 +16,9 @@ level: "7"
 hp: 35
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "35", "17", "+7"]
-attack: "-"
+stats: ["7", "35", "17", "near"]
+attack: "+7 (`dice: 1d20+7`) -"
 damage: "1d6 (`dice:1d6`) + petrification"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+2"]
 traits:
   - name: Petrifying Bite

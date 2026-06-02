@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "19", "+2"]
-attack: "1 + suffocation"
+stats: ["2", "9", "19", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 + suffocation"
 damage: "1d8 (`dice:1d8`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Colony Form

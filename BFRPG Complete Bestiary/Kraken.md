@@ -16,10 +16,9 @@ level: "36"
 hp: 178
 atk_bonus: "+16"
 modifier: 9
-stats: ["36", "178", "19", "+16"]
-attack: "5 tentacles (7d6) / 1 bite (4d6)"
+stats: ["36", "178", "19", "near"]
+attack: "+16 (`dice: 1d20+16`) 5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
-speed: "near"
 attributes: ["+11", "+9", "+10", "+9", "+9", "+13"]
 traits:
   - name: Constricting Tentacles

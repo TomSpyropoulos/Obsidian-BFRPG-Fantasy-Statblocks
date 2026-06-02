@@ -16,10 +16,9 @@ level: "6"
 hp: 33
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "33", "19", "+6"]
-attack: "1 bite"
+stats: ["6", "33", "19", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+1", "+1", "+2", "+1", "+3", "+6"]
 traits:
   - name: Never Surprised

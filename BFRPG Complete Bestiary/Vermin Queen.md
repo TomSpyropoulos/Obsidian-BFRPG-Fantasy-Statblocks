@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 2
-stats: ["6", "27", "12", "+6"]
-attack: "2 claws or weapon"
+stats: ["6", "27", "12", "near (fly)"]
+attack: "+6 (`dice: 1d20+6`) 2 claws or weapon"
 damage: "1d6 (`dice:1d6`) claw, by weapon"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+3", "+1", "+3"]
 traits:
   - name: Shapeshifting

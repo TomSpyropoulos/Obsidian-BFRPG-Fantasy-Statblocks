@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "23", "+10"]
-attack: "6 legs or resin shot"
+stats: ["12", "64", "23", "near"]
+attack: "+10 (`dice: 1d20+10`) 6 legs or resin shot"
 damage: "2d6 (`dice:2d6`) leg or resin"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Multiple Eyes

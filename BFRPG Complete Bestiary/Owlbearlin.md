@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "12", "+3"]
-attack: "1 weapon / 1 screech or 2 claws"
+stats: ["3", "13", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 weapon / 1 screech or 2 claws"
 damage: "1d8 (`dice:1d8`) or by weapon, special screech or 1d4 (`dice:1d4`) claw"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Screech

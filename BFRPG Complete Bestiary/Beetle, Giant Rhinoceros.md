@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "18", "+10"]
-attack: "1 horn or 1 trample"
+stats: ["12", "64", "18", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 horn or 1 trample"
 damage: "3d6 (`dice:3d6`) horn, 2d8 (`dice:2d8`) trample"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 actions:
   - name: horn or 1 trample

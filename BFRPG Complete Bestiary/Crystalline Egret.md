@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 3
-stats: ["5", "22", "16", "+5"]
-attack: "2 claws, 1 bite or 1 breath"
+stats: ["5", "22", "16", "double near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 2 claws, 1 bite or 1 breath"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 2d8 (`dice:2d8`) breath"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+6"]
 traits:
   - name: Surprise

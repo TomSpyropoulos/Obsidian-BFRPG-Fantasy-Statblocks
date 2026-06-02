@@ -16,10 +16,9 @@ level: "18"
 hp: 93
 atk_bonus: "+12"
 modifier: 6
-stats: ["18", "93", "20", "+12"]
-attack: "1 weapon"
+stats: ["18", "93", "20", "double near (fly)"]
+attack: "+12 (`dice: 1d20+12`) 1 weapon"
 damage: "By weapon +3"
-speed: "double near (fly)"
 attributes: ["+6", "+6", "+5", "+4", "+4", "+8"]
 traits:
   - name: Enhanced Combat

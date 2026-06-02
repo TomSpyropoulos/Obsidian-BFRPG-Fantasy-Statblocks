@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "15", "+10"]
-attack: "2 crooks"
+stats: ["13", "68", "15", "near"]
+attack: "+10 (`dice: 1d20+10`) 2 crooks"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Bestow Curse

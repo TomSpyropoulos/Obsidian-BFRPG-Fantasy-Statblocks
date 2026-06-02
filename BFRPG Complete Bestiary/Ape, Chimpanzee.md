@@ -16,10 +16,9 @@ level: "1"
 hp: 5
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "5", "12", "+1"]
-attack: "2 fists"
+stats: ["1", "5", "12", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 fists"
 damage: "1d4 (`dice:1d4`)"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 actions:
   - name: fists

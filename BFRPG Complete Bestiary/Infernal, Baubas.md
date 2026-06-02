@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "15", "+7"]
-attack: "2 claws or 1 bite or 1 spell"
+stats: ["7", "31", "15", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws or 1 bite or 1 spell"
 damage: "1d6 (`dice:1d6`) claw + hold or 2d6 (`dice:2d6`) bite"
-speed: "near"
 attributes: ["+1", "+3", "+1", "+1", "+1", "+5"]
 traits:
   - name: Feed on Fear

@@ -16,10 +16,9 @@ level: "2"
 hp: 11
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "11", "15", "+2"]
-attack: "1 weapon or 1 breath"
+stats: ["2", "11", "15", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 weapon or 1 breath"
 damage: "By weapon or 2d4 (`dice:2d4`) breath"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Breath Weapon

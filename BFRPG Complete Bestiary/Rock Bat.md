@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 2
-stats: ["2", "9", "15", "+2"]
-attack: "1 stab (1d6)"
+stats: ["2", "9", "15", "double near (fly)"]
+attack: "+2 (`dice: 1d20+2`) 1 stab (1d6)"
 damage: "1d6 (`dice:1d6`)"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+1"]
 traits:
   - name: Gravity Ray

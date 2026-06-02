@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "19", "+8"]
-attack: "2 claws or 1 howl"
+stats: ["8", "36", "19", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws or 1 howl"
 damage: "2d12 (`dice:2d12`) claw, special"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+6"]
 traits:
   - name: Howl

@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "23", "+7"]
-attack: "2 claws, 1 bite or special"
+stats: ["7", "31", "23", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite or special"
 damage: "1d4 (`dice:1d4`) claw, 1d4+1 (`dice:1d4+1`) bite or special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Illusions

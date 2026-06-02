@@ -16,10 +16,9 @@ level: "15"
 hp: 92
 atk_bonus: "+11"
 modifier: 3
-stats: ["15", "92", "19", "+11"]
-attack: "1 fist"
+stats: ["15", "92", "19", "near"]
+attack: "+11 (`dice: 1d20+11`) 1 fist"
 damage: "1d6 (`dice:1d6`)"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Amulet Link

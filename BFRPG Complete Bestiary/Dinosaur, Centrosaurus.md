@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "16", "+8"]
-attack: "1 gore or 1 trample"
+stats: ["8", "36", "16", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 gore or 1 trample"
 damage: "2d8 (`dice:2d8`) or 3d4 (`dice:3d4`) (special, see below)"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+3"]
 traits:
   - name: Trample

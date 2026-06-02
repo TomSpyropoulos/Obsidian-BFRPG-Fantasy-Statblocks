@@ -16,10 +16,9 @@ level: "1-2"
 hp: 2
 atk_bonus: "+1"
 modifier: 0
-stats: ["1-2", "2", "11", "+1"]
-attack: "1"
+stats: ["1-2", "2", "11", "near"]
+attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1d4 (`dice:1d4`) + poison"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Contact Poison

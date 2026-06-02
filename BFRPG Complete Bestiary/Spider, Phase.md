@@ -16,10 +16,9 @@ level: "9"
 hp: 49
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "49", "14", "+8"]
-attack: "1 bite + poison"
+stats: ["9", "49", "14", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 bite + poison"
 damage: "1d6 (`dice:1d6`) + poison"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
   - name: Phase Shift

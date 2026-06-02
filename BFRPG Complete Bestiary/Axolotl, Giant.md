@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "17", "+9"]
-attack: "1 bite or gaze"
+stats: ["10", "54", "17", "near"]
+attack: "+9 (`dice: 1d20+9`) 1 bite or gaze"
 damage: "1d8 (`dice:1d8`) bite, or Mind Swap"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Magical Nature

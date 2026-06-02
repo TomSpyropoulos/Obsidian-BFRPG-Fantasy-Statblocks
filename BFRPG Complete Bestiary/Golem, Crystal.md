@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "2 fists"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 fists"
 damage: "2d4 (`dice:2d4`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Invisibility

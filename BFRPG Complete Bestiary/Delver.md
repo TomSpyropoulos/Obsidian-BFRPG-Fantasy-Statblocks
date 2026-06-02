@@ -16,10 +16,9 @@ level: "18"
 hp: 93
 atk_bonus: "+12"
 modifier: 4
-stats: ["18", "93", "23", "+12"]
-attack: "2 flippers"
+stats: ["18", "93", "23", "near"]
+attack: "+12 (`dice: 1d20+12`) 2 flippers"
 damage: "1d6 (`dice:1d6`) + special"
-speed: "near"
 attributes: ["+6", "+4", "+5", "+4", "+4", "+8"]
 traits:
   - name: Corrosive Slime

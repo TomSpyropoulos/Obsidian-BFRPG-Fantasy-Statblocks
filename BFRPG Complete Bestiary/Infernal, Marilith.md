@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "15", "+7"]
-attack: "6 claws or 6 weapons + breath weapon"
+stats: ["7", "31", "15", "near"]
+attack: "+7 (`dice: 1d20+7`) 6 claws or 6 weapons + breath weapon"
 damage: "1d6 (`dice:1d6`) per claw or by weapon + 6d6 (`dice:6d6`) fire breath"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Fire Breath

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 3
-stats: ["5", "22", "15", "+5"]
-attack: "2 forelegs (1d8) / 1 bite (1d12)"
+stats: ["5", "22", "15", "double near (fly)"]
+attack: "+5 (`dice: 1d20+5`) 2 forelegs (1d8) / 1 bite (1d12)"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+2"]
 traits:
   - name: Camouflage

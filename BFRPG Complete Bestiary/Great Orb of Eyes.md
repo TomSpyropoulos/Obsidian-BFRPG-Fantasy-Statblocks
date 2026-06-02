@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 4
-stats: ["12", "64", "18", "+10"]
-attack: "1d4 rays or spell-like ability"
+stats: ["12", "64", "18", "near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 1d4 rays or spell-like ability"
 damage: "By ray or spell"
-speed: "near (fly)"
 attributes: ["+3", "+4", "+4", "+5", "+3", "+5"]
 traits:
   - name: All-Around Vision

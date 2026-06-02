@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "12", "+7"]
-attack: "1 tail or gaze"
+stats: ["7", "31", "12", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 tail or gaze"
 damage: "1d6 (`dice:1d6`) tail, save vs. Death Ray or die gaze"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Death Gaze

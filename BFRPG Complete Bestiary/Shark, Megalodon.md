@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 4
-stats: ["12", "64", "14", "+10"]
-attack: "1 bite"
+stats: ["12", "64", "14", "double near"]
+attack: "+10 (`dice: 1d20+10`) 1 bite"
 damage: "2d12 (`dice:2d12`)"
-speed: "double near"
 attributes: ["+5", "+4", "+4", "+3", "+3", "+4"]
 traits:
   - name: Blood Detection

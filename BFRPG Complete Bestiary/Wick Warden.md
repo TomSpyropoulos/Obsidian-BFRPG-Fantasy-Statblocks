@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "14", "+4"]
-attack: "1"
+stats: ["4", "18", "14", "near"]
+attack: "+4 (`dice: 1d20+4`) 1"
 damage: "1d10 (`dice:1d10`) + 1d8 (`dice:1d8`) cold"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Negative Flame

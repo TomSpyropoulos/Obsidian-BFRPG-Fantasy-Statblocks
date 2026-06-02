@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "14", "+5"]
-attack: "1 tusk (2d6)"
+stats: ["5", "22", "14", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 tusk (2d6)"
 damage: "-"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Cold Immunity

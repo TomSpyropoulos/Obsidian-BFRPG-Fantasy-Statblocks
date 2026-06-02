@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "14", "+3"]
-attack: "1 punch or mining pick"
+stats: ["3", "13", "14", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 punch or mining pick"
 damage: "1d4 (`dice:1d4`) punch, 1d6 (`dice:1d6`) mining pick"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Undead

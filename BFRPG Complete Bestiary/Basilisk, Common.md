@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "15", "+6"]
-attack: "1 bite/1 gaze"
+stats: ["6", "27", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite/1 gaze"
 damage: "1d10 (`dice:1d10`)/petrification"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Petrifying Gaze

@@ -16,10 +16,9 @@ level: "30"
 hp: 150
 atk_bonus: "+15"
 modifier: 7
-stats: ["30", "150", "21", "+15"]
-attack: "2 claws/1 bite or breath"
+stats: ["30", "150", "21", "near"]
+attack: "+15 (`dice: 1d20+15`) 2 claws/1 bite or breath"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)/10d6 (`dice:10d6`) or 30d8 (`dice:30d8`)"
-speed: "near"
 attributes: ["+9", "+7", "+8", "+7", "+7", "+10"]
 traits:
   - name: Poison Immunity

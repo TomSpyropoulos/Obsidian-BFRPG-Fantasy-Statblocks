@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "17", "+5"]
-attack: "1 tongue or 1 bite"
+stats: ["5", "22", "17", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 tongue or 1 bite"
 damage: "grab or 2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
   - name: Camouflage

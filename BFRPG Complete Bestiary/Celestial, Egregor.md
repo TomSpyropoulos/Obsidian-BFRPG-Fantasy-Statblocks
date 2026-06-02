@@ -16,10 +16,9 @@ level: "12"
 hp: 67
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "67", "24", "+10"]
-attack: "1 weapon"
+stats: ["12", "67", "24", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 weapon"
 damage: "By weapon +3"
-speed: "near"
 attributes: ["+3", "+3", "+4", "+3", "+5", "+8"]
 traits:
   - name: Teleportation

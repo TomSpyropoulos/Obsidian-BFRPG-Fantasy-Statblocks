@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 4
-stats: ["12", "64", "17", "+10"]
-attack: "1 fire bolt or 1 incinerate or special"
+stats: ["12", "64", "17", "near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 1 fire bolt or 1 incinerate or special"
 damage: "1d8 (`dice:1d8`) fire bolt, 12d6 (`dice:12d6`) incinerate, or special"
-speed: "near (fly)"
 attributes: ["+5", "+4", "+4", "+3", "+3", "+8"]
 traits:
   - name: Fire Bolt

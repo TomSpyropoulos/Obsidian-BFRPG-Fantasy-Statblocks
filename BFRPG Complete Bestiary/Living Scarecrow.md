@@ -16,10 +16,9 @@ level: "4"
 hp: 20
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "20", "12", "+4"]
-attack: "1 slam / 1 weapon"
+stats: ["4", "20", "12", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 slam / 1 weapon"
 damage: "1d6+1 (`dice:1d6+1`) slam, by weapon"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Darkvision

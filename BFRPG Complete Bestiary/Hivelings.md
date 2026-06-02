@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "14", "+1"]
-attack: "2 claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
+stats: ["1", "4", "14", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
 damage: "1d4 (`dice:1d4`) claws, 1d6 (`dice:1d6`) or by weapon"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Hive-Mind

@@ -16,10 +16,9 @@ level: "7"
 hp: 38
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "38", "20", "+7"]
-attack: "2 claws, 1 bite"
+stats: ["7", "38", "20", "near"]
+attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-speed: "near"
 attributes: ["+1", "+1", "+2", "+1", "+3", "+1"]
 traits:
   - name: Shapeshifting

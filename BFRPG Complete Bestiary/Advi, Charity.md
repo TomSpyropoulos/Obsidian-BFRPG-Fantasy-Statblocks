@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "15", "+6"]
-attack: "4 fireballs"
+stats: ["6", "27", "15", "near"]
+attack: "+6 (`dice: 1d20+6`) 4 fireballs"
 damage: "1d6 (`dice:1d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 actions:
   - name: fireballs

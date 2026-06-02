@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "18", "14", "+4"]
-attack: "1 weapon or 1 unarmed"
+stats: ["4", "18", "14", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 weapon or 1 unarmed"
 damage: "By weapon or 1d4 (`dice:1d4`)"
-speed: "near (fly)"
 attributes: ["+1", "+2", "+1", "+1", "+3", "+3"]
 traits:
   - name: Flight

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "16", "+6"]
-attack: "2 tentacles / 1 bite + special"
+stats: ["6", "27", "16", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 tentacles / 1 bite + special"
 damage: "1d6 (`dice:1d6`) tentacle, 1d8 (`dice:1d8`) bite + special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Tentacle Grapple

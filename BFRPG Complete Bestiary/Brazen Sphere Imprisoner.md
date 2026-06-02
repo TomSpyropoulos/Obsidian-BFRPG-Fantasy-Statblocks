@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "19", "+8"]
-attack: "Engulf"
+stats: ["8", "36", "19", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) Engulf"
 damage: "Special"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+7"]
 traits:
   - name: Engulf

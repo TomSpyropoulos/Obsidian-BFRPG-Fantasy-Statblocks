@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "12", "+1"]
-attack: "1 bite"
+stats: ["1", "4", "12", "near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`) + 1d4 (`dice:1d4`)/round blood drain"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+2"]
 traits:
   - name: Blood Drain

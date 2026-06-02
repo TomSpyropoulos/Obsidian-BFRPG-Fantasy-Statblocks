@@ -16,10 +16,9 @@ level: "9"
 hp: 40
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "40", "16", "+8"]
-attack: "2 claws / 1 bite"
+stats: ["9", "40", "16", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
 traits:
   - name: Magical Weapon Immunity

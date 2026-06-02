@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "20", "+10"]
-attack: "4 claws/1 bite + cold"
+stats: ["12", "64", "20", "near"]
+attack: "+10 (`dice: 1d20+10`) 4 claws/1 bite + cold"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`) + 1d8 (`dice:1d8`)/round"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Cold Aura

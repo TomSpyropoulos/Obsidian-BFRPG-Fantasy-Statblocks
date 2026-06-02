@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 2
-stats: ["11", "58", "22", "+9"]
-attack: "2 bite or 1 spell or 1 constrict"
+stats: ["11", "58", "22", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 bite or 1 spell or 1 constrict"
 damage: "2d10 (`dice:2d10`) bite, bone to blade, 3d6 (`dice:3d6`) constrict*"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Surprise

@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "16", "+5"]
-attack: "Special"
+stats: ["5", "22", "16", "near"]
+attack: "+5 (`dice: 1d20+5`) Special"
 damage: "Special"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+2"]
 traits:
   - name: Possession Attack

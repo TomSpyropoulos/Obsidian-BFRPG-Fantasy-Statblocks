@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "15", "+1"]
-attack: "2 bites"
+stats: ["1", "4", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) 2 bites"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Swift attacks

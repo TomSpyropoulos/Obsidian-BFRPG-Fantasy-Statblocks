@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "10", "+1"]
-attack: "1 tentacle brush"
+stats: ["1", "4", "10", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 tentacle brush"
 damage: "1d10 (`dice:1d10`) plus paralysis"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Nearly Invisible

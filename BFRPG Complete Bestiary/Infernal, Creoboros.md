@@ -16,10 +16,9 @@ level: "8"
 hp: 71
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "71", "17", "+8"]
-attack: "3 claws, 3 bites, 1 tail, or special"
+stats: ["8", "71", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 3 claws, 3 bites, 1 tail, or special"
 damage: "1d8 (`dice:1d8`) claw, 1d10 (`dice:1d10`) bite, 1d4 (`dice:1d4`) + constriction 2d8 (`dice:2d8`) tail, or special"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 traits:
   - name: Snake Growth

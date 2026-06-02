@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "14", "+10"]
-attack: "1 giant weapon or 2 fists"
+stats: ["13", "68", "14", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 2 fists"
 damage: "3d6 (`dice:3d6`) giant weapon, 3d6 (`dice:3d6`) fist"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 traits:
   - name: Giant Bow

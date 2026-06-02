@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "10", "+2"]
-attack: "Poison (if successful digest of victim)"
+stats: ["2", "9", "10", "near (fly)"]
+attack: "+2 (`dice: 1d20+2`) Poison (if successful digest of victim)"
 damage: "1 HP (save vs. Paralysis) touch, if touch successful 1d6 (`dice:1d6`)/round digestive acid"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Paralyzing Venom

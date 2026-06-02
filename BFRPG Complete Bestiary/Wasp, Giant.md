@@ -16,10 +16,9 @@ level: "4"
 hp: 19
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "19", "14", "+4"]
-attack: "1 sting (1d6 + poison)"
+stats: ["4", "19", "14", "near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 1 sting (1d6 + poison)"
 damage: "1d6 (`dice:1d6`) + poison"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+4"]
 traits:
   - name: Poison

@@ -16,10 +16,9 @@ level: "1"
 hp: 1
 atk_bonus: "+0"
 modifier: 0
-stats: ["1", "1", "10", "+0"]
-attack: "1 bite per pack"
+stats: ["1", "1", "10", "near"]
+attack: "+0 (`dice: 1d20+0`) 1 bite per pack"
 damage: "1d6 (`dice:1d6`) + disease"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "-2"]
 traits:
   - name: Swarm Attack

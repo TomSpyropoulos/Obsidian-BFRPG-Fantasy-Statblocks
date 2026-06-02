@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 2
-stats: ["1", "4", "17", "+1"]
-attack: "1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4)"
+stats: ["1", "4", "17", "double near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4)"
 damage: "1d4 (`dice:1d4`) beak, 1d6 (`dice:1d6`) wing, 1d4 (`dice:1d4`) feather"
-speed: "double near (fly)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
   - name: Feather Throw

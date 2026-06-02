@@ -16,10 +16,9 @@ level: "14"
 hp: 74
 atk_bonus: "+11"
 modifier: 3
-stats: ["14", "74", "24", "+11"]
-attack: "1 + special"
+stats: ["14", "74", "24", "near"]
+attack: "+11 (`dice: 1d20+11`) 1 + special"
 damage: "3d8 (`dice:3d8`) + special"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+8"]
 traits:
   - name: Slow Effect

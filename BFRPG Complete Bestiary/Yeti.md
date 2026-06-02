@@ -16,10 +16,9 @@ level: "4"
 hp: 22
 atk_bonus: "+4"
 modifier: 2
-stats: ["4", "22", "13", "+4"]
-attack: "2 claws + hug (see below)"
+stats: ["4", "22", "13", "double near"]
+attack: "+4 (`dice: 1d20+4`) 2 claws + hug (see below)"
 damage: "1d6 (`dice:1d6`) claw, 2d8 (`dice:2d8`) hug"
-speed: "double near"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+2"]
 traits:
   - name: Hug

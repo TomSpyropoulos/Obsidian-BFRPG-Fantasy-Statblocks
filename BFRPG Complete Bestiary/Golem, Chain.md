@@ -16,10 +16,9 @@ level: "20"
 hp: 103
 atk_bonus: "+13"
 modifier: 5
-stats: ["20", "103", "23", "+13"]
-attack: "3 lashes + special"
+stats: ["20", "103", "23", "near"]
+attack: "+13 (`dice: 1d20+13`) 3 lashes + special"
 damage: "4d6 (`dice:4d6`) lash, + special"
-speed: "near"
 attributes: ["+7", "+5", "+6", "+5", "+5", "+10"]
 traits:
   - name: Grappling Hold

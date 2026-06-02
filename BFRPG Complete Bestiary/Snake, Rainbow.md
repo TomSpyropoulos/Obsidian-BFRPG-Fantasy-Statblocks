@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "13", "+4"]
-attack: "1 bite or 1 spit"
+stats: ["4", "18", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 bite or 1 spit"
 damage: "1d6 (`dice:1d6`) + confusion poison bite, special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Poisonous Bite

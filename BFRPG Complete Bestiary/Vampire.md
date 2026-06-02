@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 2
-stats: ["7", "31", "17", "+7"]
-attack: "1 weapon or special"
+stats: ["7", "31", "17", "near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 1 weapon or special"
 damage: "1d8 (`dice:1d8`) or by weapon or special"
-speed: "near (fly)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+5"]
 traits:
   - name: Charm Gaze

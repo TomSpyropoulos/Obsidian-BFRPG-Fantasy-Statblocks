@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 1
-stats: ["7", "31", "14", "+7"]
-attack: "1 slam"
+stats: ["7", "31", "14", "near"]
+attack: "+7 (`dice: 1d20+7`) 1 slam"
 damage: "3d4 (`dice:3d4`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Shapeshifting

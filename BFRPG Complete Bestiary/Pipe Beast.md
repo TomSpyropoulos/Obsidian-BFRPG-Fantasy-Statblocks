@@ -16,10 +16,9 @@ level: "6"
 hp: 33
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "33", "17", "+6"]
-attack: "2 claws (2d6) / 1 tail (1d10) / acid spray (4d8)"
+stats: ["6", "33", "17", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 claws (2d6) / 1 tail (1d10) / acid spray (4d8)"
 damage: "2d6 (`dice:2d6`) claw, 1d10 (`dice:1d10`) tail, 4d8 (`dice:4d8`) acid spray"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+6"]
 traits:
   - name: Acid Spray

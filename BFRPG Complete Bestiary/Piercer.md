@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "15", "+1"]
-attack: "1 stab"
+stats: ["1", "4", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 stab"
 damage: "1d6 (`dice:1d6`) per HD"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Climbing

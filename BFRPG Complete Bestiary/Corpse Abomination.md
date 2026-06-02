@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "13", "+6"]
-attack: "3 \u00d7 bludgeon (1d6)"
+stats: ["6", "27", "13", "near"]
+attack: "+6 (`dice: 1d20+6`) 3 \u00d7 bludgeon (1d6)"
 damage: "1d6 (`dice:1d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Wailing Stench

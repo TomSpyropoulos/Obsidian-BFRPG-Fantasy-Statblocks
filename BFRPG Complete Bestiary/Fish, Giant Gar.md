@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "16", "+8"]
-attack: "1 bite (5d4)"
+stats: ["8", "36", "16", "double near"]
+attack: "+8 (`dice: 1d20+8`) 1 bite (5d4)"
 damage: "5d4 (`dice:5d4`)"
-speed: "double near"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Swallow Whole

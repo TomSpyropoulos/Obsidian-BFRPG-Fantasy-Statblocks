@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "48", "15", "+8"]
-attack: "2 tusks, 1 trunk grab, 2 tramples"
+stats: ["9", "48", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 tusks, 1 trunk grab, 2 tramples"
 damage: "2d4 (`dice:2d4`) tusk, 2d6 (`dice:2d6`) grab, 2d8 (`dice:2d8`) trample"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+3"]
 actions:
   - name: tusks, 1 trunk grab, 2 tramples

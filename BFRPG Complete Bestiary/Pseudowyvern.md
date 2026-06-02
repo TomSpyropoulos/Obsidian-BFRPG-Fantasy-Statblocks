@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 1
-stats: ["3", "13", "18", "+3"]
-attack: "1 bite or 1 sting"
+stats: ["3", "13", "18", "near (fly)"]
+attack: "+3 (`dice: 1d20+3`) 1 bite or 1 sting"
 damage: "1 or 1 + poison"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "-1"]
 traits:
   - name: Camouflage

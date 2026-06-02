@@ -16,10 +16,9 @@ level: "4"
 hp: 19
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "19", "14", "+4"]
-attack: "1 huge weapon"
+stats: ["4", "19", "14", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 huge weapon"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+4"]
 traits:
   - name: Strength bonus

@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "18", "+8"]
-attack: "1 bite or 2 blades or spines or by weapon"
+stats: ["8", "36", "18", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 bite or 2 blades or spines or by weapon"
 damage: "1d6 (`dice:1d6`) + poison or 1d8+2 (`dice:1d8+2`) or 4d6 (`dice:4d6`) or by weapon + 2"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+4"]
 traits:
   - name: Immunities

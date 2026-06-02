@@ -16,10 +16,9 @@ level: "1"
 hp: 6
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "6", "16", "+1"]
-attack: "1 constriction (1d4)"
+stats: ["1", "6", "16", "near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 1 constriction (1d4)"
 damage: "1d4 (`dice:1d4`)"
-speed: "near (fly)"
 attributes: ["+2", "+1", "+1", "+0", "+0", "+0"]
 traits:
   - name: Camouflage

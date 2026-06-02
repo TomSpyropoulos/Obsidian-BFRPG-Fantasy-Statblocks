@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "17", "+8"]
-attack: "5 to 8 bites (2d6)"
+stats: ["8", "36", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 5 to 8 bites (2d6)"
 damage: "-"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+6"]
 traits:
   - name: Sound-based Perception

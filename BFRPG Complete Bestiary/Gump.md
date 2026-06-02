@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "13", "+4"]
-attack: "2 fists or 1 weapon"
+stats: ["4", "18", "13", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 fists or 1 weapon"
 damage: "1d8+3 (`dice:1d8+3`) fist or by weapon +3"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+4"]
 traits:
   - name: Paralyzing Gaze

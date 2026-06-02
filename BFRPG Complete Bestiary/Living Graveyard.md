@@ -16,10 +16,9 @@ level: "40"
 hp: 195
 atk_bonus: "+16"
 modifier: 10
-stats: ["40", "195", "20", "+16"]
-attack: "1 tombstone + special"
+stats: ["40", "195", "20", "near"]
+attack: "+16 (`dice: 1d20+16`) 1 tombstone + special"
 damage: "2d6 (`dice:2d6`) tombstone + special"
-speed: "near"
 attributes: ["+10", "+10", "+11", "+12", "+10", "+15"]
 traits:
   - name: Tombstone Attack

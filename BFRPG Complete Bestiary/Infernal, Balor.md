@@ -16,10 +16,9 @@ level: "8"
 hp: 44
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "44", "21", "+8"]
-attack: "1 sword, or 1 whip, + special"
+stats: ["8", "44", "21", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 1 sword, or 1 whip, + special"
 damage: "1d12+1 (`dice:1d12+1`) sword, 2d6+1 (`dice:2d6+1`) whip, + special"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+5"]
 traits:
   - name: Flame Shroud

@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "14", "+1"]
-attack: "1 spray or 1 grapple and bite"
+stats: ["1", "4", "14", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 spray or 1 grapple and bite"
 damage: "Special, see below"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+0", "+2", "-6"]
 traits:
   - name: Multiple Eyes

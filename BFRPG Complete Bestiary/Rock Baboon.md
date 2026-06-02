@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "9", "13", "+2"]
-attack: "1 club or Fist /1 bite"
+stats: ["2", "9", "13", "near"]
+attack: "+2 (`dice: 1d20+2`) 1 club or Fist /1 bite"
 damage: "1d6 (`dice:1d6`) club or 1d4 (`dice:1d4`) fist/1d4 (`dice:1d4`) bite"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 actions:
   - name: club or Fist

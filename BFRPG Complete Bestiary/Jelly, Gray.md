@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "11", "+3"]
-attack: "1 pseudopod (2d8)"
+stats: ["3", "13", "11", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 pseudopod (2d8)"
 damage: "2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+5"]
 traits:
   - name: Acid Secretions

@@ -16,10 +16,9 @@ level: "3"
 hp: 13
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "13", "12", "+3"]
-attack: "2 weapons"
+stats: ["3", "13", "12", "near"]
+attack: "+3 (`dice: 1d20+3`) 2 weapons"
 damage: "1d8+1 (`dice:1d8+1`) or by weapon +1"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+3"]
 traits:
   - name: Stealth

@@ -16,10 +16,9 @@ level: "9"
 hp: 50
 atk_bonus: "+8"
 modifier: 2
-stats: ["9", "50", "17", "+8"]
-attack: "2 fists or 1 boulder"
+stats: ["9", "50", "17", "near"]
+attack: "+8 (`dice: 1d20+8`) 2 fists or 1 boulder"
 damage: "1d10+4 (`dice:1d10+4`) fist, 3d6 (`dice:3d6`) boulder"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+7"]
 traits:
   - name: Create Darkness

@@ -16,10 +16,9 @@ level: "2"
 hp: 9
 atk_bonus: "+2"
 modifier: 1
-stats: ["2", "9", "12", "+2"]
-attack: "2 hooves (1d4) / 1 bite (1d4)"
+stats: ["2", "9", "12", "double near"]
+attack: "+2 (`dice: 1d20+2`) 2 hooves (1d4) / 1 bite (1d4)"
 damage: "-"
-speed: "double near"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
   - name: Shapeshifting

@@ -745,16 +745,15 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             atk_str = " / ".join(atks) if atks else "-"
             dmg_str = format_dice(dmg) if dmg else "-"
 
-            stats_list = [hd_str_sanitized, str(hp_val), str(shadowdark_ac), atk_display]
+            stats_list = [hd_str_sanitized, str(hp_val), str(shadowdark_ac), mapped_speed]
             stats_field = json.dumps(stats_list)
             
             # YAML-safe string dumping (outside f-strings)
             q_aliases = json.dumps(name_aliases)
             q_hd_str = json.dumps(hd_str_sanitized)
             q_thac0 = json.dumps(atk_display)
-            q_attack = json.dumps(atk_str)
+            q_attack = json.dumps(f"+{ab} (`dice: 1d20+{ab}`) " + atk_str)
             q_damage = json.dumps(dmg_str)
-            q_speed = json.dumps(map_shadowdark_speed(mov))
             q_ac = json.dumps(str(shadowdark_ac))
 
             md = f"---\nstatblock: inline\nname: {full_name}\nobsidianUIMode: preview\ntags:\n  - monster\naliases: {q_aliases}\nsource: {source_name}\n---\n\n"
@@ -769,7 +768,6 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
             md += f"stats: {stats_field}\n"
             md += f"attack: {q_attack}\n"
             md += f"damage: {q_damage}\n"
-            md += f"speed: {q_speed}\n"
             md += f"attributes: {json.dumps(attributes_list)}\n"
             
             spec = statblock_portrayal.get("specialAbilities", [])

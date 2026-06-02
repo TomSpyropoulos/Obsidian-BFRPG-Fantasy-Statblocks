@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 4
-stats: ["10", "54", "20", "+9"]
-attack: "2 claws/1 bite or breath/1 tail"
+stats: ["10", "54", "20", "double near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws/1 bite or breath/1 tail"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/4d8 (`dice:4d8`) or breath/1d8 (`dice:1d8`)"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+3"]
 traits:
   - name: Fire Immunity

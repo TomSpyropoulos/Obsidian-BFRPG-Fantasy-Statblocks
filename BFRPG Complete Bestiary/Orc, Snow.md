@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "13", "+1"]
-attack: "1 punch or weapon"
+stats: ["1", "4", "13", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 punch or weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+1"]
 traits:
   - name: Cold Immunity

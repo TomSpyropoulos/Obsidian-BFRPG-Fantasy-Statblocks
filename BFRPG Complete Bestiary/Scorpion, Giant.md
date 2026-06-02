@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "14", "+4"]
-attack: "2 claws/1 stinger"
+stats: ["4", "18", "14", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 claws/1 stinger"
 damage: "1d10 (`dice:1d10`)/1d10 (`dice:1d10`)/1d6 (`dice:1d6`) + poison"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+5"]
 traits:
   - name: Claw Advantage

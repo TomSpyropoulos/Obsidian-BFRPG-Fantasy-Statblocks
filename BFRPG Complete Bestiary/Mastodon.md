@@ -16,10 +16,9 @@ level: "15"
 hp: 78
 atk_bonus: "+11"
 modifier: 3
-stats: ["15", "78", "17", "+11"]
-attack: "2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
+stats: ["15", "78", "17", "near"]
+attack: "+11 (`dice: 1d20+11`) 2 tusks (2d6) / 1 trunk grab (2d4) / 2 tramples (2d8)"
 damage: "-"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+4"]
 source: BFRPG Core
 ```

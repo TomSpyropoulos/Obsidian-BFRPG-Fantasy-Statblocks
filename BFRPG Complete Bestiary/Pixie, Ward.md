@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 1
-stats: ["1", "4", "16", "+1"]
-attack: "2 claws"
+stats: ["1", "4", "16", "near (fly)"]
+attack: "+1 (`dice: 1d20+1`) 2 claws"
 damage: "1d4 (`dice:1d4`) claw + special"
-speed: "near (fly)"
 attributes: ["+0", "+1", "-1", "+3", "+1", "+2"]
 traits:
   - name: Pixie Dust

@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "18", "+1"]
-attack: "1 miniature weapon (1d2)"
+stats: ["1", "4", "18", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 miniature weapon (1d2)"
 damage: "1d2 (`dice:1d2`)"
-speed: "near"
 attributes: ["+0", "+0", "+0", "+2", "+0", "-2"]
 traits:
   - name: Darkvision

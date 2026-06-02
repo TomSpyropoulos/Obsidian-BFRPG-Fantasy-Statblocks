@@ -16,10 +16,9 @@ level: "3"
 hp: 16
 atk_bonus: "+3"
 modifier: 0
-stats: ["3", "16", "14", "+3"]
-attack: "1 weapon"
+stats: ["3", "16", "14", "near"]
+attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon +1"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+1"]
 traits:
   - name: Cold Resistance

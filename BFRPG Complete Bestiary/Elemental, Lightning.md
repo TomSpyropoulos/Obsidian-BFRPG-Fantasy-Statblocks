@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "18", "+8"]
-attack: "special"
+stats: ["8", "36", "18", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) special"
 damage: "1d12 (`dice:1d12`)"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
 traits:
   - name: Magnetic Draw

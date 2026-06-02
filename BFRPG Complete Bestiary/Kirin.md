@@ -16,10 +16,9 @@ level: "12"
 hp: 54
 atk_bonus: "+10"
 modifier: 5
-stats: ["12", "54", "24", "+10"]
-attack: "2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
+stats: ["12", "54", "24", "double near (fly)"]
+attack: "+10 (`dice: 1d20+10`) 2 hooves (+3 to hit, 2d4) / 1 horn (+3 to hit, 3d6)"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+5", "+5", "+3", "+3", "+3", "+4"]
 traits:
   - name: Telepathy

@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "1 entangle + special"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 entangle + special"
 damage: "1d8 (`dice:1d8`) entangle + special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Surprise

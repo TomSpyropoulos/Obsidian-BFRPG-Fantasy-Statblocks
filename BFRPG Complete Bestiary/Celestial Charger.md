@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 4
-stats: ["8", "36", "18", "+8"]
-attack: "2 hooves (1d8)"
+stats: ["8", "36", "18", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 hooves (1d8)"
 damage: "1d8 (`dice:1d8`) hoof"
-speed: "double near (fly)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+5"]
 traits:
   - name: Telepathy

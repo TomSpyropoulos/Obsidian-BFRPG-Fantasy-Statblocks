@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 1
-stats: ["5", "22", "13", "+5"]
-attack: "1 bite (1d6+3 + poison)"
+stats: ["5", "22", "13", "near"]
+attack: "+5 (`dice: 1d20+5`) 1 bite (1d6+3 + poison)"
 damage: "-"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Poison

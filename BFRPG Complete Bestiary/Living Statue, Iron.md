@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "17", "+4"]
-attack: "2 fists"
+stats: ["4", "18", "17", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 fists"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`) + special"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Weapon Adhesion

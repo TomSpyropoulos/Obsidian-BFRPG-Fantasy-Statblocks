@@ -16,10 +16,9 @@ level: "1"
 hp: 4
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "4", "14", "+1"]
-attack: "1 weapon"
+stats: ["1", "4", "14", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
-speed: "near"
 attributes: ["+3", "+0", "+1", "+0", "+0", "+0"]
 actions:
   - name: weapon

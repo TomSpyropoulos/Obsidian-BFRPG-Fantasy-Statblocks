@@ -16,10 +16,9 @@ level: "9"
 hp: 48
 atk_bonus: "+8"
 modifier: 4
-stats: ["9", "48", "16", "+8"]
-attack: "2 claws"
+stats: ["9", "48", "16", "double near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 claws"
 damage: "1d10 (`dice:1d10`) claw"
-speed: "double near (fly)"
 attributes: ["+2", "+4", "+3", "+2", "+4", "+6"]
 traits:
   - name: Spellcasting

@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "15", "+4"]
-attack: "2 tendrils or 1 constrict"
+stats: ["4", "18", "15", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 tendrils or 1 constrict"
 damage: "1d6 (`dice:1d6`) tendrils, 2d4 (`dice:2d4`) constrict"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+2"]
 traits:
   - name: Enthrall

@@ -16,10 +16,9 @@ level: "12"
 hp: 64
 atk_bonus: "+10"
 modifier: 3
-stats: ["12", "64", "11", "+10"]
-attack: "1 bite or 1 spit"
+stats: ["12", "64", "11", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 bite or 1 spit"
 damage: "1d12 (`dice:1d12`) bite or 2d6 (`dice:2d6`) spit"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
   - name: Immune to blunt weapons

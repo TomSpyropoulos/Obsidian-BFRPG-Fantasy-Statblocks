@@ -16,10 +16,9 @@ level: "7"
 hp: 31
 atk_bonus: "+7"
 modifier: 3
-stats: ["7", "31", "16", "+7"]
-attack: "1 weapon"
+stats: ["7", "31", "16", "double near (fly)"]
+attack: "+7 (`dice: 1d20+7`) 1 weapon"
 damage: "By weapon + 2"
-speed: "double near (fly)"
 attributes: ["+1", "+3", "+1", "+1", "+3", "+5"]
 traits:
   - name: Spellcasting

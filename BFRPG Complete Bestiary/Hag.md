@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "14", "+6"]
-attack: "2 claws / hex"
+stats: ["6", "27", "14", "near"]
+attack: "+6 (`dice: 1d20+6`) 2 claws / hex"
 damage: "2d6 (`dice:2d6`) claw, special"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+1", "+3", "+2"]
 traits:
   - name: Hex

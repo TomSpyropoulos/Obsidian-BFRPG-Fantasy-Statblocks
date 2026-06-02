@@ -16,10 +16,9 @@ level: "14"
 hp: 74
 atk_bonus: "+11"
 modifier: 5
-stats: ["14", "74", "18", "+11"]
-attack: "2 slams (2d10)"
+stats: ["14", "74", "18", "double near (fly)"]
+attack: "+11 (`dice: 1d20+11`) 2 slams (2d10)"
 damage: "-"
-speed: "double near (fly)"
 attributes: ["+5", "+5", "+4", "+3", "+3", "+8"]
 traits:
   - name: See Through Deception

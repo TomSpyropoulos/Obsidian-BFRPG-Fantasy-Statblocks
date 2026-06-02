@@ -16,10 +16,9 @@ level: "11"
 hp: 58
 atk_bonus: "+9"
 modifier: 3
-stats: ["11", "58", "14", "+9"]
-attack: "2 claws, 1 bite"
+stats: ["11", "58", "14", "near (fly)"]
+attack: "+9 (`dice: 1d20+9`) 2 claws, 1 bite"
 damage: "2d4 (`dice:2d4`) claw, 1d8 (`dice:1d8`) bite"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
   - name: Blinding Flash

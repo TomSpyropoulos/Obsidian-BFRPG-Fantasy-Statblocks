@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "17", "+8"]
-attack: "1"
+stats: ["8", "36", "17", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+5"]
 traits:
   - name: Vulnerability to Water

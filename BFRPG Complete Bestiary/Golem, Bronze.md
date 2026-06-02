@@ -16,10 +16,9 @@ level: "20"
 hp: 103
 atk_bonus: "+13"
 modifier: 6
-stats: ["20", "103", "19", "+13"]
-attack: "1 fist + special"
+stats: ["20", "103", "19", "double near"]
+attack: "+13 (`dice: 1d20+13`) 1 fist + special"
 damage: "3d10 (`dice:3d10`) + special"
-speed: "double near"
 attributes: ["+7", "+6", "+6", "+5", "+5", "+10"]
 traits:
   - name: Molten Interior

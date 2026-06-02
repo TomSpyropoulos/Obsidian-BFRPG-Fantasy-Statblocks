@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "13", "+6"]
-attack: "3 thorn (1d4) / 1 acid (3d8) / 1 leaves (1d8)"
+stats: ["6", "27", "13", "near"]
+attack: "+6 (`dice: 1d20+6`) 3 thorn (1d4) / 1 acid (3d8) / 1 leaves (1d8)"
 damage: "1d4 (`dice:1d4`) thorn, 3d8 (`dice:3d8`) acid, 1d8 (`dice:1d8`) leaves"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+6"]
 traits:
   - name: Immune to acids

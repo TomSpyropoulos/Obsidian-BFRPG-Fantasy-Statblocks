@@ -16,10 +16,9 @@ level: "6"
 hp: 27
 atk_bonus: "+6"
 modifier: 1
-stats: ["6", "27", "16", "+6"]
-attack: "1 bite (2d8)"
+stats: ["6", "27", "16", "near"]
+attack: "+6 (`dice: 1d20+6`) 1 bite (2d8)"
 damage: "2d8 (`dice:2d8`)"
-speed: "near"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+3"]
 traits:
   - name: Armor Destruction

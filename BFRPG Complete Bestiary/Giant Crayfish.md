@@ -16,10 +16,9 @@ level: "4"
 hp: 22
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "22", "15", "+4"]
-attack: "2 claws"
+stats: ["4", "22", "15", "near"]
+attack: "+4 (`dice: 1d20+4`) 2 claws"
 damage: "2d6 (`dice:2d6`)"
-speed: "near"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
   - name: Ambush

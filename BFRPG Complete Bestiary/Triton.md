@@ -16,10 +16,9 @@ level: "5"
 hp: 22
 atk_bonus: "+5"
 modifier: 2
-stats: ["5", "22", "13", "+5"]
-attack: "1 tail smash (3d6) / 1 weapon / spells"
+stats: ["5", "22", "13", "double near"]
+attack: "+5 (`dice: 1d20+5`) 1 tail smash (3d6) / 1 weapon / spells"
 damage: "3d6 (`dice:3d6`) tail smash, weapon, by spell"
-speed: "double near"
 attributes: ["+1", "+2", "+1", "+3", "+1", "+1"]
 traits:
   - name: Magic

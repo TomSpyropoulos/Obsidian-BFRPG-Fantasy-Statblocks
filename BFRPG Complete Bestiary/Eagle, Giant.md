@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 3
-stats: ["4", "18", "14", "+4"]
-attack: "2 claws / 1 bite"
+stats: ["4", "18", "14", "double near (fly)"]
+attack: "+4 (`dice: 1d20+4`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d8 (`dice:1d8`)"
-speed: "double near (fly)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
   - name: Intelligence

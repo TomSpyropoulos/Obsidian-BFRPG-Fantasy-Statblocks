@@ -16,10 +16,9 @@ level: "2"
 hp: 11
 atk_bonus: "+2"
 modifier: 0
-stats: ["2", "11", "13", "+2"]
-attack: "2 claws, 1 bite + 2 hind claws (rake)"
+stats: ["2", "11", "13", "near"]
+attack: "+2 (`dice: 1d20+2`) 2 claws, 1 bite + 2 hind claws (rake)"
 damage: "1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite, 1d3 (`dice:1d3`) hind claw"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Rake

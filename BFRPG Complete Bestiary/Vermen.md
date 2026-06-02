@@ -16,10 +16,9 @@ level: "1"
 hp: 5
 atk_bonus: "+1"
 modifier: 0
-stats: ["1", "5", "15", "+1"]
-attack: "1 bite or 1 weapon"
+stats: ["1", "5", "15", "near"]
+attack: "+1 (`dice: 1d20+1`) 1 bite or 1 weapon"
 damage: "1d3 (`dice:1d3`) bite, by weapon"
-speed: "near"
 attributes: ["+2", "+0", "+1", "+0", "+0", "-2"]
 traits:
   - name: Pack Courage

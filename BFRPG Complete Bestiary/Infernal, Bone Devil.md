@@ -16,10 +16,9 @@ level: "9"
 hp: 40
 atk_bonus: "+8"
 modifier: 3
-stats: ["9", "40", "20", "+8"]
-attack: "1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
+stats: ["9", "40", "20", "double near"]
+attack: "+8 (`dice: 1d20+8`) 1 bone hook (3d4) / 1 venomous tail (2d4 plus 1d4 STR damage)"
 damage: "3d4 (`dice:3d4`) hook, 2d4 (`dice:2d4`) plus 1d4 (`dice:1d4`) STR damage tail"
-speed: "double near"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+4"]
 traits:
   - name: Bone Hook

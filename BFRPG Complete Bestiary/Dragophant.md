@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 3
-stats: ["8", "36", "17", "+8"]
-attack: "2 tusks (1d6 each) / 1 stomp (3d8) / breath weapon (steam cloud, 8d8)"
+stats: ["8", "36", "17", "near (fly)"]
+attack: "+8 (`dice: 1d20+8`) 2 tusks (1d6 each) / 1 stomp (3d8) / breath weapon (steam cloud, 8d8)"
 damage: "1d6 (`dice:1d6`) tusk, 3d8 (`dice:3d8`) stomp, 8d8 (`dice:8d8`) breath"
-speed: "near (fly)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Herd Morale

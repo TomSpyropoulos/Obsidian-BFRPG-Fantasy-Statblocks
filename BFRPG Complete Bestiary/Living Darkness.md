@@ -16,10 +16,9 @@ level: "4"
 hp: 18
 atk_bonus: "+4"
 modifier: 1
-stats: ["4", "18", "11", "+4"]
-attack: "1 shroud + drain"
+stats: ["4", "18", "11", "near"]
+attack: "+4 (`dice: 1d20+4`) 1 shroud + drain"
 damage: "1d4 (`dice:1d4`) + special"
-speed: "near"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+6"]
 traits:
   - name: Insubstantial

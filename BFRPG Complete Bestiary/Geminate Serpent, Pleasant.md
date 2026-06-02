@@ -16,10 +16,9 @@ level: "10"
 hp: 54
 atk_bonus: "+9"
 modifier: 2
-stats: ["10", "54", "21", "+9"]
-attack: "2 bite or 1 breath or 1 constrict"
+stats: ["10", "54", "21", "near"]
+attack: "+9 (`dice: 1d20+9`) 2 bite or 1 breath or 1 constrict"
 damage: "3d8 (`dice:3d8`) bite, breath, 1d6 (`dice:1d6`) constrict*"
-speed: "near"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+5"]
 traits:
   - name: Hide in Plain Sight

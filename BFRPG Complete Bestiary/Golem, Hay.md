@@ -16,10 +16,9 @@ level: "8"
 hp: 36
 atk_bonus: "+8"
 modifier: 2
-stats: ["8", "36", "15", "+8"]
-attack: "1 punch + special"
+stats: ["8", "36", "15", "near"]
+attack: "+8 (`dice: 1d20+8`) 1 punch + special"
 damage: "2d6 (`dice:2d6`) + special"
-speed: "near"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+7"]
 traits:
   - name: Damage Resistance

@@ -16,10 +16,9 @@ level: "13"
 hp: 68
 atk_bonus: "+10"
 modifier: 3
-stats: ["13", "68", "19", "+10"]
-attack: "1 bite+constriction, 6 claws or breath"
+stats: ["13", "68", "19", "near"]
+attack: "+10 (`dice: 1d20+10`) 1 bite+constriction, 6 claws or breath"
 damage: "2d10 (`dice:2d10`) bite, 1d8 (`dice:1d8`) constriction, 1d4 (`dice:1d4`) claw, or breath"
-speed: "near"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+5"]
 traits:
   - name: Bite and Constrict

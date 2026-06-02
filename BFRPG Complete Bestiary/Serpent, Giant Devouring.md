@@ -16,10 +16,9 @@ level: "36"
 hp: 162
 atk_bonus: "+16"
 modifier: 9
-stats: ["36", "162", "23", "+16"]
-attack: "1 bite, 1 tail or special"
+stats: ["36", "162", "23", "near"]
+attack: "+16 (`dice: 1d20+16`) 1 bite, 1 tail or special"
 damage: "5d8 (`dice:5d8`) + poison bite, 5d12 (`dice:5d12`) tail, special"
-speed: "near"
 attributes: ["+11", "+9", "+9", "+9", "+9", "+12"]
 traits:
   - name: Poison Bite
