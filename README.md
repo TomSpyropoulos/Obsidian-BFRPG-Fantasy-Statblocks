@@ -1,20 +1,28 @@
-# 🌌 Obsidian Shadowdark Bestiary
+# Obsidian Shadowdark Bestiary
 
 Welcome to the ultimate **Shadowdark RPG** bestiary for Obsidian! This repository contains a comprehensive collection of **869 monster statblocks** (originally extracted from the BFRPG Core Rules and Field Guide) that have been **fully converted and optimized** for the **Shadowdark RPG** ruleset, specifically formatted for the [Obsidian Fantasy Statblocks](https://plugins.javalent.com/statblocks) plugin.
 
 ---
 
-## 🌌 Premium Shadowdark Features
+## 🌌 Shadowdark Features
 
 * **Obsidian Ready:** Pre-formatted in Markdown with clean YAML frontmatter that works plug-and-play with the *Fantasy Statblocks* plugin.
 * **Complete Shadowdark Layout:** Built specifically for the `shadowdark` layout, featuring ascending AC, Level, HP, Atk Bonus, and a custom Actions / Traits hierarchy.
-* **Preserved Comma-Separated Naming:** Retains original database comma-separated naming schemas (e.g., `Dragon, Ice` and `Elf Bugs, Swarm`) inside the YAML name, aliases, and vault filenames, keeping species and variants perfectly grouped together in your Obsidian folder sidebar.
 * **Interactive Dice Roller Integration:** Automatically parses and appends clickable Obsidian Dice Roller blocks (e.g. `1d8+1 (`dice:1d8+1`)`) next to all dice expressions inside the YAML `damage` field and action description strings.
 * **Dynamic 6-Attribute Modifiers:** Every monster features a complete `attributes` array `[STR, DEX, CON, INT, WIS, CHA]` calculated using customized Old-School OSR progression formulas (see conversion logic below).
 * **Speed Mapping & DEX Bonuses:** Automatic prioritization and translation of complex movement rates (like flying and swimming) into clean Shadowdark speed classes (`near`, `near (fly)`, `double near`, `double near (fly)`), which dynamically feed back into the monster's **DEX modifier**.
 * **Preceding-Word Contextual Trait Translation:** Traditional B/X saving throw categories (like *save vs. Poison*, *save vs. Spells*) have been translated into natural, grammatically flawless Shadowdark-style difficulty checks (e.g. `succeed on a DC [DC] [Attribute] check`), applied to **both** the YAML traits block and the main body paragraphs.
 * **Asterisk Stripping & Clean Formatting:** Formatting symbols and asterisks (like `Gargoyle*` or `Shadow*`) have been completely stripped from monster names, aliases, and filenames for a pristine vault experience.
-* **Rearchitected Initiative Modifier:** The YAML `modifier:` property maps directly to the monster's resolved **DEX modifier** for seamless compatibility with Obsidian's *Initiative Tracker* plugin.
+
+---
+
+## 📦 Installation & Setup
+
+1. **Install Plugin:** Ensure you have the **Fantasy Statblocks** plugin active in your Obsidian vault.
+2. **Download files:** Download the bestiary folders (`BFRPG Core` and `BFRPG Field Guide`) from this repository.
+3. **Import Layout:** Create or import the **Shadowdark** statblock layout in Fantasy Statblocks.
+4. **Vault Placement:** Drop the **Bestiary** folder into your vault.
+5. **Auto-Index:** Enable "Automatically Parse Frontmatter for Creatures" in your Fantasy Statblocks settings to immediately make all 869 monsters rollable!
 
 ---
 
@@ -125,15 +133,6 @@ A context-aware linguistic engine scans all monster traits and description parag
 
 ---
 
-## 📦 Installation & Setup
-
-1. **Install Plugin:** Ensure you have the **Fantasy Statblocks** plugin active in your Obsidian vault.
-2. **Download files:** Download the bestiary folders (`BFRPG Core` and `BFRPG Field Guide`) from this repository.
-3. **Import Layout:** Create or import the **Shadowdark** statblock layout in Fantasy Statblocks.
-4. **Vault Placement:** Drop the **Bestiary** folder into your vault.
-5. **Auto-Index:** Enable "Automatically Parse Frontmatter for Creatures" in your Fantasy Statblocks settings to immediately make all 869 monsters rollable!
-
----
 
 ## ⚖️ Attribution & Legal
 
