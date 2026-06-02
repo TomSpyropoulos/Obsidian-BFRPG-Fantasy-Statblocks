@@ -1,3 +1,5 @@
+>>> [OSE VERSION HERE](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/main) <<<
+
 # Obsidian Shadowdark Bestiary
 
 Welcome to the ultimate **Shadowdark RPG** bestiary for Obsidian! This repository contains a comprehensive collection of **869 monster statblocks** (originally extracted from the BFRPG Core Rules and Field Guide) that have been **fully converted and optimized** for the **Shadowdark RPG** ruleset, specifically formatted for the [Obsidian Fantasy Statblocks](https://plugins.javalent.com/statblocks) plugin.
