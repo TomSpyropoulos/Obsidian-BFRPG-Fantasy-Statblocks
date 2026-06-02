@@ -1,4 +1,4 @@
->>> [OSE VERSION HERE](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/main) <<<
+[>>> OSE VERSION HERE <<<](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/main)
 
 # Obsidian Shadowdark Bestiary
 
