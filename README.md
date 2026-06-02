@@ -129,9 +129,7 @@ A context-aware linguistic engine scans all monster traits and description parag
 
 1. **Install Plugin:** Ensure you have the **Fantasy Statblocks** plugin active in your Obsidian vault.
 2. **Download files:** Download the bestiary folders (`BFRPG Core` and `BFRPG Field Guide`) from this repository.
-3. **Import Layout:**
-   * Create or import the **Shadowdark** statblock layout in your vault.
-   * Make sure that the layout maps keys to: `ac`, `level`, `hp`, `atk_bonus`, `modifier`, `speed`, `attributes`, `traits`, and `actions`.
+3. **Import Layout:** Create or import the **Shadowdark** statblock layout in Fantasy Statblocks.
 4. **Vault Placement:** Drop the **Bestiary** folder into your vault.
 5. **Auto-Index:** Enable "Automatically Parse Frontmatter for Creatures" in your Fantasy Statblocks settings to immediately make all 869 monsters rollable!
 
