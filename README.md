@@ -1,4 +1,4 @@
->>> [SHADOWDARK VERSION HERE](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/shadowdark) <<<
+[>>> SHADOWDARK VERSION HERE <<<](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/shadowdark)
 
 # BFRPG Obsidian Bestiary
 
