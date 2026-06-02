@@ -34,7 +34,7 @@ traits:
   - name: Magic Resistance
     desc: "25% magic resistance, but since it possesses an intelligence it is subject to mind-affecting magic and effects."
   - name: Immune to Fear
-    desc: "Immune to fear (morale (CHA) of 12)."
+    desc: "Immune to fear (morale (WIS) of 12)."
 actions:
   - name: slam or 1 weapon
     desc: "D20 to hit, 1d6+1 (`dice:1d6+1`) slam, by weapon"
@@ -43,5 +43,5 @@ source: BFRPG Field Guide
 
 Sometimes during its creation a living scarecrow may become possessed by an evil spirit, becoming a Dread Scarecrow. These malevolent creatures take delight in seeking out and tormenting the living by inducing terror. During the day it hides in the fields as a normal scarecrow, but during the night it stalks, looking for unwary prey. In all respects it looks like a normal scarecrow except for the deep red-orange glow from within its pumpkin head and frightening visage.
 
-A dread scarecrow is immune to fear (morale (CHA) of 12), but has a self-preservation instinct. Use the morale (CHA) of 8 to determine whether a dread scarecrow decides to flee from combat if it is outmatched or outnumbered.
+A dread scarecrow is immune to fear (morale (WIS) of 12), but has a self-preservation instinct. Use the morale (WIS) of 8 to determine whether a dread scarecrow decides to flee from combat if it is outmatched or outnumbered.
 

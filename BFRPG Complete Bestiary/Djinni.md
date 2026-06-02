@@ -35,5 +35,5 @@ source: BFRPG Core
 
 The djinn (singular djinni) are humanoid creatures from the Elemental Plane of Air. A djinni in its natural form is about 10½ feet tall and weighs about 1,000 pounds.
 
-Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind (see below) to harass those who follow; the 12 morale (CHA) reflects a djinni's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched djinn decides to leave a combat.
+Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind (see below) to harass those who follow; the 12 morale (WIS) reflects a djinni's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched djinn decides to leave a combat.
 

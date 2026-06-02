@@ -112,12 +112,12 @@ A context-aware linguistic engine scans all monster traits and description parag
   * `"hit dice"` (plural) $\to$ **`"levels"`**
   * `"hit die"` (singular) $\to$ **`"level"`**
   * `"HD"` (abbreviation) $\to$ **`"LVL"`**
-* **Morale to Charisma Checks Conversion:**
-  * Since Shadowdark does not use morale scores, old B/X morale mechanics are converted directly into active Charisma checks using standard DC-12 rules:
-    * `"morale check"` $\to$ **`"DC 12 CHA check"`**
-    * `"morale checks"` $\to$ **`"morale checks (DC 12 CHA checks)"`**
-    * `"checking morale"` $\to$ **`"making a DC 12 CHA check"`**
-    * `"morale rating"` / `"morale value"` $\to$ **`"CHA modifier"`**
+* **Morale to Wisdom Checks Conversion:**
+  * Since Shadowdark does not use morale scores, old B/X morale mechanics are converted directly into active Wisdom checks using standard DC-12 rules:
+    * `"morale check"` $\to$ **`"DC 12 WIS check"`**
+    * `"morale checks"` $\to$ **`"morale checks (DC 12 WIS checks)"`**
+    * `"checking morale"` $\to$ **`"making a DC 12 WIS check"`**
+    * `"morale rating"` / `"morale value"` $\to$ **`"WIS modifier"`**
 * **Spellcaster Class Alignment:**
   * Old B/X `"Magic-User"` class terms are converted directly to Shadowdark's class standard:
     * `"Magic-User"` / `"magic-user"` (singular) $\to$ **`"Wizard"` / `"wizard"`**

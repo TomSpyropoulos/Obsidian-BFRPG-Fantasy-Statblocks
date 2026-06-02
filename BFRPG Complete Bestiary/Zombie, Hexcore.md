@@ -30,7 +30,7 @@ traits:
   - name: Undead Immunities
     desc: "May be Turned by Clerics and are immune to sleep, charm, and hold magics. As they are mindless, no form of mind-reading is of any use against them."
   - name: Never Fail Morale
-    desc: "Hexcore zombies never fail morale (CHA) checks (DC 12 CHA checks), and thus always fight until destroyed."
+    desc: "Hexcore zombies never fail morale checks (DC 12 WIS checks), and thus always fight until destroyed."
 actions:
   - name: claws + special
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw + special"

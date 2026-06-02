@@ -30,7 +30,7 @@ traits:
   - name: Skin-Wearing Benefits
     desc: "Once donning at least one hide, gains three advantages: +2 points of damage, half-damage from blunt weapons, and a 50' movement rate."
   - name: Undead Immunities
-    desc: "Immune to sleep, charm or hold magic. No form of mind reading is of any use against them. Never fail morale (CHA), fighting until destroyed."
+    desc: "Immune to sleep, charm or hold magic. No form of mind reading is of any use against them. Never fail morale (WIS), fighting until destroyed."
   - name: Turning
     desc: "Can be Turned by a Cleric as skeletons, unless wearing skin, in which case they are Turned as zombies."
 source: BFRPG Field Guide
@@ -40,7 +40,7 @@ Skeletal Flayers are animated skeletons whose forearms are replaced with a whip 
 
 Quick on their feet, the skeletal flayer rushes to attack first with a long whip, grappling a victim in order to begin the grim work of harvesting skin. Such a whip attack does damage only to targets of Armor Class 13 or less, but always holds the target. In subsequent rounds, the flayer begins its butchery, automatically doing 1d6 points of damage with the curved blade. Following the Wrestling section in the Basic Fantasy RPG Core Rules, the victim may escape with a successful DC 12 CON check, applying the better of their Strength or Dexterity bonuses.
 
-When unadorned, a skeletal flayer takes only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). Once donning at least one hide, it gains three advantages: +2 points of damage, half-damage from blunt weapons, and a 50' movement rate. As with all undead, they are immune to sleep, charm or hold magic. No form of mind reading is of any use against them, and they never fail morale (CHA), fighting until destroyed. They can be Turned by a Cleric as skeletons, unless wearing skin, in which case they are Turned as zombies.
+When unadorned, a skeletal flayer takes only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). Once donning at least one hide, it gains three advantages: +2 points of damage, half-damage from blunt weapons, and a 50' movement rate. As with all undead, they are immune to sleep, charm or hold magic. No form of mind reading is of any use against them, and they never fail morale (WIS), fighting until destroyed. They can be Turned by a Cleric as skeletons, unless wearing skin, in which case they are Turned as zombies.
 
 Successful skeletal flayers drag the mutilated bodies of their victims off to a charnel pit where the unused flesh rots from the bones, mixing with now-discarded worldly possessions.
 

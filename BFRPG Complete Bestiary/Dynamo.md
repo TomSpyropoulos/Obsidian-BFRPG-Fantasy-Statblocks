@@ -24,11 +24,11 @@ traits:
   - name: Lightning Aura
     desc: "Anyone who touches the lightning with something conductive (such as a metal sword) must succeed on a DC 12 INT check or receive a -3 penalty on attack rolls due to numbness for 1 turn. This penalty is not cumulative."
   - name: Cowardly
-    desc: "Each dynamo makes a DC 12 CHA check at half health."
+    desc: "Each dynamo makes a DC 12 WIS check at half health."
 source: BFRPG Field Guide
 ```
 
 A Dynamo is a six-inch metal sphere that floats a few feet off the ground and is enveloped by an aura of lightning. This lightning ranges from a pale blue to a deep purple. Anyone who touches the lightning with something conductive (such as a metal sword) must succeed on a DC 12 INT check or receive a -3 penalty on attack rolls due to numbness for 1 turn. This penalty is not cumulative.
 
-A dynamo fires bolts of lightning at its foes. Despite appearances these spheres are quite cowardly, each making a DC 12 CHA check at half health.
+A dynamo fires bolts of lightning at its foes. Despite appearances these spheres are quite cowardly, each making a DC 12 WIS check at half health.
 

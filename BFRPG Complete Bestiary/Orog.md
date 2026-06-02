@@ -26,7 +26,7 @@ traits:
   - name: Languages
     desc: "Speaks the language of orcs as well as Common and possibly Goblin, Dwarven, or Elvish."
   - name: Clan Standard
-    desc: "An orog sometimes marches into battle carrying a special standard representing their clan. While fighting under a standard all orogs and allied orcs gain a +1 bonus to attack rolls and morale (CHA)."
+    desc: "An orog sometimes marches into battle carrying a special standard representing their clan. While fighting under a standard all orogs and allied orcs gain a +1 bonus to attack rolls and morale (WIS)."
 actions:
   - name: weapon
     desc: "D20 to hit, 1d10+1 (`dice:1d10+1`) or by weapon +1"

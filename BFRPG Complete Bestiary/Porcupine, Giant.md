@@ -26,7 +26,7 @@ traits:
   - name: Melee Defense
     desc: "Any attacker attempting to approach to melee range will automatically suffer 1d4 quill hits, except if the attacker is using a long weapon such as a spear or polearm."
   - name: Bite
-    desc: "2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 CHA check but is cornered and cannot retreat."
+    desc: "2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 WIS check but is cornered and cannot retreat."
 actions:
   - name: quill burst
     desc: "D20 to hit, See below for quill burst, 2d4 (`dice:2d4`) bite"
@@ -39,7 +39,7 @@ Giant Porcupines are simply a very large version of the common spiny-coated mamm
 
 The primary attack of a giant porcupine is its quill burst, a blast of quills launched by a swift snap of its short but flexible tail. The quill burst consists of 1d8 quills launched at up to four adjacent opponents (divided up more or less evenly as determined by the referee); each quill does 1d4 points of damage on a successful hit. These quills are barbed, such that removing one causes an additional 1d4 points of damage; as they are up to 3 feet in length, leaving the quills embedded in a victim is usually not an option.
 
-A giant porcupine can bite for 2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 CHA check but is cornered and cannot retreat.
+A giant porcupine can bite for 2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 WIS check but is cornered and cannot retreat.
 
 Worse, any attacker attempting to approach to melee range will automatically suffer 1d4 quill hits, except if the attacker is using a long weapon such as a spear or polearm (and is thus able to remain out of reach of the giant porcupine's quills). A giant porcupine has hundreds of quills, so there is little chance one will run out of ammunition in a fight.
 

@@ -405,13 +405,13 @@ def translate_trait_text(text, level):
     processed = re.sub(r'\b[Hh]it\s+[Dd]ie\b', lambda m: 'level' if m.group(0)[0].islower() else 'Level', processed)
     processed = re.sub(r'\bHD\b', 'LVL', processed)
     
-    # B. "morale check/checks" -> "DC 12 CHA check/checks"
-    processed = re.sub(r'\bmorale\s+checks\b', 'morale checks (DC 12 CHA checks)', processed, flags=re.IGNORECASE)
-    processed = re.sub(r'\bmorale\s+check\b', 'DC 12 CHA check', processed, flags=re.IGNORECASE)
-    processed = re.sub(r'\bchecking\s+morale\b', 'making a DC 12 CHA check', processed, flags=re.IGNORECASE)
-    processed = re.sub(r'\bmorale\s+rating\b', 'CHA modifier', processed, flags=re.IGNORECASE)
-    processed = re.sub(r'\bmorale\s+value\b', 'CHA modifier', processed, flags=re.IGNORECASE)
-    processed = re.sub(r'\bmorale\b', 'morale (CHA)', processed, flags=re.IGNORECASE)
+    # B. "morale check/checks" -> "DC 12 WIS check/checks"
+    processed = re.sub(r'\bmorale\s+checks\b', 'morale checks (DC 12 WIS checks)', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+check\b', 'DC 12 WIS check', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bchecking\s+morale\b', 'making a DC 12 WIS check', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+rating\b', 'WIS modifier', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\s+value\b', 'WIS modifier', processed, flags=re.IGNORECASE)
+    processed = re.sub(r'\bmorale\b(?! (?:checks|check|rating|value))', 'morale (WIS)', processed, flags=re.IGNORECASE)
     
     # C. "Magic-User" / "magic-user" -> "Wizard" / "wizard" (preserving capitalization and pluralization)
     def repl_wizard(m):
@@ -1085,6 +1085,8 @@ def run_tests():
         ("created by an evil Magic-User.", 1, "created by an evil Wizard."),
         ("formed by two magic-users.", 1, "formed by two wizards."),
         ("It has infravision with a range of 120'.", 1, "It has darkvision with a range of 120'."),
+        ("must make a morale check.", 1, "must make a DC 12 WIS check."),
+        ("morale checks are made at -1.", 1, "morale checks (DC 12 WIS checks) are made at -1."),
     ]
     for text, lvl, expected in trait_tests:
         translated = translate_trait_text(text, lvl)

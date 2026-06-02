@@ -22,7 +22,7 @@ damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+2", "+0"]
 traits:
   - name: Construct
-    desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale (CHA) and always fights until destroyed."
+    desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale (WIS) and always fights until destroyed."
   - name: Vulnerable to edged weapons
     desc: "Unlike a normal animated skeleton, a clockwork skeleton is vulnerable to edged weapons due to the nature of the wires and pulleys that make up its mechanics."
   - name: Vulnerable to electrical attacks
@@ -35,5 +35,5 @@ source: BFRPG Field Guide
 
 The Clockwork Skeleton is a skeletal construct made of bronze and powered by a strange arrangement of pulleys, coils, wires, and gears. It has rudimentary brain matrices limited to knowing a patrol area, responding to alarms, knowing friend from foe, and standing guard. It will not automatically attack unless what it is guarding is disturbed. Unlike a normal animated skeleton, a clockwork skeleton is vulnerable to edged weapons due to the nature of the wires and pulleys that make up its mechanics. Crucially, this creature is not an undead monster (despite its obvious resemblance) and thus cannot be Turned.
 
-Like any construct, a clockwork skeleton is immune to **sleep**, **charm**, and **hold** spells. As it is mindless in the traditional sense, no form of mind reading is of any use against it. It never fails morale (CHA) and always fights until destroyed.
+Like any construct, a clockwork skeleton is immune to **sleep**, **charm**, and **hold** spells. As it is mindless in the traditional sense, no form of mind reading is of any use against it. It never fails morale (WIS) and always fights until destroyed.
 

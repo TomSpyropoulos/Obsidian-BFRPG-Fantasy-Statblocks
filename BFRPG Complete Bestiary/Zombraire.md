@@ -32,7 +32,7 @@ traits:
   - name: Silent Movement
     desc: "Moves silently."
   - name: Sanity Loss
-    desc: "Slowly rots away and loses its sanity, represented by variable morale (CHA). An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence."
+    desc: "Slowly rots away and loses its sanity, represented by variable morale (WIS). An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence."
 actions:
   - name: dagger or 1 spell
     desc: "D20 to hit, 1d4 (`dice:1d4`) or per spell"
@@ -41,7 +41,7 @@ source: BFRPG Core
 
 A Zombraire is a free-willed undead Wizard. Like the zombie it resembles, a zombraire moves silently, is very strong, and must be literally hacked to pieces to be destroyed. However, it does not suffer the initiative penalty common to ordinary zombies. It takes only half damage from blunt weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus). It may be Turned by a Cleric (as a wight), and is immune to sleep, charm, and hold spells.
 
-A zombraire slowly rots away, and as it does it loses its sanity; this is represented by the variable morale (CHA) listed. An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence.
+A zombraire slowly rots away, and as it does it loses its sanity; this is represented by the variable morale (WIS) listed. An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence.
 
 The given statistics are for a zombraire formed from a 2nd-level Wizard; the LVL and saving throws of a zombraire are based on the level it had in life. A zombraire can cast spells as it did when living, but cannot learn new spells.
 

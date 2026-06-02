@@ -26,7 +26,7 @@ traits:
   - name: Disease
     desc: "Any successful bite has a 5% chance of causing a disease. Infected character will sicken in 3d6 hours, losing one point of Constitution per hour. After losing each point, the character is allowed a DC 12 CON check (adjusted by current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead."
   - name: Undead
-    desc: "Can be Turned by a Cleric (as a ghoul). Immune to sleep, charm, or hold spells. Mindless, so no form of mind reading is of any use against it. Never fails morale (CHA), and always fights until destroyed."
+    desc: "Can be Turned by a Cleric (as a ghoul). Immune to sleep, charm, or hold spells. Mindless, so no form of mind reading is of any use against it. Never fails morale (WIS), and always fights until destroyed."
 actions:
   - name: bite (1d6 + paralysis + disease)
     desc: "D20 to hit, 1d6 (`dice:1d6`) + paralysis + disease"
@@ -37,5 +37,5 @@ Animated through the use of foul magics, a Giant Ghoul Cockroach is a ravenous m
 
 A character who suffers one or more ghoul cockroach bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a DC 12 CON check (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead (see Constitution Point Losses in the Encounter section of the Basic Fantasy RPG Core Rules for details on regaining lost Constitution).
 
-As with all undead, it can be Turned by a Cleric (as a ghoul), and is immune to sleep, charm, or hold spells. As it is mindless, no form of mind reading is of any use against it. A giant ghoul cockroach never fails morale (CHA), and always fights until destroyed.
+As with all undead, it can be Turned by a Cleric (as a ghoul), and is immune to sleep, charm, or hold spells. As it is mindless, no form of mind reading is of any use against it. A giant ghoul cockroach never fails morale (WIS), and always fights until destroyed.
 

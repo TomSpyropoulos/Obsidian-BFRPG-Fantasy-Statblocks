@@ -28,7 +28,7 @@ traits:
   - name: Undead
     desc: "Can be Turned by Clerics as a spectre, and are immune to sleep, charm, or hold magic."
   - name: Mindless
-    desc: "No form of mind reading is of any use against them. Never fail morale (CHA), and thus always fight until destroyed."
+    desc: "No form of mind reading is of any use against them. Never fail morale (WIS), and thus always fight until destroyed."
 actions:
   - name: giant weapon or 1 thrown lava rock
     desc: "D20 to hit, 3d6 (`dice:3d6`) weapon or 2d6 (`dice:2d6`) thrown rock"
@@ -41,5 +41,5 @@ Unlike their living counterparts, lava lake skeletons do not need to find a rock
 
 Just like normal skeletons, lava lake skeletons take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). As with all undead, they can be Turned by Clerics as a spectre, and are immune to sleep, charm, or hold magic.
 
-As they are mindless, no form of mind reading is of any use against them. Lava lake skeletons never fail morale (CHA), and thus always fight until destroyed.
+As they are mindless, no form of mind reading is of any use against them. Lava lake skeletons never fail morale (WIS), and thus always fight until destroyed.
 

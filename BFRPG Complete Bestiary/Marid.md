@@ -45,5 +45,5 @@ source: BFRPG Field Guide
 
 Marid are a race of man-like creatures believed to be from the Elemental Realm of Water. They are large beings, 10-11 feet in height, and weighing around 1,500 pounds.
 
-The marid's morale (CHA) score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched marid decides to leave a combat.
+The marid's morale (WIS) score of 12 reflects its absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "8" figure to determine whether an outmatched marid decides to leave a combat.
 

@@ -28,7 +28,7 @@ traits:
   - name: Grapple and Bite
     desc: "An octospider can grapple a character and then deliver a bite, but generally does this as a last resort after spray attacks are exhausted. The bite damage is always just 1d4 points (even for the largest individuals). Use the normal wrestling procedures found in the Basic Fantasy RPG Core Rules, with the bite being delivered only as a second attack after a successful grab."
   - name: Random Morale
-    desc: "Octospiders behave in a seemingly random and arbitrary fashion. Each group has a morale (CHA) figure rolled as 1d6+6, for a range of 7 to 12. There is no particular or obvious reason for this fact; if adventurers escape from a group of octospiders, and then encounter them again, their morale (CHA) should be re-rolled on each new encounter. All members of a group will have the same morale (CHA) figure at any given moment."
+    desc: "Octospiders behave in a seemingly random and arbitrary fashion. Each group has a morale (WIS) figure rolled as 1d6+6, for a range of 7 to 12. There is no particular or obvious reason for this fact; if adventurers escape from a group of octospiders, and then encounter them again, their morale (WIS) should be re-rolled on each new encounter. All members of a group will have the same morale (WIS) figure at any given moment."
 actions:
   - name: spray or 1 grapple and bite
     desc: "D20 to hit, Special, see below"

@@ -28,7 +28,7 @@ traits:
   - name: Vulnerability
     desc: "Fire and acid overcomes their regenerative power and cause them normal injury and permanent death."
   - name: Variable Morale
-    desc: "Once their number are reduced below half their morale (CHA) drop to 6, if their number is halved a second time it drops again to 3, if their number increase (by the arrival of more trobolds or by their regeneration) their morale (CHA) increases accordingly."
+    desc: "Once their number are reduced below half their morale (WIS) drop to 6, if their number is halved a second time it drops again to 3, if their number increase (by the arrival of more trobolds or by their regeneration) their morale (WIS) increases accordingly."
 source: BFRPG Field Guide
 ```
 
@@ -36,5 +36,5 @@ A Trobold is a 3-foot tall magical troll-kobold hybrid with rubbery gnarly limbs
 
 Similar to trolls, trobolds have the power of regeneration: healing 2 HP each turn; unlike trolls a slain trobold will rise up in a mere 1d3 rounds. Furthermore, slaying a trobold with a slashing weapon or similar attack causes a 50% probability of two trobolds rising from the remains. Fire and acid overcomes their regenerative power and cause them normal injury and permanent death.
 
-Trobolds fight by using traps, tricks, and their sheer overwhelming number and savagery. Once their number are reduced below half their morale (CHA) drop to 6, if their number is halved a second time it drops again to 3, if their number increase (by the arrival of more trobolds or by their regeneration) their morale (CHA) increases accordingly.
+Trobolds fight by using traps, tricks, and their sheer overwhelming number and savagery. Once their number are reduced below half their morale (WIS) drop to 6, if their number is halved a second time it drops again to 3, if their number increase (by the arrival of more trobolds or by their regeneration) their morale (WIS) increases accordingly.
 

@@ -43,7 +43,7 @@ source: BFRPG Field Guide
 
 A Barghest is an evil shape-changing fiend that hungers for the souls of mortals. A barghest may appear as a huge demonic black dog, or in a humanoid form nearly seven feet tall, resembling a wingless gargoyle.
 
-A barghest never uses weapons, even in its humanoid form, preferring to feel the blood of its enemies run down its claws. A barghest is tenacious; if a barghest fails a DC 12 CHA check and flees, it will return in 1d6 turns to attack again.
+A barghest never uses weapons, even in its humanoid form, preferring to feel the blood of its enemies run down its claws. A barghest is tenacious; if a barghest fails a DC 12 WIS check and flees, it will return in 1d6 turns to attack again.
 
 A barghest generally speaks Common as well as the languages of infernals, goblins, hobgoblins, and bugbears, and can communicate with wolves. One can sometimes be found ruling over goblins or hobgoblins, but most commonly a barghest haunts a lonely stretch of road, preying on travelers. In these instances its treasure is usually buried nearby, likely behind a shrine or such.
 

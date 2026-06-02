@@ -22,7 +22,7 @@ damage: "1d6 (`dice:1d6`) tusk, 3d8 (`dice:3d8`) stomp, 8d8 (`dice:8d8`) breath"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
   - name: Herd Morale
-    desc: "As long as the herd bull is alive, all the other members of the herd gain a +1 to morale (CHA), and the bull gains a similar +1 to morale (CHA) as long as any other member of its herd survives."
+    desc: "As long as the herd bull is alive, all the other members of the herd gain a +1 to morale (WIS), and the bull gains a similar +1 to morale (WIS) as long as any other member of its herd survives."
   - name: Poor Fliers
     desc: "Though dragophants can fly they are poor, clumsy fliers. Taking off requires a dragophant to move at least 30 feet in a straight line on the ground to gain enough speed to take flight the following round."
   - name: Breath Weapon
@@ -41,5 +41,5 @@ source: BFRPG Field Guide
 
 Dragophants are strange chimeric creatures, they have the overall form of an elephant, but have deep-green scaly dragon hide, large draconic wings, and a mouth full of razor-sharp teeth. Unlike actual dragons, dragophants are herd creatures, and any group of three or more will be a herd with a large bull leading it. Smaller groups of one or two will be rogue males, who use the normal statistics rather than those of a herd bull.
 
-As long as the herd bull is alive, all the other members of the herd gain a +1 to morale (CHA), and the bull gains a similar +1 to morale (CHA) as long as any other member of its herd survives.
+As long as the herd bull is alive, all the other members of the herd gain a +1 to morale (WIS), and the bull gains a similar +1 to morale (WIS) as long as any other member of its herd survives.
 

@@ -22,7 +22,7 @@ damage: "1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
   - name: Intoxicating Saliva
-    desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale (CHA) checks (DC 12 CHA checks)."
+    desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale checks (DC 12 WIS checks)."
 actions:
   - name: claws
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) bite"
@@ -35,5 +35,5 @@ source: BFRPG Field Guide
 
 A Moonshiner is a six-legged excessively-muscled hound with an over-sized jaw and a penchant for a stiff drink, often found roaming dwarven distilleries.
 
-Moonshiners will attack when they have the numerical advantage, attempting to rush their foes with little regard to personal safety. A DC 12 CHA check is appropriate when they no longer outnumber their foes.
+Moonshiners will attack when they have the numerical advantage, attempting to rush their foes with little regard to personal safety. A DC 12 WIS check is appropriate when they no longer outnumber their foes.
 

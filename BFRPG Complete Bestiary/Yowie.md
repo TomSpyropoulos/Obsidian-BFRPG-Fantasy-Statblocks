@@ -28,7 +28,7 @@ traits:
   - name: Terrifying Cry
     desc: "Three times a day, the yowie can let out its terrifying, haunting cry. All creatures within earshot must make a DC 13 STR check or be paralyzed with fear for 1d4 rounds."
   - name: Territorial
-    desc: "Fiercely territorial and aggressive in their lair, fighting to the death to defend it (treat their morale (CHA) as 11 when encountered in their lair)."
+    desc: "Fiercely territorial and aggressive in their lair, fighting to the death to defend it (treat their morale (WIS) as 11 when encountered in their lair)."
 actions:
   - name: claws, 1 bite
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
@@ -41,5 +41,5 @@ Yowies, sometimes known as "yahoos" because of the eerie, echoing cry they make,
 
 Their long, powerful arms end in sharp claws and their slavering maws are full of jagged teeth. As part of its nocturnal adaptations, the yowie has Darkvision with a range of 120 feet.
 
-Yowies are found either alone or in small family groups, they are fiercely territorial and aggressive in their lair, fighting to the death to defend it (treat their morale (CHA) as 11 when encountered in their lair). Despite their animalistic appearance, they possess a cunning intelligence, setting rudimentary traps or using basic tools. They usually lair, in caves or dense thickets, usually strewn with the remains of their unfortunate victims and any treasure those victims might have carried.
+Yowies are found either alone or in small family groups, they are fiercely territorial and aggressive in their lair, fighting to the death to defend it (treat their morale (WIS) as 11 when encountered in their lair). Despite their animalistic appearance, they possess a cunning intelligence, setting rudimentary traps or using basic tools. They usually lair, in caves or dense thickets, usually strewn with the remains of their unfortunate victims and any treasure those victims might have carried.
 

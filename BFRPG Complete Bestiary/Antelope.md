@@ -26,6 +26,6 @@ actions:
 source: BFRPG Core
 ```
 
-The statistics above represent common sorts of wild herd animals, including deer (1 level), aurochs (2 levels), elk or moose (3 levels) and bison (4 levels). Such creatures are often skittish and likely to flee if provoked, but males are more aggressive in the presence of females (the parenthesized morale (CHA) applies in this case).
+The statistics above represent common sorts of wild herd animals, including deer (1 level), aurochs (2 levels), elk or moose (3 levels) and bison (4 levels). Such creatures are often skittish and likely to flee if provoked, but males are more aggressive in the presence of females (the parenthesized morale (WIS) applies in this case).
 
 Generally, 1 level herd animals inflict 1d4 points of damage on a hit, 2 and 3 level animals inflict 1d6, and 4 level animals inflict 1d8. The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.

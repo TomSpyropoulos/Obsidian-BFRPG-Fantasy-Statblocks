@@ -28,7 +28,7 @@ traits:
   - name: Resistance to weapons
     desc: "Takes half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
   - name: Undead
-    desc: "Can be Turned by a Cleric (as a zombie). Immune to **sleep**, **charm**, and **hold** spells. Immune to **mind reading**. Never fails morale (CHA) and always fights until destroyed."
+    desc: "Can be Turned by a Cleric (as a zombie). Immune to **sleep**, **charm**, and **hold** spells. Immune to **mind reading**. Never fails morale (WIS) and always fights until destroyed."
 actions:
   - name: punch or weapon
     desc: "D20 to hit, 1d6 (`dice:1d6`) punch, by weapon"
@@ -41,5 +41,5 @@ Each time a crimson bones is reduced to 0 HP, it will appear to be destroyed as 
 
 Unlike lesser skeletons, a crimson bones will "heal" at a rate of 1 hp per day. Damage caused by holy water while a crimson bones is active will not be recovered, either by reanimation or by this healing effect. When a crimson bones partially-damaged by holy water reanimates, deduct all holy water damage from the "previous hit points" before calculating the new total. A crimson bones destroyed entirely by holy water will not arise again.
 
-Like an ordinary skeleton, it only takes half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). As with all undead, it can be Turned by a Cleric (as a zombie), and any destroyed in this way will not return. It is immune to **sleep**, **charm**, and **hold** spells. Being mindless, no form of **mind** **reading** is of any use against it. A crimson bones never fails morale (CHA) and always fights until destroyed.
+Like an ordinary skeleton, it only takes half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). As with all undead, it can be Turned by a Cleric (as a zombie), and any destroyed in this way will not return. It is immune to **sleep**, **charm**, and **hold** spells. Being mindless, no form of **mind** **reading** is of any use against it. A crimson bones never fails morale (WIS) and always fights until destroyed.
 

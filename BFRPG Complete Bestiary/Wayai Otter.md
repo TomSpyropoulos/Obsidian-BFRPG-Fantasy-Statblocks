@@ -26,7 +26,7 @@ traits:
   - name: Otter Companion
     desc: "Sometimes (1-2 on 1d6) found in the wild with giant otters and will only ever be found in a giant otter's lair. Regards all otters, giant or otherwise, as allies."
   - name: Inspire Otters
-    desc: "All otters within sight of the wayai otter gain a +1 bonus to morale (CHA) while it lives."
+    desc: "All otters within sight of the wayai otter gain a +1 bonus to morale (WIS) while it lives."
 actions:
   - name: punches
     desc: "D20 to hit, 4d4 (`dice:4d4`) punch"
@@ -37,5 +37,5 @@ source: BFRPG Field Guide
 
 The Wayai Otter is a giant, extremely muscular otter, far from the cute water puppy that normal otters are. They are extremely territorial, and if they notice someone or something encroaching on their territory, they will approach with their chest puffed out and head held high. This otter is the size of a dwarf with massive biceps.
 
-The wayai otter is sometimes (1-2 on 1d6) found in the wild with giant otters and will only ever be found in a giant otter's lair, regarding all otters, giant or otherwise, as allies. All otters within sight of the wayai otter gain a +1 bonus to morale (CHA) while it lives.
+The wayai otter is sometimes (1-2 on 1d6) found in the wild with giant otters and will only ever be found in a giant otter's lair, regarding all otters, giant or otherwise, as allies. All otters within sight of the wayai otter gain a +1 bonus to morale (WIS) while it lives.
 

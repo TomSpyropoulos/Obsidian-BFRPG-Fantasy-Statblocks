@@ -41,5 +41,5 @@ A Telethia is a large dual-headed beast of magical nature with two pairs of blue
 
 What makes a telethia truly frightening is not its vicious claws or multiple jaws but rather its ability to read the mind of its foes. It can use mind reading (as the spell, but continuously), and once per day can copy the memorized spells of a chosen target; those spells remain available to the telethia for the remainder of the day.
 
-Although a telethia is intelligent it is not sapient. It usually hunts in the day before returning to its lair as the sun sets. They form communities around a dominant male having AC 22 and 12 LVL. Normal telethia fight with +2 morale (CHA) when near their leader.
+Although a telethia is intelligent it is not sapient. It usually hunts in the day before returning to its lair as the sun sets. They form communities around a dominant male having AC 22 and 12 LVL. Normal telethia fight with +2 morale (WIS) when near their leader.
 

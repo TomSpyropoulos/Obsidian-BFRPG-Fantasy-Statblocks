@@ -42,7 +42,7 @@ source: BFRPG Core
 
 The efreet (singular efreeti) are humanoid creatures from the Elemental Plane of Fire. An efreeti in its natural form stands about 12 feet tall and weighs about 2,000 pounds. Efreet are malicious by nature. They love to mislead, befuddle, and confuse their foes. They do this for enjoyment as much as for tactical reasons.
 
-Note that the 12 morale (CHA) reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "9" figure to determine whether an outmatched efreeti decides to leave a combat.
+Note that the 12 morale (WIS) reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily. Use the "9" figure to determine whether an outmatched efreeti decides to leave a combat.
 
 Due to their highly magical nature, efreet cannot be harmed by non-magical weapons. They are immune to normal fire, and suffer only half damage from magical fire attacks.
 

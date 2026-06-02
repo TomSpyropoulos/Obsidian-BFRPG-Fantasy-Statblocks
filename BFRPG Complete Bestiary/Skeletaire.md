@@ -30,14 +30,14 @@ traits:
   - name: Spellcasting
     desc: "Retains the ability to prepare and cast spells as it did in life, but cannot learn new spells. Cannot speak."
   - name: Fearless
-    desc: "Never fails morale (CHA) and always fights until destroyed."
+    desc: "Never fails morale (WIS) and always fights until destroyed."
 actions:
   - name: dagger or 1 spell
     desc: "D20 to hit, 1d4 (`dice:1d4`) or per spell"
 source: BFRPG Core
 ```
 
-A Skeletaire is the final form of a zombraire which has rotted away completely. It takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus). It can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, and hold spells. A skeletaire never fails morale (CHA), and thus always fights until destroyed.
+A Skeletaire is the final form of a zombraire which has rotted away completely. It takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus). It can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, and hold spells. A skeletaire never fails morale (WIS), and thus always fights until destroyed.
 
 The statistics above are for a skeletaire formed from a 2nd-level Wizard. A skeletaire will have LVL equal to the character's level minus 1, and will save as a Wizard of the level equal to its LVL. The skeletaire cannot speak, but still retains the ability to prepare and cast spells as it did in life (but like a zombraire, it cannot learn new spells).
 

@@ -22,7 +22,7 @@ damage: "1d4 (`dice:1d4`) claws, 1d6 (`dice:1d6`) or by weapon"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
   - name: Hive-Mind
-    desc: "All hivelings in a group are connected magically. morale (CHA) equals 2 plus the number of surviving hivelings in the group (maximum 12)."
+    desc: "All hivelings in a group are connected magically. morale (WIS) equals 2 plus the number of surviving hivelings in the group (maximum 12)."
   - name: Shared Hit Points
     desc: "All hivelings of the same clan or tribe within a 120-foot radius contribute their hit points to a pool. Any damage is deducted from the pool. When remaining hit points are less than the number of individuals, they begin to fall, starting with the last one hit and spreading to those nearby."
   - name: High Dexterity
@@ -45,7 +45,7 @@ actions:
 source: BFRPG Field Guide
 ```
 
-Hivelings are horrid little humanoid monsters about the size of a goblin, but covered almost totally with dark bristles like those of a wild boar. Only a hiveling's pale, evilly-grinning face is exposed. All hivelings in a group are indistinguishable, and they do not have any obvious gender; how they reproduce is a mystery. Most importantly, a group (clan or tribe) of hivelings are connected together magically into a hive-mind. This gives them a morale (CHA) equal to 2 plus the number of surviving hivelings in the group (maximum 12).
+Hivelings are horrid little humanoid monsters about the size of a goblin, but covered almost totally with dark bristles like those of a wild boar. Only a hiveling's pale, evilly-grinning face is exposed. All hivelings in a group are indistinguishable, and they do not have any obvious gender; how they reproduce is a mystery. Most importantly, a group (clan or tribe) of hivelings are connected together magically into a hive-mind. This gives them a morale (WIS) equal to 2 plus the number of surviving hivelings in the group (maximum 12).
 
 The connection between them is so powerful that they actually share hit points. All hivelings of the same clan or tribe within a 120-foot radius "contribute" their hit points to a pool, and any damage inflicted is deducted from the pool. So long as the total hit points in this pool are greater than the number of individuals, none of them will fall; however, when the remaining hit points are less than the number of hiveling individuals, they will begin to fall, starting with the last one hit and spreading to those nearby.
 
@@ -59,5 +59,5 @@ On the other hand, a hiveling can activate any magic item usable by a Wizard (in
 
 Any time a hiveling detects an "interesting" magic item, all other hivelings in its group will act intelligently to try to acquire the item. If the hivelings are badly injured, they may seek out any character carrying a potion of healing and attempt to steal it or slay the one carrying it, so they can use it themselves.
 
-Even if a group of hivelings has morale (CHA) of 12, they may choose to abandon combat when they believe they have acquired all the interesting items held by their enemies.
+Even if a group of hivelings has morale (WIS) of 12, they may choose to abandon combat when they believe they have acquired all the interesting items held by their enemies.
 

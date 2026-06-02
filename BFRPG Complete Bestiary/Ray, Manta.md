@@ -24,11 +24,11 @@ traits:
   - name: Swallow Whole
     desc: "Creatures man-sized or smaller can be swallowed whole on any roll 2 or more points higher than that needed to score a hit, and creatures swallowed suffer 1d8 points of damage per round thereafter. Those swallowed may only attack with small cutting or stabbing weapons that were already in hand before the victim was swallowed."
   - name: Regurgitate
-    desc: "If the manta ray fails a DC 12 CHA check it may regurgitate the victim and any treasure."
+    desc: "If the manta ray fails a DC 12 WIS check it may regurgitate the victim and any treasure."
 source: BFRPG Field Guide
 ```
 
-Manta Rays live in warm ocean waters. Average adults have a wingspan of around 30 feet, with mouths of around one-fourth of that width. Creatures man-sized or smaller can be swallowed whole on any roll 2 or more points higher than that needed to score a hit, and creatures swallowed suffer 1d8 points of damage per round thereafter. Those swallowed may only attack with small cutting or stabbing weapons that were already in hand before the victim was swallowed, and if the manta ray fails a DC 12 CHA check it may regurgitate the victim. The manta ray's tail spine is not significantly poisonous, and is generally only used to attack when the creature flees.
+Manta Rays live in warm ocean waters. Average adults have a wingspan of around 30 feet, with mouths of around one-fourth of that width. Creatures man-sized or smaller can be swallowed whole on any roll 2 or more points higher than that needed to score a hit, and creatures swallowed suffer 1d8 points of damage per round thereafter. Those swallowed may only attack with small cutting or stabbing weapons that were already in hand before the victim was swallowed, and if the manta ray fails a DC 12 WIS check it may regurgitate the victim. The manta ray's tail spine is not significantly poisonous, and is generally only used to attack when the creature flees.
 
 A manta ray's treasure consists of items such as coins or gems that it cannot digest, and is held in its stomach. Normally it is necessary to kill a manta ray in order to take its treasure, but if it is compelled to regurgitate a meal (as described above) the treasure will be regurgitated as well. If magic items are indicated in a treasure, remove any that could be digested or otherwise damaged in the manta ray's stomach.
 

@@ -26,7 +26,7 @@ traits:
   - name: Submerge
     desc: "If the marsh troll hits with one of its claws and a bite, they may perform a special attack, submerging the victim underwater. The victim must succeed on a DC 13 STR check or be dealt an additional 2d8 damage, or half as much on a successful save. If there is no water nearby, the marsh troll will simply bash the creature into the ground with this attack for 2d4 damage; no save is allowed."
   - name: Regeneration Weakness
-    desc: "Damage from cold and lightning cannot be regenerated, and must heal at the normal rate; a marsh troll can only be killed by this sort of damage. The lower CHA modifier (in parentheses) is used when the troll faces attackers armed with cold or lightning."
+    desc: "Damage from cold and lightning cannot be regenerated, and must heal at the normal rate; a marsh troll can only be killed by this sort of damage. The lower WIS modifier (in parentheses) is used when the troll faces attackers armed with cold or lightning."
   - name: Limb Regeneration
     desc: "If a troll loses a limb or body part, the lost portion regrows in one turn; or, the creature can reattach the severed member instantly by holding it to the stump."
 actions:

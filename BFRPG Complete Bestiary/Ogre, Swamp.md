@@ -41,7 +41,7 @@ These swamp monsters will raise their hands above the surface to impede the move
 
 If the bite is ineffective, or it decides what it has bitten will not satisfy, the swamp ogre will use its hands to grasp the largest 1d2 creatures within reach, and hold them underwater until they drown. Any creature in its grasp must succeed on a DC 15 STR check or immediately begin drowning.
 
-On the swamp ogre's first failed DC 12 CHA check, it will retreat to deeper and muddier water. If it has prey grasped in one or two hands, it will flee at half its swim speed. If it fails a second DC 12 CHA check, it will abandon its prey and flee at regular speed.
+On the swamp ogre's first failed DC 12 WIS check, it will retreat to deeper and muddier water. If it has prey grasped in one or two hands, it will flee at half its swim speed. If it fails a second DC 12 WIS check, it will abandon its prey and flee at regular speed.
 
 The swamp ogre retains the gold, platinum, and treasure of its previous meals to regulate its buoyancy. It will regurgitate this treasure upon death.
 

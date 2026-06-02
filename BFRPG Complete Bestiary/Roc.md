@@ -39,5 +39,5 @@ A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds. O
 
 A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour. Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry. While being carried, the victim will not be further attacked, so as to be as "fresh" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).
 
-When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less. If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon. Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale (CHA) of 12 in this case).
+When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less. If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon. Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale (WIS) of 12 in this case).
 

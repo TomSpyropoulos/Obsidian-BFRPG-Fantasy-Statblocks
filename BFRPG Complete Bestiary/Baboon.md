@@ -22,12 +22,12 @@ damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
   - name: Group tactics
-    desc: "Single individuals suffer a -2 penalty to morale (CHA)."
+    desc: "Single individuals suffer a -2 penalty to morale (WIS)."
 actions:
   - name: bite (1d4)
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```
 
-A Baboon (the natural form of the baboon, as opposed to the rock baboon in the **Basic Fantasy RPG Core Rules**), is an aggressive primate adapted to life on the ground. It weighs between 60 and 90 pounds, and can be 2 to 4 feet tall. It lives in troops and often hunts small game. It will face down predators when the troop is threatened. A baboon does not normally present a threat to adventurers, but if cornered or threatened it will become hostile. A baboon usually prefers to attack in groups; single individuals suffer a -2 penalty to morale (CHA).
+A Baboon (the natural form of the baboon, as opposed to the rock baboon in the **Basic Fantasy RPG Core Rules**), is an aggressive primate adapted to life on the ground. It weighs between 60 and 90 pounds, and can be 2 to 4 feet tall. It lives in troops and often hunts small game. It will face down predators when the troop is threatened. A baboon does not normally present a threat to adventurers, but if cornered or threatened it will become hostile. A baboon usually prefers to attack in groups; single individuals suffer a -2 penalty to morale (WIS).
 

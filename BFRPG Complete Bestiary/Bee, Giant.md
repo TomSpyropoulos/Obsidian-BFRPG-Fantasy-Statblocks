@@ -31,7 +31,7 @@ actions:
 source: BFRPG Core
 ```
 
-Giant bees live in hives, generally in underground areas. In each such hive will be a queen who has 2 levels and inflicts only a bite doing 1d8 points of damage. She is immobile, and if she is threatened all bees in the hive will fight without making a DC 12 CHA check. The queen is worth 75 XP if defeated.
+Giant bees live in hives, generally in underground areas. In each such hive will be a queen who has 2 levels and inflicts only a bite doing 1d8 points of damage. She is immobile, and if she is threatened all bees in the hive will fight without making a DC 12 WIS check. The queen is worth 75 XP if defeated.
 
 Those stung by a giant bee must succeed on a DC 12 CON check or die. A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature; the bee then dies.
 

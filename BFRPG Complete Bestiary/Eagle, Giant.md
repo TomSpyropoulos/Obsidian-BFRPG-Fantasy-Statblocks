@@ -26,7 +26,7 @@ traits:
   - name: Solitary Hunters
     desc: "When hunting, each eagle chooses a single creature as prey. They communicate to avoid attacking the same target."
   - name: Nest Defense
-    desc: "If a nest with eggs or hatchlings is threatened, both parents fight without making a DC 12 CHA check."
+    desc: "If a nest with eggs or hatchlings is threatened, both parents fight without making a DC 12 WIS check."
 actions:
   - name: claws
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
@@ -41,5 +41,5 @@ An average giant eagle has a wingspan of 15 to 20 feet and stands 8 to 12 feet t
 
 Individual giant eagles are rarely encountered alone, as they prefer to live in loose communities. However, when they hunt they do so in a solitary fashion, with each eagle choosing a single creature as prey. As they can communicate with each other, it is extremely rare for two of them to make the mistake of attacking the same prey; in fact, it is not uncommon for one to attack alone to scatter a group of prey so they can each more easily choose a victim.
 
-Giant eagles mate for life. If a nest with eggs or hatchlings is threatened, both parents will fight without making a DC 12 CHA check, and other giant eagles in their community may come to their defense but will still seek to scatter any opponents so as to attack them one on one
+Giant eagles mate for life. If a nest with eggs or hatchlings is threatened, both parents will fight without making a DC 12 WIS check, and other giant eagles in their community may come to their defense but will still seek to scatter any opponents so as to attack them one on one
 

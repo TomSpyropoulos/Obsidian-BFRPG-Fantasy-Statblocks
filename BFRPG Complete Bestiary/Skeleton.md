@@ -33,5 +33,5 @@ actions:
 source: BFRPG Core
 ```
 
-Skeletons are mindless undead created by an evil Wizard or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator. They take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). As with all undead, they can be Turned by a Cleric, and are immune to sleep, charm or hold magic. As they are mindless, no form of mind reading is of any use against them. Skeletons never fail morale (CHA), and thus always fight until destroyed.
+Skeletons are mindless undead created by an evil Wizard or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator. They take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). As with all undead, they can be Turned by a Cleric, and are immune to sleep, charm or hold magic. As they are mindless, no form of mind reading is of any use against them. Skeletons never fail morale (WIS), and thus always fight until destroyed.
 

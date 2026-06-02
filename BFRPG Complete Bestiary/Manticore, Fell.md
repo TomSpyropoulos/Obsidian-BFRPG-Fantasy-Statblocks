@@ -41,7 +41,7 @@ source: BFRPG Field Guide
 
 A Fell Manticore is an extremely aggressive but smaller and faster breed of the common manticore, while very similar in appearance. Its fur and skin are jet black, and it also possesses a mental power resembling that of a deceiver (see the Basic Fantasy RPG Core Rules).
 
-When encountered, a fell manticore's reaction will never be better than unfavorable, and inside their lair they will always attack without hesitation. If there is a pair of them in the lair, it will be a mated couple, and there is a 1 in 3 chance of 1d6 offspring being present. Divide 3 LVL among them as evenly as possible, with a minimum of ½ LVL (or a +1 to LVL). The young will fight amongst themselves until only the strongest of the litter remains. The adult fell manticores will fight with a +1 attack and morale (CHA) bonus when defending their offspring.
+When encountered, a fell manticore's reaction will never be better than unfavorable, and inside their lair they will always attack without hesitation. If there is a pair of them in the lair, it will be a mated couple, and there is a 1 in 3 chance of 1d6 offspring being present. Divide 3 LVL among them as evenly as possible, with a minimum of ½ LVL (or a +1 to LVL). The young will fight amongst themselves until only the strongest of the litter remains. The adult fell manticores will fight with a +1 attack and morale (WIS) bonus when defending their offspring.
 
 A fell manticore also shares the ability to shoot spikes from its tail with the common manticore, but only causing 1d4 points of damage per attack; they can have up 20 spikes, and regrow 1d4 spikes per day.
 

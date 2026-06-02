@@ -28,7 +28,7 @@ traits:
   - name: Undead
     desc: "Can be Turned by Clerics as zombies, and are immune to sleep, charm, or hold magic."
   - name: Mindless
-    desc: "No form of mind reading is of any use against them. Lake skeletons never fail morale (CHA), and thus always fight until destroyed."
+    desc: "No form of mind reading is of any use against them. Lake skeletons never fail morale (WIS), and thus always fight until destroyed."
 actions:
   - name: weapon + special
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"

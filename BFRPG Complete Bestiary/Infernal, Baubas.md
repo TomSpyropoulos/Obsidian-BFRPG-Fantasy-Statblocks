@@ -22,7 +22,7 @@ damage: "1d6 (`dice:1d6`) claw + hold or 2d6 (`dice:2d6`) bite"
 attributes: ["+1", "+3", "+1", "+1", "+3", "+1"]
 traits:
   - name: Feed on Fear
-    desc: "When encountered in its natural form, all opponents must make a DC 12 CHA check each round. For every person who fails, their morale (CHA) is semi-permanently lowered by 1, and the baubas heals 1d6 HP. Only a **restoration** spell will return their morale (CHA) to normal."
+    desc: "When encountered in its natural form, all opponents must make a DC 12 WIS check each round. For every person who fails, their morale (WIS) is semi-permanently lowered by 1, and the baubas heals 1d6 HP. Only a **restoration** spell will return their morale (WIS) to normal."
   - name: Grab and Hold
     desc: "In combat, the baubas may attack with its claws, attempting to grab hold of people. Once they are held, it may bite them or drag them away to murder them in private, usually in some manner that is cruel and unusual."
   - name: Shapeshifting
