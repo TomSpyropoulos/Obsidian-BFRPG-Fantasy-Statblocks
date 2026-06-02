@@ -1,3 +1,5 @@
+>>> [SHADOWDARK VERSION HERE](https://github.com/TomSpyropoulos/Obsidian-BFRPG-Fantasy-Statblocks/tree/shadowdark) <<<
+
 # BFRPG Obsidian Bestiary
 
 This repository contains a comprehensive collection of monster statblocks for the **Basic Fantasy Role-Playing Game (BFRPG)**, specifically formatted for use with the [Obsidian TTRPG Statblocks](https://plugins.javalent.com/statblocks) plugin.
@@ -8,7 +10,7 @@ This repository contains a comprehensive collection of monster statblocks for th
 * **OSE/BX Compatible Stats:**
     * **Dual AC Formatting:** Features OSE-compatible dual AC format displayed as `descending [ascending]` (e.g., `6 [13]`), automatically calculated using standard base-11 BFRPG AC with (+1/-1) offsets.
     * **Attack Bonus:** Uses standard BFRPG/OSE attack bonus (THAC0).
-* **Natural Naming:** Automatically reordered names from database format (e.g., "Beetle, Giant Fire") to natural format (**Giant Fire Beetle**) to make it compatible with initiative tracker.
+* **Naming & Formatting:** Standardized names preserved with OSR-style comma conventions (e.g., "Beetle, Giant Fire") for proper catalog organization, while clean formatting strips special/ability asterisks.
 * **Automatic Aliases:** Alternative names found in parentheses are moved to the YAML `aliases` field for better searchability.
 * **Consolidated Stats:** Core vitals are provided in a clean list field: `stats: [HD, HP, AC, ATK]`.
 * **Saves in Statblock:** Full saving throw arrays included (mapped from BFRPG tables, including racial bonuses).
@@ -19,8 +21,8 @@ This repository contains a comprehensive collection of monster statblocks for th
 
 1. Ensure you have the **Fantasy Statblocks** (formerly TTRPG Statblocks) plugin installed in your Obsidian vault.
 2. Download the bestiary folders from this branch.
-3. Place the **Bestiary** folder (containing `BFRPG Core` and `BFRPG Field Guide`) into your Obsidian vault.
-4. Import the provided `BFRPG.json` or `BFRPG_Styled.json` layout.
+3. Place the **BFRPG Complete Bestiary** folder (containing `BFRPG Core` and `BFRPG Field Guide`) into your Obsidian vault.
+4. Import the provided `BFRPG.json` layout.
 5. Activate "Automatically Parse Frontmatter for Creatures" in settings.
 6. Point the plugin to the Bestiary folder for faster indexing.
 

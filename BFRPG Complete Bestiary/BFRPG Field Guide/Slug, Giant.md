@@ -1,0 +1,44 @@
+---
+statblock: inline
+name: Slug, Giant
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Slug, Giant
+layout: BFRPG
+ac: "8 [11]"
+hit_dice: "12 (+10)"
+hp: 64
+thaco: "+10"
+modifier: 1
+stats: ["12 (+10)", "64", "8 [11]", "+10"]
+attack: "1 bite or 1 spit"
+damage: "1d12 bite or 2d6 spit"
+speed: "30'"
+jds: [8, 9, 10, 12, 13]
+moral: "7"
+xp: 1875
+nbr: "1"
+loot: "Special"
+roll_jds: 1d20
+roll-moral: 2d6
+traits:
+  - name: Immune to blunt weapons
+    desc: "Their tough hide and boneless bodies make them immune to blunt weapons."
+  - name: Squeeze
+    desc: "Can squeeze through spaces that would be too small for any other creature of such great bulk."
+  - name: Acid spit
+    desc: "A giant slug can spit its acid saliva a substantial distance, having a 30-foot short range, 60-foot medium range, and 90-foot long range. On its first such attack, the slug suffers a -5 penalty to its chance to hit, but thereafter attacks at normal odds."
+actions:
+  - name: bite or 1 spit
+    desc: "D20 to hit, 1d12 bite or 2d6 spit"
+source: BFRPG Field Guide
+```
+
+Giant Slugs are truly huge, being 15 feet long, 8 feet wide, and around 5 feet thick. Their tough hide and boneless bodies make them immune to blunt weapons, and give them the ability to squeeze through spaces that would be too small for any other creature of such great bulk.
+

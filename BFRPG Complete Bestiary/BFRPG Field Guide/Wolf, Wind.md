@@ -1,0 +1,44 @@
+---
+statblock: inline
+name: Wolf, Wind
+obsidianUIMode: preview
+tags:
+  - monster
+aliases: []
+source: BFRPG Field Guide
+---
+
+```statblock
+name: Wolf, Wind
+layout: BFRPG
+ac: "0 [19]"
+hit_dice: "8*"
+hp: 36
+thaco: "+8"
+modifier: 1
+stats: ["8*", "36", "0 [19]", "+8"]
+attack: "2 claws or 1 howl"
+damage: "2d12 claw, special"
+speed: "30' Fly 120'"
+jds: [9, 10, 12, 13, 14]
+moral: "11"
+xp: 945
+nbr: "1"
+loot: "None"
+roll_jds: 1d20
+roll-moral: 2d6
+traits:
+  - name: Howl
+    desc: "Once every other round it can release a howl that summons a gale strong enough to push even the bulkiest adventurer back 5d10 feet."
+actions:
+  - name: claws or 1 howl
+    desc: "D20 to hit, 2d12 claw, special"
+  - name: claws or 1 howl
+    desc: "D20 to hit, "
+source: BFRPG Field Guide
+```
+
+A Wind Wolf is an ethereal wolf composed of intricate air currents. It has a set of tempestuous claws that it uses to rend through foes. Once every other round it can release a howl that summons a gale strong enough to push even the bulkiest adventurer back 5d10 feet.
+
+A wind wolf is most commonly found in windy places, enjoying the tempest at the tops of tall towers and the squall at the summits of mountains.
+

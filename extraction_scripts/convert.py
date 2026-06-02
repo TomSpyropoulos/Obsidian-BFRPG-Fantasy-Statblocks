@@ -269,8 +269,8 @@ def extract_xp(xp_str, current_hd):
 def clean_monster_name(raw_name, check_alias=False):
     # Hardcoded alias overrides for known database anomalies
     ALIAS_OVERRIDES = {
-        "Brown": "Brown Bear",
-        "Giant and Toad": "Giant Toad"
+        "Brown": "Bear, Brown",
+        "Giant and Toad": "Toad, Giant"
     }
 
     # 1. Handle parentheses for aliases
@@ -286,14 +286,11 @@ def clean_monster_name(raw_name, check_alias=False):
             part = part.strip()
             if part: aliases.append(part)
 
-    # 2. Reversal logic for commas and stripping "or" from start
+    # 2. Process stripping "or" from start and preserving commas
     def process(n):
         n = n.strip()
         # Strip leading "or "
         n = re.sub(r'^(?:or\s+)', '', n, flags=re.IGNORECASE).strip()
-        parts = [p.strip() for p in n.split(',')]
-        if len(parts) > 1:
-            return " ".join(reversed(parts))
         return n
 
     final_name = process(main_name)
@@ -542,7 +539,7 @@ def process_sourcebook(source_json, output_dir, source_label, check_alias=False)
             if outputs:
                 os.makedirs(output_dir, exist_ok=True)
                 for fname, content in outputs:
-                    clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-"]).strip()
+                    clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-," ]).strip()
                     out_path = os.path.join(output_dir, f"{clean_fname}.md")
                     with open(out_path, 'w') as out:
                         out.write(content)
@@ -553,7 +550,7 @@ def process_sourcebook(source_json, output_dir, source_label, check_alias=False)
             print(f"  Processed {i + 1}/{len(monsters)}...")
 
 def run_bulk(check_alias=False):
-    base_dir = os.path.join(SCRIPT_DIR, "../Bestiary")
+    base_dir = os.path.join(SCRIPT_DIR, "../BFRPG Complete Bestiary")
     
     # Process Core Rulebook
     core_json = os.path.join(SCRIPT_DIR, "bfrpg.json")
@@ -574,11 +571,11 @@ def run_tests():
     # 1. Test Naming Engine
     print("\n--- 1. Testing Naming Engine ---")
     test_cases = [
-        ("Frog, Giant (or Toad, Giant)", "Giant Frog", ["Giant Toad"]),
+        ("Frog, Giant (or Toad, Giant)", "Frog, Giant", ["Toad, Giant"]),
         ("Medusa", "Medusa", []),
-        ("Beetle, Giant Fire", "Giant Fire Beetle", []),
-        ("Bear, Grizzly (or Brown)", "Grizzly Bear", ["Brown Bear"]),
-        ("Dragon, Ice (White Dragon)", "Ice Dragon", ["White Dragon"])
+        ("Beetle, Giant Fire", "Beetle, Giant Fire", []),
+        ("Bear, Grizzly (or Brown)", "Bear, Grizzly", ["Bear, Brown"]),
+        ("Dragon, Ice (White Dragon)", "Dragon, Ice", ["White Dragon"])
     ]
     for tc, expected_name, expected_aliases in test_cases:
         name, aliases = clean_monster_name(tc)
@@ -674,7 +671,7 @@ def main():
         if outputs:
             os.makedirs(args.output_dir, exist_ok=True)
             for fname, content in outputs:
-                clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-"]).strip()
+                clean_fname = "".join([c for c in fname if c.isalnum() or c in " ()-," ]).strip()
                 out_path = os.path.join(args.output_dir, f"{clean_fname}.md")
                 with open(out_path, 'w') as out:
                     out.write(content)
