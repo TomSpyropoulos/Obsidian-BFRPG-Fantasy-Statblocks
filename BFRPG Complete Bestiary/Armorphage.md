@@ -21,20 +21,20 @@ attack: "+4 (`dice: 1d20+4`) 2 tendrils or 1 constrict"
 damage: "1d6 (`dice:1d6`) tendrils, 2d4 (`dice:2d4`) constrict"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Enthrall
+  - name: "Enthrall"
     desc: "The armorphage is able to determine who the most likely to want the type of armor they resemble, and will focus on the most likely victim, enthralling them to desire, and want to wear the armorphage at any cost, unless they succeed in a DC 12 INT check."
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "Each day, the victim must succeed on a DC 12 CON check or deduct a level of energy drain, until they reach level 0 and death, when the armorphage will abandon the corpse."
-  - name: Body Control
+  - name: "Body Control"
     desc: "While the armorphage is attached to the body it controls them physically, though their mind is still their own. Their body is completely under the control of the armorphage, which still has access to the victim's instincts and learned physical skills, allowing the armorphage to attack as if it was the host. Additionally, it can attack with two tendrils that it can extrude from anywhere on its own body."
-  - name: Constrict
+  - name: "Constrict"
     desc: "Attempting to forcefully remove an armorphage will cause it to constrict itself on the victim's body, causing 2d4 points of damage every round. Attacking the armorphage while it is encasing a victim will split the damage (half to the victim, half to the armorphage, which may constrict its victim as well)."
-  - name: Recovery
+  - name: "Recovery"
     desc: "Someone who is able to survive having an armorphage removed will recover the energy drain at 1 level per week of rest."
 actions:
-  - name: tendrils or 1 constrict
+  - name: "tendrils or 1 constrict"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tendrils, 2d4 (`dice:2d4`) constrict"
-  - name: tendrils or 1 constrict
+  - name: "tendrils or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

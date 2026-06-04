@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (1d10 + paralysis)"
 damage: "1d10 (`dice:1d10`) + paralysis"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Paralyzing Bite
+  - name: "Paralyzing Bite"
     desc: "Any living creature bitten by a spiderwolf must succeed on a DC 12 STR check or be paralyzed for 1d6 turns. It will then ignore that paralyzed creature and attack another opponent, turning its attention back to any paralyzed victims only after all opposition is quelled."
 actions:
-  - name: bite (1d10 + paralysis)
+  - name: "bite (1d10 + paralysis)"
     desc: "D20 to hit, 1d10 (`dice:1d10`) + paralysis"
 source: BFRPG Field Guide
 ```

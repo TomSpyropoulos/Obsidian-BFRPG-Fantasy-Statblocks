@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Stealth
+  - name: "Stealth"
     desc: "Very quiet and normally gain surprise on 1-3 on 1d6."
-  - name: Metabolic Slowdown
+  - name: "Metabolic Slowdown"
     desc: "Able to slow their metabolisms such that they can go without food or water for months at a time if necessary."
-  - name: Spatial Memory
+  - name: "Spatial Memory"
     desc: "Able to remember the tunnels in which they commonly hunt in great detail (and in three dimensions) and will always take the most effective route in pursuit of their prey."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "Often hunt in groups, and will cunningly choose to herd fleeing prey into dead ends or into crossings where the lizards may fall upon them from several directions at once."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Field Guide
 ```

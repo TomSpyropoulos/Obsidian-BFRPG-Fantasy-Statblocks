@@ -21,22 +21,22 @@ attack: "+2 (`dice: 1d20+2`) 2 claws or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
 attributes: ["+0", "+0", "+0", "+0", "+3", "+0"]
 traits:
-  - name: Wasting Disease
+  - name: "Wasting Disease"
     desc: "Those struck by the heucova's claws must succeed on a DC 12 CON check or contract a terrible wasting disease. Each day the target takes 1d3 points of Constitution damage. Those reduced to 0 Constitution die and rise as a zombie on the following day, under the control of the heucova. A **cure disease** spell must be used to prevent death. Ability points lost due to a heucova's disease return at a rate of 1 per day of complete rest."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "All heucova are capable of casting spells as a Cleric (level 1d4+1), however these spells are always reversed."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Like all undead are immune to **sleep**, **charm**, and **hold** spells."
-  - name: Silver or Magical Weapons to Hit
+  - name: "Silver or Magical Weapons to Hit"
     desc: "A heucova can only be harmed by silver or magical weapons."
-  - name: Holy Symbol Vulnerability
+  - name: "Holy Symbol Vulnerability"
     desc: "Takes 1d6 points of damage from the touch of a holy symbol."
-  - name: Turn Undead
+  - name: "Turn Undead"
     desc: "A heucova can be Turned by a Cleric (as a wight)."
 actions:
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw or by weapon"
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

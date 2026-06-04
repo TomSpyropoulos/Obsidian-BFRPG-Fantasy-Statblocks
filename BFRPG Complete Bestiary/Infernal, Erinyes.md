@@ -21,24 +21,24 @@ attack: "+7 (`dice: 1d20+7`) 1 dagger (special) or special"
 damage: "2d4 (`dice:2d4`) special dagger or special"
 attributes: ["+3", "+3", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Magical Venomous Dagger
+  - name: "Magical Venomous Dagger"
     desc: "2d4 damage. Hit victims must succeed on a DC 13 CON check or become unconscious for 1d6 rounds."
-  - name: Rope of Entanglement
+  - name: "Rope of Entanglement"
     desc: "Can lash forward 20 feet or upward 10 feet to entangle up to 2d4 man-sized victims selected by the erinyes (adjust numbers for larger or smaller opponents as needed). The rope can be hit only on a 20 or higher, and is destroyed when it suffers 20 or more points of damage."
-  - name: Flaming Arrows
+  - name: "Flaming Arrows"
     desc: "Bow built for great strength (requires 18 Strength to draw). Quiver of 66 arrows that ignite when fired. Arrows do 1d8 points of damage on a hit, plus an additional 1d8 points of fire damage. If an erinyes runs out of arrows it can use any longbow arrows, but loses the bonus fire damage."
-  - name: Magical Weapon Immunity
+  - name: "Magical Weapon Immunity"
     desc: "Can only be damaged by magical weapons."
-  - name: At-Will Powers
+  - name: "At-Will Powers"
     desc: "At will an erinyes can use any of the following powers instead of attacking: cause fear in all who see it (Succeed on a DC 13 WIS check to resist), detect invisible, invisibility, locate object, or polymorph self."
-  - name: Summon Devils
+  - name: "Summon Devils"
     desc: "Once per day an erinyes can attempt to summon either another erinyes, 2d10 lemures (page 152), or 1d4 barbed devils (page 145) with a 35% chance of success. Note that only one type of devil may be successfully summoned. If the attempt fails, the erinyes can try again as often as desired (once per round maximum) until it succeeds."
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can change their apparent gender at will. Wings can disappear or reappear at will."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks the language of infernals, Common tongue, and Dragon."
 actions:
-  - name: dagger (special) or special
+  - name: "dagger (special) or special"
     desc: "D20 to hit, 2d4 (`dice:2d4`) special dagger or special"
 source: BFRPG Field Guide
 ```

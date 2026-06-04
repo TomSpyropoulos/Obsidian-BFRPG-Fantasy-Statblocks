@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 1 touch"
 damage: "Energy drain (1 level)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "If a wight touches (or is touched by) a living creature, that living creature suffers one level of energy drain. No saving throw is allowed. Striking a wight with a weapon does not count as 'touching' it."
-  - name: Create Spawn
+  - name: "Create Spawn"
     desc: "Any humanoid slain by a wight becomes a wight by the next sunset (but not less than 12 hours later). Wight spawn are under the command of the wight that created them and remain enslaved until its death."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "May be Turned by Clerics. Immune to sleep, charm and hold magics."
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Harmed only by silver or magical weapons, and take only half damage from burning oil."
 actions:
-  - name: touch
+  - name: "touch"
     desc: "D20 to hit, Energy drain (1 level)"
 source: BFRPG Core
 ```

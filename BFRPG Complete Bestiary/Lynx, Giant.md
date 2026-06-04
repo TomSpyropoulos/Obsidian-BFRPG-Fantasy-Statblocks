@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 2 claws, 1 bite + 2 hind claws (rake)"
 damage: "1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite, 1d3 (`dice:1d3`) hind claw"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Rake
+  - name: "Rake"
     desc: "If both foreclaws hit it may make two additional attacks with its hind-claws."
-  - name: Trap Detection
+  - name: "Trap Detection"
     desc: "35% chance by casual observation and a 75% chance on a standard search."
-  - name: Climbing
+  - name: "Climbing"
     desc: "Able to climb in their native terrain with a 90% chance of success."
-  - name: Language
+  - name: "Language"
     desc: "Speak their own language and have a 15% chance of speaking Common."
 actions:
-  - name: claws, 1 bite + 2 hind claws (rake)
+  - name: "claws, 1 bite + 2 hind claws (rake)"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite, 1d3 (`dice:1d3`) hind claw"
-  - name: claws, 1 bite + 2 hind claws (rake)
+  - name: "claws, 1 bite + 2 hind claws (rake)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

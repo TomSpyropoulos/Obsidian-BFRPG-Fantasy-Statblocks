@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 grabs, 1 lick"
 damage: "Special"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 30 feet."
-  - name: Grab and Lick
+  - name: "Grab and Lick"
     desc: "In combat a lobizon seeks to grab its opponent with both hands, and if successful will automatically lick it. Those licked by a lobizon must succeed on a DC 12 INT check or be cursed to become a lobizon in 2d6 days."
-  - name: Graveyard Haunting
+  - name: "Graveyard Haunting"
     desc: "Commonly sighted in graveyards where there can be as many as 3d6 lobizons."
 actions:
-  - name: grabs, 1 lick
+  - name: "grabs, 1 lick"
     desc: "D20 to hit, Special"
-  - name: grabs, 1 lick
+  - name: "grabs, 1 lick"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

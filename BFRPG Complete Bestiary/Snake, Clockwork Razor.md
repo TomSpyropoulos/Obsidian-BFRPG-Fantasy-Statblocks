@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 lash or constrict"
 damage: "2d6 (`dice:2d6`) lash, 3d10 (`dice:3d10`) constrict"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Lash
+  - name: "Lash"
     desc: "Can lash out with their tail, using the blades to slash their foes for 2d6 damage."
-  - name: Constrict
+  - name: "Constrict"
     desc: "Can coil around their victims, requiring a successful attack roll, and the victim to then fail a DC 12 DEX check. Once their victim is looped in their coils they constrict for 3d10 damage as the razor-sharp blades cut into the trapped victim."
-  - name: Always Attack
+  - name: "Always Attack"
     desc: "Razor snakes are in constant pain from the cruel modifications, and are unable to remain still for any length of time. They will attack any creature that gets close enough in a blind rage (no reaction roll, they will always attack)."
 actions:
-  - name: lash or constrict
+  - name: "lash or constrict"
     desc: "D20 to hit, 2d6 (`dice:2d6`) lash, 3d10 (`dice:3d10`) constrict"
 source: BFRPG Field Guide
 ```

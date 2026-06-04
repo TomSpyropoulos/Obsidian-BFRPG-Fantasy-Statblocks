@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (1d10)"
 damage: "1d10 (`dice:1d10`)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Gliding Flight
+  - name: "Gliding Flight"
     desc: "Can fly for short distances (no more than three rounds, and ascending is impossible)."
 actions:
-  - name: bite (1d10)
+  - name: "bite (1d10)"
     desc: "D20 to hit, 1d10 (`dice:1d10`)"
 source: BFRPG Core
 ```

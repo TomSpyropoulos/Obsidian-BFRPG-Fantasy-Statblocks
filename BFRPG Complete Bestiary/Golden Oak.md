@@ -21,20 +21,20 @@ attack: "+10 (`dice: 1d20+10`) 1 swarm of mirror butterflies"
 damage: "3d6 (`dice:3d6`) + blind"
 attributes: ["+3", "+3", "+4", "+5", "+3", "+3"]
 traits:
-  - name: Mirror Butterflies
+  - name: "Mirror Butterflies"
     desc: "The butterflies are actually part of the oak itself and completely under its control. They blind creatures for 1d6 turns with the reflections of their wings unless a DC 14 STR check is made. The swarm attacks blinded creatures by preference, doing 3d6 damage per round, stripping victims to bare bones. The oak draws nourishment from whatever they devour."
-  - name: Magical Gifts
+  - name: "Magical Gifts"
     desc: "Examples of the fruit and flowers that can be found among the golden oak's branches, the 'gifts' it provides to its victims include:  - A flower resembling the flower of a pitcher plant in brilliant shades of violet and blue, contains magical ink that allows its user to inscribe a spell of any level with no coins needed for materials. - Another flower heals wounds; when it is brewed into a tea it functions as if a heal spell had been cast. - Yet another flower acts as a highly potent panacea when used in a poultice, acting as if both cure disease and neutralize poison spells have been cast. - Fruit that can be found on the branches includes some that look like the most delicious, perfect, juicy rosy red apple. However, biting into it will cause near-instant death, and a month later, the victim will rise from the grave as a vampire. - Another fruit, looking like a pear, contains 1d6 seeds, shaped like miniature dragon's teeth. When planted in the ground they grow into skeletons overnight, and will be obedient to the planter's commands."
-  - name: Cursed Gifts
+  - name: "Cursed Gifts"
     desc: "Every gift received from the golden oak comes with an attached curse; anyone learning magic from, or using one of the oak's fruits or flowers will be subject to a curse as per the spell."
-  - name: Speaks All Languages
+  - name: "Speaks All Languages"
     desc: "The golden oak speaks all languages, though it has no obvious mouth, its voice sounding like the wind through its branches."
-  - name: Teaches Spells
+  - name: "Teaches Spells"
     desc: "Golden oaks have the ability to teach Wizards spells, though will only do so for a very steep price."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Golden oaks are powerful Wizards in their own right, being able to cast spells up to 6th level as if they were a 12th-level Wizard."
 actions:
-  - name: swarm of mirror butterflies
+  - name: "swarm of mirror butterflies"
     desc: "D20 to hit, 3d6 (`dice:3d6`) + blind"
 source: BFRPG Field Guide
 ```

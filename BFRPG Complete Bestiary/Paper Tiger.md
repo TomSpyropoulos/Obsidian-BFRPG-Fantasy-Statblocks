@@ -21,22 +21,22 @@ attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite"
 damage: "1d8 (`dice:1d8`) claw, 2d6 (`dice:2d6`) bite"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Surprises on a roll of 1-5 on 1d6."
-  - name: Transformation
+  - name: "Transformation"
     desc: "Requires a full round to transform from book/scroll form. During transformation has AC 11."
-  - name: Construct Immunities
+  - name: "Construct Immunities"
     desc: "Immune to sleep, charm, and hold magic. Has no mind which may be read using mind reading. Immune to poison and any other effects that specifically harm living creatures."
-  - name: Vulnerability to Fire
+  - name: "Vulnerability to Fire"
     desc: "Takes double damage from any fire-based attacks."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "While in book or scroll form, heals 1d6 points of damage each hour."
-  - name: Guardian Behavior
+  - name: "Guardian Behavior"
     desc: "Will not normally leave the vicinity of the library it wards, though if more than half of the books and/or scrolls are removed from the library the paper tiger may choose to pursue the creatures who took the items."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw, 2d6 (`dice:2d6`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

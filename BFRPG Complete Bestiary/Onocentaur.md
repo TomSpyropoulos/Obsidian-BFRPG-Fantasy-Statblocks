@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 kick / 1 weapon"
 damage: "1d4 (`dice:1d4`) kick, by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Mule Kick
+  - name: "Mule Kick"
     desc: "Agile enough to deliver a mule kick to an opponent facing them."
-  - name: Combat Style
+  - name: "Combat Style"
     desc: "Do not charge in combat. Tend to use two-handed weapons such as shortbows, staves and bardiches. Favor heavy armors, often a mixture of chainmail and plate."
 actions:
-  - name: kick
+  - name: "kick"
     desc: "D20 to hit, 1d4 (`dice:1d4`) kick, by weapon"
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

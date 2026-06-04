@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) -"
 damage: "4d4 (`dice:4d4`)"
 attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Invisible stalkers have an amorphous form. A detect invisible spell shows only a dim outline of a cloud. Apply the standard penalty of -4 on the attack die when an invisible stalker is attacked by a creature which is unable to see it."
-  - name: Summoned Service
+  - name: "Summoned Service"
     desc: "A summoned invisible stalker undertakes whatever task the summoner commands, even if the task sends it hundreds or thousands of miles away. The creature follows a command until the task is completed and obeys only the summoner. However, it resents protracted missions or complex tasks and seeks to pervert its instructions accordingly."
 source: BFRPG Core
 ```

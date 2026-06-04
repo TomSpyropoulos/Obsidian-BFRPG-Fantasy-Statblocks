@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 bludgeon or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Resistance to Physical Damage
+  - name: "Resistance to Physical Damage"
     desc: "Take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric as a ghoul, and are immune to sleep, charm, or hold magic."
-  - name: Tactical Retreat
+  - name: "Tactical Retreat"
     desc: "Though stalwart, haunted bones will make tactical retreats when necessary."
 actions:
-  - name: bludgeon or weapon
+  - name: "bludgeon or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

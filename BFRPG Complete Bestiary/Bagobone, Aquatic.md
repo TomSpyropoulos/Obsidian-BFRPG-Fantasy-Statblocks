@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) 2 claws, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d10 (`dice:2d10`) bite"
 attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d10 (`dice:2d10`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

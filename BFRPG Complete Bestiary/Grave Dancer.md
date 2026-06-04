@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) None"
 damage: "None"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Dance Aura
+  - name: "Dance Aura"
     desc: "All undead monsters within 60 feet of the grave dancer will dance, receiving a +3 bonus to attack rolls and saving throws. Living creatures within the same 60-foot radius of the grave dancer suffer a penalty of -2 to attack rolls and saving throws, and a penalty of -1 to morale (WIS). Creatures which cannot hear the music will be unaffected."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to **sleep**, **charm**, and **hold** magic, as well as any spell affecting the mind."
-  - name: Magical Weapon Requirement
+  - name: "Magical Weapon Requirement"
     desc: "Can only be hit by magical weapons, but when hit the grave dancer suffers no damage; instead it disappears (along with the accompanying music) for 1d6 rounds."
-  - name: Vanquishing
+  - name: "Vanquishing"
     desc: "Only successfully Turning one (as a vampire) or eliminating all other undead within the area will vanquish a grave dancer."
 actions:
-  - name: None
+  - name: "None"
     desc: "D20 to hit, None"
 source: BFRPG Field Guide
 ```

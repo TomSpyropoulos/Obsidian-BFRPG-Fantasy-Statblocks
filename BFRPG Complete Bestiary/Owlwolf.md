@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Perfect Darkvision up to 200 feet in complete non-magical darkness."
-  - name: Pack Ambush
+  - name: "Pack Ambush"
     desc: "When attacking from behind in darkness, surprise on 1-4 on 1d6. If victim is surprised, receives +4 attack bonus and doubles any damage inflicted."
-  - name: Glide
+  - name: "Glide"
     desc: "Can glide up to 100 feet after running for 3 rounds. Gliding is silent; when swooping down to attack, surprises victim on 1-3 on 1d4. Receives +4 attack bonus and triples any damage against surprised victim."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

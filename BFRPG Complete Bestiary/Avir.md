@@ -21,24 +21,24 @@ attack: "+1 (`dice: 1d20+1`) 2 kicks / 1 lance"
 damage: "1d4 (`dice:1d4`) kick, or by weapon"
 attributes: ["+2", "+2", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Dive Attack
+  - name: "Dive Attack"
     desc: "Gets +4 on its attack rolls and does double damage."
-  - name: Bladed Spurs
+  - name: "Bladed Spurs"
     desc: "Can kick savagely, doing 1d6 points of damage with each, either when on the ground or when flying by. An avir kicking with only its natural spurs will only do 1d4 points of damage per kick."
-  - name: Peck
+  - name: "Peck"
     desc: "If unable to fly, an avir can peck for 1d4 points of damage, as a last resort."
-  - name: Cold Resistance
+  - name: "Cold Resistance"
     desc: "Has natural resistance to cold and takes half damage against magical cold attacks."
-  - name: Extraordinary Eyesight
+  - name: "Extraordinary Eyesight"
     desc: "Has extraordinary eyesight, but no Darkvision."
-  - name: Carrying Capacity
+  - name: "Carrying Capacity"
     desc: "Cannot carry more than 50 lbs."
 actions:
-  - name: kicks
+  - name: "kicks"
     desc: "D20 to hit, 1d4 (`dice:1d4`) kick, or by weapon"
-  - name: kicks
+  - name: "kicks"
     desc: "D20 to hit, "
-  - name: lance
+  - name: "lance"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

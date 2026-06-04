@@ -21,11 +21,11 @@ attack: "+7 (`dice: 1d20+7`) -"
 damage: "2d8 (`dice:2d8`)/1d6 (`dice:1d6`) + poison or 1d10 (`dice:1d10`)/1d10 (`dice:1d10`)/1d6 (`dice:1d6`) + poison"
 attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Poisonous Stinger
+  - name: "Poisonous Stinger"
     desc: "Any living creature hit by the wyvern's stinger must succeed on a DC 13 CON check or die."
-  - name: Carry Off
+  - name: "Carry Off"
     desc: "If a wyvern hits with both its talons, it may attempt to carry off its victim; only victims weighing 300 pounds or less can be carried off, and the wyvern can only carry a victim for at most 6 rounds. While flying with a victim, the wyvern cannot make any further attacks against it, but of course if the victim makes a nuisance of itself (such as by injuring the wyvern), it may be dropped."
-  - name: Talon Attacks
+  - name: "Talon Attacks"
     desc: "A wyvern can slash with its talons only when making a flyby attack or when landing."
 source: BFRPG Core
 ```

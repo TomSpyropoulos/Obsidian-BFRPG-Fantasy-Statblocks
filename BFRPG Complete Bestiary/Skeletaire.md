@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or per spell"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead Resilience
+  - name: "Undead Resilience"
     desc: "Takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus)."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, and hold spells."
-  - name: Turn Resistance
+  - name: "Turn Resistance"
     desc: "Can be Turned by a Cleric (as a zombie)."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Retains the ability to prepare and cast spells as it did in life, but cannot learn new spells. Cannot speak."
-  - name: Fearless
+  - name: "Fearless"
     desc: "Never fails morale (WIS) and always fights until destroyed."
 actions:
-  - name: dagger or 1 spell
+  - name: "dagger or 1 spell"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or per spell"
 source: BFRPG Core
 ```

@@ -21,22 +21,22 @@ attack: "+4 (`dice: 1d20+4`) 1 slam or 1 weapon"
 damage: "1d6+1 (`dice:1d6+1`) slam, by weapon"
 attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision out to 60 feet."
-  - name: Gaze Attack
+  - name: "Gaze Attack"
     desc: "It chooses to either **cause fear** or **bestow curse** against a single target out to 30 feet who fails a savings throw vs. Spells."
-  - name: Maniacal Cackle
+  - name: "Maniacal Cackle"
     desc: "Works likes the **bane** spell on anyone within 50 feet who fails a DC 12 INT check. Those who make their save are immune to the effect for 24 hours."
-  - name: Nimble and Quick
+  - name: "Nimble and Quick"
     desc: "Does not receive the initiative penalty like other living scarecrows."
-  - name: Weakness to Fire
+  - name: "Weakness to Fire"
     desc: "Suffering 1 extra point per die of damage and has a -2 penalty to save against fire-based attacks."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "25% magic resistance, but since it possesses an intelligence it is subject to mind-affecting magic and effects."
-  - name: Immune to Fear
+  - name: "Immune to Fear"
     desc: "Immune to fear (morale (WIS) of 12)."
 actions:
-  - name: slam or 1 weapon
+  - name: "slam or 1 weapon"
     desc: "D20 to hit, 1d6+1 (`dice:1d6+1`) slam, by weapon"
 source: BFRPG Field Guide
 ```

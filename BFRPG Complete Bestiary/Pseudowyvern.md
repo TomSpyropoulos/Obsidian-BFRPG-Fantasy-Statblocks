@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 1 bite or 1 sting"
 damage: "1 or 1 + poison"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "10% chance of being detected when still, 30% when moving in tropical rain forests, jungle, and other warm and humid climates."
-  - name: Limited Telepathy
+  - name: "Limited Telepathy"
     desc: "Can communicate emotions and general concepts with nearby humanoids through a limited form of telepathy."
-  - name: Mimicry
+  - name: "Mimicry"
     desc: "Can learn to mimic a wide range of other creatures' calls after a few times hearing it."
-  - name: Poison
+  - name: "Poison"
     desc: "Sting injects highly lethal poison (save or die)."
 actions:
-  - name: bite or 1 sting
+  - name: "bite or 1 sting"
     desc: "D20 to hit, 1 or 1 + poison"
 source: BFRPG Field Guide
 ```

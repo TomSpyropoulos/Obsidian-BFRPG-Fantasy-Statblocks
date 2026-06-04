@@ -21,14 +21,14 @@ attack: "+7 (`dice: 1d20+7`) 1 slam"
 damage: "3d4 (`dice:3d4`)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can assume the general shape of any object or creature that fills roughly 150 cubic feet. Body is hard and has a rough texture, no matter what appearance it might present. Anyone who closely examines the mimic can easily detect the ruse."
-  - name: Adhesive
+  - name: "Adhesive"
     desc: "Exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. A weapon that strikes an adhesive-coated mimic is stuck fast unless the wielder succeeds on an open doors check to pull the weapon free. Strong alcohol dissolves the adhesive in 3 rounds. A mimic can dissolve its adhesive at will, and the substance will break down 5 rounds after the creature dies."
-  - name: Language
+  - name: "Language"
     desc: "Can speak Common."
 actions:
-  - name: slam
+  - name: "slam"
     desc: "D20 to hit, 3d4 (`dice:3d4`)"
 source: BFRPG Field Guide
 ```

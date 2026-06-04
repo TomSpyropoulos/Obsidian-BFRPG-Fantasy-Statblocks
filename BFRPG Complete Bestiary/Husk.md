@@ -21,20 +21,20 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Takes only half damage from blunt weapons and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Superhuman Speed
+  - name: "Superhuman Speed"
     desc: "+1 bonus to initiative."
-  - name: Supernatural Strength
+  - name: "Supernatural Strength"
     desc: "+1 damage."
-  - name: Weapon Use
+  - name: "Weapon Use"
     desc: "Can be instructed by its creator to use any type of weapons, even bows and slings."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Mindless undead, unaffected by charm, hold, or illusions."
-  - name: Turning
+  - name: "Turning"
     desc: "Can be Turned by Clerics as if they were a ghoul."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +1"
 source: BFRPG Field Guide
 ```

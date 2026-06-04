@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 2 claws or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Magical weapons required
+  - name: "Magical weapons required"
     desc: "Can only be damaged by magical weapons or spells. Strikes from normal weapons will only make the crypt dweller pause slightly, making it lose initiative on the following round."
-  - name: Undead immunities
+  - name: "Undead immunities"
     desc: "Can be Turned by Clerics (as a wight). Immune to sleep, charm, and hold spells. No form of mind reading or mental contact is of any use against it."
-  - name: Fights to destruction
+  - name: "Fights to destruction"
     desc: "A crypt dweller always fights until destroyed."
 actions:
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw or by weapon"
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

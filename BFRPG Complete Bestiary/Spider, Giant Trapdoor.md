@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 bite"
 damage: "1d8 (`dice:1d8`) + poison or wrestling"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "When lying in wait in its tunnel, it surprises on 1-4 on 1d6."
-  - name: Trapdoor
+  - name: "Trapdoor"
     desc: "The trap doors can be detected as secret doors, but the spider will usually attack long before the search can be completed."
-  - name: Wrestling
+  - name: "Wrestling"
     desc: "Tries to drag creatures inside its lair (see the wrestling rules in the **Encounters** section of the **Basic Fantasy RPG Core Rules**)."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`) + poison or wrestling"
 source: BFRPG Field Guide
 ```

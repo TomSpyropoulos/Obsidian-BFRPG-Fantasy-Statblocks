@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) + Poison or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Venomous Bite
+  - name: "Venomous Bite"
     desc: "Their sharp venomous fangs enable them to deliver their poison with a bite, which causes 1d4 points of damage per round for 1d4 rounds, unless a successful DC 12 CON check is made."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Ophidians have remarkable intelligence, and a natural proficiency in magic. All ophidians can cast spells as if they were a 3rd-level Wizard."
-  - name: Preferred Weapons
+  - name: "Preferred Weapons"
     desc: "Their preferred weapons are spears and short bows."
 actions:
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + Poison or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 1 touch + insane babbling"
 damage: "energy drain (1 level)"
 attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Insane babbling
+  - name: "Insane babbling"
     desc: "Causes all creatures within 60 feet to succeed on a DC 13 STR check or stop and stare blankly, unable to move, attack, or defend for one round. Anyone who saves successfully will be unaffected by the allip's babble for 24 hours."
-  - name: Energy drain touch
+  - name: "Energy drain touch"
     desc: "Touch does no direct physical damage, but instead drains one energy level; further, the allip regenerates 1d6 hit points for each level drained."
-  - name: Undead immunities
+  - name: "Undead immunities"
     desc: "As with all undead, an allip can be Turned by a Cleric (as a mummy), and is immune to sleep, charm or hold spells."
-  - name: Mind-reading hazard
+  - name: "Mind-reading hazard"
     desc: "Anyone using mind-reading magic against one will suffer energy drain just as if touched."
-  - name: Fearless
+  - name: "Fearless"
     desc: "An allip is insanely fearless and always fights until destroyed."
 actions:
-  - name: touch + insane babbling
+  - name: "touch + insane babbling"
     desc: "D20 to hit, energy drain (1 level)"
 source: BFRPG Field Guide
 ```

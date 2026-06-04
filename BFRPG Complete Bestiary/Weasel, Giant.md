@@ -21,12 +21,12 @@ attack: "+5 (`dice: 1d20+5`) 1 bite + hold"
 damage: "2d4 (`dice:2d4`) + 2d4 (`dice:2d4`) per round"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Surprise their prey on 1-3 on 1d6."
-  - name: Hold
+  - name: "Hold"
     desc: "Once a giant weasel bites a living creature, it hangs on, rending with its teeth each round until the victim or the weasel is dead, or until the weasel fails a DC 12 WIS check (rolled normally) in which case it will let go of its victim and flee."
 actions:
-  - name: bite + hold
+  - name: "bite + hold"
     desc: "D20 to hit, 2d4 (`dice:2d4`) + 2d4 (`dice:2d4`) per round"
 source: BFRPG Core
 ```

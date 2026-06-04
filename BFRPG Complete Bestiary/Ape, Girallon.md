@@ -21,18 +21,18 @@ attack: "+7 (`dice: 1d20+7`) 4 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Rend
+  - name: "Rend"
     desc: "A girallon that hits with two or more claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d4 points of damage."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

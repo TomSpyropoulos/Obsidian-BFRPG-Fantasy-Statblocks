@@ -21,14 +21,14 @@ attack: "+5 (`dice: 1d20+5`) 2 pincers"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Natural Anti-magic Shell
+  - name: "Natural Anti-magic Shell"
     desc: "In order to affect the scrab with a spell, the caster must make a normal attack roll; on a hit, the scrab is affected by the spell (but still receives a normal saving throw if the spell allows one). If the attack roll fails, the spell is reflected back onto the caster."
-  - name: Armored Eye Stalks
+  - name: "Armored Eye Stalks"
     desc: "No bonus is awarded for attacking them from behind."
 actions:
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

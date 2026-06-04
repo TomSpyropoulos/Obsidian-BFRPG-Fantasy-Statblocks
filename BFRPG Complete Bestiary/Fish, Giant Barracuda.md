@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 bite"
 damage: "2d8+1 (`dice:2d8+1`)"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Keen Eyesight
+  - name: "Keen Eyesight"
     desc: "Surprised only on a 1 on 1d6."
-  - name: Quick Attack
+  - name: "Quick Attack"
     desc: "Capable of surprising on 1-3 on 1d6 and gain a +2 bonus to Initiative."
-  - name: Break Off Attack
+  - name: "Break Off Attack"
     desc: "50% likely to break off the attack after 1d4 rounds if they haven't killed their prey."
-  - name: Attracted to Shiny Objects
+  - name: "Attracted to Shiny Objects"
     desc: "Both kinds are attracted to shiny objects."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d8+1 (`dice:2d8+1`)"
 source: BFRPG Core
 ```

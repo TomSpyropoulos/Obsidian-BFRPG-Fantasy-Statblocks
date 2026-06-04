@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 hooves (1d8)"
 damage: "1d8 (`dice:1d8`) hoof"
 attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Limited telepathy allows them to communicate with their riders, and with any other celestial beings within fifty feet."
-  - name: Flight
+  - name: "Flight"
     desc: "Able to fly, even when heavily encumbered despite their lack of wings."
-  - name: Swoop Attack
+  - name: "Swoop Attack"
     desc: "If they are able to swoop down on an enemy, their attacks receive a +2 bonus to-hit, and the damage is increased to 2d8 per hoof."
-  - name: Detect Evil
+  - name: "Detect Evil"
     desc: "Can detect evil and sense when their rider is in danger, no matter how far away they are."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to sleep, hold, and charm spells, as well as illusions."
 actions:
-  - name: hooves (1d8)
+  - name: "hooves (1d8)"
     desc: "D20 to hit, 1d8 (`dice:1d8`) hoof"
-  - name: hooves (1d8)
+  - name: "hooves (1d8)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

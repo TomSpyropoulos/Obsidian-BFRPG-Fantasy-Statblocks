@@ -21,20 +21,20 @@ attack: "+9 (`dice: 1d20+9`) 1 weapon plus energy drain"
 damage: "1d10+3 (`dice:1d10+3`) plus energy"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Aura of Fear
+  - name: "Aura of Fear"
     desc: "At first sight, all living creatures of 4 LVL or less must succeed on a DC 14 CON check or become fearful of the spirit of vengeance, fleeing at maximum speed for 1d4+1 rounds."
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "Successful attacks made by the spirit cause an energy drain. Half of the hit points lost by the victim due to the negative level are added to the hit point total of the spirit of vengeance."
-  - name: Magical Weapon
+  - name: "Magical Weapon"
     desc: "The spirit's weapon will always require two hands and bear a +3 enchantment. Use the following table to determine the type randomly:  1d10 | Weapon 1-5  | great axe +3 6-7  | two-handed sword +3 8    | maul +3 9-10 | halberd +3 or similar polearm"
-  - name: Undead
+  - name: "Undead"
     desc: "May be Turned as a ghost by a Cleric of appropriate level. Immune to sleep, charm, and hold magic."
-  - name: Reformation
+  - name: "Reformation"
     desc: "If defeated in combat, the dark mists extinguish the blue flames and dissipate into the air, but the spirit's weapon remains as do its two eyes, glowing red diamonds of considerable value. So long as its vengeance is unsatisfied, the spirit rises again with the new moon to reclaim its eyes and weapon, after which it resumes the pursuit of its quarry."
-  - name: Permanent Destruction
+  - name: "Permanent Destruction"
     desc: "To permanently destroy a spirit of vengeance, it must be lured to consecrated ground, doused in holy water, and defeated in battle under a full moon."
 actions:
-  - name: weapon plus energy drain
+  - name: "weapon plus energy drain"
     desc: "D20 to hit, 1d10+3 (`dice:1d10+3`) plus energy"
 source: BFRPG Field Guide
 ```

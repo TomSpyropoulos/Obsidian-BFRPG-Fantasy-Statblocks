@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 bite"
 damage: "1d4 (`dice:1d4`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Running
+  - name: "Running"
     desc: "May rise up onto its hind legs to run at a rate of 60 feet per round; such movement must be in a straight line, ending with the creature on all fours again. However, unlike a 'double move' running movement, the monitor may still attack after moving."
-  - name: Poison
+  - name: "Poison"
     desc: "Those who are bitten must succeed on a DC 12 CON check at +2, with failure resulting in the victim suffering 1d6 points of damage each turn for 2d4 turns."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison"
 source: BFRPG Core
 ```

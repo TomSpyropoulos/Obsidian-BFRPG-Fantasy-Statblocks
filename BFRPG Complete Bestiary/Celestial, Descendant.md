@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 weapon or 1 unarmed"
 damage: "By weapon or 1d4 (`dice:1d4`)"
 attributes: ["+1", "+2", "+1", "+1", "+4", "+1"]
 traits:
-  - name: Flight
+  - name: "Flight"
     desc: "Use their wings to hover and weave during combat."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Cast spells as a 4th-level Cleric. A suggested spells list for any given day includes: cure light wounds, detect evil, and bless."
-  - name: No Armor
+  - name: "No Armor"
     desc: "Do not wear armor as the added weight affects their flight."
 actions:
-  - name: weapon or 1 unarmed
+  - name: "weapon or 1 unarmed"
     desc: "D20 to hit, By weapon or 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

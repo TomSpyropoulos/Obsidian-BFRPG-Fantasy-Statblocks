@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 2 claws/1 bite"
 damage: "2d6 (`dice:2d6`)/2d6 (`dice:2d6`)/2d10 (`dice:2d10`)"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Detect Invisible
+  - name: "Detect Invisible"
     desc: "Able to detect invisible creatures or objects within 60'."
-  - name: Tracking
+  - name: "Tracking"
     desc: "Can track with 95% accuracy through any terrain type."
-  - name: Electricity Healing
+  - name: "Electricity Healing"
     desc: "A magical attack that deals electricity damage heals 1 point of damage for every 3 full points of damage the attack would otherwise deal. For example, an amber golem hit by a lightning bolt for 20 points of damage is instead healed up to 6 points. If the amount of healing would cause the golem to exceed its full normal hit points, the excess is ignored."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d10 (`dice:2d10`)"
 source: BFRPG Core
 ```

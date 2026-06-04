@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) Special, see below"
 damage: "Special, see below"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Able to alter their surface coloration and texture to resemble virtually any kind of natural or cut stone, allowing one to fool onlookers and thus gain surprise on 1-5 on 1d6."
-  - name: Coverage Area
+  - name: "Coverage Area"
     desc: "A trapper can cover an area equal to 40 square feet per level; thus, a 10 level trapper can cover 400 square feet, or up to a 20- by 20-foot room."
-  - name: Entrapment
+  - name: "Entrapment"
     desc: "A 9 LVL trapper can entrap at most 2 normal-sized characters (or twice that many small characters); a 10 LVL one can entrap 3 such characters, an 11 LVL one can entrap 4, and a 12 LVL one can entrap up to 5. At the GM's option, characters near the edge of the creature's body at the time of attack may be allowed succeed on a DC 13 CON check to avoid entrapment, but those at the center are automatically captured."
-  - name: Crushing Damage
+  - name: "Crushing Damage"
     desc: "Victims wearing no armor suffer 3d6 points of damage each round; those in leather, 2d6, and those in metal just 1d6. Entrapped characters are held so firmly that they cannot use weapons, nor cast spells of any kind, though at the referee's option certain magic items may be usable."
-  - name: Resistance to Heat and Cold
+  - name: "Resistance to Heat and Cold"
     desc: "Trappers have a particular resistance to both heat and cold, and suffer only half damage from such attack forms. Entrapped victims are subject to half damage from any area effect spell (such as **fireball**) which might affect the monster."
 actions:
-  - name: Special, see below
+  - name: "Special, see below"
     desc: "D20 to hit, Special, see below"
 source: BFRPG Field Guide
 ```

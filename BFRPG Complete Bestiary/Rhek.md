@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 acid shot or 1 acid burst"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Acid Shot
+  - name: "Acid Shot"
     desc: "Spews highly-corrosive acid as a ranged attack (50-foot range) for 1d6 damage."
-  - name: Acid Burst
+  - name: "Acid Burst"
     desc: "When surrounded, creates a burst of acid on the ground and hurtles itself up to 60 feet away. Any creatures within a 5-foot radius are dealt 1d6 points of acid damage."
-  - name: Acid Immunity
+  - name: "Acid Immunity"
     desc: "Immune to acid damage due to the mucus covering on its skin."
 actions:
-  - name: acid shot or 1 acid burst
+  - name: "acid shot or 1 acid burst"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

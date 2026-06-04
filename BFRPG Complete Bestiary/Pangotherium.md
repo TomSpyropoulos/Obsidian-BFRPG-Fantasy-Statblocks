@@ -21,14 +21,14 @@ attack: "+7 (`dice: 1d20+7`) 2 claws"
 damage: "2d4 (`dice:2d4`)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Intelligence
+  - name: "Intelligence"
     desc: "Intelligent animals with cognitive ability similar to a gorilla. Can operate doors and other simple mechanisms, but have no language."
-  - name: Unpredictable Reaction
+  - name: "Unpredictable Reaction"
     desc: "Roll 3d6 to determine reaction: 3-6 charges; 7-8 attacks; 9-12 approaches without attacking; 13-14 retreats; 15-17 flees; 18 takes immediate liking to party and rolls on back for belly scratches. If attacked, will retaliate."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

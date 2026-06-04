@@ -21,10 +21,10 @@ attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Natural sonar allows them to operate in total darkness."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Core
 ```

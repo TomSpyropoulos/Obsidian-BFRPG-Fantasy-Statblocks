@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 quarterstaff (1d6)"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Can see 60 feet above ground in the dark."
-  - name: Speak with plants
+  - name: "Speak with plants"
     desc: "Able to speak with plants."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "May regrow lost limbs with one day of rest."
-  - name: Immune to undead
+  - name: "Immune to undead"
     desc: "Immune to the undead."
-  - name: Surprise
+  - name: "Surprise"
     desc: "In a natural environment, they blend in with plant life, and surprise opponents on a roll of 1-5 on 1d6."
 actions:
-  - name: quarterstaff (1d6)
+  - name: "quarterstaff (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1 bite + gaze"
 damage: "1d3 (`dice:1d3`) + poison bite, charm gaze"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "Deadly venomous bite which kills any victim who fails a DC 13 CON check."
-  - name: Charm Gaze
+  - name: "Charm Gaze"
     desc: "Their gaze can charm (as the spell charm monster) any living creature that meets the naga's gaze; a successful DC 13 STR check will permit a victim to resist, but if this saving throw fails only dispel magic or remove curse will free the victim from the naga's control."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "A spirit naga also has the magical abilities of both a 5th-level Wizard and a 4th-level Cleric."
 actions:
-  - name: bite + gaze
+  - name: "bite + gaze"
     desc: "D20 to hit, 1d3 (`dice:1d3`) + poison bite, charm gaze"
 source: BFRPG Field Guide
 ```

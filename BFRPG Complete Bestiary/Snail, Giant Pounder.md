@@ -21,7 +21,7 @@ attack: "+2 (`dice: 1d20+2`) 1 tail blow or 1 bite"
 damage: "1d4 (`dice:1d4`) tail, 1d2 (`dice:1d2`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
-  - name: tail blow or 1 bite
+  - name: "tail blow or 1 bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) tail, 1d2 (`dice:1d2`) bite"
 source: BFRPG Field Guide
 ```

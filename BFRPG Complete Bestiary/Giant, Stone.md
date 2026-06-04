@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 stone club or 1 thrown rock"
 damage: "3d6 (`dice:3d6`) or 3d6 (`dice:3d6`)"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Thrown rocks
+  - name: "Thrown rocks"
     desc: "Can throw large stones up to 300' for 3d6 points of damage."
-  - name: Territorial defense
+  - name: "Territorial defense"
     desc: "Will fight in groups to defend their territory but use only simple, basic tactics and strategy."
 actions:
-  - name: stone club or 1 thrown rock
+  - name: "stone club or 1 thrown rock"
     desc: "D20 to hit, 3d6 (`dice:3d6`) or 3d6 (`dice:3d6`)"
 source: BFRPG Core
 ```

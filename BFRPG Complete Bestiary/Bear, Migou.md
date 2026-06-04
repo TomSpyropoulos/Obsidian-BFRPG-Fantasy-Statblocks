@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 2 claws / 1 bite / 1 hug / 1 phantasmal vision"
 damage: "1d6 (`dice:1d6`) claw, 1d12 (`dice:1d12`) bite, 2d6 (`dice:2d6`) hug, phantasmal vision (see below)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Phantasmal Vision
+  - name: "Phantasmal Vision"
     desc: "Three times a day, the migou can use its phantasmal vision power instead of attacking. The vision creates an effect similar to hold person by bewildering and enchanting its victims. All living creatures within a 60-foot radius of the migou must succeed on a DC 13 STR check or become bewitched, their mind overwhelmed by the illusions the migou pushes, standing still and staring off into space for one turn. Whenever a paralyzed victim is injured they get a new saving throw. Making the saving throw does not make the victim immune, and another save must be made if the migou uses this power again. All migou are immune to the powers of other migou."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d12 (`dice:1d12`) bite, 2d6 (`dice:2d6`) hug, phantasmal vision (see below)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
-  - name: hug
+  - name: "hug"
     desc: "D20 to hit, "
-  - name: phantasmal vision
+  - name: "phantasmal vision"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

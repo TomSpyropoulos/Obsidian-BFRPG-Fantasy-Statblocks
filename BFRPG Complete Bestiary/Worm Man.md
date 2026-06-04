@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon or spell"
 damage: "1d3 (`dice:1d3`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Peripheral Vision
+  - name: "Peripheral Vision"
     desc: "Can only be surprised on a roll of 1 on 1d6."
-  - name: Sleep Immunity
+  - name: "Sleep Immunity"
     desc: "Immune to the **sleep** spell."
-  - name: Charm Person
+  - name: "Charm Person"
     desc: "Each worm man has a spell-like ability that functions like a **charm person** spell. However, it has the limitation that the effect will fade once the worm man loses eye contact with the victim. The worm man may use this ability once per day and often leads with it during combat."
 actions:
-  - name: weapon or spell
+  - name: "weapon or spell"
     desc: "D20 to hit, 1d3 (`dice:1d3`) or by weapon"
 source: BFRPG Field Guide
 ```

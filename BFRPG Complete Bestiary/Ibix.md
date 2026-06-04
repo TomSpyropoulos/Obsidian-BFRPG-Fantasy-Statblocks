@@ -21,7 +21,7 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+3", "+0", "+1", "+0", "+0", "-1"]
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

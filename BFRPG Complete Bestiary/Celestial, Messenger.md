@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 1 weapon"
 damage: "By weapon + 1"
 attributes: ["+1", "+3", "+1", "+1", "+5", "+1"]
 traits:
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Possess a limited form of telepathy, allowing them to communicate with any creature within 50 feet without needing to speak."
-  - name: Healing Touch
+  - name: "Healing Touch"
     desc: "Possess a limited ability to heal injuries to either themselves, or others with a touch, equivalent to the spell cure serious wounds, which they can use once a day."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to sleep, hold, and charm spells, as well as illusions."
-  - name: Resistance to Non-magical Weapons
+  - name: "Resistance to Non-magical Weapons"
     desc: "Only take half damage from non-magical weapons."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon + 1"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 stab"
 damage: "1d6 (`dice:1d6`) per HD"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Climbing
+  - name: "Climbing"
     desc: "Can climb hard surfaces at full speed, even moving unhindered while upside down."
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Conical shells strongly resemble normal stalactites when hanging from cave ceilings."
-  - name: Drop Attack
+  - name: "Drop Attack"
     desc: "Attack by dropping on prey from above, stabbing with pointed shells."
-  - name: Single Attack
+  - name: "Single Attack"
     desc: "If the drop attack fails, the piercer has no further effective attack and will try to flee."
 actions:
-  - name: stab
+  - name: "stab"
     desc: "D20 to hit, 1d6 (`dice:1d6`) per HD"
 source: BFRPG Field Guide
 ```

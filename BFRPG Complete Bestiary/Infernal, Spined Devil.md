@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 bite or 2 blades or spines or by weapon"
 damage: "1d6 (`dice:1d6`) + poison or 1d8+2 (`dice:1d8+2`) or 4d6 (`dice:4d6`) or by weapon + 2"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Immunities
+  - name: "Immunities"
     desc: "Only magic weapons harm spined devils, and they are immune to non-magical fire or poison."
-  - name: Venomous Bite
+  - name: "Venomous Bite"
     desc: "Bite opponents must succeed on a DC 13 CON check or fall unconscious for 1d6 minutes."
-  - name: Elbow Blades
+  - name: "Elbow Blades"
     desc: "Thick, bony blades may extend or retract from their elbows, to be used as weapons as needed."
-  - name: Spine Burst
+  - name: "Spine Burst"
     desc: "Every round, the spined devil has a 1 in 6 chance of releasing a cloud of barbed spines from its skin. Every opponent within a 5-foot radius takes 4d6 points of damage, reduced by half by a successful DC 13 DEX check."
 actions:
-  - name: bite or 2 blades or spines or by weapon
+  - name: "bite or 2 blades or spines or by weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + poison or 1d8+2 (`dice:1d8+2`) or 4d6 (`dice:4d6`) or by weapon + 2"
 source: BFRPG Field Guide
 ```

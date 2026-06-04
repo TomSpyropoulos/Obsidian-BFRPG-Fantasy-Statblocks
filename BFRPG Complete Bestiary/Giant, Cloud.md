@@ -21,14 +21,14 @@ attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 1 thrown rock"
 damage: "6d6 (`dice:6d6`) or 3d6 (`dice:3d6`)"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Thrown Rocks
+  - name: "Thrown Rocks"
     desc: "Can throw large stones up to 200' for 3d6 points of damage each."
-  - name: Magic-User Abilities
+  - name: "Magic-User Abilities"
     desc: "5% of cloud giants have the abilities of a Wizard of level 2 to 8 (2d4)."
-  - name: Tactical Fighters
+  - name: "Tactical Fighters"
     desc: "Fight in well-organized units, using carefully developed battle plans. Prefer to fight from a position above their opponents. A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells."
 actions:
-  - name: giant weapon or 1 thrown rock
+  - name: "giant weapon or 1 thrown rock"
     desc: "D20 to hit, 6d6 (`dice:6d6`) or 3d6 (`dice:3d6`)"
 source: BFRPG Core
 ```

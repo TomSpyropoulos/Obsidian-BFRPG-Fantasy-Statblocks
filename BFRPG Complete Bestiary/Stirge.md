@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`) + 1d4 (`dice:1d4`)/round blood drain"
 attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "If a stirge hits, it attaches and inflicts 1d4 damage initially, then 1d4 damage per round as it drains blood."
-  - name: Attached
+  - name: "Attached"
     desc: "Once attached, can only be removed by killing it. Victim cannot use weapons larger than dagger or hand axe, and cannot attack if attacked from behind. Others attack at +2 but misses hit the victim."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + 1d4 (`dice:1d4`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round blood drain"
 source: BFRPG Core
 ```

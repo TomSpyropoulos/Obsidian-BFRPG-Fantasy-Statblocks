@@ -21,12 +21,12 @@ attack: "+11 (`dice: 1d20+11`) 1 giant weapon or 1 lightning bolt"
 damage: "8d6 (`dice:8d6`) or 15d6 (`dice:15d6`)"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Lightning Bolts
+  - name: "Lightning Bolts"
     desc: "Work just as the spell does, and can be used once per five rounds; a DC 15 INT check reduces damage to half."
-  - name: Magic-User Abilities
+  - name: "Magic-User Abilities"
     desc: "10% of storm giants have the abilities of a Wizard of level 2 to 12 (2d6)."
 actions:
-  - name: giant weapon or 1 lightning bolt
+  - name: "giant weapon or 1 lightning bolt"
     desc: "D20 to hit, 8d6 (`dice:8d6`) or 15d6 (`dice:15d6`)"
 source: BFRPG Core
 ```

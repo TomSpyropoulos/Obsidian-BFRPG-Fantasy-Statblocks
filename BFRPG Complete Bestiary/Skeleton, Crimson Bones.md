@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 punch or weapon"
 damage: "1d6 (`dice:1d6`) punch, by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Reanimation
+  - name: "Reanimation"
     desc: "Each time reduced to 0 HP, rises again 1d4 rounds later with half its previous HP allotment (round up, minimum 1 hp). Can be permanently destroyed during inactive period by **bless** spell, holy water, or other holy powers."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Heals at a rate of 1 hp per day. Damage caused by holy water while active will not be recovered."
-  - name: Resistance to weapons
+  - name: "Resistance to weapons"
     desc: "Takes half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a zombie). Immune to **sleep**, **charm**, and **hold** spells. Immune to **mind reading**. Never fails morale (WIS) and always fights until destroyed."
 actions:
-  - name: punch or weapon
+  - name: "punch or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) punch, by weapon"
 source: BFRPG Field Guide
 ```

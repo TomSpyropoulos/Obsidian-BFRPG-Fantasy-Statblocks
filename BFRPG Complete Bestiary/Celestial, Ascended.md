@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 1 weapon"
 damage: "By weapon + 2"
 attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
-  - name: Enhanced Weapon Damage
+  - name: "Enhanced Weapon Damage"
     desc: "Physical attacks with a weapon deal an additional 2 points of damage."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as if they were an 11th-level Cleric."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate telepathically with creatures within 100 feet without the need for verbal communication."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immunity to sleep, hold, and charm spells, as well as illusions."
-  - name: Healing
+  - name: "Healing"
     desc: "Able to heal both themselves and others of injuries once per turn, as per the spell of the same name."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon + 2"
 source: BFRPG Field Guide
 ```

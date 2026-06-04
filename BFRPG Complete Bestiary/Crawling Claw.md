@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 1 strangle (1d4 + Special)"
 damage: "1d4 (`dice:1d4`) + Special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Strangle
+  - name: "Strangle"
     desc: "A crawling claw deals 1d4 points of damage as it grabs its target and continues to deal 1d4 points of damage each round by strangling. Because it seizes its victim by the neck, a creature in the crawling claw's grasp cannot speak or cast spells."
-  - name: Supernaturally Quick
+  - name: "Supernaturally Quick"
     desc: "A crawling claw is supernaturally quick and always acts first in a combat round."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, or hold spells."
-  - name: Stealth
+  - name: "Stealth"
     desc: "Due to their size and quickness, they are able to hide effectively, with only a 30% chance of detection."
 actions:
-  - name: strangle (1d4 + Special)
+  - name: "strangle (1d4 + Special)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + Special"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 1 bite or breath"
 damage: "1d6 (`dice:1d6`) bite, 4d6 (`dice:4d6`) breath"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "15-foot cone that can be used once every 1d4 rounds for 4d6 points of cold damage; a DC 13 DEX check for half damage applies."
-  - name: Cold Bite
+  - name: "Cold Bite"
     desc: "The bite of a winter wolf also deals an extra 1d6 points of cold damage."
-  - name: Trip
+  - name: "Trip"
     desc: "An individual hit by a winter wolf's bite must succeed on a DC 13 CON check or be knocked to the ground prone."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "A winter wolf is immune to cold effects."
 actions:
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite, 4d6 (`dice:4d6`) breath"
 source: BFRPG Field Guide
 ```

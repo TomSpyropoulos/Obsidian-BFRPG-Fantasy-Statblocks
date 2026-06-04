@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 punch + special"
 damage: "2d6 (`dice:2d6`) + special"
 attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "A hay golem takes only half damage from bludgeoning weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Fire Immunity and Ignition
+  - name: "Fire Immunity and Ignition"
     desc: "A hay golem is not only immune to fire, magical or not, it will catch ablaze, adding half of this damage to any damage it delivers. Each new round the fire damage inflicted by the hay golem is increased by 50%. A hay golem cannot accumulate more fire damage than half of its current HP."
 actions:
-  - name: punch + special
+  - name: "punch + special"
     desc: "D20 to hit, 2d6 (`dice:2d6`) + special"
 source: BFRPG Field Guide
 ```

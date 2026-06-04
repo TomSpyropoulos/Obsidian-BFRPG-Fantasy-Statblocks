@@ -21,20 +21,20 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Nearly Transparent
+  - name: "Nearly Transparent"
     desc: "Hard to spot, surprising on 1-4 on 1d6."
-  - name: Surrounding Winds
+  - name: "Surrounding Winds"
     desc: "All creatures within 20 feet must succeed on a DC 14 STR check or be pushed 1d6×10 feet away. Those who succeed are reduced to half movement."
-  - name: Missile Deflection
+  - name: "Missile Deflection"
     desc: "Powerful wind deflects missile weapons in a fashion nearly identical to the spell protection from normal missiles."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak the language of the Element of Air, and many also know Elvish, Common, or Dragon."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

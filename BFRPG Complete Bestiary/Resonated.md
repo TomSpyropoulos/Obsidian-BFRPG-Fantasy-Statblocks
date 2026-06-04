@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Heals 1d8 hit points per hour. Even after being destroyed it will keep regenerating and will rise once its full HP are recovered."
-  - name: True Destruction
+  - name: "True Destruction"
     desc: "Can only be truly destroyed by: silencing the deadringer's bell, being destroyed by a Cleric's power, or removing the deadringer's curse (via spell or the death of the person cursed by the resonated's deadringer master)."
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Only take half damage from edged weapons and only a single point from bolts, arrows, or sling bullets."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, and hold spells."
-  - name: Turn Resistance
+  - name: "Turn Resistance"
     desc: "Can be Turned by a Cleric as if they were a ghoul."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

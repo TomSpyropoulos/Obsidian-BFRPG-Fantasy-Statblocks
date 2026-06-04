@@ -21,20 +21,20 @@ attack: "+6 (`dice: 1d20+6`) 2 claws or weapon"
 damage: "1d6 (`dice:1d6`) claw, by weapon"
 attributes: ["+1", "+2", "+1", "+3", "+2", "+1"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can freely change between humanoid and colony forms once per round."
-  - name: Paralyzing Touch
+  - name: "Paralyzing Touch"
     desc: "The touch of a vermin queen in either form paralyzes (much like a ghoul)."
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Never takes more than 1d4 points of damage from weapon attacks."
-  - name: Colony Form
+  - name: "Colony Form"
     desc: "While in colony form, a vermin queen fights just like an insect swarm."
-  - name: Reproduction
+  - name: "Reproduction"
     desc: "When a vermin queen eats a living human, demihuman, or humanoid creature, another beetle is born to the colony. When the swarm gets too big to comfortably fit into a human skin, half of it splits off and becomes a new vermin queen."
 actions:
-  - name: claws or weapon
+  - name: "claws or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, by weapon"
-  - name: claws or weapon
+  - name: "claws or weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

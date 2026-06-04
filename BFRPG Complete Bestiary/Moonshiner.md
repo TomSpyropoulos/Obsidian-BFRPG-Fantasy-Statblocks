@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Intoxicating Saliva
+  - name: "Intoxicating Saliva"
     desc: "Anyone bitten suffers a penalty of -2 on attacks and saving throws, while also receiving a +2 bonus to morale checks (DC 12 WIS checks)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

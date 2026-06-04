@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon"
 attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Thief abilities
+  - name: "Thief abilities"
     desc: "Within its lair a red cap has the abilities of a 6th-level Thief, including the sneak attack ability. Outside its lair a red cap's Thief abilities are only 3rd-level."
-  - name: Iron shoes
+  - name: "Iron shoes"
     desc: "Wears small iron shoes that magically enhance its speed. If somehow removed the red cap's movement rate is halved. These shoes are useless to anyone other than a red cap."
-  - name: Sleep
+  - name: "Sleep"
     desc: "Can cast sleep once daily, which it uses to incapacitate those it intends to murder."
-  - name: Evasion
+  - name: "Evasion"
     desc: "When hard pressed, it will flee and hide, counting on its speed to evade any pursuers."
-  - name: Blood-soaked hat
+  - name: "Blood-soaked hat"
     desc: "The hat of a red cap must be soaked in blood regularly, lest the being wither and fade away. This hat, even if inert for years, can summon a red cap if soaked in blood anew. Only total destruction of the hat guarantees a true end."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon"
 source: BFRPG Field Guide
 ```

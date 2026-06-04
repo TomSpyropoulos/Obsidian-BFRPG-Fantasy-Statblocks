@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite, or Breath Weapon"
 damage: "1d4+1 (`dice:1d4+1`) bite or Breath Weapon"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Rabbidrakes may exhale a breath weapon in a 10-foot by 5-foot line, dealing 2d6 points of damage. After this, it must wait until it rolls a 1 on a 1d8 (performed before it acts each round) to use its breathe weapon again"
-  - name: Magical Reproduction
+  - name: "Magical Reproduction"
     desc: "When two rabbidrakes are together, they may combine their breath weapons, creating another rabbidrake with 1d4 HP, maturing into a full grown rabbidrake (with a full 1 LVL) in about a week. Only mature rabbidrakes may do this; the newly-created ones cannot combine breath weapons until they mature. Newly-created rabbidrakes can't use their breath until a 1 in 1d8 is rolled, as above."
 actions:
-  - name: bite, or Breath Weapon
+  - name: "bite, or Breath Weapon"
     desc: "D20 to hit, 1d4+1 (`dice:1d4+1`) bite or Breath Weapon"
 source: BFRPG Field Guide
 ```

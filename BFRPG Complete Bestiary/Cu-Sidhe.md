@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "-1", "+1", "+1", "+0"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "So long as one remains still, there is only a 10% chance it will be detected in forest terrain. Even indoors, underground, or in non-preferred terrain they are able to hide such that there is only a 30% chance of detection."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60 foot range."
-  - name: Acute Senses
+  - name: "Acute Senses"
     desc: "Particularly acute canine senses."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "Prefer to attack as a pack, and will generally avoid combat if met singly."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

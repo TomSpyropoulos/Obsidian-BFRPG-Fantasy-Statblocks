@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 2 claws + spell rip"
 damage: "1d4 (`dice:1d4`) claw"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Spell Rip
+  - name: "Spell Rip"
     desc: "Spell casting characters struck by the spellripper's claw must succeed on a DC 12 INT check or have one of their highest-level prepared spells ripped and possibly absorbed."
-  - name: Spell Storage
+  - name: "Spell Storage"
     desc: "Can store ripped spells adding up to a total of 6 levels; encountered spellringers will have 1d4-1 spell levels stored."
-  - name: Spell Empowerment
+  - name: "Spell Empowerment"
     desc: "Can instinctively cast any stored spell or use them to empower itself, gaining 1 extra LVL per spell level used. These extra LVL also improve their attack bonus and saving throw values correspondingly; at the start of each new round one extra LVL is lost."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a skeleton), and is immune to sleep, charm, and hold magic."
 actions:
-  - name: claws + spell rip
+  - name: "claws + spell rip"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw"
-  - name: claws + spell rip
+  - name: "claws + spell rip"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

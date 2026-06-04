@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 claw or weapon"
 damage: "1d6+1 (`dice:1d6+1`) or by weapon"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Vulnerability and Resistance
+  - name: "Vulnerability and Resistance"
     desc: "Takes +1 damage from attacks that are metal- or fire-based, and -1 damage from all else."
-  - name: Abnormal Strength
+  - name: "Abnormal Strength"
     desc: "Abnormally strong for its size, does +1 damage to melee attacks."
-  - name: Alter Appearance
+  - name: "Alter Appearance"
     desc: "Ability to magically alter its appearance once per day for a duration of two hours, often does so as adults in order to make itself taller and more appealing to the opposite sex. A DC 12 INT check with a -2 penalty will reveal the changeling's true form."
-  - name: Illusionist Spells
+  - name: "Illusionist Spells"
     desc: "The GM may further add illusionist-type spells to the changeling's repertoire depending on its individual background."
 actions:
-  - name: claw or weapon
+  - name: "claw or weapon"
     desc: "D20 to hit, 1d6+1 (`dice:1d6+1`) or by weapon"
 source: BFRPG Field Guide
 ```

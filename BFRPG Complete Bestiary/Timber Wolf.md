@@ -21,18 +21,18 @@ attack: "+12 (`dice: 1d20+12`) 1 bite or 1 trample"
 damage: "3d8 (`dice:3d8`) bite, 4d10 (`dice:4d10`) trample"
 attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
-  - name: Trample
+  - name: "Trample"
     desc: "In order to trample it must first move at least 10 feet."
-  - name: Battering Ram
+  - name: "Battering Ram"
     desc: "Can attack structures like a battering ram, inflicting damage equal to its trample attack."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Magical weapons or spells are required to damage a timber-wolf."
-  - name: Vulnerability to Fire
+  - name: "Vulnerability to Fire"
     desc: "Takes double damage from magical fire attacks; ordinary fire does only normal damage."
-  - name: Basic Intelligence
+  - name: "Basic Intelligence"
     desc: "Has a kind of basic intelligence, albeit in a state of rage."
 actions:
-  - name: bite or 1 trample
+  - name: "bite or 1 trample"
     desc: "D20 to hit, 3d8 (`dice:3d8`) bite, 4d10 (`dice:4d10`) trample"
 source: BFRPG Field Guide
 ```

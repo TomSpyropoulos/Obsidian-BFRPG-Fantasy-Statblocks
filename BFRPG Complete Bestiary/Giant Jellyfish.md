@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 tentacle brush"
 damage: "1d10 (`dice:1d10`) plus paralysis"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Nearly Invisible
+  - name: "Nearly Invisible"
     desc: "Surprising on a 1-4 on 1d6."
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Any living creature hit by a giant jellyfish must make succeed on a DC 12 STR check or be paralyzed for 2d4 turns."
-  - name: Tentacles
+  - name: "Tentacles"
     desc: "A giant jellyfish has 2d10 tentacles per level, and 50% of successful hits will be against the tentacles; while each point of damage severs a tentacle, only damage done to the creature's main body counts against its normal hit points. Severing all the tentacles renders the creature harmless, and they will regenerate over the course of a few weeks. Attackers who are aware of these facts may choose to attack the main body specifically, in which case any successful hit will count against the creature's hit points."
 actions:
-  - name: tentacle brush
+  - name: "tentacle brush"
     desc: "D20 to hit, 1d10 (`dice:1d10`) plus paralysis"
 source: BFRPG Field Guide
 ```

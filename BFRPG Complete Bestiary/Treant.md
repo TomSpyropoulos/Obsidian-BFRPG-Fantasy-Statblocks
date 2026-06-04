@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) 2 fists (2d6/2d6)"
 damage: "-"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Treants are slow to act when potential enemies are nearby, preferring watch them carefully before taking any action. Because of their excellent camouflage treants gain surprise on 1-4 on 1d6."
-  - name: Animate Trees
+  - name: "Animate Trees"
     desc: "All treants have the power to animate other normal trees in their area; up to two trees can be animated at once, but the treant can release one and animate another if needed. Trees to be animated must be within 180 feet of the treant, and must remain within that range or they will return to their normal state. An animated tree requires a full round to uproot itself before it can move around, and then can move at a rate of just 10' per round. Of course, if enemies are within reach the animated tree need not be uprooted. If the treant controlling an animated tree is slain or incapacitated, the tree returns to its normal state.  Any character or creature nearby when this happens must succeed on a DC 13 CON check to scamper away; those who fail will suffer 2d6 points of damage and will be trapped under the fallen tree. The GM should consider battlefield conditions when deciding on the exact results of such an event."
 source: BFRPG Core
 ```

@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+3", "+0", "+1", "+0", "+0", "-1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30' range."
-  - name: Defensive Bonus
+  - name: "Defensive Bonus"
     desc: "When attacked in melee by creatures larger than man-sized, gnomes gain a +1 bonus to their Armor Class."
-  - name: Forest Hiding
+  - name: "Forest Hiding"
     desc: "Outdoors in their preferred forest terrain, they are able to hide very effectively; so long as they remain still there is only a 20% chance they will be detected."
-  - name: Ambush
+  - name: "Ambush"
     desc: "If one or more gnomes who are successfully hiding attack from ambush, they surprise their foes on 1-4 on 1d6."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

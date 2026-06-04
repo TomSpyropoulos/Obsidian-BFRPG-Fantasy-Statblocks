@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Tactical Theft
+  - name: "Tactical Theft"
     desc: "Barrodes will try to overwhelm opponents with large numbers. They surround enemies and, with the enemy distracted, proceed to pull off armor and steal weapons to render them helpless. Stolen items remain unharmed and can be recovered after the group is defeated."
-  - name: Strategic Retreat
+  - name: "Strategic Retreat"
     desc: "Common for a barrode pack to make off with their ill-gotten gains at the first opportunity, attempting to evade pursuit at all costs."
-  - name: Negotiation
+  - name: "Negotiation"
     desc: "Known to engage in negotiations with an enemy should it prove opportune or should otherwise be at a disadvantage."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

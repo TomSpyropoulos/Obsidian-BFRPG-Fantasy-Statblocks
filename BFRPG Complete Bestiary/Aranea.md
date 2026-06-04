@@ -21,24 +21,24 @@ attack: "+4 (`dice: 1d20+4`) spider form: 1 bite, web, or spells / hybrid form: 
 damage: "1d6 (`dice:1d6`) bite+poison or by weapon"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
-  - name: Shapechanger
+  - name: "Shapechanger"
     desc: "Has three distinct forms: spider (natural form with 2-ft arms below mandibles), hybrid (spider-centaur with multi-eyed spider face), and humanoid (halfling to human size with dark coarse hair and bulging eyes). Can change forms once per round. Humanoid form is distinctive and cannot be altered."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60 feet range."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as 4th-level Wizards. These powers can be used in any form."
-  - name: Poisonous Bite
+  - name: "Poisonous Bite"
     desc: "In spider or hybrid form the aranea may bite; those bitten must succeed on a DC 12 CON check or die, in addition to taking normal damage."
-  - name: Web
+  - name: "Web"
     desc: "In either hybrid or spider form an aranea may create a web up to six times per day, in a fashion similar to the web spell. This effect is not magical; it has a maximum range of 50 feet, and covers at most three 10' x 10' x 10' cubes (or equivalent volume)."
-  - name: Web Movement
+  - name: "Web Movement"
     desc: "An aranea in spider form may move through any web, whether created by magic, a giant spider, or an aranea, at the listed movement rate. This makes an aranea effectively immune to the web spell."
 actions:
-  - name: spider form: 1 bite, web, or spells
+  - name: "spider form: 1 bite, web, or spells"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite+poison or by weapon"
-  - name: hybrid form: 1 bite, web, spells, or weapon
+  - name: "hybrid form: 1 bite, web, spells, or weapon"
     desc: "D20 to hit, "
-  - name: humanoid form: spells or weapon
+  - name: "humanoid form: spells or weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

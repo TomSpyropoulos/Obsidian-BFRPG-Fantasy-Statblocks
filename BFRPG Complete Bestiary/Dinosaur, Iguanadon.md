@@ -21,11 +21,11 @@ attack: "+6 (`dice: 1d20+6`) 2 claws / 1 tail lash"
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) tail lash"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) tail lash"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: tail lash
+  - name: "tail lash"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

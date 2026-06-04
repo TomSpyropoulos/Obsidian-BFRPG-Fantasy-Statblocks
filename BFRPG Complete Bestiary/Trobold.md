@@ -21,13 +21,13 @@ attack: "+0 (`dice: 1d20+0`) 2 claws (1d2) / 1 bite (1d4)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Healing 2 HP each turn. A slain trobold will rise up in a mere 1d3 rounds."
-  - name: Split on Death
+  - name: "Split on Death"
     desc: "Slaying a trobold with a slashing weapon or similar attack causes a 50% probability of two trobolds rising from the remains."
-  - name: Vulnerability
+  - name: "Vulnerability"
     desc: "Fire and acid overcomes their regenerative power and cause them normal injury and permanent death."
-  - name: Variable Morale
+  - name: "Variable Morale"
     desc: "Once their number are reduced below half their morale (WIS) drop to 6, if their number is halved a second time it drops again to 3, if their number increase (by the arrival of more trobolds or by their regeneration) their morale (WIS) increases accordingly."
 source: BFRPG Field Guide
 ```

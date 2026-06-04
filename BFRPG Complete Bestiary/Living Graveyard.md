@@ -21,16 +21,16 @@ attack: "+16 (`dice: 1d20+16`) 1 tombstone + special"
 damage: "2d6 (`dice:2d6`) tombstone + special"
 attributes: ["+10", "+10", "+11", "+12", "+12", "+10"]
 traits:
-  - name: Tombstone Attack
+  - name: "Tombstone Attack"
     desc: "Shoots gravestones as grenade-like attacks, dealing 2d6 damage. Loses 1 HP per tombstone shot, can shoot up to a quarter of its HP. On miss, target succeeds on a DC 20 DEX check or suffers half-damage from explosion."
-  - name: Release Remnants
+  - name: "Release Remnants"
     desc: "Can release skeletons (1-4 on 1d6) or zombies (5-6 on 1d6) by losing HP as above, limited to a quarter of HP. Remnants attack anyone nearby."
-  - name: Regenerative Slumber
+  - name: "Regenerative Slumber"
     desc: "At 0 HP, collapses and enters slumber. Regains 1 HP per week or 1d6 HP per body buried in it."
-  - name: Heart
+  - name: "Heart"
     desc: "Can only be destroyed by entering its chapel during slumber (via 15th-level magically-held door) and destroying its heart, a glowing protuberance with 2d4 HP at the chapel's center. Percent chance equal to half full HP that heart is protected by (full HP/10) skeleton guardians (each with 2 LVL+2 and +2 to attack and damage)."
 actions:
-  - name: tombstone + special
+  - name: "tombstone + special"
     desc: "D20 to hit, 2d6 (`dice:2d6`) tombstone + special"
 source: BFRPG Field Guide
 ```

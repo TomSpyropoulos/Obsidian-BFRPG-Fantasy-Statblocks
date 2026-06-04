@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1 weapon"
 damage: "By weapon +2"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Spell-like Abilities (at-will)
+  - name: "Spell-like Abilities (at-will)"
     desc: "speak with monster, water breathing, ventriloquism, clairvoyance, and darkvision"
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak Common and Elvish"
-  - name: Shapechange
+  - name: "Shapechange"
     desc: "Can appear as an old man"
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +2"
 source: BFRPG Field Guide
 ```

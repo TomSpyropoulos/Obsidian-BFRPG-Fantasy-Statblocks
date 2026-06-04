@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 2 claws / 1 bite"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Pack tactics
+  - name: "Pack tactics"
     desc: "Will form small packs to improve their hunting effectiveness."
-  - name: Domestication
+  - name: "Domestication"
     desc: "Sometimes domesticated by forest dwellers for use as guardians or pets."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

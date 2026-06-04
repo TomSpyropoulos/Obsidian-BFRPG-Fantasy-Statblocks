@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 1 antler or 1 rake (against large only)"
 damage: "2d4 (`dice:2d4`) antler, 2d6 (`dice:2d6`) rake"
 attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Charging attack
+  - name: "Charging attack"
     desc: "May use antlers in charging attacks (following normal charging rules)."
-  - name: Rake
+  - name: "Rake"
     desc: "Against large opponents the great leoporid will leap and use its rear clawed feet to rake for considerable damage (2d6)."
-  - name: Quick turning
+  - name: "Quick turning"
     desc: "Has a 5-foot maneuver rating, allowing quick turns unlike other horse-sized creatures."
-  - name: Mount capabilities
+  - name: "Mount capabilities"
     desc: "Light load up to 250 pounds; heavy load up to 500 pounds. Requires specially-designed saddles and bags (equine equipment will not fit)."
 actions:
-  - name: antler or 1 rake (against large only)
+  - name: "antler or 1 rake (against large only)"
     desc: "D20 to hit, 2d4 (`dice:2d4`) antler, 2d6 (`dice:2d6`) rake"
 source: BFRPG Field Guide
 ```

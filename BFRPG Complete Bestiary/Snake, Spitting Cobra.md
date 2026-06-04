@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite or 1 spit"
 damage: "1d4 (`dice:1d4`) + poison or blindness"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Spit Venom
+  - name: "Spit Venom"
     desc: "Can project venom up to 5'. Any creature hit must roll a DC 12 CON check or be blinded permanently (though the cure blindness spell can be used to heal this injury)."
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "Those successfully hit must succeed on a DC 12 CON check or die."
 actions:
-  - name: bite or 1 spit
+  - name: "bite or 1 spit"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison or blindness"
 source: BFRPG Core
 ```

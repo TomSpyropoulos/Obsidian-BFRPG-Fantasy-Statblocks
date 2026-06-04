@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 2 blades or 1 beam"
 damage: "2d8 (`dice:2d8`) blade, 4d6 (`dice:4d6`) beam"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Climb
+  - name: "Climb"
     desc: "Its sharp legs allow it to climb vertical surfaces such as walls."
-  - name: Eye Beam
+  - name: "Eye Beam"
     desc: "Can fire a beam from its 'eye' at a target up to 50 feet away. Sets fire to any flammable material that is hit. May use this beam at most once per three rounds."
 actions:
-  - name: blades or 1 beam
+  - name: "blades or 1 beam"
     desc: "D20 to hit, 2d8 (`dice:2d8`) blade, 4d6 (`dice:4d6`) beam"
-  - name: blades or 1 beam
+  - name: "blades or 1 beam"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

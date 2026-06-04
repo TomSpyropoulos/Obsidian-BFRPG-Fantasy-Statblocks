@@ -21,16 +21,16 @@ attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d8 (`dice:2d8`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Preference for Horses
+  - name: "Preference for Horses"
     desc: "Will attack a horse over anything else. When mounted and horses come within 120', roll a DC 12 WIS check; if failed, the griffon will try to attack immediately."
-  - name: Trainable as Mount
+  - name: "Trainable as Mount"
     desc: "Can be trained as mounts if raised in captivity. Light load: up to 400 pounds; heavy load: up to 900 pounds."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

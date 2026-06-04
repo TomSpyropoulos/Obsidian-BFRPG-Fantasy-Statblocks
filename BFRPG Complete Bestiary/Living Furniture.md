@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 1"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Material Resistances
+  - name: "Material Resistances"
     desc: "Wooden furniture only takes half damage from sharp objects; textile-based furniture takes double damage from sharp objects, but no damage from bludgeoning weapons. Both however will take only 1 point of damage from arrows. Metal and stone furniture will only take damage from bludgeoning weapons."
-  - name: Intelligence Growth
+  - name: "Intelligence Growth"
     desc: "Begins as semi-intelligent, and will behave in a co-operative fashion with other pieces of furniture. As time goes by the furniture becomes more intelligent and it's not uncommon that after a few decades they gain the ability to speak."
-  - name: Spellcasting (Complex Forms)
+  - name: "Spellcasting (Complex Forms)"
     desc: "More complex furniture forms, such as clocks, have a slight (10%) chance to be able to cast 1-2 1st-level spells from its creators spell book per day."
-  - name: Self-Repair
+  - name: "Self-Repair"
     desc: "Can consume the raw material it is constructed from to regain hit points."
-  - name: Immunity to Dispel Magic
+  - name: "Immunity to Dispel Magic"
     desc: "**Dispel magic** will not affect living furniture."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite + rake"
 damage: "2d4 (`dice:2d4`) claw, 1d10 (`dice:1d10`) bite, 2d4 (`dice:2d4`) rake"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Rake
+  - name: "Rake"
     desc: "On any successful attack with both its claw attacks, a hieracosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 1d10 (`dice:1d10`) bite, 2d4 (`dice:2d4`) rake"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite + rake
+  - name: "bite + rake"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

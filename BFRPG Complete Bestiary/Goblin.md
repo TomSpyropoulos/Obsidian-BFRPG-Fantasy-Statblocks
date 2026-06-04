@@ -21,10 +21,10 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30' range."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

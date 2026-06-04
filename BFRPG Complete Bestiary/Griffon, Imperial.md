@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 2 claws / 1 bite"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite"
 attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Mount Capacity
+  - name: "Mount Capacity"
     desc: "An adult imperial griffon mount can carry up to 700 pounds as a light load, or 1,400 pounds heavily-loaded."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

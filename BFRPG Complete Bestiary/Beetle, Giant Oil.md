@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 bite + spray (see below)"
 damage: "2d4 (`dice:2d4`) bite, special spray"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: All-around Vision
+  - name: "All-around Vision"
     desc: "Their eyes are arranged on the sides of their heads such that they can see perfectly well behind them as well as in front, negating any normal bonus for attacking from behind."
-  - name: Oil Spray
+  - name: "Oil Spray"
     desc: "In addition to its bite, a giant oil beetle can attack with a spray of oil from its abdomen; this can only be applied to opponents within 5 feet of the back of the beetle, and an attack roll is needed to hit. Living creatures hit by this spray suffer a penalty of -2 on all attack rolls for 24 hours due to painful blisters inflicted by the irritating oil. A cure light wounds spell may be used to remove this effect, but if so used the spell does not also restore hit points to the victim."
 actions:
-  - name: bite + spray (see below)
+  - name: "bite + spray (see below)"
     desc: "D20 to hit, 2d4 (`dice:2d4`) bite, special spray"
 source: BFRPG Field Guide
 ```

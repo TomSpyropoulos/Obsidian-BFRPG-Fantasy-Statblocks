@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 claws or by weapon"
 damage: "1d4 (`dice:1d4`) claw, by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60' and superior eyesight while underwater."
-  - name: Amphibious
+  - name: "Amphibious"
     desc: "Webbed hands and feet enable exceptional swimming ability."
-  - name: Hybridization
+  - name: "Hybridization"
     desc: "Can produce offspring from unions with various humanoids that look completely normal (for the humanoids)."
 actions:
-  - name: claws or by weapon
+  - name: "claws or by weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, by weapon"
-  - name: claws or by weapon
+  - name: "claws or by weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

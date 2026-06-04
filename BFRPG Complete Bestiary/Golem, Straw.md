@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon or 2 fists or 1 hug"
 damage: "by weapon or 1d4 (`dice:1d4`) fists or special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Takes half damage from blunt weapons and no damage from piercing weapons."
-  - name: Vulnerable to Fire
+  - name: "Vulnerable to Fire"
     desc: "Any fire attack will set it alight, destroying the golem in 3 rounds. During these 3 rounds the golem will move at maximum speed towards whoever set it alight, seeking to hug and hold the attacker in the fire to join the straw golem in oblivion. Anyone held by a burning straw golem will take 1d6 points of damage in the first round, 2d6 in the second round, and 3d6 in the third round before it burns away."
 actions:
-  - name: weapon or 2 fists or 1 hug
+  - name: "weapon or 2 fists or 1 hug"
     desc: "D20 to hit, by weapon or 1d4 (`dice:1d4`) fists or special"
 source: BFRPG Field Guide
 ```

@@ -21,10 +21,10 @@ attack: "+5 (`dice: 1d20+5`) 1 beak + special"
 damage: "1d6 (`dice:1d6`) + petrification"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Petrification
+  - name: "Petrification"
     desc: "Anyone touched by a cockatrice, or who touches one (even if gloved), must succeed on a DC 13 STR check or be turned to stone."
 actions:
-  - name: beak + special
+  - name: "beak + special"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + petrification"
 source: BFRPG Core
 ```

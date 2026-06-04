@@ -21,7 +21,7 @@ attack: "+4 (`dice: 1d20+4`) 1 tail or trample"
 damage: "1d8 (`dice:1d8`) tail or trample"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
-  - name: tail or trample
+  - name: "tail or trample"
     desc: "D20 to hit, 1d8 (`dice:1d8`) tail or trample"
 source: BFRPG Field Guide
 ```

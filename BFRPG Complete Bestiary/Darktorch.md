@@ -21,22 +21,22 @@ attack: "+4 (`dice: 1d20+4`) 2 torch"
 damage: "1d6 (`dice:1d6`) + darkness"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Invisible in Darkness
+  - name: "Invisible in Darkness"
     desc: "While in complete darkness, the darktorch is invisible, however even the slightest glimmer of light will reveal it."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "A darktorch is unaffected by magical darkness, and can see perfectly well in both natural and magical darkness."
-  - name: Darkness Touch
+  - name: "Darkness Touch"
     desc: "The darktorches torch causes 1d6 points of damage and the target is rendered under the effects of a **darkness** spell, effectively blinding them, unless they make a DC 12 CON check to avoid the effect."
-  - name: Create Spawn
+  - name: "Create Spawn"
     desc: "Any individual killed by a darktorch rises as a darktorch itself after 1d3 days."
-  - name: Cursed Torch
+  - name: "Cursed Torch"
     desc: "When a darktorch is slain, nothing remains except its torch, laying abandoned on the ground. This torch can be used to cast the **darkness** spell three times per day; however, if exposed to sunlight it is destroyed in 2d4 rounds."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "As undead, they are immune to **sleep**, **charm**, and **hold**, and can be Turned by a Cleric (as a wight)."
 actions:
-  - name: torch
+  - name: "torch"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + darkness"
-  - name: torch
+  - name: "torch"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

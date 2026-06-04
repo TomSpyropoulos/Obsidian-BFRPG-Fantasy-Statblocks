@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d8 (`dice:1d8`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Intelligence
+  - name: "Intelligence"
     desc: "Intelligent creatures. Many speak Common or another language common in their home territory."
-  - name: Solitary Hunters
+  - name: "Solitary Hunters"
     desc: "When hunting, each eagle chooses a single creature as prey. They communicate to avoid attacking the same target."
-  - name: Nest Defense
+  - name: "Nest Defense"
     desc: "If a nest with eggs or hatchlings is threatened, both parents fight without making a DC 12 WIS check."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Core
 ```

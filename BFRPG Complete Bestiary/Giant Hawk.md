@@ -21,7 +21,7 @@ attack: "+4 (`dice: 1d20+4`) 1 claw or bite"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 actions:
-  - name: claw or bite
+  - name: "claw or bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Core
 ```

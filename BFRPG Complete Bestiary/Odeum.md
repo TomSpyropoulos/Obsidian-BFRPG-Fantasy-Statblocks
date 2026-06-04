@@ -21,16 +21,16 @@ attack: "+4 (`dice: 1d20+4`) 1 touch"
 damage: "1d6 (`dice:1d6`) + Wisdom drain"
 attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Icy Touch
+  - name: "Icy Touch"
     desc: "An odeum attacks the minds of living creatures, damaging them with its icy touch. In addition to normal damage done, any living creature touched by an odeum takes 1d4 points of Wisdom damage. A creature reduced to less than 3 points of Wisdom by this attack is driven insane and acts as if under the effects of a **confusion** spell until its Wisdom is restored to at least 3 points. (Assume that non-character monsters have a Wisdom of 9 for this purpose)."
-  - name: Possession
+  - name: "Possession"
     desc: "Instead of attacking, an odeum can attempt to possess a living creature using a magical ability similar to **magic jar** (as if cast by a 10th-level Wizard), except that no receptacle is required. The target is allowed a DC 12 INT check modified with its Wisdom bonus to resist this attack. A creature who successfully saves is immune to possession by that odeum for a full day; for this reason, an odeum may delay using this power until its victim has suffered several attacks, and thus has a Wisdom penalty. If this attack succeeds the odeum disappears into the target's body and assumes control. Once an odeum has possessed a host, it has complete control of the host's actions, though the host remains awake and aware. Attacking a host creature will damage the victim, not the odeum; if the host dies, the odeum leaves its body and resumes its normal nebulous form."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to **sleep**, **charm**, and **hold** spells. Can only be struck by magical weapons and spells."
-  - name: Turn Undead
+  - name: "Turn Undead"
     desc: "Can be Turned by a Cleric (as a wraith)."
 actions:
-  - name: touch
+  - name: "touch"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + Wisdom drain"
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+7 (`dice: 1d20+7`) 1 bite (4d6)"
 damage: "4d6 (`dice:4d6`)"
 attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Cannot be flanked
+  - name: "Cannot be flanked"
     desc: "Because a xorn's symmetrically-placed eyes allow it to look in any direction, it cannot be flanked."
-  - name: Glide through stone
+  - name: "Glide through stone"
     desc: "A xorn can glide through stone, dirt, or almost any other sort of earth (except metal) as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence."
-  - name: Smell precious metals
+  - name: "Smell precious metals"
     desc: "A xorn can smell food (precious metals or minerals) up to 20 feet away."
-  - name: Vulnerability to move earth
+  - name: "Vulnerability to move earth"
     desc: "A move earth spell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 13 INT check."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks Common along with its own elemental language."
 actions:
-  - name: bite (4d6)
+  - name: "bite (4d6)"
     desc: "D20 to hit, 4d6 (`dice:4d6`)"
 source: BFRPG Field Guide
 ```

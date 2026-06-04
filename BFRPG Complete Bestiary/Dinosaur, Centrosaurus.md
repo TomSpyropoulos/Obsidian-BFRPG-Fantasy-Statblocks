@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 gore or 1 trample"
 damage: "2d8 (`dice:2d8`) or 3d4 (`dice:3d4`) (special, see below)"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Trample
+  - name: "Trample"
     desc: "A centrosaur will usually attempt to trample smaller opponents. One adjacent man-sized or up to three smaller opponents may be trampled simultaneously; the creature rolls a single attack roll which is compared to the Armor Class of each potential victim, and then rolls a separate damage roll for each one successfully hit."
-  - name: Gore and Trample
+  - name: "Gore and Trample"
     desc: "The gore attack may only be used against a single man-sized or larger creature, but may be used in the same round as the trample if the creature being gored is larger than man-sized. Also note that a charging bonus may be applied to the gore attack."
 actions:
-  - name: gore or 1 trample
+  - name: "gore or 1 trample"
     desc: "D20 to hit, 2d8 (`dice:2d8`) or 3d4 (`dice:3d4`) (special, see below)"
 source: BFRPG Field Guide
 ```

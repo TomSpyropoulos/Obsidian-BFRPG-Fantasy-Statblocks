@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 4 tentacles (1d6 + poison)"
 damage: "1d6 (`dice:1d6`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Any creature hit must succeed on a DC 12 CON check or lose one point of Constitution. Any character reduced to zero Constitution dies. Constitution points lost to this poison will be regained at a rate of one per day."
 actions:
-  - name: tentacles (1d6 + poison)
+  - name: "tentacles (1d6 + poison)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + poison"
-  - name: tentacles (1d6 + poison)
+  - name: "tentacles (1d6 + poison)"
     desc: "D20 to hit, "
-  - name: tentacles (1d6 + poison)
+  - name: "tentacles (1d6 + poison)"
     desc: "D20 to hit, "
-  - name: tentacles (1d6 + poison)
+  - name: "tentacles (1d6 + poison)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

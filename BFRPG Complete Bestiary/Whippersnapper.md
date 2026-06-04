@@ -21,7 +21,7 @@ attack: "+2 (`dice: 1d20+2`) 1 bite or 1 tail slap"
 damage: "1d6 (`dice:1d6`) bite, 1d8 (`dice:1d8`) tail slap"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 actions:
-  - name: bite or 1 tail slap
+  - name: "bite or 1 tail slap"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite, 1d8 (`dice:1d8`) tail slap"
 source: BFRPG Field Guide
 ```

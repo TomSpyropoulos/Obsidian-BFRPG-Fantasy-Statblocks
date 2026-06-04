@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Enchanting Song
+  - name: "Enchanting Song"
     desc: "A mermaid's song will attract any man within 100 yards, but generally has no effect on women. Men within the area of effect must succeed on a DC 12 INT check to resist, or else they will move toward the mermaid with amorous intent as directly as possible. If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit. Affected men will submit to anything the mermaid desires. When she tires of him, he might be freed or slain, depending on the mermaid's temperament."
-  - name: Breath Holding
+  - name: "Breath Holding"
     desc: "They can hold their breath for up to an hour of light activity, or two turns (20 minutes) of strenuous action. However, being out of water more than two turns (20 minutes) causes the mermaid 1d4 points of damage per turn."
-  - name: Dolphin Communication
+  - name: "Dolphin Communication"
     desc: "At least 35% of mermaids will know the language of dolphins or whales, and 10% can communicate with any such creature."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

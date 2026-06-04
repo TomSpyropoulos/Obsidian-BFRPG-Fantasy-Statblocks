@@ -21,14 +21,14 @@ attack: "+10 (`dice: 1d20+10`) 2 claws, 1 bite"
 damage: "2d6 (`dice:2d6`) claw, 3d4 (`dice:3d4`) bite"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Silver or magical weapons required
+  - name: "Silver or magical weapons required"
     desc: "Can only be harmed by silver or magical weapons (including spells)."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Regenerate 1 HP per round except from damage inflicted by fire or acid."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`) claw, 3d4 (`dice:3d4`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

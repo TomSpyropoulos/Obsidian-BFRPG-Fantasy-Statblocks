@@ -21,14 +21,14 @@ attack: "+16 (`dice: 1d20+16`) 1 bite, 1 tail or special"
 damage: "5d8 (`dice:5d8`) + poison bite, 5d12 (`dice:5d12`) tail, special"
 attributes: ["+11", "+9", "+9", "+9", "+10", "+9"]
 traits:
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "A successful bite delivers a potent toxin; the victim must succeed on a DC 19 CON check or die."
-  - name: Thrashing
+  - name: "Thrashing"
     desc: "While biting it may thrash its colossal body around, causing massive destruction to everything around it."
-  - name: Devour
+  - name: "Devour"
     desc: "Once every 5 rounds it may choose to devour those in its surroundings. This affects all within 100 feet of the mouth of the serpent, dealing 5d6 points of damage and healing the serpent by half of the total damage inflicted. Additionally this will annihilate any buildings or terrain within this 100-foot radius."
 actions:
-  - name: bite, 1 tail or special
+  - name: "bite, 1 tail or special"
     desc: "D20 to hit, 5d8 (`dice:5d8`) + poison bite, 5d12 (`dice:5d12`) tail, special"
 source: BFRPG Field Guide
 ```

@@ -21,26 +21,26 @@ attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+1", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can appear as an old man and will mostly be encountered in that form."
-  - name: Telepathic Pet
+  - name: "Telepathic Pet"
     desc: "Will always have a nearby pet, either a basilisk, cockatrice, or a gorgon which it can direct telepathically."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak any language."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "120 feet range."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to poison and earth magics (such as being turned to stone). Only takes half-damage against fire, lightning, and cold attacks. Magical weapons are required to hit."
-  - name: Wall of Stone
+  - name: "Wall of Stone"
     desc: "Can cast wall of stone once a day."
-  - name: Localized Earthquake
+  - name: "Localized Earthquake"
     desc: "Can cause a localized earthquake once a turn. Limited to a diameter of 240 feet and the tremors are centered on the agares. The intensity of the tremors can be high enough to uproot a large tree or cave the roof of a cave, but as the creature loves stonework, it will be loathe to use it to damage stone buildings and fortifications, choosing instead to use it for show or to trigger traps such as an unstable pillar of stones or a dangerous object loosely held by a statue."
-  - name: Rock Pebble Breath
+  - name: "Rock Pebble Breath"
     desc: "Can breathe a cone of rock pebbles 30 feet long and 20 feet wide, causing 5d4 points of blunt damage every 1d6 rounds."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

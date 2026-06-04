@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 choke"
 damage: "1d3 (`dice:1d3`) + special"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Choke
+  - name: "Choke"
     desc: "Deals 1d3 points of damage as it grabs its target, and continues to deal 1d3 points of damage each round by choking and tearing at its prey until its victim is dead or it is forced to release. Because it seizes its victim by the neck, a creature in the choker's grasp cannot speak or cast spells."
-  - name: Supernaturally Quick
+  - name: "Supernaturally Quick"
     desc: "Always acts first in a combat round."
-  - name: Spider Climb
+  - name: "Spider Climb"
     desc: "Hands and feet have spiny pads that help it grip almost any surface."
 actions:
-  - name: choke
+  - name: "choke"
     desc: "D20 to hit, 1d3 (`dice:1d3`) + special"
 source: BFRPG Field Guide
 ```

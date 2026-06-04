@@ -21,12 +21,12 @@ attack: "+11 (`dice: 1d20+11`) 1 + special"
 damage: "3d8 (`dice:3d8`) + special"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Slow Effect
+  - name: "Slow Effect"
     desc: "A stone golem can use a slow effect, as the spell, once every other round; a DC 14 INT check is allowed to resist. The effect has a range of 10 feet and a duration of 2d6 rounds."
-  - name: Stone to Flesh Vulnerability
+  - name: "Stone to Flesh Vulnerability"
     desc: "A stone to flesh spell may be used to weaken the monster. The spell does not actually change the golem's structure, but for one full round after being affected, the golem is vulnerable to normal weapons. The stone golem is allowed a DC 14 INT check to resist this effect."
 actions:
-  - name: + special
+  - name: "+ special"
     desc: "D20 to hit, 3d8 (`dice:3d8`) + special"
 source: BFRPG Core
 ```

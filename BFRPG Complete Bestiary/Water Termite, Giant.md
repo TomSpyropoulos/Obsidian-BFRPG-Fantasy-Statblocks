@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 spray"
 damage: "Stun"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Stunning Spray
+  - name: "Stunning Spray"
     desc: "Range 5'. On hit, stuns target for a full turn. Succeed on a DC 12 CON check negates. Stunned character can neither move nor take action for remainder of current round and all of next round."
-  - name: Ship Damage
+  - name: "Ship Damage"
     desc: "Does 2d4 points of damage to ship's hull per round (no roll required) for 1d4 + levels rounds, then full. Eats noisily."
-  - name: Habitat Variants
+  - name: "Habitat Variants"
     desc: "Freshwater variety: 1-2 levels. Saltwater variety: 3-4 levels. Swamp variety: 2-3 levels."
 actions:
-  - name: spray
+  - name: "spray"
     desc: "D20 to hit, Stun"
 source: BFRPG Core
 ```

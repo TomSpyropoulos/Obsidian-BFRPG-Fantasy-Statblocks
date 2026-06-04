@@ -21,22 +21,22 @@ attack: "+4 (`dice: 1d20+4`) 2 claws, or weapon"
 damage: "1d4 (`dice:1d4`) claw, or by weapon"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Infernal Pitchfork
+  - name: "Infernal Pitchfork"
     desc: "65% chance, 2d6+1 damage"
-  - name: Cat o' Nine Tails
+  - name: "Cat o' Nine Tails"
     desc: "35% chance, 2d4+1 damage"
-  - name: At-Will Powers
+  - name: "At-Will Powers"
     desc: "Once per turn: continual darkness, detect magic, mind reading, or hallucinatory terrain."
-  - name: Daily Powers
+  - name: "Daily Powers"
     desc: "Once per day can create a wall of fire with double the normal effect or summon an additional demon of the same type (33% chance of success)."
-  - name: Fear
+  - name: "Fear"
     desc: "Cause a fear effect (Succeed on a DC 12 WIS check) upon striking an opponent for the first time."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to damage from lightning and poison, and take only half damage from acid, cold, or fire-based attacks. Can only be struck by magical weapons."
 actions:
-  - name: claws, or weapon
+  - name: "claws, or weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, or by weapon"
-  - name: claws, or weapon
+  - name: "claws, or weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 2 claws + suffocation"
 damage: "1d4 (`dice:1d4`) claw + suffocation"
 attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Engulf
+  - name: "Engulf"
     desc: "Depending on its location relative to prey, it may fly, drop, or wrap itself around the victim, who must make a DC 13 DEX check Weapon or be engulfed. Once engulfed, the captured individuals' limbs cannot move."
-  - name: Claws
+  - name: "Claws"
     desc: "Present but hidden in the cunning cloak are two claws (1d4 each) which can be used to stab its prey, defend itself."
-  - name: Damage Split
+  - name: "Damage Split"
     desc: "Attacks on this creature will result in damage being split between the cunning cloak and the victim. Fire or cold attacks cause full damage to both."
-  - name: Suffocation
+  - name: "Suffocation"
     desc: "Enveloped persons will suffocate to death in 1d4+1 rounds unless freed."
 actions:
-  - name: claws + suffocation
+  - name: "claws + suffocation"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw + suffocation"
-  - name: claws + suffocation
+  - name: "claws + suffocation"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+11 (`dice: 1d20+11`) 1 fist"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Amulet Link
+  - name: "Amulet Link"
     desc: "Magically linked to a particular magical amulet and will protect its bearer at any cost. Will always follow the amulet. If separated by more than 100 feet, enters a dormant state, standing still and waiting impassively for the return of the amulet."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60 feet range."
-  - name: Understand Commands
+  - name: "Understand Commands"
     desc: "Cannot speak, but will understand commands given by its master."
 actions:
-  - name: fist
+  - name: "fist"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

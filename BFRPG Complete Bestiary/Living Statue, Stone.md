@@ -21,11 +21,11 @@ attack: "+5 (`dice: 1d20+5`) 2 lava sprays (2d6/2d6)"
 damage: "2d6 (`dice:2d6`)/2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 actions:
-  - name: lava sprays (2d6
+  - name: "lava sprays (2d6"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: lava sprays (2d6
+  - name: "lava sprays (2d6"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: 2d6)
+  - name: "2d6)"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

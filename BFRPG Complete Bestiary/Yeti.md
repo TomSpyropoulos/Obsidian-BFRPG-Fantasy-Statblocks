@@ -21,20 +21,20 @@ attack: "+4 (`dice: 1d20+4`) 2 claws + hug (see below)"
 damage: "1d6 (`dice:1d6`) claw, 2d8 (`dice:2d8`) hug"
 attributes: ["+3", "+2", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Hug
+  - name: "Hug"
     desc: "If a yeti hits with both of its claw attacks, it is able to subject the victim to a hug attack (similar to bears) which does an additional automatic 2d8 points of damage. Only man-sized or smaller opponents can be hugged in this way."
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Yeti are very well camouflaged in snowy areas, surprising on a roll of 1-5 on 1d6."
-  - name: Frightful Appearance
+  - name: "Frightful Appearance"
     desc: "Any character surprised by one must succeed on a DC 12 STR check or be frozen in fright for 1d4 rounds, allowing the yeti to hit automatically."
-  - name: Cold Resistance
+  - name: "Cold Resistance"
     desc: "Their adaptation to cold is such that they suffer half-damage from any cold-based attack."
-  - name: Fire Vulnerability
+  - name: "Fire Vulnerability"
     desc: "Subject to an additional 50% damage from attacks based on fire (i.e. a fireball doing 15 points of damage normally would inflict 24 points of damage to a yeti)."
 actions:
-  - name: claws + hug (see below)
+  - name: "claws + hug (see below)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d8 (`dice:2d8`) hug"
-  - name: claws + hug (see below)
+  - name: "claws + hug (see below)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 1 quill burst / 1 bite (see below)"
 damage: "See below for quill burst, 2d4 (`dice:2d4`) bite"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Quill Burst
+  - name: "Quill Burst"
     desc: "1d8 quills launched at up to four adjacent opponents; each quill does 1d4 points of damage on a successful hit. Barbed quills cause an additional 1d4 points of damage when removed."
-  - name: Melee Defense
+  - name: "Melee Defense"
     desc: "Any attacker attempting to approach to melee range will automatically suffer 1d4 quill hits, except if the attacker is using a long weapon such as a spear or polearm."
-  - name: Bite
+  - name: "Bite"
     desc: "2d4 points of damage, but will generally only do so after suffering more than half its hit points in damage, or in any case where one has failed a DC 12 WIS check but is cornered and cannot retreat."
 actions:
-  - name: quill burst
+  - name: "quill burst"
     desc: "D20 to hit, See below for quill burst, 2d4 (`dice:2d4`) bite"
-  - name: bite (see below)
+  - name: "bite (see below)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,13 +21,13 @@ attack: "+6 (`dice: 1d20+6`) 4 fireballs"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 actions:
-  - name: fireballs
+  - name: "fireballs"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: fireballs
+  - name: "fireballs"
     desc: "D20 to hit, "
-  - name: fireballs
+  - name: "fireballs"
     desc: "D20 to hit, "
-  - name: fireballs
+  - name: "fireballs"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

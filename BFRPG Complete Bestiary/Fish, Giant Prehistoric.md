@@ -21,10 +21,10 @@ attack: "+9 (`dice: 1d20+9`) 1 bite"
 damage: "2d10 (`dice:2d10`)"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "On a natural 20 on the attack die, can swallow prey of medium size or smaller whole. Swallowed creatures suffer an additional 2d4 points of damage automatically each round from acid. Only the smallest weapons (such as daggers) can be used by a swallowed creature. A dinichthys has an armor class of just 11 on the inside."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d10 (`dice:2d10`)"
 source: BFRPG Field Guide
 ```

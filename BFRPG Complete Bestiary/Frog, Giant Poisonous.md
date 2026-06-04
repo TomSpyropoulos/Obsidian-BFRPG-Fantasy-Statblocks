@@ -21,10 +21,10 @@ attack: "+1 (`dice: 1d20+1`) 1 bite (1 point plus poison bite)"
 damage: "1 point plus poison bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Poison Skin
+  - name: "Poison Skin"
     desc: "Their skin secretes a toxin that is deadly on contact unless a DC 12 CON check is made; this saving throw is made at a bonus of +4, but if the roll succeeds, the victim must then succeed on a DC 12 STR check at normal odds or be paralyzed for 2d4 turns."
 actions:
-  - name: bite (1 point plus poison bite)
+  - name: "bite (1 point plus poison bite)"
     desc: "D20 to hit, 1 point plus poison bite"
 source: BFRPG Field Guide
 ```

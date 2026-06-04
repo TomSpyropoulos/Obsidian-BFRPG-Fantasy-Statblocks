@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d2 (`dice:1d2`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Weed eels surprise on 1-5 on 1d6 due to their camouflage, and will lie in wait for potential victims to move close enough to attack."
-  - name: Poison
+  - name: "Poison"
     desc: "The bite of a weed eel will kill any living creature that fails a DC 12 CON check."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d2 (`dice:1d2`) + poison"
 source: BFRPG Field Guide
 ```

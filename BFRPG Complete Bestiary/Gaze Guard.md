@@ -21,14 +21,14 @@ attack: "+5 (`dice: 1d20+5`) 1 ray"
 damage: "special"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Ever Vigilant
+  - name: "Ever Vigilant"
     desc: "Impossible to surprise."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision out to 60 feet."
-  - name: Gaze Guard Rays
+  - name: "Gaze Guard Rays"
     desc: "1-2 **Charm**: The target is affected by a charm monster spell, as cast by a 12th-level Wizard. 3-4 **Hold**: The target is affected by a hold monster spell, as cast by a 12th-level Wizard. 5-6 **Petrify**: The target is affected by a flesh to stone spell, as cast by a 12th-level Wizard. 7-8 **Feeblemind**: The target is affected by a feeblemind spell, as cast by a 12th-level Wizard. 9-10 **Confusion**: The target is affected by a confusion spell, as cast by a 12th-level Wizard."
 actions:
-  - name: ray
+  - name: "ray"
     desc: "D20 to hit, special"
 source: BFRPG Field Guide
 ```

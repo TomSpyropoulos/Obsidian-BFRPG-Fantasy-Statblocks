@@ -21,16 +21,16 @@ attack: "+7 (`dice: 1d20+7`) 2 bite or 1 breath or 1 constrict"
 damage: "2d4 (`dice:2d4`) bite, breath, 1d6 (`dice:1d6`) constrict*"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Paralytic Bite
+  - name: "Paralytic Bite"
     desc: "Their bite has a 30% chance of paralyzing the target unless a DC 13 STR check is made."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Water Spray (Line). Anything hit by the breath weapon will be knocked back five times the sea geminate serpent's age category in feet."
-  - name: Aquatic
+  - name: "Aquatic"
     desc: "Can breathe underwater. Being aquatic creatures, do not have lungs, and can therefore only spend 5 rounds above water before needing to submerge, for a minimum of 1 round."
 actions:
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, 2d4 (`dice:2d4`) bite, breath, 1d6 (`dice:1d6`) constrict*"
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

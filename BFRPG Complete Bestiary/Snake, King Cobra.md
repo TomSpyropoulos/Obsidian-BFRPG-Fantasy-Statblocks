@@ -21,9 +21,9 @@ attack: "+5 (`dice: 1d20+5`) 1 bite (1d6+3 + poison)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Those bitten by a king cobra must succeed on a DC 13 CON check or suffer 6d6 points of damage immediately, followed by another 6d6 points of damage in the following round. A successful save halves the damage."
-  - name: Immune to snake poison
+  - name: "Immune to snake poison"
     desc: "King cobras are immune to the poison of other snakes."
 source: BFRPG Field Guide
 ```

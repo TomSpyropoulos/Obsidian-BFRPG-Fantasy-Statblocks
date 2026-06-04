@@ -21,7 +21,7 @@ attack: "+14 (`dice: 1d20+14`) 1 trample"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+8", "+6", "+7", "+6", "+6", "+6"]
 actions:
-  - name: trample
+  - name: "trample"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

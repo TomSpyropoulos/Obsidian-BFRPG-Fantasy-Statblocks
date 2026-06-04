@@ -21,12 +21,12 @@ attack: "+10 (`dice: 1d20+10`) 1 bite"
 damage: "2d12 (`dice:2d12`)"
 attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 traits:
-  - name: Blood Detection
+  - name: "Blood Detection"
     desc: "Can smell blood in the water miles away."
-  - name: Electromagnetic Sense
+  - name: "Electromagnetic Sense"
     desc: "May have the same ability to detect the electromagnetic fields of living creatures as do great white sharks."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d12 (`dice:2d12`)"
 source: BFRPG Field Guide
 ```

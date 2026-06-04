@@ -21,7 +21,7 @@ attack: "+4 (`dice: 1d20+4`) 4-8 sickle branch (as hit dice)"
 damage: "1d6 (`dice:1d6`) branch"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 actions:
-  - name: 4-8 sickle branch (as hit dice)
+  - name: "4-8 sickle branch (as hit dice)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) branch"
 source: BFRPG Field Guide
 ```

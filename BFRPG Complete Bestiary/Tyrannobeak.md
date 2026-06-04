@@ -21,18 +21,18 @@ attack: "+12 (`dice: 1d20+12`) 2 claws / 1 beak"
 damage: "2d8 (`dice:2d8`) claw, 4d6 (`dice:4d6`) bite"
 attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
-  - name: Leap Attack
+  - name: "Leap Attack"
     desc: "When possible, a tyrannobeak typically first attacks by leaping (counts as a charge attack) with both claws and a bite."
-  - name: Melee Attacks
+  - name: "Melee Attacks"
     desc: "Once properly in melee can only make one claw attack per round in addition to a bite."
-  - name: Chase Attack
+  - name: "Chase Attack"
     desc: "If the tyrannobeak is actively chasing a fleeing opponent, then it can only manage its biting attack."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d8 (`dice:2d8`) claw, 4d6 (`dice:4d6`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: beak
+  - name: "beak"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

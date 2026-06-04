@@ -21,17 +21,17 @@ attack: "+1 (`dice: 1d20+1`) 1 whip (1d3) / 1 shortsword (1d6)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Whip Attack
+  - name: "Whip Attack"
     desc: "Whip attack does damage only to targets of Armor Class 13 or less, but always holds the target."
-  - name: Grapple and Butcher
+  - name: "Grapple and Butcher"
     desc: "In subsequent rounds after grappling, the flayer automatically does 1d6 points of damage with the curved blade. Victim may escape with a successful DC 12 CON check, applying the better of their Strength or Dexterity bonuses."
-  - name: Damage Resistances (Unadorned)
+  - name: "Damage Resistances (Unadorned)"
     desc: "When unadorned, takes only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Skin-Wearing Benefits
+  - name: "Skin-Wearing Benefits"
     desc: "Once donning at least one hide, gains three advantages: +2 points of damage, half-damage from blunt weapons, and a 50' movement rate."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm or hold magic. No form of mind reading is of any use against them. Never fail morale (WIS), fighting until destroyed."
-  - name: Turning
+  - name: "Turning"
     desc: "Can be Turned by a Cleric as skeletons, unless wearing skin, in which case they are Turned as zombies."
 source: BFRPG Field Guide
 ```

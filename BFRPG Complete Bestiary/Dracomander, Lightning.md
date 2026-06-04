@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 2 bites or breath, 1 tail + lightning"
 damage: "2d8 (`dice:2d8`) bite, 9d8 (`dice:9d8`) breath, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round lightning"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Lightning Aura
+  - name: "Lightning Aura"
     desc: "All non-lightning-resistant creatures within 20 feet of the monster suffer 1d8 points of damage per round from being struck by little bolts of lightning."
-  - name: Lightning Immunity
+  - name: "Lightning Immunity"
     desc: "Immune to damage from any type of electrical or lightning attack."
-  - name: Breath Weapon Limitation
+  - name: "Breath Weapon Limitation"
     desc: "May project its breath weapon from either mouth, or even from both, but cannot use the breath weapon more times than it has levels in any day. Anyone in the area of effect of both breath weapons in the same round suffers damage only from one of them (generally the one with the higher damage total)."
-  - name: Two Heads, One Mind
+  - name: "Two Heads, One Mind"
     desc: "This monster has only one mind despite having two heads."
 actions:
-  - name: bites or breath, 1 tail + lightning
+  - name: "bites or breath, 1 tail + lightning"
     desc: "D20 to hit, 2d8 (`dice:2d8`) bite, 9d8 (`dice:9d8`) breath, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round lightning"
-  - name: bites or breath, 1 tail + lightning
+  - name: "bites or breath, 1 tail + lightning"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

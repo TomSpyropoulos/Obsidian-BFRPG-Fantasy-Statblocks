@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite or 1d8 spikes (180' range)"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d4 (`dice:2d4`) or 1d6 (`dice:1d6`) per spike"
 attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Tail Spikes
+  - name: "Tail Spikes"
     desc: "The manticore may fire spikes from its tail as projectiles (180' range, 1d6 damage per spike). A maximum of 24 spikes are available, and the manticore regrows 1d6 per day."
-  - name: Tactics
+  - name: "Tactics"
     desc: "Manticores use their ranged attacks to 'soften up' potential prey before closing to melee."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite or 1d8 spikes (180' range)
+  - name: "bite or 1d8 spikes (180' range)"
     desc: "D20 to hit, 2d4 (`dice:2d4`) or 1d6 (`dice:1d6`) per spike"
 source: BFRPG Core
 ```

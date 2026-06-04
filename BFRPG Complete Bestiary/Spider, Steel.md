@@ -21,28 +21,28 @@ attack: "+5 (`dice: 1d20+5`) 2 forelegs"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Construct Immunities
+  - name: "Construct Immunities"
     desc: "As a construct, it is immune to fear, charm, and similar spells."
-  - name: Vulnerability to Rust
+  - name: "Vulnerability to Rust"
     desc: "It takes an additional 1d6 points of damage per hit from any attack that rusts metal."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "It only takes half-damage from non-magical weapons."
-  - name: Wall Climbing
+  - name: "Wall Climbing"
     desc: "It can climb walls, and even hang upside down."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "It is resistant to magic, and gains a +4 bonus to succeeds on a DC 13 WIS check or Spells."
-  - name: Ambush
+  - name: "Ambush"
     desc: "Can only be detected on a 1 on 1d6 if it is hidden (even with Darkvision)."
-  - name: Leap Attack
+  - name: "Leap Attack"
     desc: "It can leap 30 feet, and automatically gain surprise when making a leap attack if it has not already been detected."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Has Darkvision out to 120 feet."
-  - name: Jeweled Eyes
+  - name: "Jeweled Eyes"
     desc: "Its jeweled eyes are worth 100 gp each if removed."
 actions:
-  - name: forelegs
+  - name: "forelegs"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: forelegs
+  - name: "forelegs"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

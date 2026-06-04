@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 2 claws + choke"
 damage: "1d4 (`dice:1d4`) claw + 1d6 (`dice:1d6`) choke"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Drowning Attack
+  - name: "Drowning Attack"
     desc: "Any successful 2-claw attack will result in the kappa dragging its victim underwater and applying a choke hold, driving out air and injuring for 1d6 points of damage."
-  - name: Suiko Leadership
+  - name: "Suiko Leadership"
     desc: "A kappa will never fail a morale (WIS) roll when a Suiko is around for fear of retribution."
 actions:
-  - name: claws + choke
+  - name: "claws + choke"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw + 1d6 (`dice:1d6`) choke"
-  - name: claws + choke
+  - name: "claws + choke"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

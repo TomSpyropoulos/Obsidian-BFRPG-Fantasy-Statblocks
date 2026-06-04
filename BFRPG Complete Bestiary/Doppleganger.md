@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 fist or Weapon"
 damage: "1d12 (`dice:1d12`) or by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Shapechange
+  - name: "Shapechange"
     desc: "Can take on the appearance of nearly any other humanoid ranging from 3 feet up to 7 feet in height. Can duplicate the appearance of clothing and equipment worn by a creature, but such items are part of the creature and cannot be laid down or handed to someone."
-  - name: Mind Reading
+  - name: "Mind Reading"
     desc: "As the spell, **mind reading**, but with unlimited duration. Can be used to speak any language known to the creature whose mind is being read."
-  - name: Voice Mimicry
+  - name: "Voice Mimicry"
     desc: "Can mimic the sound of the voice of any living creature."
 actions:
-  - name: fist or Weapon
+  - name: "fist or Weapon"
     desc: "D20 to hit, 1d12 (`dice:1d12`) or by weapon"
 source: BFRPG Core
 ```

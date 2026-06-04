@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) 5 to 8 bites (2d6)"
 damage: "-"
 attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Sound-based Perception
+  - name: "Sound-based Perception"
     desc: "Depends on sound to locate prey (treat as Darkvision out to 60 feet). A silent opponent is as good as invisible to the monster."
-  - name: Multiple Heads
+  - name: "Multiple Heads"
     desc: "The individual heads of a hydramander may be attacked; 12 points of damage must be dealt to disable each head."
 source: BFRPG Field Guide
 ```

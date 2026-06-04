@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "2d4 (`dice:2d4`) or by weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Regenerating gnolls possess a unique regenerative ability, similar to their distant relatives, the trolls, that allows them to heal one hit point of damage each round after being injured. Unlike trolls however, gnolls will die when their hit points reach zero. Moreover, wounds caused by fire and acid cannot be regenerated and require normal healing. When confronted with attackers wielding fire or acid, regenerating gnolls exhibit a lower morale (WIS) (6) due to their heightened vulnerability."
-  - name: Limb Regeneration
+  - name: "Limb Regeneration"
     desc: "The regenerative powers of these gnolls are unable to reattach severed limbs like trolls can. However, a severed limb will regrow within 1d4 days."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30 feet range."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 2d4 (`dice:2d4`) or by weapon +1"
 source: BFRPG Field Guide
 ```

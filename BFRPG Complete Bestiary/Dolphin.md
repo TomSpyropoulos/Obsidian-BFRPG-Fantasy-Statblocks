@@ -21,7 +21,7 @@ attack: "+2 (`dice: 1d20+2`) 1 ram"
 damage: "2d4 (`dice:2d4`)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 actions:
-  - name: ram
+  - name: "ram"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
 source: BFRPG Field Guide
 ```

@@ -21,20 +21,20 @@ attack: "+0 (`dice: 1d20+0`) 1 bite or small weapon"
 damage: "1d2 (`dice:1d2`)+poison bite, 1d4 (`dice:1d4`) or by weapon"
 attributes: ["+0", "+0", "+1", "+2", "+0", "+0"]
 traits:
-  - name: Poisonous Bite
+  - name: "Poisonous Bite"
     desc: "Those bitten must succeed on a DC 12 CON check or suffer an additional 2d6 points of damage."
-  - name: Alien Intelligence
+  - name: "Alien Intelligence"
     desc: "Immune to charm magic as well as mind reading or any other form of mind-reading."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells like a Wizard, but with unfamiliar, even strange displays. For instance, one might produce a fireball effect made of green lightning, or magic missiles in the form of acid globules."
-  - name: Wand Use
+  - name: "Wand Use"
     desc: "Each has a 10% per level chance of owning one wand, and if one is indicated, another 5% per level chance of owning a second. Such a wand has a 75% chance of being of Nazgorean origin, and thus possibly unusable by a normal character. However, a nehnite can always use a wand of the more common type, even without knowing (or speaking!) the command word or words."
-  - name: Command Nazgoreans
+  - name: "Command Nazgoreans"
     desc: "Can command certain other Nazgoreans. One is almost never found without some frogmen around to serve it, and occasionally one might encounter a powerful nehnite protected by a gray render."
-  - name: Vulnerability to Sunlight and Dry Air
+  - name: "Vulnerability to Sunlight and Dry Air"
     desc: "Sunlight alone causes 1d4 points of damage per hour, as does dry air; exposure to both results in 1d8 points of damage per hour."
 actions:
-  - name: bite or small weapon
+  - name: "bite or small weapon"
     desc: "D20 to hit, 1d2 (`dice:1d2`)+poison bite, 1d4 (`dice:1d4`) or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 2 claws or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw, by weapon"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "90' range outdoors at night. 30' range indoors or underground. Can see nearly as well as a human in daylight on clear nights with ample star- or moonlight."
-  - name: Sunlight Penalty
+  - name: "Sunlight Penalty"
     desc: "-1 attack penalty in bright sunlight or within the radius of a light spell."
-  - name: Gliding
+  - name: "Gliding"
     desc: "Stretchable skin patagium between limbs allows effective gliding between trees."
-  - name: Climbing
+  - name: "Climbing"
     desc: "Climbs readily with clawed limbs."
 actions:
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, by weapon"
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

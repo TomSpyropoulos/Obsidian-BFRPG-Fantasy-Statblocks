@@ -21,28 +21,28 @@ attack: "+7 (`dice: 1d20+7`) 6 claws or 6 weapons + breath weapon"
 damage: "1d6 (`dice:1d6`) per claw or by weapon + 6d6 (`dice:6d6`) fire breath"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Fire Breath
+  - name: "Fire Breath"
     desc: "Can breathe a cone of fire up to 30 feet long and 15 feet wide once per day, dealing 6d6 points of damage to all creatures in the area."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to fire and poison, and resistant to cold and electricity."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Can only be damaged by magical weapons."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Can see in the dark."
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "Can cast detect invisible, polymorph self, and charm person, at will."
 actions:
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) per claw or by weapon + 6d6 (`dice:6d6`) fire breath"
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, "
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, "
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, "
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, "
-  - name: claws or 6 weapons + breath weapon
+  - name: "claws or 6 weapons + breath weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

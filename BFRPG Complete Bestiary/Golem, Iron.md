@@ -21,16 +21,16 @@ attack: "+12 (`dice: 1d20+12`) 1 + special"
 damage: "4d10 (`dice:4d10`) + special"
 attributes: ["+6", "+4", "+5", "+4", "+6", "+4"]
 traits:
-  - name: Poisonous Gas
+  - name: "Poisonous Gas"
     desc: "Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round. Those within the area of effect must succeed on a DC 15 DEX check or die. This ability can be used up to 3 times per day."
-  - name: Electricity Vulnerability
+  - name: "Electricity Vulnerability"
     desc: "A magical attack that deals electricity damage slows an iron golem (as the slow spell) for 3 rounds, with no saving throw."
-  - name: Fire Healing
+  - name: "Fire Healing"
     desc: "A magical attack that deals fire damage breaks any slow effect on the golem and heals 1 point of damage for each 3 full points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, the excess is ignored. For example, an iron golem hit by a fireball gains back 6 hit points if the damage total is 19 points."
-  - name: Rust Vulnerability
+  - name: "Rust Vulnerability"
     desc: "An iron golem is affected normally by rust attacks, such as that of a rust monster, suffering 2d6 points of damage for each hit (with no saving throw normally allowed)."
 actions:
-  - name: + special
+  - name: "+ special"
     desc: "D20 to hit, 4d10 (`dice:4d10`) + special"
 source: BFRPG Core
 ```

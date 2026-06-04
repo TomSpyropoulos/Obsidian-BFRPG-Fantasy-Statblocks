@@ -21,7 +21,7 @@ attack: "+7 (`dice: 1d20+7`) 1 bite or 1-8 tentacles or 1-4 claws"
 damage: "from 3d8 (`dice:3d8`) to 5d10 (`dice:5d10`) bite, or 2d6 (`dice:2d6`) to 4d6 (`dice:4d6`) tentacle, or 2d4 (`dice:2d4`) to 4d4 (`dice:4d4`) claw"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 actions:
-  - name: bite or 1-8 tentacles or 1-4 claws
+  - name: "bite or 1-8 tentacles or 1-4 claws"
     desc: "D20 to hit, from 3d8 (`dice:3d8`) to 5d10 (`dice:5d10`) bite, or 2d6 (`dice:2d6`) to 4d6 (`dice:4d6`) tentacle, or 2d4 (`dice:2d4`) to 4d4 (`dice:4d4`) claw"
 source: BFRPG Field Guide
 ```

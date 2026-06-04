@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 stab (1d6)"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Gravity Ray
+  - name: "Gravity Ray"
     desc: "Floats by emitting a glowing gravity ray from gem-like growths on the sides of its body."
-  - name: Impale
+  - name: "Impale"
     desc: "On a natural 20 the victim is impaled by the rock bat, receiving 1d6 points of damage each round until either the victim or rock bat is slain."
 actions:
-  - name: stab (1d6)
+  - name: "stab (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

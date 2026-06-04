@@ -21,18 +21,18 @@ attack: "+10 (`dice: 1d20+10`) 1d4 rays or spell-like ability"
 damage: "By ray or spell"
 attributes: ["+3", "+4", "+4", "+5", "+4", "+3"]
 traits:
-  - name: All-Around Vision
+  - name: "All-Around Vision"
     desc: "Only surprised at the GM's discretion."
-  - name: Detect Magic and Invisibility
+  - name: "Detect Magic and Invisibility"
     desc: "Can concentrate its gaze to detect magical auras and discern the presence of invisible beings."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "120 feet."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate to any creature within 120 feet."
-  - name: Eye Rays
+  - name: "Eye Rays"
     desc: "Fires 1d4 rays each round, each targeting a different adversary. Roll 1d10 for each ray:  1. **Death:** target must succeed on a DC 14 CON check or die. 2. **Draining:** target takes 3d6 points of damage. They may succeed on a DC 14 INT check for half damage. The great orb of eyes heals half that many hit points. 3. **Fear:** target is affected by **cause fear** (reversed remove fear) spell, as cast by a 12th-level Cleric. 4. **Charm:** target is affected by **charm monster** spell, as cast by a 12th-level Wizard. 5. **Hold:** target is affected by **hold monster** spell, as cast by a 12th-level Wizard. 6. **Blinding:** target is affected by **cause blindness** (reversed remove blindness) spell, as cast by a 12th-level Cleric. 7. **Petrification:** target is affected by **flesh to stone** spell, as cast by a 12th-level Wizard. 8. **Disintegration:** target is affected by **disintegration** spell, as cast by a 12th-level Wizard. 9. **Sleep:** target is affected by **sleep** spell, as cast by a 12th-level Wizard. 10. **Anti-Magic:** target is affected by **anti-magic shell** spell, the area of effect based around the target, as cast by a 12th-level Wizard."
 actions:
-  - name: 1d4 rays or spell-like ability
+  - name: "1d4 rays or spell-like ability"
     desc: "D20 to hit, By ray or spell"
 source: BFRPG Field Guide
 ```

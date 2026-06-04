@@ -21,11 +21,11 @@ attack: "+3 (`dice: 1d20+3`) 1 special"
 damage: "-"
 attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Charm Person
+  - name: "Charm Person"
     desc: "May charm a person and force them to leave the area. May use this ability as often as it likes; it functions like a charm person spell."
-  - name: Aquatic
+  - name: "Aquatic"
     desc: "Does not venture more than 50 yards from its home pond or lake. Can travel between bodies of water through rivers, streams, and underground watertables."
-  - name: Evasion
+  - name: "Evasion"
     desc: "Does not expose itself to harm or participate in combat. If threatened, it simply disappears underwater."
 source: BFRPG Field Guide
 ```

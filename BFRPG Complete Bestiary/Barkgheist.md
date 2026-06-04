@@ -21,20 +21,20 @@ attack: "+5 (`dice: 1d20+5`) 1 bite"
 damage: "1d8 (`dice:1d8`) bite + paralysis"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Can turn invisible at-will but when doing so will produce a rattling chain noise as it moves and leaves no traces."
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Bite paralyses as the touch of a ghoul."
-  - name: Undead
+  - name: "Undead"
     desc: "Silver or magical weapons required to hit. Can be Turned by a Cleric as a wraith. Immune to sleep, charm, and hold spells."
-  - name: Door Opening
+  - name: "Door Opening"
     desc: "Can open a door as if using a knock spell."
-  - name: Dwelling Restriction
+  - name: "Dwelling Restriction"
     desc: "Unable to enter a dwelling if its owner is within."
-  - name: Running Water
+  - name: "Running Water"
     desc: "Cannot cross a running river, but can walk over a bridge."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`) bite + paralysis"
 source: BFRPG Field Guide
 ```

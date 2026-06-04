@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (2d10)"
 damage: "2d10 (`dice:2d10`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Aerial Agility
+  - name: "Aerial Agility"
     desc: "Fast, agile fliers capable of highly accurate aerial ambushes, able to fly in any direction, and changing direction suddenly, able to propel themselves upward, downward, forward, backward, to left and to right with equal agility."
-  - name: Exceptional Eyesight
+  - name: "Exceptional Eyesight"
     desc: "Hunt on the wing using their exceptionally acute eyesight."
-  - name: Grapple Prey
+  - name: "Grapple Prey"
     desc: "Large prey is subdued by being bitten on the head and then carried by the dragonfly wrapping its legs around the prey, to a nearby perch."
 actions:
-  - name: bite (2d10)
+  - name: "bite (2d10)"
     desc: "D20 to hit, 2d10 (`dice:2d10`)"
 source: BFRPG Field Guide
 ```

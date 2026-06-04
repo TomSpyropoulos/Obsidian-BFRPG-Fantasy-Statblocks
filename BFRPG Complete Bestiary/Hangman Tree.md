@@ -21,18 +21,18 @@ attack: "+5 (`dice: 1d20+5`) 4 limbs + strangle"
 damage: "1d6 (`dice:1d6`) per limb + 1d6 (`dice:1d6`)/round strangle"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Strangling Limbs
+  - name: "Strangling Limbs"
     desc: "Four animated limbs wrap around necks of creatures passing beneath, strangling for 1d6 points of damage per round. Generally no more than one limb can attack any single creature at a time."
-  - name: Animated Roots
+  - name: "Animated Roots"
     desc: "Roots do not attack, but pull dead bodies below the surface for digestion."
 actions:
-  - name: limbs + strangle
+  - name: "limbs + strangle"
     desc: "D20 to hit, 1d6 (`dice:1d6`) per limb + 1d6 (`dice:1d6`)"
-  - name: limbs + strangle
+  - name: "limbs + strangle"
     desc: "D20 to hit, round strangle"
-  - name: limbs + strangle
+  - name: "limbs + strangle"
     desc: "D20 to hit, "
-  - name: limbs + strangle
+  - name: "limbs + strangle"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

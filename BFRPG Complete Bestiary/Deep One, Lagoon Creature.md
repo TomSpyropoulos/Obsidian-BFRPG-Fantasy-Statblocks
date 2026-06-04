@@ -21,14 +21,14 @@ attack: "+5 (`dice: 1d20+5`) 2 claws (2d4) / 1 bite (1d6)"
 damage: "2d4 (`dice:2d4`) claw, 1d6 (`dice:1d6`) bite"
 attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60' and superior eyesight while underwater."
 actions:
-  - name: claws (2d4)
+  - name: "claws (2d4)"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 1d6 (`dice:1d6`) bite"
-  - name: claws (2d4)
+  - name: "claws (2d4)"
     desc: "D20 to hit, "
-  - name: bite (1d6)
+  - name: "bite (1d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

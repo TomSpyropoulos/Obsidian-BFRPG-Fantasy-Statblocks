@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 punches"
 damage: "4d4 (`dice:4d4`) punch"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Territorial Display
+  - name: "Territorial Display"
     desc: "If they notice someone or something encroaching on their territory, they will approach with their chest puffed out and head held high."
-  - name: Otter Companion
+  - name: "Otter Companion"
     desc: "Sometimes (1-2 on 1d6) found in the wild with giant otters and will only ever be found in a giant otter's lair. Regards all otters, giant or otherwise, as allies."
-  - name: Inspire Otters
+  - name: "Inspire Otters"
     desc: "All otters within sight of the wayai otter gain a +1 bonus to morale (WIS) while it lives."
 actions:
-  - name: punches
+  - name: "punches"
     desc: "D20 to hit, 4d4 (`dice:4d4`) punch"
-  - name: punches
+  - name: "punches"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

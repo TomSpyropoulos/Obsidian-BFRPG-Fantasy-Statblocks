@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 1 bite + poison"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Bola Web Attack
+  - name: "Bola Web Attack"
     desc: "Forms a long thread of silk with webbing at the end and throws it at target. If attack succeeds, victim is entangled and spider begins dragging them in."
-  - name: Entanglement
+  - name: "Entanglement"
     desc: "Entangled individuals may break free on a roll of 1 on 1d6 (modified by Strength bonus, as with a check to open doors). Small or medium creatures are drawn to the spider in 1 round and bitten with +4 bonus on attack roll."
 actions:
-  - name: bite + poison
+  - name: "bite + poison"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

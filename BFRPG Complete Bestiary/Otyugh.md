@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 2 tentacles / 1 bite + special"
 damage: "1d6 (`dice:1d6`) tentacle, 1d8 (`dice:1d8`) bite + special"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Tentacle Grapple
+  - name: "Tentacle Grapple"
     desc: "Deals automatic tentacle damage with a successful attack on every round that its prey is held."
-  - name: Diseased Bite
+  - name: "Diseased Bite"
     desc: "The recipient of the attack must succeed on a DC 13 CON check or contract filth fever (incubation period 1d3 days; 1d3 reduction of both Dexterity and Constitution)."
-  - name: Communication
+  - name: "Communication"
     desc: "Can communicate verbally using the predominate language of the area, usually Common."
 actions:
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tentacle, 1d8 (`dice:1d8`) bite + special"
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: bite + special
+  - name: "bite + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

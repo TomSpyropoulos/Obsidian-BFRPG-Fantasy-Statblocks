@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+3", "+0", "+2", "+0", "+0", "-1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to a range of 80'."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak both Dwarven and Common, though dwarrows rarely speak to non-dwarrows."
-  - name: Hate dwarves
+  - name: "Hate dwarves"
     desc: "Will attack dwarves first unless ordered otherwise."
-  - name: Weapon restrictions
+  - name: "Weapon restrictions"
     desc: "A dwarrow suffers the same weapon restrictions as a dwarf."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

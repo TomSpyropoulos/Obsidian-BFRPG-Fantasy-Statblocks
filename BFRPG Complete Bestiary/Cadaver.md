@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 1 punch or by spell"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a mummy), and is immune to sleep, charm or hold spells."
-  - name: Cleric Spells
+  - name: "Cleric Spells"
     desc: "Has all the powers and spells of an 8th-level Cleric, including the power to Turn undead. The spells the cadaver uses will typically include: 1st level: cure light wounds and/or darkness; 2nd level: silence 15' radius; 3rd level: bestow curse, speak with dead; 4th level: animate dead and/or dispel magic. Healing spells cast by a cadaver can even heal undead creatures."
 actions:
-  - name: punch or by spell
+  - name: "punch or by spell"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

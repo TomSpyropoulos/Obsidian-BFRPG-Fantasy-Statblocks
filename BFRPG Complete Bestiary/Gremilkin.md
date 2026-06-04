@@ -21,9 +21,9 @@ attack: "+2 (`dice: 1d20+2`) 1 bite (1d4) / 2 claw (1d4)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Leap
+  - name: "Leap"
     desc: "Can leap straight up about 6 feet to be able to get to a higher point, where it can watch the area and then pounce on its prey or leap on unsuspecting temple attendants."
-  - name: Timid
+  - name: "Timid"
     desc: "Will not willingly enter combat with anything larger than a rabbit unless its young are threatened. If attacked, will try to scratch or claw the attacker's legs, bite, and then run away."
 source: BFRPG Field Guide
 ```

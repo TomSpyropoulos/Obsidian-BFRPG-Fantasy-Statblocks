@@ -21,20 +21,20 @@ attack: "+3 (`dice: 1d20+3`) None (special, see below)"
 damage: "None"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Magical abilities
+  - name: "Magical abilities"
     desc: "They have the magical abilities of a 7th-level Cleric."
-  - name: Dimension door
+  - name: "Dimension door"
     desc: "Once per day."
-  - name: Blinding beauty
+  - name: "Blinding beauty"
     desc: "Merely looking at a nymph can cause blindness, unless a DC 12 WIS check is made; this blindness is permanent, but can be cured with the remove curse spell."
-  - name: Stunning beauty
+  - name: "Stunning beauty"
     desc: "If the nymph is caught naked or chooses to undress, onlookers must succeed on a DC 12 CON check or die."
-  - name: Immunity to beauty
+  - name: "Immunity to beauty"
     desc: "Anyone making either of these saves never needs to do so again when encountering a nymph."
-  - name: Amphibious
+  - name: "Amphibious"
     desc: "A nymph can breathe water as easily as air."
 actions:
-  - name: None (special, see below)
+  - name: "None (special, see below)"
     desc: "D20 to hit, None"
 source: BFRPG Field Guide
 ```

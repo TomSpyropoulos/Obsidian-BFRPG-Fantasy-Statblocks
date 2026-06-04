@@ -21,22 +21,22 @@ attack: "+6 (`dice: 1d20+6`) 1 touch or 1 magic throw"
 damage: "1d6 (`dice:1d6`) touch, 2d6 (`dice:2d6`) magic throw"
 attributes: ["+1", "+5", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Invisible in Darkness
+  - name: "Invisible in Darkness"
     desc: "When in darkness a shadow fiend is effectively invisible as per the spell."
-  - name: Silent Movement
+  - name: "Silent Movement"
     desc: "Moves in complete silence; only the stirring of the air is a hint as to a shadow fiend's passage."
-  - name: Touch Regeneration
+  - name: "Touch Regeneration"
     desc: "A shadow fiend that hits a living target with its touch attack deals the listed amount of damage and at the same time regenerates the shadow fiend."
-  - name: Telekinesis
+  - name: "Telekinesis"
     desc: "Has the power to move objects up to 10 pounds up to 50 feet away from itself via magic. It can move said objects about 5 feet a round, also using this ability to hurl small objects at enemies within 50 feet for 2d6 damage."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast **darkness** and **phantasmal force** each once per day."
-  - name: Light Vulnerability
+  - name: "Light Vulnerability"
     desc: "A shadow fiend caught in areas of bright light (such as the area of a** light **spell or a torch) takes 1d6 points of damage per round as the light burns away its shadowy form."
-  - name: Resistances
+  - name: "Resistances"
     desc: "Immune to poison, acid, and cold. Only takes half damage from lightning or fire-based attacks. Magical weapons are required to hit a shadow fiend in combat."
 actions:
-  - name: touch or 1 magic throw
+  - name: "touch or 1 magic throw"
     desc: "D20 to hit, 1d6 (`dice:1d6`) touch, 2d6 (`dice:2d6`) magic throw"
 source: BFRPG Field Guide
 ```

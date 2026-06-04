@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 2 bite or 1 breath or 1 constrict"
 damage: "2d12 (`dice:2d12`)+energy drain (1 level), breath, 2d4 (`dice:2d4`) constrict*"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Shadow-bound
+  - name: "Shadow-bound"
     desc: "Cannot move outside of shadows. Take 2d8 points of damage every round in direct light. Dying in light reduces body to ash."
-  - name: Move Silently
+  - name: "Move Silently"
     desc: "Move Silently as a Thief of double its age category."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Mimics the effects of the **darkness** spell, with a duration of one turn per age category of the serpent."
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "Bite drains 1 level."
 actions:
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, 2d12 (`dice:2d12`)+energy drain (1 level), breath, 2d4 (`dice:2d4`) constrict*"
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

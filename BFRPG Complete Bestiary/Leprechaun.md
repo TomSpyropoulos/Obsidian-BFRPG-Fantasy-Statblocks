@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 miniature weapon (1d2)"
 damage: "1d2 (`dice:1d2`)"
 attributes: ["+0", "+0", "+0", "+2", "-1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision out to 60 feet."
-  - name: Hard to Surprise
+  - name: "Hard to Surprise"
     desc: "Will only be surprised by a roll of 1 on 1d6."
-  - name: Thief-like Abilities
+  - name: "Thief-like Abilities"
     desc: "Pick Pockets, Move Silently, and Hide, all as a 15th-level Thief."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "Get a +4 bonus to any succeeds on a DC 12 INT check."
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "Can be used at-will, including teleport, confusion, and bane."
 actions:
-  - name: miniature weapon (1d2)
+  - name: "miniature weapon (1d2)"
     desc: "D20 to hit, 1d2 (`dice:1d2`)"
 source: BFRPG Field Guide
 ```

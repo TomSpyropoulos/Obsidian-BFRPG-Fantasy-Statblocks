@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1 \u00d7 punch, stomp, or special (1d12)"
 damage: "1d12 (`dice:1d12`)"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Metal Damage
+  - name: "Metal Damage"
     desc: "Metal armor affords no protection against a metal elemental, and indeed it deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal."
-  - name: Lightning Vulnerability
+  - name: "Lightning Vulnerability"
     desc: "Lightning attacks deal double damage to it."
-  - name: Water Weakness
+  - name: "Water Weakness"
     desc: "A metal elemental cannot cross a body of water greater than its own height."
 actions:
-  - name: × punch, stomp, or special (1d12)
+  - name: "× punch, stomp, or special (1d12)"
     desc: "D20 to hit, 1d12 (`dice:1d12`)"
 source: BFRPG Field Guide
 ```

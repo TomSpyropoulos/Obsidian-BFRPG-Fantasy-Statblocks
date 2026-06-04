@@ -21,20 +21,20 @@ attack: "+5 (`dice: 1d20+5`) 2 claws / 1 bite / lightning"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 5d6 (`dice:5d6`) lightning"
 attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Lightning Dive
+  - name: "Lightning Dive"
     desc: "Typically attacks from a great height, diving earthward at tremendous speed (use charging rules). In addition to the normal attack routine, while diving a bolt of lightning trails the thunderbird, striking its target for 5d6 points of electrical damage. Those within 10 feet of the target take half that damage. The target and those nearby can succeed on a DC 13 DEX check for half-damage (i.e. half or one-quarter damage respectively)."
-  - name: Electric Shock
+  - name: "Electric Shock"
     desc: "Anyone striking a thunderbird with a metallic weapon will take 1d6 points of electrical damage in return (no save)."
-  - name: Electrical Immunity
+  - name: "Electrical Immunity"
     desc: "A thunderbird is completely immune to any electrical-based damage."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite, 5d6 (`dice:5d6`) lightning"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
-  - name: lightning
+  - name: "lightning"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

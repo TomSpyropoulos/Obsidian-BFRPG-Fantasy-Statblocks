@@ -21,22 +21,22 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) all + paralysis + stench"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Living creatures hit by a ghast's bite or claw attack must succeed on a DC 12 STR check or be paralyzed for 2d8 turns. Elves are immune to this paralysis."
-  - name: Stench
+  - name: "Stench"
     desc: "The stink of death and corruption surrounding these creatures is overwhelming. Living creatures within 10 feet must succeed on a DC 12 CON check or be sickened for 2d6 rounds (-2 to attack rolls). A creature that successfully saves cannot be affected again by the same ghast's stench for 24 hours. A neutralize poison spell removes the effect from a sickened creature."
-  - name: Surprise
+  - name: "Surprise"
     desc: "Ghasts try to attack with surprise whenever possible, striking from behind tombstones or bursting from shallow graves; when they attack in this way, they are able to surprise opponents on 1-3 on 1d6."
-  - name: Undead
+  - name: "Undead"
     desc: "May be Turned by Clerics using the same column as the ghoul. Like all undead, they are immune to sleep, charm, and hold magics."
-  - name: Ghast Fever
+  - name: "Ghast Fever"
     desc: "Humanoids bitten by ghasts may be infected with ghast fever. Each time a humanoid is bitten, there is a 10% chance of the infection being passed. The afflicted humanoid is allowed to succeed on a DC 12 CON check; if the save is failed, the humanoid dies within a day. An afflicted humanoid who dies of ghast fever rises as a ghast at the next midnight. A humanoid who becomes a ghast in this way retains all of the knowledge and abilities they possessed in life, unless those abilities are directly incompatible with the creature's new form (as decided by the GM)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) all + paralysis + stench"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

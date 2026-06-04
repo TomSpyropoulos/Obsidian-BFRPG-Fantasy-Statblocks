@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 1 grab (1d4 + 1 pt. CON loss)"
 damage: "1d4 + 1 (`dice:1d4+1`) pt. CON loss"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Grab Attack
+  - name: "Grab Attack"
     desc: "A hit by its hands inflicts 1d4 points of cold damage and the victim must succeed on a DC 12 STR check. If the save is failed the victim becomes calm and is paralyzed. The omotharkin holds onto the victim and drains 1 point of Constitution and inflicts 1d4 points of cold damage each round afterwards."
-  - name: Constitution Drain
+  - name: "Constitution Drain"
     desc: "While holding its victim, drains 1 point of Constitution and inflicts 1d4 points of cold damage each round. A victim reduced to 0 Constitution becomes an omotharkin the next round unless a **remove curse** spell is cast on the body, in which case the victim falls asleep for ten rounds, recovering one point of Constitution in this time. Otherwise, Constitution is recovered at the rate of 1 point per hour."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "An omotharkin reduced to 0 or less hit points falls to the ground but will rise, with full hit points, five rounds later unless **remove curse** is cast upon it. If a holy symbol is laid on the body of an omotharkin, it will not rise until the symbol has been removed."
-  - name: Magic Weapon Immunity
+  - name: "Magic Weapon Immunity"
     desc: "Can only be hit by magic weapons."
-  - name: Turn Resistance
+  - name: "Turn Resistance"
     desc: "Can be Turned as a mummy."
 actions:
-  - name: grab (1d4 + 1 pt. CON loss)
+  - name: "grab (1d4 + 1 pt. CON loss)"
     desc: "D20 to hit, 1d4 + 1 (`dice:1d4+1`) pt. CON loss"
 source: BFRPG Field Guide
 ```

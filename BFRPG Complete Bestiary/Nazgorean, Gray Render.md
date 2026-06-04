@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Eyeless
+  - name: "Eyeless"
     desc: "A gray render has no eyes; instead, it depends on sound to locate prey (treat as 90-foot Darkvision). Thus, a silent opponent is as good as invisible to the monster."
-  - name: Rending Bite
+  - name: "Rending Bite"
     desc: "A gray render that successfully bites establishes a hold, tearing the flesh for 2d6 points of damage each round until it or its prey is dead. Its jaws are so powerful that it is effectively impossible to break the hold through strength alone."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

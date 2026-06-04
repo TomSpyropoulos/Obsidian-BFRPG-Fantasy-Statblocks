@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 1 weapon / 1 bite or 1 tail"
 damage: "1d8 (`dice:1d8`) or by weapon, 1d8 (`dice:1d8`) bite or 1d10 (`dice:1d10`) tail"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Tail Attack
+  - name: "Tail Attack"
     desc: "If attacked from behind, they can use their tail as a weapon (1d10 damage)."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon, 1d8 (`dice:1d8`) bite or 1d10 (`dice:1d10`) tail"
-  - name: bite or 1 tail
+  - name: "bite or 1 tail"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

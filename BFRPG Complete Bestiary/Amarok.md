@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 2 claws or 1 weapon or 1 bite"
 damage: "2d4 (`dice:2d4`) claw, by weapon +1, 1d6 (`dice:1d6`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30 feet range."
-  - name: Strength
+  - name: "Strength"
     desc: "+1 bonus on damage rolls due to strength."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "Hunts effectively in packs, flanking and surrounding prey."
 actions:
-  - name: claws or 1 weapon or 1 bite
+  - name: "claws or 1 weapon or 1 bite"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, by weapon +1, 1d6 (`dice:1d6`) bite"
-  - name: claws or 1 weapon or 1 bite
+  - name: "claws or 1 weapon or 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

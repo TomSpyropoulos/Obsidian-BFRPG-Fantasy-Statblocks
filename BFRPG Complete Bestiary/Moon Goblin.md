@@ -21,10 +21,10 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Stealth
+  - name: "Stealth"
     desc: "In their preferred wooded mountain terrain, they are able to hide very effectively; so long as they remain still there is only a 10% chance they will be detected. Even indoors in dungeons or in non-preferred terrain they are able to hide so well that there is only a 30% chance of detection while they remain still."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

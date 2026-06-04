@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Innate Spellcasting
+  - name: "Innate Spellcasting"
     desc: "Can cast light (or its reverse, darkness) and purify food and water once per day. These innate powers are cast at first-level ability."
-  - name: Stealth
+  - name: "Stealth"
     desc: "An ushac not in metal armor is as stealthy as a Thief, having a 25% chance to Move Silently and a 10% chance to Hide in Shadows."
-  - name: Vulnerable to Charms
+  - name: "Vulnerable to Charms"
     desc: "Noted for their gullibility and lack of resistance to charms, an ushac saves against such related effects and spells at -4 penalty (charm, suggestion, illusions, siren's songs, among others). Such effects tend to have longer duration as well when used against an ushac (double any such duration). Note that illusions and the like do not last longer, only the ongoing or lingering effects upon the ushac itself."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon"
 source: BFRPG Field Guide
 ```

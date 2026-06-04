@@ -21,12 +21,12 @@ attack: "+0 (`dice: 1d20+0`) 1 special"
 damage: "Confusion"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Natural sonar allows them to operate in total darkness."
-  - name: Confusion
+  - name: "Confusion"
     desc: "For every ten bats in the area, one creature can be confused; such a creature will suffer a penalty of -2 on all attack and saving throw rolls while the bats remain in the area."
 actions:
-  - name: special
+  - name: "special"
     desc: "D20 to hit, Confusion"
 source: BFRPG Core
 ```

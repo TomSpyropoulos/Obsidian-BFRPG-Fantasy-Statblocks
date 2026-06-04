@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 \u00d7 weapon (by weapon) / 1 \u00d7 tail (1d6)"
 damage: "by weapon, 1d6 (`dice:1d6`) tail"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Fire Resistance
+  - name: "Fire Resistance"
     desc: "Their skin provides protection against heat, and they take half-damage from fire-based attacks. If the attack permits a saving throw, and it's successful, they take only one-quarter damage."
-  - name: Prehensile Tail
+  - name: "Prehensile Tail"
     desc: "This tail can be used as a whip or to pick up small objects."
 actions:
-  - name: × weapon (by weapon)
+  - name: "× weapon (by weapon)"
     desc: "D20 to hit, by weapon, 1d6 (`dice:1d6`) tail"
-  - name: × tail (1d6)
+  - name: "× tail (1d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

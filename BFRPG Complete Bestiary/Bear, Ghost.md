@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 claws + hug, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`) bite, 2d6 (`dice:2d6`) hug"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Fear Roar
+  - name: "Fear Roar"
     desc: "When a ghost bear roars it causes fear in similar fashion as the reverse of the spell remove fear, except that it causes all creatures within 120 feet to become frightened; those that fail to succeed on a DC 13 INT check will flee for 2 turns. Creatures with 6 or more levels are immune to this effect. The ghost bear will roar every 1d4 rounds in addition to any standard attacks."
-  - name: Constitution Drain
+  - name: "Constitution Drain"
     desc: "Upon scoring a hug attack the target is also drained of 1d3 points of Constitution. Elves and dwarves (and other long-lived creatures such as dragons) are allowed a savings throw vs. Death Ray to resist this effect, which must be rolled each time a hug attack occurs. Characters who lose Constitution appear to have aged. Unlike the Constitution loss caused by an actual ghost, the lost points are temporary and can be slowly healed in the manner described in the **Encounter** section of the **Basic Fantasy RPG Core Rules**. However, if a victim's Constitution is reduced to zero, they die and return as a ghost by the next nightfall."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Can only be hit by magical weapons or spells. Can be Turned as a vampire by a Cleric. Immune to **sleep**, **charm** or **hold** spells."
 actions:
-  - name: claws + hug, 1 bite
+  - name: "claws + hug, 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`) bite, 2d6 (`dice:2d6`) hug"
-  - name: claws + hug, 1 bite
+  - name: "claws + hug, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,10 +21,10 @@ attack: "+6 (`dice: 1d20+6`) 1 bite (2d8)"
 damage: "2d8 (`dice:2d8`)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Armor Destruction
+  - name: "Armor Destruction"
     desc: "Any time an iron snapper successfully bites an opponent with a natural attack roll of 19 or 20, it destroys any armor the opponent is wearing or breaks one object held by the opponent, preferring items made of iron or steel if possible."
 actions:
-  - name: bite (2d8)
+  - name: "bite (2d8)"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Field Guide
 ```

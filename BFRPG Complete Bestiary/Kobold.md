@@ -21,14 +21,14 @@ attack: "+0 (`dice: 1d20+0`) 1 weapon"
 damage: "1d4 (`dice:1d4`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision with a range of 60'."
-  - name: Light Sensitivity
+  - name: "Light Sensitivity"
     desc: "Suffer a -1 penalty to attack rolls in bright sunlight or within the radius of light spells."
-  - name: Tactics
+  - name: "Tactics"
     desc: "Prefer ranged combat and ambushes near trapped areas. Drive enemies into traps, then pour flaming oil, shoot them, or drop poisonous vermin onto them."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon"
 source: BFRPG Core
 ```

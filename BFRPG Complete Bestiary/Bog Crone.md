@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 2"
 damage: "1d4+2 (`dice:1d4+2`)"
 attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Aquatic
+  - name: "Aquatic"
     desc: "Can breathe underwater."
-  - name: Surprise
+  - name: "Surprise"
     desc: "Moving in near-complete silence while in swampy terrain, surprising opponents on 1-4 on 1d6."
-  - name: Aura of Unwholesomeness
+  - name: "Aura of Unwholesomeness"
     desc: "Near its lair animals grow sick and die, plants wither, and water turns foul. This aura of evil even effects magic; any healing spell cast upon a target that is standing within 30 feet of the crone only heals half the normal amount."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks Common and Elvish."
 actions:
-  - name: 2
+  - name: "2"
     desc: "D20 to hit, 1d4+2 (`dice:1d4+2`)"
 source: BFRPG Field Guide
 ```

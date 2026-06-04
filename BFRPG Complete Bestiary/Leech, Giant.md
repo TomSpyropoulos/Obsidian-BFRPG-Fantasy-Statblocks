@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 1 bite + hold"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "Once a giant leech hits in combat, it attaches to the victim and sucks blood, causing an additional 1d6 damage each round until the victim or the leech is dead. There is no way to remove the leech other than to kill it."
 actions:
-  - name: bite + hold
+  - name: "bite + hold"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round"
 source: BFRPG Core
 ```

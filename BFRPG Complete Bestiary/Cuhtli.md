@@ -21,30 +21,30 @@ attack: "+8 (`dice: 1d20+8`) 1 stinger / 1 constriction or spells/powers"
 damage: "1d4 (`dice:1d4`) + poison/2d6 (`dice:2d6`)"
 attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Constriction
+  - name: "Constriction"
     desc: "A cuhtli will wrap itself around its prey, inflicting 2d6 points of damage per round. Damage is automatic once one hit is scored and the cuhtli will then use its stinger for 1d4 points of damage plus poison (Succeed on a DC 13 CON check or die instantly) on subsequent rounds."
-  - name: Poison
+  - name: "Poison"
     desc: "Stinger delivers poison (Succeed on a DC 13 CON check or die instantly)."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "A cuhtli can cast spells as a Wizard (45%), Cleric (45%) or both (10%), equivalent to their LVL (9th+ level)."
-  - name: At-Will Powers
+  - name: "At-Will Powers"
     desc: "A cuhtli at will can use detect invisibile, detect magic, mind reading, read languages, and a version of charm monster that affects reptiles and avians."
-  - name: Invisibility and Insubstantiality
+  - name: "Invisibility and Insubstantiality"
     desc: "A cuhtli can become invisible and insubstantial at-will, moving at half-speed and through objects freely."
-  - name: Teleport
+  - name: "Teleport"
     desc: "A cuhtli can teleport twice per day."
-  - name: Polymorph
+  - name: "Polymorph"
     desc: "A cuhtli can polymorph itself at-will, preferring reptile and avian forms, and will often use those forms in combat."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate with all reptiles and avians telepathically."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "90 foot range."
 actions:
-  - name: stinger
+  - name: "stinger"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison"
-  - name: constriction or spells
+  - name: "constriction or spells"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: powers
+  - name: "powers"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

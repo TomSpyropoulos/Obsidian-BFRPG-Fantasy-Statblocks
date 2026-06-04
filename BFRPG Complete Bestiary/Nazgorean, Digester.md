@@ -21,12 +21,12 @@ attack: "+10 (`dice: 1d20+10`) 1 claw + special"
 damage: "1d8 (`dice:1d8`) + special"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
-  - name: Acid Spray
+  - name: "Acid Spray"
     desc: "Sprays a gout of acid in a cone 20 feet long and 20 feet wide at the far end, causing 8d8 points of damage to everything in the area. a successful DC 14 DEX check will reduce damage by half. The digester can spray again every 1d4 rounds."
-  - name: Sound-based Vision
+  - name: "Sound-based Vision"
     desc: "Locates prey by sound (treat as Darkvision to 60 feet); magical silence effectively blinds it."
 actions:
-  - name: claw + special
+  - name: "claw + special"
     desc: "D20 to hit, 1d8 (`dice:1d8`) + special"
 source: BFRPG Field Guide
 ```

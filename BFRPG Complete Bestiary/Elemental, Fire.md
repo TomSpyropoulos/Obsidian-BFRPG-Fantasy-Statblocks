@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
 attributes: ["+4", "+3", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Vulnerability to Water
+  - name: "Vulnerability to Water"
     desc: "Take double damage when attacked by water (including water elementals). Cannot cross a body of water wider than their own diameter."
-  - name: Bonus vs Cold
+  - name: "Bonus vs Cold"
     desc: "Do an additional 1d8 points of damage against creatures which are cold or icy in nature."
-  - name: Fire Hazard
+  - name: "Fire Hazard"
     desc: "Constantly burning; may easily start fires if moving into an area containing items which burn easily, such as dry wood, paper, or oil."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 1d12 (`dice:1d12`)"
 source: BFRPG Core
 ```

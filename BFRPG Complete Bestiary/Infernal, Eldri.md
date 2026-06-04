@@ -21,24 +21,24 @@ attack: "+8 (`dice: 1d20+8`) 2 claws or fire blast or spell"
 damage: "1d4 (`dice:1d4`) claw, 2d6 (`dice:2d6`) fire blast, by spell"
 attributes: ["+2", "+4", "+3", "+4", "+3", "+2"]
 traits:
-  - name: Fire Blast
+  - name: "Fire Blast"
     desc: "Can create blasts of flame from its hands up to 120 feet."
-  - name: Flight
+  - name: "Flight"
     desc: "Has the ability to fly."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Cast spells as a 15th-level Wizard. Prefers spells that deal direct damage over subtler magics."
-  - name: Iron Claws
+  - name: "Iron Claws"
     desc: "Nails are as hard as iron and as sharp as daggers."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Immune to lightning and poison. Takes only half damage from acid, cold, or fire-based attacks."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "Only affected by magical weapons and spells of 2nd-level or higher."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "An eldri that is killed in combat will dissolve to fine ash, leaving only its horn behind. If this horn is not destroyed within 1 year, the eldri will form a new body with all the memories it had up to the time of its death. The exact means to destroy an eldri's horn is up to individual GMs to devise."
 actions:
-  - name: claws or fire blast or spell
+  - name: "claws or fire blast or spell"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 2d6 (`dice:2d6`) fire blast, by spell"
-  - name: claws or fire blast or spell
+  - name: "claws or fire blast or spell"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

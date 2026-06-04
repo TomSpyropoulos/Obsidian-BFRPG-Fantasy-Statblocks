@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon or special"
 damage: "By weapon or special"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Mind Reading
+  - name: "Mind Reading"
     desc: "Can read minds (as the **mind reading** spell) and communicate with each other telepathically. It can speak Common, usually to command slaves."
-  - name: Brain Extraction
+  - name: "Brain Extraction"
     desc: "Uses its tentacles to extract the brain from a foe. It takes 1d4 turns for the tentacles to reach the brain, killing the victim. As this process takes a long time, it is not done during combat."
-  - name: Mind Blast
+  - name: "Mind Blast"
     desc: "The thulid's mind blast is a cone of mental force with a 60-foot range and a diameter of 50 feet at the far end. This ability can be used at most one time per day per LVL of the monster, and may not be used more often than every other round. A thulid can choose to either stun or kill those within the affected area. If the thulid chooses to stun, those in the area of effect must succeed on a DC 12 INT check or be rendered unconscious (as if by **sleep**) for 2d6 rounds. A killing blast allows a DC 12 CON check, with failure resulting in immediate death. Mindless creatures and the undead are unaffected by this attack. Add +2 to the saving throw if the victim is more than 20 feet from the thulid, or +5 if more than 40 feet away.  A **helm of telepathy** adds an additional +4 to saving throws. Further, when such saves are successful, the attacking thulid is stunned for 1d4 turns."
-  - name: Parasitic Reproduction
+  - name: "Parasitic Reproduction"
     desc: "When a group of thulids are encountered, the GM should roll 1d20. If the result of this roll is equal to or less than the number encountered, one of the thulids is ready to spawn. Do not count thulids who have only a single LVL, as these are not mature enough to reproduce.  If a thulid is ready to spawn, it will notify its brethren which of their opponents it wants to impregnate. The group will then attempt to render the target host unconscious (generally by using the stunning form of mind blast) while removing other opponents as expeditiously as possible. If the thulids prevail, the pregnant one will begin using its tentacles to penetrate the skull of the subdued opponent, but instead of extracting the brain, an egg will be laid. The subdued opponent will then be bound and carried off by the thulid party. Thulids seem to prefer male host bodies for no apparent reason. Humans are preferred over elves, and elves over dwarves or halflings.  The egg hatches in 3d6 hours, but as the brain feels no sensation the victim will not realize this. In another 1d6 hours the victim will become confused (as if by the spell **confusion**), then in 2d6 more hours will fall into a coma. Up to this point, the condition is reversible with a **cure disease** spell, but after the coma begins, the growth of the infant thulid cannot be stopped in that way. In 3+1d6 days, the victim will suddenly awaken, still appearing normal but with the psyche (and mental blast power) of a thulid. The newly-spawned thulid can speak the Thulid language as well as any languages formerly known by the host body, though little or none of that host's mind is left otherwise."
-  - name: Telepathic Scanning
+  - name: "Telepathic Scanning"
     desc: "Can use telepathy to scan for other thulids within a 5-mile radius."
 actions:
-  - name: weapon or special
+  - name: "weapon or special"
     desc: "D20 to hit, By weapon or special"
 source: BFRPG Field Guide
 ```

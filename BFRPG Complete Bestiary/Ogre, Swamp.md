@@ -21,16 +21,16 @@ attack: "+12 (`dice: 1d20+12`) 1 bite, Drowning Grasp"
 damage: "2d8 (`dice:2d8`) bite, 1d8 (`dice:1d8`) Drowning Grasp"
 attributes: ["+6", "+4", "+5", "+4", "+5", "+4"]
 traits:
-  - name: Bite
+  - name: "Bite"
     desc: "Anything bitten by a swamp ogre takes 2d8 points of damage, and must succeed on a DC 15 DEX check or be held inside the huge maw of the swamp ogre. Anything trapped in its mouth must succeed on a DC 15 STR check (one attempt per round) to escape. Those trapped in the ogre's mouth will risk drowning once the ogre slips back beneath the water."
-  - name: Drowning Grasp
+  - name: "Drowning Grasp"
     desc: "The swamp ogre will use its hands to grasp the largest 1d2 creatures within reach, and hold them underwater until they drown. Any creature in its grasp must succeed on a DC 15 STR check or immediately begin drowning."
-  - name: Aquatic Ambush
+  - name: "Aquatic Ambush"
     desc: "They will lie in wait for days at a time on a single breath, waiting for prey to pass above them."
-  - name: Treasure Buoyancy
+  - name: "Treasure Buoyancy"
     desc: "The swamp ogre retains the gold, platinum, and treasure of its previous meals to regulate its buoyancy. It will regurgitate this treasure upon death."
 actions:
-  - name: bite, Drowning Grasp
+  - name: "bite, Drowning Grasp"
     desc: "D20 to hit, 2d8 (`dice:2d8`) bite, 1d8 (`dice:1d8`) Drowning Grasp"
 source: BFRPG Field Guide
 ```

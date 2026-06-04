@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite plus spines (special)"
 damage: "1d8 (`dice:1d8`) bite plus poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Venomous Spines
+  - name: "Venomous Spines"
     desc: "Double row of sharp spines along back inject venom when they penetrate a victim. Any victim must succeed on a DC 12 CON check or die. Spines automatically hit any melee opponent who attacks from above, beside, or behind the monster. Only those directly in front or attacking from below are unaffected."
-  - name: Stone Eaters
+  - name: "Stone Eaters"
     desc: "According to some legends, crushers have a particular fondness for creatures turned to stone, devouring a man-sized or smaller petrified creature in about 8 hours, divided by the number of crushers consuming it."
 actions:
-  - name: bite plus spines (special)
+  - name: "bite plus spines (special)"
     desc: "D20 to hit, 1d8 (`dice:1d8`) bite plus poison"
 source: BFRPG Field Guide
 ```

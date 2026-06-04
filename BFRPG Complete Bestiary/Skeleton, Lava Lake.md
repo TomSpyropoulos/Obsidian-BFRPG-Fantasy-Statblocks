@@ -21,16 +21,16 @@ attack: "+7 (`dice: 1d20+7`) 1 giant weapon or 1 thrown lava rock"
 damage: "3d6 (`dice:3d6`) weapon or 2d6 (`dice:2d6`) thrown rock"
 attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Lava Rock
+  - name: "Lava Rock"
     desc: "They manifest said lava-filled rock within their appendages to throw at their opponents. The damage dealt by this attack counts as fire damage."
-  - name: Resistance to Physical Damage
+  - name: "Resistance to Physical Damage"
     desc: "Take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by Clerics as a spectre, and are immune to sleep, charm, or hold magic."
-  - name: Mindless
+  - name: "Mindless"
     desc: "No form of mind reading is of any use against them. Never fail morale (WIS), and thus always fight until destroyed."
 actions:
-  - name: giant weapon or 1 thrown lava rock
+  - name: "giant weapon or 1 thrown lava rock"
     desc: "D20 to hit, 3d6 (`dice:3d6`) weapon or 2d6 (`dice:2d6`) thrown rock"
 source: BFRPG Field Guide
 ```

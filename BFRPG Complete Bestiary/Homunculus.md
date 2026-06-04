@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 bite + poison"
 damage: "1d4-1 (`dice:1d4-1`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Telepathic Link
+  - name: "Telepathic Link"
     desc: "Telepathically linked with its creator. Knows what its master knows and can convey everything it sees and hears up to 1,500 feet."
-  - name: Venomous Bite
+  - name: "Venomous Bite"
     desc: "On a failed succeed on a DC 12 CON check, the opponent will fall asleep for 6d6 minutes."
-  - name: Death Link
+  - name: "Death Link"
     desc: "An attack that destroys a homunculus deals 2d10 points of damage to its master. If the master is slain the homunculus also dies, its body swiftly melting away into a pool of ichor."
 actions:
-  - name: bite + poison
+  - name: "bite + poison"
     desc: "D20 to hit, 1d4-1 (`dice:1d4-1`) + poison"
 source: BFRPG Field Guide
 ```

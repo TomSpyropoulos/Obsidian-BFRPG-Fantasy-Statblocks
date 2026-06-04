@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 1 explosion"
 damage: "blindness"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Delicate
+  - name: "Delicate"
     desc: "Can be destroyed with as little as a touch."
-  - name: Blinding Explosion
+  - name: "Blinding Explosion"
     desc: "When destroyed, causes a noiseless explosion with a 15-foot radius that causes no damage, but emits a brief, blinding light. Any creature that beholds the explosion must succeed on a DC 12 CON check or be blinded for 2d4 turns."
-  - name: Chain Reaction
+  - name: "Chain Reaction"
     desc: "An explosion is likely to cause a chain reaction, detonating any other flashbags in range, each requiring its own separate blindness save."
-  - name: Darkness Vulnerability
+  - name: "Darkness Vulnerability"
     desc: "Casting **darkness** on a flashbag (or its surrounding area) will inhibit the blinding effect of its explosion."
 actions:
-  - name: explosion
+  - name: "explosion"
     desc: "D20 to hit, blindness"
 source: BFRPG Field Guide
 ```

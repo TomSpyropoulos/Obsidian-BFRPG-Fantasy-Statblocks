@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) Gaze / 3 proboscis"
 damage: "Sleep Gaze, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round proboscis"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Sleep Gaze
+  - name: "Sleep Gaze"
     desc: "Anyone who meets the gaze of one must succeed on a DC 13 STR check or be put to sleep (as the spell, but with no limit as to levels or levels that can be affected)."
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "Will pierce sleeping victims with a proboscis (this will not awaken a sleeping victim) and begin draining the victim's blood. For each 1d6 damage roll, the monster recovers one lost hit point (if any)."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Oculus somni communicate with each other, and infrequently with other oculi, using an inherent telepathic ability; while it is possible for the monster to communicate with other species in this way, they rarely if ever choose to do so."
 actions:
-  - name: Gaze
+  - name: "Gaze"
     desc: "D20 to hit, Sleep Gaze, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)"
-  - name: proboscis
+  - name: "proboscis"
     desc: "D20 to hit, round proboscis"
-  - name: proboscis
+  - name: "proboscis"
     desc: "D20 to hit, "
-  - name: proboscis
+  - name: "proboscis"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

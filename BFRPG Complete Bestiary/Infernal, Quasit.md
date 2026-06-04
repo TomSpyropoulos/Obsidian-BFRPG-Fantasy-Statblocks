@@ -21,30 +21,30 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite"
 damage: "1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Shapechanger
+  - name: "Shapechanger"
     desc: "Able to change at will into the form of a giant centipede, giant bat, or a wolf, all with horrific visages that set it apart from a normal animal."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60-foot Darkvision in all forms."
-  - name: Poisonous Claws
+  - name: "Poisonous Claws"
     desc: "The poisonous claws cause an unnatural burning itch that will temporarily reduce the Dexterity of the target by 1 point for each successful attack. The points return 10 minutes after the end of combat."
-  - name: Detect Magic
+  - name: "Detect Magic"
     desc: "Can **detect magic** at will."
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Become invisible at will."
-  - name: Cause Fear
+  - name: "Cause Fear"
     desc: "Once per day can **cause fear** (reversed remove fear) as a 7th-level Wizard."
-  - name: Infernal Immunities
+  - name: "Infernal Immunities"
     desc: "Immune to electrical and poison attacks, and receives only half damage from acid, cold, or fire-based attacks."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "Magical weapons or spells are required to strike a quasit. Succeeds on a DC 12 INT check (including wands) with a +4 bonus."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "So long as it has at least 1 HP remaining, a quasit regenerates 1 HP every round; if reduced below 1 HP a quasit will die."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

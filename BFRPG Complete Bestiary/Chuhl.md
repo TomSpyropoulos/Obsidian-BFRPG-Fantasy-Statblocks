@@ -21,20 +21,20 @@ attack: "+9 (`dice: 1d20+9`) 2 claws + constrict, or paralysis bite"
 damage: "2d6+5 (`dice:2d6+5`) claws, 3d6+5 (`dice:3d6+5`) constrict, or paralysis"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "Attacks with surprise on a 1-4 on a d6 when submerged in murky waters."
-  - name: Grapple
+  - name: "Grapple"
     desc: "If a victim is successfully attacked by a claw, they must succeed on a DC 14 CON check or be grappled."
-  - name: Constrict
+  - name: "Constrict"
     desc: "On subsequent turns the chuhl may constrict a grappled victim for 3d6+5 damage."
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "The chuhl may pass a grappled victim to its hideous tentacled maw, causing the victim to make a DC 14 STR check or be paralyzed for 6 rounds."
-  - name: Intelligent
+  - name: "Intelligent"
     desc: "Able to speak Common."
 actions:
-  - name: claws + constrict, or paralysis bite
+  - name: "claws + constrict, or paralysis bite"
     desc: "D20 to hit, 2d6+5 (`dice:2d6+5`) claws, 3d6+5 (`dice:3d6+5`) constrict, or paralysis"
-  - name: claws + constrict, or paralysis bite
+  - name: "claws + constrict, or paralysis bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

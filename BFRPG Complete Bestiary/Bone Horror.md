@@ -21,20 +21,20 @@ attack: "+4 (`dice: 1d20+4`) 2 claws or 1 sting"
 damage: "1d6+3 (`dice:1d6+3`) claw or 1d4 (`dice:1d4`)+poison sting"
 attributes: ["+1", "+2", "+1", "+1", "+5", "+1"]
 traits:
-  - name: Immunity to mundane weapons
+  - name: "Immunity to mundane weapons"
     desc: "Only harmed by magical weapons, fire, or spells."
-  - name: Turn as wight
+  - name: "Turn as wight"
     desc: "Can be Turned by a Cleric as if they were wights."
-  - name: Venomous tail
+  - name: "Venomous tail"
     desc: "Those struck by the tail must succeed on a DC 12 CON check or die a horrible, painful death within 1d6 turns."
-  - name: Flight
+  - name: "Flight"
     desc: "Those with skeletal bat-like wings sprouting from their backs are capable of flying at 30' per round."
-  - name: Undead immunities
+  - name: "Undead immunities"
     desc: "Immune to sleep, charm, or hold spells."
 actions:
-  - name: claws or 1 sting
+  - name: "claws or 1 sting"
     desc: "D20 to hit, 1d6+3 (`dice:1d6+3`) claw or 1d4 (`dice:1d4`)+poison sting"
-  - name: claws or 1 sting
+  - name: "claws or 1 sting"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

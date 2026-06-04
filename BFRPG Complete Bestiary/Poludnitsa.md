@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 scythe (1d8)"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Riddles
+  - name: "Riddles"
     desc: "Enjoys engaging in conversation, asking complicated and difficult riddles. If one answers correctly, she might tell them a great secret (spoken in riddles, of course)."
-  - name: Heat Stroke
+  - name: "Heat Stroke"
     desc: "If a wrong answer is given to her riddles, she will cause the one answering to suffer a heat stroke; the victim must succeed on a DC 12 INT check or take a -4 penalty to all attack rolls and ability checks for the next 2d6 hours."
 actions:
-  - name: scythe (1d8)
+  - name: "scythe (1d8)"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

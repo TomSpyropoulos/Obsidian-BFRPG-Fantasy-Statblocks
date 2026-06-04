@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 1 constrict / 1 bite or 1 spit"
 damage: "2d4 (`dice:2d4`) constrict, 1d6 (`dice:1d6`) + poison bite, or poison spit"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Constrict
+  - name: "Constrict"
     desc: "Can wrap around a victim of man-size or smaller and constrict, inflicting damage each round; escaping from this constriction requires a roll equal to that needed to open a stuck door."
-  - name: Venomous Bite
+  - name: "Venomous Bite"
     desc: "If bitten, Succeed on a DC 14 CON check or die."
-  - name: Poison Spit
+  - name: "Poison Spit"
     desc: "Can spit venom at any target within 60 feet, and if the victim is hit they must succeed on a DC 14 CON check or die."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Has the spell-casting abilities of a 6th-level Cleric."
 actions:
-  - name: constrict
+  - name: "constrict"
     desc: "D20 to hit, 2d4 (`dice:2d4`) constrict, 1d6 (`dice:1d6`) + poison bite, or poison spit"
-  - name: bite or 1 spit
+  - name: "bite or 1 spit"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

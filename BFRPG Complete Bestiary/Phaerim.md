@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
 attributes: ["+2", "+1", "-1", "+1", "+1", "+0"]
 traits:
-  - name: Hiding
+  - name: "Hiding"
     desc: "90% undetectable when still in forested environment. 70% effective hiding indoors."
-  - name: Flight Limitation
+  - name: "Flight Limitation"
     desc: "Unencumbered: fly up to 10 rounds, must rest equivalent time. Lightly-encumbered: fly up to 5 rounds, must rest 20 rounds."
-  - name: Fall Damage Reduction
+  - name: "Fall Damage Reduction"
     desc: "Takes half damage from falls due to reduced weight and wings."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon"
 source: BFRPG Field Guide
 ```

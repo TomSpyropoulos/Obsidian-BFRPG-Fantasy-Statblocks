@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 2 claws, 1 bite"
 damage: "1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite"
 attributes: ["+0", "+0", "+1", "+2", "+0", "+0"]
 traits:
-  - name: Intelligent
+  - name: "Intelligent"
     desc: "All cat sith are intelligent beings with their own language and many of them also speak the common language of their area, which is often the Elven tongue."
-  - name: Silent Movement
+  - name: "Silent Movement"
     desc: "Can always move without sound."
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Have the ability to become invisible at will, entirely or partially."
-  - name: Long-lived
+  - name: "Long-lived"
     desc: "They are as long-lived as elves."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

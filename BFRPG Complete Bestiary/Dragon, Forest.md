@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath/1 tail"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/3d8 (`dice:3d8`) or breath/1d6 (`dice:1d6`)"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Poison Immunity
+  - name: "Poison Immunity"
     desc: "Forest dragons are immune to all poisons."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Poison Gas (Cloud). Succeed on a DC 13 DEX check for half damage (not save or die as with ordinary poison)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 3d8 (`dice:3d8`) or breath"
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Core
 ```

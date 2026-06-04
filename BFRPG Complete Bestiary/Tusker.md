@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Cold Resistance
+  - name: "Cold Resistance"
     desc: "Even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, a tusker receives a +4 bonus."
-  - name: Tusks
+  - name: "Tusks"
     desc: "Any tusker involved in grappling attacks does +2 damage due to its tusks, but otherwise a tusker does not attack directly with the tusks."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,10 +21,10 @@ attack: "+9 (`dice: 1d20+9`) 2"
 damage: "2d6 (`dice:2d6`) fist"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Not subject to charm, sleep and hold spells but can be Turned as a ghost by a Cleric."
 actions:
-  - name: 2
+  - name: "2"
     desc: "D20 to hit, 2d6 (`dice:2d6`) fist"
 source: BFRPG Field Guide
 ```

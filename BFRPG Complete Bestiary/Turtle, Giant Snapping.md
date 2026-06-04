@@ -21,12 +21,12 @@ attack: "+9 (`dice: 1d20+9`) 1 bite"
 damage: "4d6 (`dice:4d6`) bite"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Gain surprise on 1-4 on 1d6 when partially submerged in swampy area."
-  - name: Swallow
+  - name: "Swallow"
     desc: "Any creature of man-sized or smaller slain by a giant snapping turtle will be eaten immediately; small characters can be swallowed in a single gulp, while man-sized creatures require an extra round to bite in half before swallowing."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 4d6 (`dice:4d6`) bite"
 source: BFRPG Field Guide
 ```

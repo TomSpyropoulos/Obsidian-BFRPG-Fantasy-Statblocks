@@ -21,16 +21,16 @@ attack: "+15 (`dice: 1d20+15`) 2 claws/1 bite or breath"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)/10d6 (`dice:10d6`) or 30d8 (`dice:30d8`)"
 attributes: ["+9", "+7", "+8", "+7", "+8", "+7"]
 traits:
-  - name: Poison Immunity
+  - name: "Poison Immunity"
     desc: "Due to their massive size, dragon turtles are immune to virtually all poisons."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Steam (Cloud)"
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 10d6 (`dice:10d6`) or 30d8 (`dice:30d8`)"
 source: BFRPG Core
 ```

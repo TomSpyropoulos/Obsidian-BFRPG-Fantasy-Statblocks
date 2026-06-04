@@ -21,11 +21,11 @@ attack: "+3 (`dice: 1d20+3`) 1 bite (1d4 + poison)"
 damage: "-"
 attributes: ["+2", "+1", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Air-breather
+  - name: "Air-breather"
     desc: "Can operate underwater for a full turn without suffering injury. Do not swim, but rather walk on the bottom, climbing rocks or vegetation to surface."
-  - name: Poison
+  - name: "Poison"
     desc: "Bite delivers poison."
-  - name: Underwater Lair
+  - name: "Underwater Lair"
     desc: "Make lairs of webs and sticks which are open only on the bottom to allow entry without loss of air."
 source: BFRPG Field Guide
 ```

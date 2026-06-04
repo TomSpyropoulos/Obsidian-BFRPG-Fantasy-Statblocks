@@ -21,9 +21,9 @@ attack: "+3 (`dice: 1d20+3`) 1 bite (1d6)"
 damage: "-"
 attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Natural sonar grants Darkvision to a range of 90 feet."
-  - name: Disease
+  - name: "Disease"
     desc: "Its bite may carry disease, much like a giant rat's bite. Any bite has a 5% chance of causing a disease. A character who suffers one or more bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a DC 12 CON check (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead (see Constitution Point Losses in the Encounter section of the Basic Fantasy RPG Core Rules for details on regaining lost Constitution)."
 source: BFRPG Field Guide
 ```

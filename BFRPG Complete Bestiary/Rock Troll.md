@@ -21,22 +21,22 @@ attack: "+8 (`dice: 1d20+8`) 2 claws, 1 bite"
 damage: "1d6+6 (`dice:1d6+6`) claw, 1d12+2 (`dice:1d12+2`) bite"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Its regeneration repairs damage at 3 hit points per round at the beginning of the third round after it has been injured; this regeneration includes the re-bonding of severed members. The loathsome members of a rock troll have the ability to fight on even if severed from the body."
-  - name: Rock-like Exoskin
+  - name: "Rock-like Exoskin"
     desc: "Only blunt weapons, such as maces, clubs, and hammers will do full damage. If struck by an edged weapon, they will only take at the most 1-2 points of damage, Strength bonus notwithstanding. They will take further damage if magic edged weapons are used (the magical bonus)."
-  - name: Weapon Breaking
+  - name: "Weapon Breaking"
     desc: "If an adventurer with a Strength bonus uses an edged weapon on a rock troll and rolls a 1 on their to-hit roll, the weapon will have to succeed on a DC 13 STR check or break. Any magical bonuses of the weapon will be added to the die roll of the save."
-  - name: Shatter
+  - name: "Shatter"
     desc: "When a rock troll is brought to below 1 hit point by a blunt weapon, it will shatter, sending pieces of rock in all directions. Characters must succeed on a DC 13 DEX check or be struck by flying shards, doing 1d6 points of damage."
-  - name: Regeneration Potion
+  - name: "Regeneration Potion"
     desc: "It is also 10% likely that an exploding rock troll will drop a bladder full of liquid. This is a semi-permanent potion of regeneration, which will last for 1d12 months."
-  - name: Resistances
+  - name: "Resistances"
     desc: "Rock trolls are not harmed by fire or fire-based spells, but take double damage from electrical attacks."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d6+6 (`dice:1d6+6`) claw, 1d12+2 (`dice:1d12+2`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

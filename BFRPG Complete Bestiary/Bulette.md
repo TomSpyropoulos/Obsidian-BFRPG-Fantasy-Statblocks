@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 bite, 2 claws or 4 claws"
 damage: "3d8 (`dice:3d8`) bite, 2d6 (`dice:2d6`) claw"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Leap Attack
+  - name: "Leap Attack"
     desc: "Can leap 10 feet through the air and attack prey with all four claws but cannot bite with such an attack."
-  - name: Weak Spot
+  - name: "Weak Spot"
     desc: "If somehow one gets on top of a bulette, the area behind its head plates is only AC 15."
-  - name: Burrowing Immunity
+  - name: "Burrowing Immunity"
     desc: "Effectively immune to most types of attacks while burrowing."
-  - name: Tremorsense
+  - name: "Tremorsense"
     desc: "Senses vibrations in the earth, able to sense positions and numbers of creatures within 60 feet while burrowing."
 actions:
-  - name: bite, 2 claws or 4 claws
+  - name: "bite, 2 claws or 4 claws"
     desc: "D20 to hit, 3d8 (`dice:3d8`) bite, 2d6 (`dice:2d6`) claw"
 source: BFRPG Field Guide
 ```

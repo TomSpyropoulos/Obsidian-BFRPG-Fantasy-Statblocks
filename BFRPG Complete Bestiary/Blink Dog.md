@@ -21,13 +21,13 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (1d6)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Teleportation
+  - name: "Teleportation"
     desc: "Can teleport up to 120 feet at will. When attacked by a known attacker, may succeed on a DC 12 CON check to teleport 1d6 x 10 feet in a random direction (never into solid matter or dangerous areas)."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "Pack hunters that use teleportation to surround prey. Members attacking from behind receive +4 to hit and double damage on successful hit (as thief backstab)."
-  - name: Communication
+  - name: "Communication"
     desc: "Communicate using a language of barks, growls, and yips which is somewhat limited but can convey useful tactical information."
-  - name: Hate Deceivers
+  - name: "Hate Deceivers"
     desc: "Will generally attack deceivers on sight."
 source: BFRPG Core
 ```

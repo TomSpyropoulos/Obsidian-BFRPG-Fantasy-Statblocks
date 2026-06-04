@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d10 (`dice:1d10`)"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Mount Capability
+  - name: "Mount Capability"
     desc: "Can be raised in captivity as a flying mount. Light load up to 400 pounds; heavy load up to 900 pounds."
-  - name: Griffon Enmity
+  - name: "Griffon Enmity"
     desc: "Will generally attack griffons on sight if they have a numerical advantage."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d10 (`dice:1d10`)"
 source: BFRPG Core
 ```

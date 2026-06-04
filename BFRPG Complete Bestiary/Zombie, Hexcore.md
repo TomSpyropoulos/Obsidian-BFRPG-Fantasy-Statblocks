@@ -21,20 +21,20 @@ attack: "+3 (`dice: 1d20+3`) 2 claws + special"
 damage: "1d8 (`dice:1d8`) claw + special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Magical Attacks
+  - name: "Magical Attacks"
     desc: "All hexcore zombies attack as if their attacks were magical and can only be hurt by magical damage."
-  - name: Soul Energy Damage
+  - name: "Soul Energy Damage"
     desc: "Can deal an additional 1d6 points of damage if both of their attacks hit, as the overexposure to the soul energy is quite taxing on both the living and the dead. This damage is doubled if it is inflicted on the undead."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Take only half-damage from blunt weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "May be Turned by Clerics and are immune to sleep, charm, and hold magics. As they are mindless, no form of mind-reading is of any use against them."
-  - name: Never Fail Morale
+  - name: "Never Fail Morale"
     desc: "Hexcore zombies never fail morale checks (DC 12 WIS checks), and thus always fight until destroyed."
 actions:
-  - name: claws + special
+  - name: "claws + special"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw + special"
-  - name: claws + special
+  - name: "claws + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

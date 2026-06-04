@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 bite, 2 claws, or 1 weapon"
 damage: "2d6 (`dice:2d6`) bite, 1d4 (`dice:1d4`) claw or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60 feet range."
-  - name: Breathing
+  - name: "Breathing"
     desc: "Can breathe underwater for 3 hours after exposure to aboleth slime, but cannot breathe air during this time; suffocates in 2d6 minutes if removed from water."
-  - name: Master's Presence
+  - name: "Master's Presence"
     desc: "In the presence of its aboleth master, a skum becomes totally fearless, having a morale (WIS) of 12. If the aboleth master dies its skum enter a frenzied rage, attacking any creature in sight and seeking additional victims when those nearby have been vanquished."
 actions:
-  - name: bite, 2 claws, or 1 weapon
+  - name: "bite, 2 claws, or 1 weapon"
     desc: "D20 to hit, 2d6 (`dice:2d6`) bite, 1d4 (`dice:1d4`) claw or by weapon"
 source: BFRPG Field Guide
 ```

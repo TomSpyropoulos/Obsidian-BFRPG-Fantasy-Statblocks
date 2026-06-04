@@ -21,10 +21,10 @@ attack: "+12 (`dice: 1d20+12`) 1 giant weapon or 1 thrown rock"
 damage: "7d6 (`dice:7d6`) (8d6 (`dice:8d6`)) weapon, 4d6 (`dice:4d6`) rock"
 attributes: ["+6", "+4", "+5", "+4", "+5", "+4"]
 traits:
-  - name: Thrown Rocks
+  - name: "Thrown Rocks"
     desc: "A mountain giant can throw large stones up to 240' for 4d6 points of damage each"
 actions:
-  - name: giant weapon or 1 thrown rock
+  - name: "giant weapon or 1 thrown rock"
     desc: "D20 to hit, 7d6 (`dice:7d6`) (8d6 (`dice:8d6`)) weapon, 4d6 (`dice:4d6`) rock"
 source: BFRPG Core
 ```

@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 bite or 1 sting + poison"
 damage: "1 point bite, 1d3 (`dice:1d3`) sting + poison (sleep)"
 attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate telepathically with intelligent creatures within 60 feet. Can also vocalize animal noises."
-  - name: Poison Sting
+  - name: "Poison Sting"
     desc: "The stinger delivers a poison that will cause the recipient to fall asleep for 1d3 hours on a failed succeed on a DC 12 CON check."
-  - name: Keen Senses
+  - name: "Keen Senses"
     desc: "Can locate creatures within 60 feet by various means. Even against invisible opponents, any penalties (such as when attacking) are halved for a pseudodragon."
-  - name: Chameleon Hide
+  - name: "Chameleon Hide"
     desc: "Chameleon-like ability to change color. So long as it remains still, there is only a 10% chance it will be detected outdoors in forested environments. Even indoors it can hide with a 30% chance of detection."
 actions:
-  - name: bite or 1 sting + poison
+  - name: "bite or 1 sting + poison"
     desc: "D20 to hit, 1 point bite, 1d3 (`dice:1d3`) sting + poison (sleep)"
 source: BFRPG Field Guide
 ```

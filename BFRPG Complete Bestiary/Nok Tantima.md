@@ -21,20 +21,20 @@ attack: "+10 (`dice: 1d20+10`) 1 bite (on ground) / 2 claws (flying) / spell"
 damage: "2d8 (`dice:2d8`) bite or 1d12 (`dice:1d12`) claw or by spell"
 attributes: ["+5", "+5", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Flying Attack
+  - name: "Flying Attack"
     desc: "When flying they attack with their lower legs. On the ground they bite with their hawk-like beaks. They prefer to attack while flying, until they lose more than half their hit points, at which point they will either land to fight or fly away."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as a 6th-level Cleric."
-  - name: Divine Nature
+  - name: "Divine Nature"
     desc: "Can only be harmed by magic weapons of +2 or better bonus, and they are immune to spells of first or second level."
 actions:
-  - name: bite (on ground)
+  - name: "bite (on ground)"
     desc: "D20 to hit, 2d8 (`dice:2d8`) bite or 1d12 (`dice:1d12`) claw or by spell"
-  - name: claws (flying)
+  - name: "claws (flying)"
     desc: "D20 to hit, "
-  - name: claws (flying)
+  - name: "claws (flying)"
     desc: "D20 to hit, "
-  - name: spell
+  - name: "spell"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

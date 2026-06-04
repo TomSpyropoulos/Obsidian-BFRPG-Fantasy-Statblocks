@@ -21,12 +21,12 @@ attack: "+7 (`dice: 1d20+7`) 1 bite or 1 charge"
 damage: "1d10 (`dice:1d10`) bite, 1d12 (`dice:1d12`) charge"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Thick Blubber
+  - name: "Thick Blubber"
     desc: "Their blubber is so thick that any non-magical weapon will be stuck in the hide unless a DC 13 DEX check is made, with the character's Strength modifier added. Sewer boars takes half-damage from all weapons, excepting spears and polearms, which can penetrate deeply enough to make it through the layer of blubber."
-  - name: Charge
+  - name: "Charge"
     desc: "A sewer boar can charge up to 90 feet, doing 1d12 points of damage to all creatures in the path of its charge, unless they succeed in a DC 13 CON check to get out of the way."
 actions:
-  - name: bite or 1 charge
+  - name: "bite or 1 charge"
     desc: "D20 to hit, 1d10 (`dice:1d10`) bite, 1d12 (`dice:1d12`) charge"
 source: BFRPG Field Guide
 ```

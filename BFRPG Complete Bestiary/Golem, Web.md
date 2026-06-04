@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 1 grapple"
 damage: "special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Grapple Attack
+  - name: "Grapple Attack"
     desc: "Target must succeed on a DC 12 CON check or be cocooned. Target loses all movement capabilities and suffocates in 1d2 (+ Constitution bonus) rounds (minimum of 1)."
-  - name: Damage Reflection
+  - name: "Damage Reflection"
     desc: "Any damage dealt to the web golem is reflected upon its occupant."
-  - name: Immunity
+  - name: "Immunity"
     desc: "Immune to most non-magical damage."
-  - name: Fire Vulnerability
+  - name: "Fire Vulnerability"
     desc: "Susceptible to all fire attacks, taking an additional 6 points of damage when hit by it."
 actions:
-  - name: grapple
+  - name: "grapple"
     desc: "D20 to hit, special"
 source: BFRPG Field Guide
 ```

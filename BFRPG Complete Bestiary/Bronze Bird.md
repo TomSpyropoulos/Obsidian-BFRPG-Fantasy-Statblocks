@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 beak (1d4) / 1 wings (1d6) / 1 feather throw (1d4
 damage: "1d4 (`dice:1d4`) beak, 1d6 (`dice:1d6`) wing, 1d4 (`dice:1d4`) feather"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Feather Throw
+  - name: "Feather Throw"
     desc: "May throw a dagger-like feather up to 30 feet for 1d4 damage (90 feet if thrown from above while flying). Can only throw 2 such feather-daggers (one from each wing); feathers grow back in 1d8 days."
-  - name: Fire Resistance
+  - name: "Fire Resistance"
     desc: "Immune to normal fire, receives a +1 bonus to saves against very hot or magical fire, and takes 1 less hit point of damage per die from such attacks."
-  - name: Valuable Feathers
+  - name: "Valuable Feathers"
     desc: "Once removed from the bird, the feathers become completely non-magical. The feathers of a bronze bird are generally worth as much as 2d6×10 gp."
 actions:
-  - name: beak (1d4)
+  - name: "beak (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) beak, 1d6 (`dice:1d6`) wing, 1d4 (`dice:1d4`) feather"
-  - name: wings (1d6)
+  - name: "wings (1d6)"
     desc: "D20 to hit, "
-  - name: feather throw (1d4)
+  - name: "feather throw (1d4)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

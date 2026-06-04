@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) 1 pseudopod (3d8)"
 damage: "3d8 (`dice:3d8`)"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Splitting
+  - name: "Splitting"
     desc: "If attacked with normal or magical weapons, or with lightning or electricity, a black jelly suffers no injury, but will be split into two jellies; the GM should divide the original creature's levels between the two however they see fit, with the limitation that neither pudding may have less than two levels. A two level black jelly is simply unharmed by such attacks, but cannot be split further."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Cold or ice based attacks do not harm a black jelly, but such an attack will paralyze the jelly for one round per die of damage the attack would normally cause."
-  - name: Acidic Body
+  - name: "Acidic Body"
     desc: "Secretes acids that help catch and digest prey."
 actions:
-  - name: pseudopod (3d8)
+  - name: "pseudopod (3d8)"
     desc: "D20 to hit, 3d8 (`dice:3d8`)"
 source: BFRPG Core
 ```

@@ -21,18 +21,18 @@ attack: "+10 (`dice: 1d20+10`) 1 weapon"
 damage: "By weapon +3"
 attributes: ["+3", "+4", "+4", "+3", "+7", "+3"]
 traits:
-  - name: Teleport
+  - name: "Teleport"
     desc: "Can teleport at-will and without failure. Can teleport and strike in the same round."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Cast spells as a 16th-level Cleric."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate telepathically within one mile with any being, even though they never vocalise."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to sleep, hold, and charm spells as well as illusions. Unaffected by magic missiles, acid, cold, electricity, poison, gas, and normal fire."
-  - name: Resistances
+  - name: "Resistances"
     desc: "Take half-damage from fire spells, and no damage from non-magical weapons."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +3"
 source: BFRPG Field Guide
 ```

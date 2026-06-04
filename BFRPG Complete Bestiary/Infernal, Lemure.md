@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 claw (1d4)"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Telepathic Control
+  - name: "Telepathic Control"
     desc: "All other infernals can telepathically control a lemure without effort; while it is thus controlled, a lemure has a morale (WIS) of 11."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "A lemure regenerates 1 HP of normal damage per round, even if reduced to 0 HP; damage from magic weapons, fire, spells, or holy water cannot be regenerated in this way."
 actions:
-  - name: claw (1d4)
+  - name: "claw (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

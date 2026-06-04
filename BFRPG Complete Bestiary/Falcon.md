@@ -21,11 +21,11 @@ attack: "+0 (`dice: 1d20+0`) 2 talons / 1 beak"
 damage: "1d4 (`dice:1d4`) talon, 1d4 (`dice:1d4`) beak"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 actions:
-  - name: talons
+  - name: "talons"
     desc: "D20 to hit, 1d4 (`dice:1d4`) talon, 1d4 (`dice:1d4`) beak"
-  - name: talons
+  - name: "talons"
     desc: "D20 to hit, "
-  - name: beak
+  - name: "beak"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

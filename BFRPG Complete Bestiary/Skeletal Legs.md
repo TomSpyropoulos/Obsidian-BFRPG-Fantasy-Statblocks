@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 2"
 damage: "1d3 (`dice:1d3`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Gain surprise on 1-3 on 1d6."
-  - name: Turn as Skeleton
+  - name: "Turn as Skeleton"
     desc: "Can be Turned by a Cleric as a skeleton, with a +1 bonus to the roll."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm or hold magic. As they are mindless, no form of mind reading is of any use against them."
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus). However, they can still be damaged by bludgeoning attacks as normal."
 actions:
-  - name: 2
+  - name: "2"
     desc: "D20 to hit, 1d3 (`dice:1d3`)"
 source: BFRPG Field Guide
 ```

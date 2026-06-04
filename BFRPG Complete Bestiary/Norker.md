@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon + 1 bite"
 damage: "1d6 (`dice:1d6`) or by weapon, 1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "90-foot range."
-  - name: Bite Attack
+  - name: "Bite Attack"
     desc: "When using a small- or medium-sized melee weapon, a norker may also bite for 1d4 points of damage with its long fangs."
 actions:
-  - name: weapon + 1 bite
+  - name: "weapon + 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon, 1d4 (`dice:1d4`) bite"
 source: BFRPG Field Guide
 ```

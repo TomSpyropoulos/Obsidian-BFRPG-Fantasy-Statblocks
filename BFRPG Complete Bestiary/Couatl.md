@@ -21,32 +21,32 @@ attack: "+8 (`dice: 1d20+8`) 1 bite / 1 constrict / or spells/powers"
 damage: "1d4 (`dice:1d4`) bite + poison, 2d4 (`dice:2d4`) constrict"
 attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Bite does 1d3 points of damage plus deadly poison (Succeed on a DC 13 CON check or die instantly)."
-  - name: Constriction
+  - name: "Constriction"
     desc: "Wraps about its foe, causing 2d4 points of damage from constriction each round."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Casts spells as either a Wizard (40%), Cleric (40%), or sometimes as both (20%), equivalent to its levels (9th level)."
-  - name: At-Will Spells
+  - name: "At-Will Spells"
     desc: "Can cast at will: **detect evil**, **detect invisibile**, **detect magic**, **mind reading**, and **read languages**."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Keen senses, including paranormal, gives equivalent of Darkvision with a 90-foot range."
-  - name: Communication
+  - name: "Communication"
     desc: "Can speak Common, communicate freely with reptiles and avians, or use telepathic communication with intelligent creatures."
-  - name: Invisibility and Incorporeality
+  - name: "Invisibility and Incorporeality"
     desc: "Can become invisible and insubstantial (incorporeal). In this form, it moves at half speed in any direction, and can move through solid objects freely."
-  - name: Teleport
+  - name: "Teleport"
     desc: "Can teleport twice per day."
-  - name: Polymorph
+  - name: "Polymorph"
     desc: "Can **polymorph** itself freely, and will not hesitate to change into another, more effective form in combat."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) bite + poison, 2d4 (`dice:2d4`) constrict"
-  - name: constrict
+  - name: "constrict"
     desc: "D20 to hit, "
-  - name: or spells
+  - name: "or spells"
     desc: "D20 to hit, "
-  - name: powers
+  - name: "powers"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

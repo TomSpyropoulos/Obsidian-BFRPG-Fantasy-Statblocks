@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 1 tail smash (3d6) / 1 weapon / spells"
 damage: "3d6 (`dice:3d6`) tail smash, weapon, by spell"
 attributes: ["+1", "+2", "+1", "+3", "+1", "+1"]
 traits:
-  - name: Magic
+  - name: "Magic"
     desc: "Able to use magic, operating as if they were Wizards of two levels lower than their levels."
-  - name: Mounts
+  - name: "Mounts"
     desc: "Will often have giant sea horses as mounts."
 actions:
-  - name: tail smash (3d6)
+  - name: "tail smash (3d6)"
     desc: "D20 to hit, 3d6 (`dice:3d6`) tail smash, weapon, by spell"
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, "
-  - name: spells
+  - name: "spells"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

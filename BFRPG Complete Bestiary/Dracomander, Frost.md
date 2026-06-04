@@ -21,24 +21,24 @@ attack: "+9 (`dice: 1d20+9`) 1 bite or breath / 4 claws / 1 tail + cold"
 damage: "2d10 (`dice:2d10`) bite, 10d8 (`dice:10d8`) breath 1d8 (`dice:1d8`) claw, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round cold"
 attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Cold Aura
+  - name: "Cold Aura"
     desc: "All non-cold-resistant creatures within 20 feet suffer 1d8 points of damage per round from the cold."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Completely immune to all types of cold-based attacks."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Cold (Cone). Damage varies by age category."
 actions:
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 2d10 (`dice:2d10`) bite, 10d8 (`dice:10d8`) breath 1d8 (`dice:1d8`) claw, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round cold"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: tail + cold
+  - name: "tail + cold"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 4 claws + poison"
 damage: "1d8 (`dice:1d8`) claw + poison"
 attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 traits:
-  - name: Hallucinogenic Claws
+  - name: "Hallucinogenic Claws"
     desc: "It attacks by slashing with its claws, which have the effect of a powerful hallucinogen, making every tree or humanoid creature (including party members) appear as the fairy itself."
 actions:
-  - name: claws + poison
+  - name: "claws + poison"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw + poison"
-  - name: claws + poison
+  - name: "claws + poison"
     desc: "D20 to hit, "
-  - name: claws + poison
+  - name: "claws + poison"
     desc: "D20 to hit, "
-  - name: claws + poison
+  - name: "claws + poison"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

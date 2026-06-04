@@ -21,10 +21,10 @@ attack: "+13 (`dice: 1d20+13`) 1 bite"
 damage: "2d10 (`dice:2d10`)"
 attributes: ["+7", "+6", "+6", "+5", "+5", "+5"]
 traits:
-  - name: Grapple and Drag
+  - name: "Grapple and Drag"
     desc: "On any successful hit, a plesiosaur has established a hold on the victim, who will then be pulled into and under the water unless they can make a successful DC 16 CON check to break free. Note that a plesiosaur is not strong enough to thus move any creature weighing more than 1,000 pounds (half-ton)."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d10 (`dice:2d10`)"
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 2 fist / 1 bite + special"
 damage: "1d3 (`dice:1d3`) fist, 1d6 (`dice:1d6`) bite + 1d6 (`dice:1d6`) grab"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Grab and Rend
+  - name: "Grab and Rend"
     desc: "On a successful hit with both hands, a gorilla grabs and rends its opponent, doing the additional listed grab damage automatically."
 actions:
-  - name: fist
+  - name: "fist"
     desc: "D20 to hit, 1d3 (`dice:1d3`) fist, 1d6 (`dice:1d6`) bite + 1d6 (`dice:1d6`) grab"
-  - name: fist
+  - name: "fist"
     desc: "D20 to hit, "
-  - name: bite + special
+  - name: "bite + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

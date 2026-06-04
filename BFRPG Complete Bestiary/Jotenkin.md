@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon +1"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Cold Resistance
+  - name: "Cold Resistance"
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, a jotenkin receives a +4 bonus."
-  - name: Expert Seaman
+  - name: "Expert Seaman"
     desc: "Each is an expert seaman in the dragon-headed longboat that is customarily used."
-  - name: Strength
+  - name: "Strength"
     desc: "Even the smallest jotenkin receives a +1 damage bonus when using a weapon due to strength."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon +1"
 source: BFRPG Field Guide
 ```

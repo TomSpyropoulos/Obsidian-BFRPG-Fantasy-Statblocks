@@ -21,14 +21,14 @@ attack: "+10 (`dice: 1d20+10`) 1 bite+constriction, 6 claws or breath"
 damage: "2d10 (`dice:2d10`) bite, 1d8 (`dice:1d8`) constriction, 1d4 (`dice:1d4`) claw, or breath"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Bite and Constrict
+  - name: "Bite and Constrict"
     desc: "A behir will bite its foe and then coil around it. On following rounds, the behir causes 1d8 points of constriction damage and rakes at the victim with 6 of its claws for 1d4 points of damage each."
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Alternatively, a behir can swallow whole a small or medium-sized creature that it has bitten. The swallowed creature takes 1d8 points of damage each round. The swallowed creature may attempt to cut its way out using a small edged weapon such as a dagger to deal 20 points of damage to the behir's insides (AC 15). The behir may swallow multiple creatures and each must cut their own way out."
-  - name: Lightning Breath
+  - name: "Lightning Breath"
     desc: "A behir can breathe forth a bolt of lightning once every 10 rounds, dealing 7d6 points of damage to all in its path (20' long x 5' wide). Those struck may succeed on a DC 14 DEX check for half damage."
 actions:
-  - name: bite+constriction, 6 claws or breath
+  - name: "bite+constriction, 6 claws or breath"
     desc: "D20 to hit, 2d10 (`dice:2d10`) bite, 1d8 (`dice:1d8`) constriction, 1d4 (`dice:1d4`) claw, or breath"
 source: BFRPG Field Guide
 ```

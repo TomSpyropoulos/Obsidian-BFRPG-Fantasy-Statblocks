@@ -21,9 +21,9 @@ attack: "+1 (`dice: 1d20+1`) 2 claws or by weapon"
 damage: "1d2 (`dice:1d2`) claw, by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 actions:
-  - name: claws or by weapon
+  - name: "claws or by weapon"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, by weapon"
-  - name: claws or by weapon
+  - name: "claws or by weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

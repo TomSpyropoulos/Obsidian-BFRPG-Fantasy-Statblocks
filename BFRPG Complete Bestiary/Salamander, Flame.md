@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite + heat"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Heat Aura
+  - name: "Heat Aura"
     desc: "All non-fire-resistant creatures within 20' of the monster suffer 1d8 points of damage per round from the heat."
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to damage from any fire or heat attack."
-  - name: Languages
+  - name: "Languages"
     desc: "Speak the language of the Plane of Fire, and many will also know Elvish, Common, and/or Dragon."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite + heat
+  - name: "bite + heat"
     desc: "D20 to hit, 1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round"
 source: BFRPG Core
 ```

@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 fists or 1 projectile fruit"
 damage: "2d6 (`dice:2d6`) fist or 1d6 (`dice:1d6`) fruit"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Projectile Fruit
+  - name: "Projectile Fruit"
     desc: "During warmer months, can hurl fruit at range 120 feet for 1d6 damage, destroying the fruit. May fire while moving at normal rates."
-  - name: Tree Appearance
+  - name: "Tree Appearance"
     desc: "Legs fit together when closed to look like trunk of a tree. Motionless one is nearly indistinguishable from a normal tree."
-  - name: Languages
+  - name: "Languages"
     desc: "Speak traditional treant language, plus Common and Elvish. Most can manage a smattering of just about all other humanoid tongues."
 actions:
-  - name: fists or 1 projectile fruit
+  - name: "fists or 1 projectile fruit"
     desc: "D20 to hit, 2d6 (`dice:2d6`) fist or 1d6 (`dice:1d6`) fruit"
-  - name: fists or 1 projectile fruit
+  - name: "fists or 1 projectile fruit"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

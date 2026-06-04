@@ -21,24 +21,24 @@ attack: "+10 (`dice: 1d20+10`) 1 grasp (2d4) / 1d3 weapons (1d6 each)"
 damage: "2d4 (`dice:2d4`) grasp, 1d6 (`dice:1d6`) weapon"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Tentacle Reach
+  - name: "Tentacle Reach"
     desc: "Its tentacle-like appendages can reach up to 10 feet in any direction but lack precision, making it unclear how many weapons it can attack with each round. Roll the 1d3 each round to see how many weapon attacks it can make, however its appendages are relatively weak, so any weapon it wields only does 1d6 points of damage."
-  - name: Magical Staff
+  - name: "Magical Staff"
     desc: "One of its appendages usually holds a magical staff which it can use instead of making attacks with its weapons."
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "When the aergian amalgamation is draining a victim, the victim must succeed on a DC 14 CON check for each round in its grasp, or lose 1 energy level."
-  - name: Immune to Poison
+  - name: "Immune to Poison"
     desc: "An aergian amalgamation is immune to all poison."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "It has Darkvision out to a range of 60'."
-  - name: Light Sensitivity
+  - name: "Light Sensitivity"
     desc: "Very sensitive to light, and takes 1d4 points of damage per round in any light brighter than a torch."
-  - name: Blind Spot
+  - name: "Blind Spot"
     desc: "It cannot reach anything on its underside, and struggles to detect anything behind it that is not giving off light or making noise."
 actions:
-  - name: grasp (2d4)
+  - name: "grasp (2d4)"
     desc: "D20 to hit, 2d4 (`dice:2d4`) grasp, 1d6 (`dice:1d6`) weapon"
-  - name: 1d3 weapons (1d6 each)
+  - name: "1d3 weapons (1d6 each)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

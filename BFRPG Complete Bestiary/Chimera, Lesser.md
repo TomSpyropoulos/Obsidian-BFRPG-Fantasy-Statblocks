@@ -21,14 +21,14 @@ attack: "+7 (`dice: 1d20+7`) 2 claws, 1 bite, or 1 snake bite, or breath"
 damage: "1d6 (`dice:1d6`) claw, 1d10 (`dice:1d10`) bite, 1d6 (`dice:1d6`) snake bite + poison, or 3d4 (`dice:3d4`) breath"
 attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Fire Breath
+  - name: "Fire Breath"
     desc: "On the first round and every odd round thereafter, the goat head will shoot a ball of flames that will automatically hit one opponent for 3d4 points of damage; a successful DC 13 DEX check will half this damage."
-  - name: Poisonous Snake Bite
+  - name: "Poisonous Snake Bite"
     desc: "The bite of the snake head will cause 1d6 points of damage, and those bitten must succeed on a DC 13 CON check or suffer instant paralysis and eventually death."
 actions:
-  - name: claws, 1 bite, or 1 snake bite, or breath
+  - name: "claws, 1 bite, or 1 snake bite, or breath"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d10 (`dice:1d10`) bite, 1d6 (`dice:1d6`) snake bite + poison, or 3d4 (`dice:3d4`) breath"
-  - name: claws, 1 bite, or 1 snake bite, or breath
+  - name: "claws, 1 bite, or 1 snake bite, or breath"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

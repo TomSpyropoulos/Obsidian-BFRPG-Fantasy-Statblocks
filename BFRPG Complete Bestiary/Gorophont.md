@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 punch, 1 weapon or 1 trample"
 damage: "1d6 (`dice:1d6`) punch, by weapon, 3d6 (`dice:3d6`) trample"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Alertness
+  - name: "Alertness"
     desc: "Only has a 1 in 6 chance of being surprised."
-  - name: Tracking
+  - name: "Tracking"
     desc: "A gorophont has a 1 in 6 chance of casually observing tracks on the road, and a 3 in 6 chance to actively track a quarry; against known quarries, this increases to a 5 in 6 chance."
 actions:
-  - name: punch, 1 weapon or 1 trample
+  - name: "punch, 1 weapon or 1 trample"
     desc: "D20 to hit, 1d6 (`dice:1d6`) punch, by weapon, 3d6 (`dice:3d6`) trample"
 source: BFRPG Field Guide
 ```

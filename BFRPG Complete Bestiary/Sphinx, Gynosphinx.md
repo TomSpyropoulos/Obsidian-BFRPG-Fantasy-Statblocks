@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 claws + rake"
 damage: "2d4 (`dice:2d4`) claw, 2d4 (`dice:2d4`) rake"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Rake
+  - name: "Rake"
     desc: "On any successful attack with both of its claws, a gynosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."
-  - name: Superior Senses
+  - name: "Superior Senses"
     desc: "A gynosphinx has superior senses; each has the effect of both detect magic and detect invisible at all times (no need to cast a spell). It also has great wisdom and understanding, such that each gynosphinx has the effect of both read languages and read magic at all times. One can, for example, literally pick up an unknown Wizard scroll and immediately use it."
-  - name: Spell-like Powers
+  - name: "Spell-like Powers"
     desc: "In addition to these abilities, a gynosphinx has a number of spell-like powers which can be employed once per day each: clairaudience (as the potion), clairvoyance, dispel magic, locate object, and remove curse, all of which are cast at 7th-level of ability."
 actions:
-  - name: claws + rake
+  - name: "claws + rake"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 2d4 (`dice:2d4`) rake"
-  - name: claws + rake
+  - name: "claws + rake"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

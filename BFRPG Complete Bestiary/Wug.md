@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d8 (`dice:1d8`) punch, by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Ambush Tactics
+  - name: "Ambush Tactics"
     desc: "Prefers to attack from ambush and is cunning enough to use the terrain to its advantage."
-  - name: Take Prisoners
+  - name: "Take Prisoners"
     desc: "Will attempt to take prisoners when possible for later sacrifice."
-  - name: Tamed Monsters
+  - name: "Tamed Monsters"
     desc: "Known to tame other amphibious monsters, in particular giant frogs and toads as well as prince frogs; such creatures might be encountered in a wug lair."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) punch, by weapon"
 source: BFRPG Field Guide
 ```

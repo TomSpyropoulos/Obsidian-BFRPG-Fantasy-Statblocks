@@ -21,9 +21,9 @@ attack: "+2 (`dice: 1d20+2`) 2 hooves (1d4)"
 damage: "1d4 (`dice:1d4`) hoof"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 actions:
-  - name: hooves (1d4)
+  - name: "hooves (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) hoof"
-  - name: hooves (1d4)
+  - name: "hooves (1d4)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

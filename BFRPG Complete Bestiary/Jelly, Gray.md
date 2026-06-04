@@ -21,10 +21,10 @@ attack: "+3 (`dice: 1d20+3`) 1 pseudopod (2d8)"
 damage: "2d8 (`dice:2d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Acid Secretions
+  - name: "Acid Secretions"
     desc: "The acid secretions of the gray jelly can dissolve most organic matter and most metals; stone and glass are not affected, however. After a successful hit, the jelly will stick to the creature attacked, dealing 2d8 damage per round automatically. Normal (non-magical) armor or clothing dissolves and becomes useless immediately. Any non-magical weapon made of metal or wood which hits a gray jelly will be similarly destroyed. Magical weapons, armor, and clothing are allowed a saving throw (use the wearer's succeed on a DC 12 CON check, adding any magical 'plus' value to the roll if applicable)."
 actions:
-  - name: pseudopod (2d8)
+  - name: "pseudopod (2d8)"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

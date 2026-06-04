@@ -21,22 +21,22 @@ attack: "+10 (`dice: 1d20+10`) 6 blades or spell"
 damage: "2d12 (`dice:2d12`) blade, by spell"
 attributes: ["+5", "+3", "+3", "+3", "+5", "+3"]
 traits:
-  - name: Horrifying Visage
+  - name: "Horrifying Visage"
     desc: "Any who behold it must make a DC 14 WIS check or start madly babbling until calmed by a casting of **remove fear.** Once this save has been passed they are immune to this effect."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Three times per day a demonic automaton can call upon the power of its creator, giving it the ability to cast a Wizard spell of up to third level."
 actions:
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, 2d12 (`dice:2d12`) blade, by spell"
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, "
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, "
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, "
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, "
-  - name: blades or spell
+  - name: "blades or spell"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

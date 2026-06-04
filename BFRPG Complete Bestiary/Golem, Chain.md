@@ -21,20 +21,20 @@ attack: "+13 (`dice: 1d20+13`) 3 lashes + special"
 damage: "4d6 (`dice:4d6`) lash, + special"
 attributes: ["+7", "+5", "+6", "+5", "+7", "+5"]
 traits:
-  - name: Grappling Hold
+  - name: "Grappling Hold"
     desc: "When three successful attacks are made on a target in a single round, the chain golem has achieved a grappling hold and may apply a special attack to the victim the following round: constriction, tearing, or hurling. Characters thus held may escape with a successful DC 16 CON check, per the wrestling rules in the Basic Fantasy RPG Core Rules."
-  - name: Constriction
+  - name: "Constriction"
     desc: "A constriction attack does 12d8 points of damage, with a DC 16 STR check to take half the damage."
-  - name: Tearing
+  - name: "Tearing"
     desc: "A tearing attack attempts to rend the victim into pieces. Those with a Strength score of 15 or higher resist. Others must succeed on a DC 16 CON check or die instantly."
-  - name: Hurling
+  - name: "Hurling"
     desc: "A hurling attack launches the victim at high speed at a hard surface, doing 15d6 points of damage. A DC 16 CON check with the Dexterity bonus or penalty applied reduces damage by half."
 actions:
-  - name: lashes + special
+  - name: "lashes + special"
     desc: "D20 to hit, 4d6 (`dice:4d6`) lash, + special"
-  - name: lashes + special
+  - name: "lashes + special"
     desc: "D20 to hit, "
-  - name: lashes + special
+  - name: "lashes + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

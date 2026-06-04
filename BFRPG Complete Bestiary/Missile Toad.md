@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1d4 (`dice:1d4`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Contact Poison
+  - name: "Contact Poison"
     desc: "Contact-poison secretion transfers on touch with bare skin. Poison damage for 1d6 rounds."
-  - name: Missile Weapon
+  - name: "Missile Weapon"
     desc: "Can be tied to a shaft and used as a missile weapon by primitive tribes."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison"
 source: BFRPG Field Guide
 ```

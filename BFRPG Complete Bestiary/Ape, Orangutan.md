@@ -21,7 +21,7 @@ attack: "+2 (`dice: 1d20+2`) 1 maul"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
-  - name: maul
+  - name: "maul"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

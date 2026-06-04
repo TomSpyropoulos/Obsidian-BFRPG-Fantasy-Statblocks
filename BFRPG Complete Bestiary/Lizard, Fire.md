@@ -21,18 +21,18 @@ attack: "+7 (`dice: 1d20+7`) 2 claws / 1 bite or 1 breath"
 damage: "1d8 (`dice:1d8`) claw, 2d8 (`dice:2d8`) bite, 2d6 (`dice:2d6`) breath"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Engulfs a volume about 10 feet wide by 15 feet long. Normal saving throw allowed for half damage."
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to normal fire and take half-damage from magical fire attacks."
-  - name: Sleeping in Lair
+  - name: "Sleeping in Lair"
     desc: "If encountered in their lair, there is a 50% chance each is sleeping. Will awaken in 2d8 rounds after any commotion begins (or in a single round if attacked)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw, 2d8 (`dice:2d8`) bite, 2d6 (`dice:2d6`) breath"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite or 1 breath
+  - name: "bite or 1 breath"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

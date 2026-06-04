@@ -21,20 +21,20 @@ attack: "+3 (`dice: 1d20+3`) 1 breath"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+0", "+1", "+0", "+2", "+1", "+0"]
 traits:
-  - name: Fire Breath
+  - name: "Fire Breath"
     desc: "Can project fire from its openings; this breath weapon is in the form of a cone 5 feet wide at the base with a range of 5 feet in front of the creature. Anyone caught in the blaze suffers 2d6 points of fire damage; Succeed on a DC 12 DEX check for only half damage."
-  - name: Flight
+  - name: "Flight"
     desc: "Can fly (as the spell, at a rate of 20 feet per round) at will."
-  - name: Construct Immunities
+  - name: "Construct Immunities"
     desc: "Immune to poison, charm, and sleep; due to its nature it is also immune to fire."
-  - name: Vulnerability to Cold
+  - name: "Vulnerability to Cold"
     desc: "Takes double damage from ice or cold."
-  - name: Candle Dependency
+  - name: "Candle Dependency"
     desc: "Water or wind-based attacks may snuff the monster's candle, if it fails a DC 12 CON check. If a jack o'lantern's candle is snuffed, it becomes instantly dormant; re-lighting the candle will restore it to life."
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "When at rest or otherwise inert, it is impossible to tell from a normal fruit, as each can close its carved eyes, mouth, and other apertures and appear entirely ordinary."
 actions:
-  - name: breath
+  - name: "breath"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Field Guide
 ```

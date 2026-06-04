@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Able to regenerate much as do trolls (with the same limitations)."
-  - name: Disguise
+  - name: "Disguise"
     desc: "Appear to be normal hobgoblins, wearing toughened hides and wooden shields, blending in perfectly."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon"
 source: BFRPG Core
 ```

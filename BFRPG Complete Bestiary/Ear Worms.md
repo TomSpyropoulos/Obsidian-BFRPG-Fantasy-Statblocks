@@ -21,18 +21,18 @@ attack: "+0 (`dice: 1d20+0`) Special, see below"
 damage: "Special"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Infestation
+  - name: "Infestation"
     desc: "If any living creature makes prolonged contact with an infested wooden object or structure (at least one combat round), up to 1d8+8 of them will enter the creature, preferably via an orifice, but if necessary they will puncture the skin."
-  - name: Numbing Agent
+  - name: "Numbing Agent"
     desc: "They secrete a numbing agent that prevents the victim from feeling their presence."
-  - name: Damage Over Time
+  - name: "Damage Over Time"
     desc: "The larvae will eat away at the victim slowly, but as they move inward they will cause 1 point of damage every hour for each larva. The larva mature in 4d6 hours, at which point they move to the skin surface en-masse, doing an additional 1 point of damage each before emerging in their final form and flying off to mate and then find some rotten wood in which to lay their eggs."
-  - name: Side Effects
+  - name: "Side Effects"
     desc: "Those making entry through exposed skin will leave a scattering of tiny holes dotted with blood. Individuals who were infested by way of the ear sometimes report hearing distant music, chanting, or singing, never clear enough to be understood; this effect generally lasts until the larvae undergo their final transformation and leave the victim's body (or are killed somehow)."
-  - name: Cures
+  - name: "Cures"
     desc: "Cure disease will instantly kill all larvae infesting a creature. Drinking a poison potion is another method; whoever drinks the poison must succeed on a DC 12 CON check or die, but so must the larvae. Area-effect spells (such as fireball) do full damage to the victim but only half damage to the larvae; consider the entire group of larvae as a unit, where each point of damage kills one of them, and any remaining thereafter continue to damage the victim."
 actions:
-  - name: Special, see below
+  - name: "Special, see below"
     desc: "D20 to hit, Special"
 source: BFRPG Field Guide
 ```

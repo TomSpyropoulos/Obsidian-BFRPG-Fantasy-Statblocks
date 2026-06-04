@@ -21,13 +21,13 @@ attack: "+10 (`dice: 1d20+10`) 4 tools"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 actions:
-  - name: tools
+  - name: "tools"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: tools
+  - name: "tools"
     desc: "D20 to hit, "
-  - name: tools
+  - name: "tools"
     desc: "D20 to hit, "
-  - name: tools
+  - name: "tools"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

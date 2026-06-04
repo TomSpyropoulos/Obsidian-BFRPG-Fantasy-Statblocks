@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1 bite or special"
 damage: "1d6 (`dice:1d6`) or special"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Cicada Singing
+  - name: "Cicada Singing"
     desc: "Cicada singing is a normal activity, not an attack per se. Cicadas are usually singing 50% of the time.  Anyone within 20 feet of a singing giant cicada must make a DC 12 STR check or take 1d4 points of damage to internal organs and suffer complete hearing loss for 10 minutes. The save must be re-made each round the person is within the 20-foot range. For anyone failing the save three times in a row, the hearing loss becomes permanent.  Ear plugs prevent hearing loss, but offer no protection against the internal damage."
 actions:
-  - name: bite or special
+  - name: "bite or special"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or special"
 source: BFRPG Field Guide
 ```

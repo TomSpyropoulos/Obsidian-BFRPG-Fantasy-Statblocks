@@ -21,18 +21,18 @@ attack: "+7 (`dice: 1d20+7`) 1 weapon (also see mount)"
 damage: "1d8 (`dice:1d8`) or by weapon (also see mount)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Fear Aura
+  - name: "Fear Aura"
     desc: "Upon sighting a headless horseman, characters of less than 5th level must succeed on a DC 13 INT check or be stricken with fear, running away until out of sight."
-  - name: Fighter Abilities
+  - name: "Fighter Abilities"
     desc: "Each headless horseman is a Fighter with a level equivalent to its LVL, and attacks appropriately."
-  - name: Turning Resistance
+  - name: "Turning Resistance"
     desc: "Can be Turned by Clerics (as a vampire, but roll at -4)."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, and hold spells, as well as cold, acid, poison, and electricity."
-  - name: Undead Mount
+  - name: "Undead Mount"
     desc: "Always accompanied by its mount, usually an undead (skeletal steed or zombie horse), warhorse, or similar creature. Occasionally, a more powerful mount might accompany a higher-level headless horseman, perhaps even an undead dragon. This undead mount is fearless and can only be Turned if the headless horseman itself is successfully Turned first."
 actions:
-  - name: weapon (also see mount)
+  - name: "weapon (also see mount)"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon (also see mount)"
 source: BFRPG Field Guide
 ```

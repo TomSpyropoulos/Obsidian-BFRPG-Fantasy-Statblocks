@@ -21,20 +21,20 @@ attack: "+2 (`dice: 1d20+2`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or per spell"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Undead Resilience
+  - name: "Undead Resilience"
     desc: "Takes only half damage from blunt weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus). Must be literally hacked to pieces to be destroyed."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, and hold spells."
-  - name: Turn Resistance
+  - name: "Turn Resistance"
     desc: "May be Turned by a Cleric (as a wight)."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as it did when living, but cannot learn new spells."
-  - name: Silent Movement
+  - name: "Silent Movement"
     desc: "Moves silently."
-  - name: Sanity Loss
+  - name: "Sanity Loss"
     desc: "Slowly rots away and loses its sanity, represented by variable morale (WIS). An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence."
 actions:
-  - name: dagger or 1 spell
+  - name: "dagger or 1 spell"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or per spell"
 source: BFRPG Core
 ```

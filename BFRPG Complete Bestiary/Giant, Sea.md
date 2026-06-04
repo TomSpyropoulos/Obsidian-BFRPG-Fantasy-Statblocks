@@ -21,12 +21,12 @@ attack: "+9 (`dice: 1d20+9`) 1 giant weapon or 1 thrown rock"
 damage: "4d6 (`dice:4d6`) giant weapon, 3d6 (`dice:3d6`) rock"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Amphibious
+  - name: "Amphibious"
     desc: "Capable of breathing both air and water."
-  - name: Webbed Extremities
+  - name: "Webbed Extremities"
     desc: "Webbed fingers and toes make it harder for them to walk on land and restrict their manual dexterity."
 actions:
-  - name: giant weapon or 1 thrown rock
+  - name: "giant weapon or 1 thrown rock"
     desc: "D20 to hit, 4d6 (`dice:4d6`) giant weapon, 3d6 (`dice:3d6`) rock"
 source: BFRPG Field Guide
 ```

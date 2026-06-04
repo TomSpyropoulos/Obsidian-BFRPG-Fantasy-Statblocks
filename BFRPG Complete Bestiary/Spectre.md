@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 1 touch"
 damage: "Energy drain 2 levels/touch"
 attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "On any successful hit against a living creature, a spectre drains two life energy levels in addition to doing normal damage."
-  - name: Create Spawn
+  - name: "Create Spawn"
     desc: "Any character slain by a spectre will arise at the next sunset (but not sooner than 6 hours after death) as a spectre under the control of its killer."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "May be Turned by Clerics and are immune to sleep, charm and hold magics."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "Cannot be harmed by non-magical weapons."
 actions:
-  - name: touch
+  - name: "touch"
     desc: "D20 to hit, Energy drain 2 levels"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, touch"
 source: BFRPG Core
 ```

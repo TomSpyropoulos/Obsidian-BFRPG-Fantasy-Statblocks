@@ -21,30 +21,30 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite + poison"
 damage: "1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
 attributes: ["+0", "+1", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Echolocation
+  - name: "Echolocation"
     desc: "Exceptional hearing with echolocation at 120-foot range. Normal invisibility is easily detected, but magical silence effectively negates this power."
-  - name: Poor Eyesight
+  - name: "Poor Eyesight"
     desc: "Actual eyesight is quite poor (roughly 30 feet), and it suffers discomfort in bright sunlight (-1 attack penalty in bright or magical light)."
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "Its bite contains a toxin that causes 1 additional point of damage each round for 10 rounds as the poison travels through the body. Each round the affected can roll a DC 12 CON check to halt any further damage, although subsequent bites will produce the wounding effect anew (resetting the 10-round duration). Only one such point of poison damage is applied each round, even if multiple bites are scored without successfully saving."
-  - name: Detect Magic
+  - name: "Detect Magic"
     desc: "Can detect magic at will."
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Become invisible at will."
-  - name: Bestow Curse
+  - name: "Bestow Curse"
     desc: "Once per day can bestow curse (reverse of remove curse) as a 7th-level Wizard (usually utilizing the '-4 to attack rolls and saves' version)."
-  - name: Silver or Magical Weapons Required
+  - name: "Silver or Magical Weapons Required"
     desc: "Silver or magical weapons are required to strike a flederkatze."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "So long as it has at least 1 HP remaining, the creature regenerates 1 HP each round."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "It succeeds on a DC 12 INT check (including wands) with a +4 bonus."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d3 (`dice:1d3`) bite + poison"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite + poison
+  - name: "bite + poison"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

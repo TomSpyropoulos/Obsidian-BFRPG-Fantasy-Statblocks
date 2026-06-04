@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 2 claws, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Armor Class Variation
+  - name: "Armor Class Variation"
     desc: "The head of the sea lion is its weakest part, having an armor class of just 15, while the scaly body is tougher with an armor class of 17. In general, those attacking from the front may always strike at the head, while those attacking from the rear may not and those on either side may do so only if the player states such an intention."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

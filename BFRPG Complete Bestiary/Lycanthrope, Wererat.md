@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) or 1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can assume the form of a giant rat or an intermediate ratman form."
-  - name: Ratman Form
+  - name: "Ratman Form"
     desc: "The ratman form shares the animal form's immunity to normal weapons, and can deliver an identical bite, but in this form the wererat may use a normal weapon instead of biting. Note that the wererat in ratman form cannot bite and use a weapon in the same round."
 actions:
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

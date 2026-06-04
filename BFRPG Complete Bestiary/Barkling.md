@@ -21,14 +21,14 @@ attack: "+0 (`dice: 1d20+0`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) bite, or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30 feet range."
-  - name: Superior Tracking
+  - name: "Superior Tracking"
     desc: "Can track almost any living or corporeal undead creature by scent, even if it has been as much as a day since it passed."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "Use higher morale (WIS) figure (9) when a barkling group outnumbers their enemies by 3 combatants to 1 or more."
 actions:
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) bite, or by weapon"
 source: BFRPG Core
 ```

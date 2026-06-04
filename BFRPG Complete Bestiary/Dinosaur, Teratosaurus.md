@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite"
 damage: "1d4 (`dice:1d4`) claw, 3d6 (`dice:3d6`) bite"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Surprise on 1-3 on 1d6 when lying in wait in tall grass."
-  - name: Limited Stamina
+  - name: "Limited Stamina"
     desc: "Able to maintain full speed for only about 6 rounds before being obliged to move at half-speed until they can rest."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 3d6 (`dice:3d6`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

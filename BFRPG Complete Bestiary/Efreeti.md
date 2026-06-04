@@ -21,21 +21,21 @@ attack: "+9 (`dice: 1d20+9`) -"
 damage: "2d8 (`dice:2d8`) or special"
 attributes: ["+4", "+4", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Become invisible
+  - name: "Become invisible"
     desc: "Can become invisible at will, with unlimited uses per day."
-  - name: Assume gaseous form
+  - name: "Assume gaseous form"
     desc: "As the potion, up to one hour per day."
-  - name: Create illusions
+  - name: "Create illusions"
     desc: "As the spell phantasmal force but including sound as well as visual elements, three times per day."
-  - name: Create flame
+  - name: "Create flame"
     desc: "With unlimited uses; allows the efreet to cause a flame to appear in its hand or otherwise on its person at will; it behaves as desired by the efreet, becoming as large as a torchflame or as small as a candle, and ignites flammable material just as any ordinary flame does. The flame can be thrown as a weapon with a range of up to 60', causing 1d8 points of damage on a successful hit. The efreet can create another flame, and throw it as well if desired, once per round."
-  - name: Create a wall of fire
+  - name: "Create a wall of fire"
     desc: "As the spell, once per day."
-  - name: Assume flame-form
+  - name: "Assume flame-form"
     desc: "Efreet may assume the form of a column of fire at will, with no limit as to the number of times per day this power may be used; an efreeti in flame-form fights as if it were a fire elemental."
-  - name: Immunity to non-magical weapons
+  - name: "Immunity to non-magical weapons"
     desc: "Cannot be harmed by non-magical weapons."
-  - name: Fire resistance
+  - name: "Fire resistance"
     desc: "Immune to normal fire, and suffer only half damage from magical fire attacks."
 source: BFRPG Core
 ```

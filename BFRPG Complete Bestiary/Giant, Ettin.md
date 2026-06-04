@@ -21,16 +21,16 @@ attack: "+10 (`dice: 1d20+10`) 2 giant weapon"
 damage: "3d6 (`dice:3d6`) giant weapon (right hand), 2d8 (`dice:2d8`) giant weapon (left hand)"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
-  - name: Two-Headed
+  - name: "Two-Headed"
     desc: "Because each arm is controlled by a different head, the ettin may attack with both weapons, even against separate enemies."
-  - name: Great Strength
+  - name: "Great Strength"
     desc: "Adds +4 to damage rolls due to its great strength."
-  - name: Cunning Ambush
+  - name: "Cunning Ambush"
     desc: "Although quite stupid, ettins can be quite cunning, often setting up ambushes rather than charging into a fair fight."
 actions:
-  - name: giant weapon
+  - name: "giant weapon"
     desc: "D20 to hit, 3d6 (`dice:3d6`) giant weapon (right hand), 2d8 (`dice:2d8`) giant weapon (left hand)"
-  - name: giant weapon
+  - name: "giant weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

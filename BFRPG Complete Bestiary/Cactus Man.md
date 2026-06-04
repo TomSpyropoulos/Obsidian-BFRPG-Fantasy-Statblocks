@@ -21,14 +21,14 @@ attack: "+5 (`dice: 1d20+5`) 2 claws or hug"
 damage: "1d8 (`dice:1d8`) claw or 2d8 (`dice:2d8`) hug"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Hug
+  - name: "Hug"
     desc: "Attempt a hug, treated as a grapple that deals 2d8 damage each round."
-  - name: Plant Communication
+  - name: "Plant Communication"
     desc: "Can communicate empathically with plants."
 actions:
-  - name: claws or hug
+  - name: "claws or hug"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw or 2d8 (`dice:2d8`) hug"
-  - name: claws or hug
+  - name: "claws or hug"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,9 +21,9 @@ attack: "+6 (`dice: 1d20+6`) -"
 damage: "1d8 (`dice:1d8`) + 1d8 (`dice:1d8`)/round if swallowed"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Sensitive to Sound and Vibrations
+  - name: "Sensitive to Sound and Vibrations"
     desc: "Nearly blind, but can find prey regardless of light or darkness using sound and vibration."
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "On a natural attack roll of 19 or 20, swallows a single small humanoid or demi-human whole (such as a goblin or halfling). Swallowed victims suffer 1d8 damage per round and may only attack from inside with small cutting or stabbing weapons (dagger, etc.). No attack roll modifiers applied while fighting from inside."
 source: BFRPG Core
 ```

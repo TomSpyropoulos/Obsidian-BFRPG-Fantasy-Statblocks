@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1"
 damage: "2d8 (`dice:2d8`) bite, 3d6 (`dice:3d6`) tail"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Surprises on 1-4 on 1d6 when submerged."
-  - name: Stony Hide
+  - name: "Stony Hide"
     desc: "Takes half damage from piercing or edged weapons."
-  - name: Bottom Runner
+  - name: "Bottom Runner"
     desc: "Does not actually swim. The swim speed is a 'run' speed along the bottom of a waterway which it can navigate as easily as dry land."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 2d8 (`dice:2d8`) bite, 3d6 (`dice:3d6`) tail"
 source: BFRPG Field Guide
 ```

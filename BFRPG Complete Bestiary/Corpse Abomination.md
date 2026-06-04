@@ -21,20 +21,20 @@ attack: "+6 (`dice: 1d20+6`) 3 \u00d7 bludgeon (1d6)"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Wailing Stench
+  - name: "Wailing Stench"
     desc: "Anyone within 40 feet must succeed on a DC 13 CON check to avoid a -2 on all rolls."
-  - name: Leap
+  - name: "Leap"
     desc: "May compress and leap up to 60 feet."
-  - name: Size Variation
+  - name: "Size Variation"
     desc: "Vary in size from 8 to 20 feet across, with corresponding difference in LVL."
-  - name: Turning Resistance
+  - name: "Turning Resistance"
     desc: "Clerics find those with 6 LVL may be Turned while the larger variety are virtually unstoppable."
 actions:
-  - name: × bludgeon (1d6)
+  - name: "× bludgeon (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: × bludgeon (1d6)
+  - name: "× bludgeon (1d6)"
     desc: "D20 to hit, "
-  - name: × bludgeon (1d6)
+  - name: "× bludgeon (1d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

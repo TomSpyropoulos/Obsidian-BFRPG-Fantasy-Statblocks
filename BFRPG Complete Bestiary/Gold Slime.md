@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 dissolve"
 damage: "3d4 (`dice:3d4`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Gold Sense
+  - name: "Gold Sense"
     desc: "Can sense the presence and general direction of any gold within a mile of itself."
-  - name: Acid Dissolution
+  - name: "Acid Dissolution"
     desc: "Attempts to envelope victims' limbs, dissolving them with strong acid."
-  - name: Gold Recovery
+  - name: "Gold Recovery"
     desc: "All devoured gold is still present in the slime's body and can be extracted by boiling off the slime over a hot fire."
 actions:
-  - name: dissolve
+  - name: "dissolve"
     desc: "D20 to hit, 3d4 (`dice:3d4`)"
 source: BFRPG Field Guide
 ```

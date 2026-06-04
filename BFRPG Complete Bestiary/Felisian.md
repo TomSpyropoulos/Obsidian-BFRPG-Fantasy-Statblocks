@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 claw / 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "In combat, felisians surprise on a roll of 1-4 on 1d6."
-  - name: Preferred Combat Style
+  - name: "Preferred Combat Style"
     desc: "Though they will use weapons such as bows and short swords, they prefer to deliver the killing blow with their own claws."
 actions:
-  - name: claw
+  - name: "claw"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
-  - name: claw
+  - name: "claw"
     desc: "D20 to hit, "
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+12 (`dice: 1d20+12`) 1 (see below)"
 damage: "4d8 (`dice:4d8`)"
 attributes: ["+6", "+6", "+5", "+4", "+5", "+4"]
 traits:
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Surprises on 1-4 on 1d6. Combatants unable to see it suffer the usual penalty for attacking an invisible opponent."
-  - name: Strong and Fast
+  - name: "Strong and Fast"
     desc: "Can carry up to 1,000 pounds while moving at full speed."
-  - name: Grab
+  - name: "Grab"
     desc: "A creature can be grabbed by means of a normal attack roll. Once grabbed, only a very strong victim (18 Strength, or 4 or more levels) has any chance of escape; such a victim has a base 25% chance to escape, with a 10% bonus to their chance, per additional level in excess of 4. Creatures weighing more than 1,000 pounds can be grabbed but cannot be moved, and after a few rounds the aerial servant will give up. Note that a normal hit by an aerial servant is a grab, so that the victim, once grabbed, will suffer damage automatically each round thereafter."
-  - name: Rage
+  - name: "Rage"
     desc: "If an aerial servant cannot perform its assigned task for any reason, it will fly into a rage, seeking out and attacking the summoner. This is normally the only way an aerial servant can be made to attack."
-  - name: Tracking
+  - name: "Tracking"
     desc: "Can locate and track target creatures in much the same way as an invisible stalker."
 actions:
-  - name: (see below)
+  - name: "(see below)"
     desc: "D20 to hit, 4d8 (`dice:4d8`)"
 source: BFRPG Field Guide
 ```

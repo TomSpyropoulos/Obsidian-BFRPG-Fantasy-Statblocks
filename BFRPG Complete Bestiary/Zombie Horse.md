@@ -21,13 +21,13 @@ attack: "+3 (`dice: 1d20+3`) 2 hooves (1d6) / 1 bite (1d8)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, or hold magics."
-  - name: Turn as Ghoul
+  - name: "Turn as Ghoul"
     desc: "Can be Turned as if they were a ghoul."
-  - name: Always Acts Last
+  - name: "Always Acts Last"
     desc: "The zombie horse never has initiative and always acts last in any given round."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Take only half damage from blunt weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
 source: BFRPG Field Guide
 ```

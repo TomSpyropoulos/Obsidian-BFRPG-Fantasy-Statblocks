@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) 1 bite (3d4 + special) / 1 tail spine (2d10)"
 damage: "-"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Creatures man-sized or smaller can be swallowed whole on any roll 2 or more points higher than that needed to score a hit, and creatures swallowed suffer 1d8 points of damage per round thereafter. Those swallowed may only attack with small cutting or stabbing weapons that were already in hand before the victim was swallowed."
-  - name: Regurgitate
+  - name: "Regurgitate"
     desc: "If the manta ray fails a DC 12 WIS check it may regurgitate the victim and any treasure."
 source: BFRPG Field Guide
 ```

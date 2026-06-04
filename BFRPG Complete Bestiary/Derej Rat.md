@@ -21,10 +21,10 @@ attack: "+1 (`dice: 1d20+1`) 1 bite (1d4)"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Distributed Life Force
+  - name: "Distributed Life Force"
     desc: "Each time a Derej Rat is slain, its original hit points are distributed to any remaining derej rats in its group, until all of the derej rats are destroyed."
 actions:
-  - name: bite (1d4)
+  - name: "bite (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

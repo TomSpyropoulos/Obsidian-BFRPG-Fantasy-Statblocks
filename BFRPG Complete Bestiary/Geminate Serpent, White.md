@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 bite or 1 breath or 1 constrict"
 damage: "2d8 (`dice:2d8`) bite, breath, 2d6 (`dice:2d6`) constrict*"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Bury themselves in snow and leap forth, surprising on 1-4 on 1d6."
-  - name: Web Breath
+  - name: "Web Breath"
     desc: "Breath weapon ensnares prey. Web does not disappear like the web spell and will remain for years. Highly flammable."
-  - name: Lair
+  - name: "Lair"
     desc: "Underground burrows lined by webs to help ensnare unwary interlopers."
 actions:
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, 2d8 (`dice:2d8`) bite, breath, 2d6 (`dice:2d6`) constrict*"
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

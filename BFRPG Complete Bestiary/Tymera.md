@@ -21,24 +21,24 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 3 heads / 1 breath"
 damage: "1d6 (`dice:1d6`) claw, 2d4 (`dice:2d4`) head, 3d4 (`dice:3d4`) cold breath"
 attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Cold Breath
+  - name: "Cold Breath"
     desc: "The ice dragon head breathes forth a 50-foot long cone with a 10-foot wide end that causes 4d6 points of cold damage; victims may succeed on a DC 14 DEX check for one-half damage. This attack is usable up to 10 times in one day but no more than every other round."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "The tymera is immune to cold-based attacks."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak Dragon."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d4 (`dice:2d4`) head, 3d4 (`dice:3d4`) cold breath"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: heads
+  - name: "heads"
     desc: "D20 to hit, "
-  - name: heads
+  - name: "heads"
     desc: "D20 to hit, "
-  - name: heads
+  - name: "heads"
     desc: "D20 to hit, "
-  - name: breath
+  - name: "breath"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

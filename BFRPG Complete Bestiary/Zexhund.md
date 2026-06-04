@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 bludgeon (3d6)"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Hammer-head Strike
+  - name: "Hammer-head Strike"
     desc: "Can strike quickly with their hammer-like heads, doing 3d6 points of damage."
-  - name: Defensive Invisibility
+  - name: "Defensive Invisibility"
     desc: "If struck by a blow, they instantly become invisible until they make another attack."
-  - name: Non-aggressive
+  - name: "Non-aggressive"
     desc: "Will often retreat once they become invisible."
 actions:
-  - name: bludgeon (3d6)
+  - name: "bludgeon (3d6)"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

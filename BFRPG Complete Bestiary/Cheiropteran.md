@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 weapon"
 damage: "By weapon +2"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Echolocation
+  - name: "Echolocation"
     desc: "Blind (empty eye sockets sewn shut) but can 'see' through echolocation as a bat does."
-  - name: Immune to vision magic
+  - name: "Immune to vision magic"
     desc: "Immune to any magic involving vision, including most illusions."
-  - name: Vulnerable to magical silence
+  - name: "Vulnerable to magical silence"
     desc: "Magical silence affects them as darkness would affect a sighted creature."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +2"
 source: BFRPG Field Guide
 ```

@@ -21,28 +21,28 @@ attack: "+7 (`dice: 1d20+7`) 1 bite"
 damage: "1d6 (`dice:1d6`) bite"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Resistance to Surprise
+  - name: "Resistance to Surprise"
     desc: "The seven lesser eyes reduce the chance of being surprised to just 1 chance in 1d8 if the opponent is visible."
-  - name: Main Eye - Dispel Magic
+  - name: "Main Eye - Dispel Magic"
     desc: "The main eye projects a beam that dispels magic (as the spell) in a conical area 60 feet wide at the base and 120 feet long. This power functions constantly, virtually guaranteeing that all spells will eventually be ended, all potions and scrolls destroyed, and all permanent magic items suppressed in just a few rounds. The spell effect is applied as if the oculus rex were a spellcaster of the same level as its number of levels."
-  - name: Eye 1 - Cause Fear
+  - name: "Eye 1 - Cause Fear"
     desc: "Cause Fear (as the reverse of the remove fear spell)."
-  - name: Eye 2 - Slow
+  - name: "Eye 2 - Slow"
     desc: "Slow (as the spell)."
-  - name: Eye 3 - Charm Monster
+  - name: "Eye 3 - Charm Monster"
     desc: "Charm Monster (as the spell)."
-  - name: Eye 4 - Flesh to Stone
+  - name: "Eye 4 - Flesh to Stone"
     desc: "Flesh to Stone (as the spell) with a 30-foot range, affecting a single target who does not need to meet the monster's gaze to be affected."
-  - name: Eye 5 - Cold
+  - name: "Eye 5 - Cold"
     desc: "Cold (as the wand of cold)."
-  - name: Eye 6 - Sleep
+  - name: "Eye 6 - Sleep"
     desc: "Sleep (as the spell, but at the monster's option it may affect any one chosen target of any level who may succeed on a DC 13 INT check to resist)."
-  - name: Eye 7 - Telekinesis
+  - name: "Eye 7 - Telekinesis"
     desc: "Telekinesis (as the spell)."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "The monster regenerates slowly, such that any individual that survives an encounter will regrow any lost or damaged eyes (even the main one) and all will become functional when its hit points reach the normal figure once again."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite"
 source: BFRPG Field Guide
 ```

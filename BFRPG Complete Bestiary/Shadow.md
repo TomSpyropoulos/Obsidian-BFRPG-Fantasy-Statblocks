@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 touch"
 damage: "1d4 + 1 (`dice:1d4+1`) point Strength loss"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Strength Drain
+  - name: "Strength Drain"
     desc: "Attack drains 1 point of Strength. Victims reduced to 2 or fewer points of Strength collapse and become unable to move; those reduced to 0 Strength die and rise as shadows a day later (at nightfall). Strength points lost are recovered at a rate of 1 point per turn."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "Cannot be harmed by non-magical weapons."
-  - name: Not Undead
+  - name: "Not Undead"
     desc: "Despite their strange nature and appearance, shadows are not undead monsters, and thus cannot be Turned by a Cleric."
 actions:
-  - name: touch
+  - name: "touch"
     desc: "D20 to hit, 1d4 + 1 (`dice:1d4+1`) point Strength loss"
 source: BFRPG Core
 ```

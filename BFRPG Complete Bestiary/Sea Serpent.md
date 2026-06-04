@@ -21,10 +21,10 @@ attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Constrict Ship
+  - name: "Constrict Ship"
     desc: "Can wrap around a ship and constrict; roll 2d10 for damage to the vehicle, and reduce any effective Hardness by half."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Core
 ```

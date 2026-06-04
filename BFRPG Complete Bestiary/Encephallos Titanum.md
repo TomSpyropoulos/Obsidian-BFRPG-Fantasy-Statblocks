@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 spore spray"
 damage: "Special"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Spore Spray
+  - name: "Spore Spray"
     desc: "Whenever a large prey comes in contact with the flower, the appendage shoots a cloud of spores at it, point blank. A DC 13 DEX check must be made to avoid the spores, otherwise the victim suffers hallucinations for 1d4 turns, falls comatose thereafter, and rises as an infected under the control of the infectious mind after 1d6+8 hours."
-  - name: Telepathic Link
+  - name: "Telepathic Link"
     desc: "The telepathic link between the infected and the encephallos titanum can span up to twenty miles."
-  - name: Corm
+  - name: "Corm"
     desc: "The hit points given are for the plants and flower, but their destruction will not kill the corm, which must be unearthed and burned."
-  - name: Reproduction
+  - name: "Reproduction"
     desc: "Once it has bloomed, the infectious mind also produces 1d4 new tubers which it will want its infected spawns to bury under piles of corpses at the extremities of its telepathic range. These will become active in the next century."
 actions:
-  - name: spore spray
+  - name: "spore spray"
     desc: "D20 to hit, Special"
 source: BFRPG Field Guide
 ```

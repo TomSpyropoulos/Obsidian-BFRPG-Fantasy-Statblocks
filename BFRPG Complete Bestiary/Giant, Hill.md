@@ -21,7 +21,7 @@ attack: "+8 (`dice: 1d20+8`) 1 giant weapon (club)"
 damage: "2d8 (`dice:2d8`)"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 actions:
-  - name: giant weapon (club)
+  - name: "giant weapon (club)"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

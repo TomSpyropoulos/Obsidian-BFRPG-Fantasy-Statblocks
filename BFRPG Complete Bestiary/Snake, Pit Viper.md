@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite"
 damage: "1d4 (`dice:1d4`) + poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Those bitten by a pit viper must succeed on a DC 12 CON check or die."
-  - name: Thermal Pits
+  - name: "Thermal Pits"
     desc: "Thermally sensitive 'pits' between their eyes and nostrils are used to detect birds, mammals, and lizards. Can sense lizards even though they are cold-blooded because their temperature will often be slightly higher or lower than their surroundings."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison"
 source: BFRPG Core
 ```

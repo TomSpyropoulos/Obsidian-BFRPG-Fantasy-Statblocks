@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1"
 damage: "2d6 (`dice:2d6`) heat butt + special"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Charge
+  - name: "Charge"
     desc: "A ram may charge to attack, and if it hits damage is doubled."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 2d6 (`dice:2d6`) heat butt + special"
 source: BFRPG Field Guide
 ```

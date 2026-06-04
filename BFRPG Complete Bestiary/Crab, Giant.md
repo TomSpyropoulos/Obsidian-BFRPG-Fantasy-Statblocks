@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 2 pincers"
 damage: "2d6 (`dice:2d6`)/2d6 (`dice:2d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Eye stalks
+  - name: "Eye stalks"
     desc: "Giant crabs carry their eyes on armored stalks, which means that no bonus is awarded for attacking them from behind."
 actions:
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Core
 ```

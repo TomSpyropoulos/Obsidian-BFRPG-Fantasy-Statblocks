@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "By weapon"
 attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Superhuman Agility
+  - name: "Superhuman Agility"
     desc: "Their super-human agility counts as them having a +5 Dexterity modifier."
-  - name: Initiative Bonus
+  - name: "Initiative Bonus"
     desc: "A torok has a +5 initiative bonus (their inhuman dexterity)."
-  - name: Surprise
+  - name: "Surprise"
     desc: "Have a 1 in 12 chanced of be surprised."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon"
 source: BFRPG Field Guide
 ```

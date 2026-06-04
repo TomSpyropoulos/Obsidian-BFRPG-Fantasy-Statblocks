@@ -21,12 +21,12 @@ attack: "+7 (`dice: 1d20+7`) 1 bite"
 damage: "1d4 (`dice:1d4`) + poison bite"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Poison bite
+  - name: "Poison bite"
     desc: "If bitten, Succeed on a DC 13 CON check or die."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Each has the spell-casting abilities of a 5th level Wizard."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + poison bite"
 source: BFRPG Field Guide
 ```

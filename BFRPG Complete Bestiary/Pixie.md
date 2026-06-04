@@ -21,10 +21,10 @@ attack: "+1 (`dice: 1d20+1`) 1 dagger (1d4)"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+1", "-1", "+1", "+1", "+0"]
 traits:
-  - name: Invisible
+  - name: "Invisible"
     desc: "A pixie can become invisible at will, as many times per day as it wishes, and can attack while remaining invisible. Anyone attacking an invisible pixie does so with an attack penalty of -4 unless the attacker can somehow detect invisible creatures. Pixies may ambush their foes while invisible; if they do so, they surprise on 1-5 on 1d6."
 actions:
-  - name: dagger (1d4)
+  - name: "dagger (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Core
 ```

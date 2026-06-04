@@ -21,7 +21,7 @@ attack: "+3 (`dice: 1d20+3`) 1 bite (2d6)"
 damage: "-"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: All-around Vision
+  - name: "All-around Vision"
     desc: "Suffer no penalty to Armor Class when attacked from behind."
 source: BFRPG Field Guide
 ```

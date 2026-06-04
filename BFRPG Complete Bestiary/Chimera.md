@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 claws (1d4) / 1 lion bite (2d4) / 1 goat horns (1
 damage: "1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite (lion or dragon), 1d8 (`dice:1d8`) horns (goat), 3d4 (`dice:3d4`) dragon breath"
 attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Dragon Breath
+  - name: "Dragon Breath"
     desc: "The dragon head breathes a 50' long cone with a 10' wide end, for 3d6 points of damage; victims may succeed on a DC 13 DEX check for one-half damage. Breath type matches dragon head color (black, blue, green, red, or white)."
-  - name: Speak Dragon
+  - name: "Speak Dragon"
     desc: "Can speak Dragon but seldom bother to do so, except when toadying to more powerful creatures."
 actions:
-  - name: claws (1d4)
+  - name: "claws (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 2d4 (`dice:2d4`) bite (lion or dragon), 1d8 (`dice:1d8`) horns (goat), 3d4 (`dice:3d4`) dragon breath"
-  - name: claws (1d4)
+  - name: "claws (1d4)"
     desc: "D20 to hit, "
-  - name: lion bite (2d4)
+  - name: "lion bite (2d4)"
     desc: "D20 to hit, "
-  - name: goat horns (1d8)
+  - name: "goat horns (1d8)"
     desc: "D20 to hit, "
-  - name: dragon bite (2d4) or breath (3d6)
+  - name: "dragon bite (2d4) or breath (3d6)"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

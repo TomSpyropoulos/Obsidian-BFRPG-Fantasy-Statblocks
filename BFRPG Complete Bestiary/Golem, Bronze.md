@@ -21,12 +21,12 @@ attack: "+13 (`dice: 1d20+13`) 1 fist + special"
 damage: "3d10 (`dice:3d10`) + special"
 attributes: ["+7", "+6", "+6", "+5", "+7", "+5"]
 traits:
-  - name: Molten Interior
+  - name: "Molten Interior"
     desc: "Creatures hit by one in combat suffer an additional 1d10 damage from the heat (unless resistant to heat or fire). If one is hit in combat, molten metal spurts out, spraying the attacker for 2d6 damage. A DC 16 CON check is allowed to avoid the metal spray."
-  - name: Berserk
+  - name: "Berserk"
     desc: "When a bronze golem enters combat, there is a cumulative 1% chance each round that its elemental spirit will break free. Such a golem will go on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to cause more destruction. The golem's creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem; he or she must make a DC 16 INT check to succeed at this, and at least 1 round of time is required for each check. It takes 1 round of inactivity by the golem to reset the chance it will go berserk to 0%."
 actions:
-  - name: fist + special
+  - name: "fist + special"
     desc: "D20 to hit, 3d10 (`dice:3d10`) + special"
 source: BFRPG Core
 ```

@@ -21,11 +21,11 @@ attack: "+4 (`dice: 1d20+4`) 2 claws (1d4) / 1 bite (1d8)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Must have at least 50% of its body immersed in water for its regeneration to take effect. Regenerates from acid damage."
-  - name: Fear of Fire
+  - name: "Fear of Fire"
     desc: "Fears fire like other trolls; the lower WIS modifier (8) is used when the skragg faces attackers armed with fire."
-  - name: Communication
+  - name: "Communication"
     desc: "More likely to communicate with potential victims rather than just attack, demanding some sort of tribute; it will normally leave would-be victims alone if its demands are met."
 source: BFRPG Field Guide
 ```

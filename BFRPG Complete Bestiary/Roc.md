@@ -21,14 +21,14 @@ attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d6 (`dice:2d6`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Snatch
+  - name: "Snatch"
     desc: "Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Core
 ```

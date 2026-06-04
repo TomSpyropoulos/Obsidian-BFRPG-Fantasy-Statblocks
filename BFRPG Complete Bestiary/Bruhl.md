@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "60 feet range."
-  - name: Light Sensitivity
+  - name: "Light Sensitivity"
     desc: "Suffers a penalty of -1 on attack rolls in bright sunlight or within the radius of a light spell."
-  - name: Strength
+  - name: "Strength"
     desc: "Densely-muscled, receiving a +1 bonus to hit and damage due to strength."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon"
 source: BFRPG Field Guide
 ```

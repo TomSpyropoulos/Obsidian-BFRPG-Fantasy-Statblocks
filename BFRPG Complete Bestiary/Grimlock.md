@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 battleaxe (1d8)"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Blindsight
+  - name: "Blindsight"
     desc: "A grimlock can sense all foes within 40 feet as a sighted creature would. Beyond that range, treat all targets as having total concealment."
-  - name: Vulnerable to Sound and Scent
+  - name: "Vulnerable to Sound and Scent"
     desc: "A grimlock is susceptible to sound- and scent-based attacks however, and is affected normally by loud noises, sonic spells (such as silence 15' radius), and overpowering odors. Negating a grimlock's sense of smell or hearing reduces its ability to fight. If both of these senses are negated, a grimlock is effectively blinded."
-  - name: Immune to Visual Effects
+  - name: "Immune to Visual Effects"
     desc: "It is immune to gaze attacks, visual effects, illusions, and other attacks that rely on sight."
 actions:
-  - name: battleaxe (1d8)
+  - name: "battleaxe (1d8)"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

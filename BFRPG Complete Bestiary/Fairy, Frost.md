@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 4 icy shards + slow"
 damage: "1d8 (`dice:1d8`) icy shard + slow"
 attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 traits:
-  - name: Icy Shards
+  - name: "Icy Shards"
     desc: "Attacks by throwing shards of ice. The extreme cold of the shards reduces movements similar to a slow spell."
 actions:
-  - name: icy shards + slow
+  - name: "icy shards + slow"
     desc: "D20 to hit, 1d8 (`dice:1d8`) icy shard + slow"
-  - name: icy shards + slow
+  - name: "icy shards + slow"
     desc: "D20 to hit, "
-  - name: icy shards + slow
+  - name: "icy shards + slow"
     desc: "D20 to hit, "
-  - name: icy shards + slow
+  - name: "icy shards + slow"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 2 hooves/1 weapon"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`) or by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Charge
+  - name: "Charge"
     desc: "May charge with a spear or lance just as a man on horseback, with the same bonuses."
 actions:
-  - name: Hoof
+  - name: "Hoof"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: Hoof
+  - name: "Hoof"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

@@ -21,14 +21,14 @@ attack: "+6 (`dice: 1d20+6`) 2 claws / hex"
 damage: "2d6 (`dice:2d6`) claw, special"
 attributes: ["+1", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Hex
+  - name: "Hex"
     desc: "Hags have a special ability which they can use on any creature within 20 feet of them; the target must succeed on a DC 13 INT check. Upon failure, the GM rolls 1d6 and consults the table below:  1 - The target is charmed. 2 - Target's movement is reduced by half. 3 - The target suffers 2 points of damage for 1d6 turns. 4 - The target is stunned for one round. 5 - Roll a 1d6, referring to the order of ability scores. That ability score becomes 5 for 1d4 rounds. 6 - The target is confused; it will attack itself next round."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d6 (`dice:2d6`) claw, special"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: hex
+  - name: "hex"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

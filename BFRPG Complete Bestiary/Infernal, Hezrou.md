@@ -21,26 +21,26 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 1 bite or spell"
 damage: "1d4 (`dice:1d4`) claw, 4d4 (`dice:4d4`) bite, by spell"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Grab
+  - name: "Grab"
     desc: "If a hezrou hits with both claws it automatically grabs its opponent, preventing any normal man-sized or smaller foe from moving as well as gaining a +2 with all subsequent bite attacks. A victim held in this way cannot generally attack, but may break free with a normal roll to open doors."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Can only be damaged by magical weapons."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can freely communicate telepathically."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60 feet."
-  - name: Teleport
+  - name: "Teleport"
     desc: "At-will (as a 10th-level Wizard)."
-  - name: Cause Fear
+  - name: "Cause Fear"
     desc: "Can cause fear (remove fear spell reversed) as its action for a round of combat."
-  - name: Summon Hezrou
+  - name: "Summon Hezrou"
     desc: "Once per day can summon another hezrou, 20% chance of success. If the attempt fails, can try again as often as desired (once per round maximum) until it succeeds."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 4d4 (`dice:4d4`) bite, by spell"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite or spell
+  - name: "bite or spell"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

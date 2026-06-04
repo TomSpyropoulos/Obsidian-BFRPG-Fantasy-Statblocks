@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 2 claws or 1 weapon"
 damage: "1d6 (`dice:1d6`) claw or by weapon +1"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Mind reading
+  - name: "Mind reading"
     desc: "Their horns also provide a limited form of mind reading such that they cannot be surprised."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision up to 60 feet above ground; there must be some ambient light present."
 actions:
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw or by weapon +1"
-  - name: claws or 1 weapon
+  - name: "claws or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

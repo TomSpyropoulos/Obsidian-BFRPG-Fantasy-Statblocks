@@ -21,11 +21,11 @@ attack: "+6 (`dice: 1d20+6`) 2 bites (1d4 + poison)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Two-Headed
+  - name: "Two-Headed"
     desc: "Each head can attack a different opponent within that range."
-  - name: Poison
+  - name: "Poison"
     desc: "Any opponent bitten must succeed on a DC 13 CON check or die."
-  - name: Hoop Movement
+  - name: "Hoop Movement"
     desc: "Can clasp its mouths together, forming a hoop, and in this form move at double speed over relatively smooth terrain (especially including roads or trails) for an extended period of time. Cannot attack while moving in this fashion."
 source: BFRPG Field Guide
 ```

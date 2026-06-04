@@ -21,12 +21,12 @@ attack: "+9 (`dice: 1d20+9`) 1 giant weapon or 1 thrown rock"
 damage: "4d6 (`dice:4d6`) or 3d6 (`dice:3d6`)"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Thrown Rocks
+  - name: "Thrown Rocks"
     desc: "A frost giant can throw large stones up to 200' for 3d6 damage."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Frost giants are immune to all ice or cold-based attacks."
 actions:
-  - name: giant weapon or 1 thrown rock
+  - name: "giant weapon or 1 thrown rock"
     desc: "D20 to hit, 4d6 (`dice:4d6`) or 3d6 (`dice:3d6`)"
 source: BFRPG Core
 ```

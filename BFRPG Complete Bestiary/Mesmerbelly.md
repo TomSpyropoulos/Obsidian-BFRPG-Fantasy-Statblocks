@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 club"
 damage: "1d6 (`dice:1d6`) Club"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Mesmerize
+  - name: "Mesmerize"
     desc: "The mesmerbelly with the lowest Levels in the group can show cherished memories on its belly square. Anyone within 30 feet who can see the mesmerbelly's belly must succeed on a DC 12 INT check or be utterly mesmerized. The save may be repeated each round."
-  - name: Antenna Vulnerability
+  - name: "Antenna Vulnerability"
     desc: "Cutting off a mesmerbelly's antenna renders it unable to use its mesmerizing ability."
 actions:
-  - name: club
+  - name: "club"
     desc: "D20 to hit, 1d6 (`dice:1d6`) Club"
 source: BFRPG Field Guide
 ```

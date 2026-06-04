@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 1 bite/1 gaze"
 damage: "1d10 (`dice:1d10`)/petrification"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Petrifying Gaze
+  - name: "Petrifying Gaze"
     desc: "Any living creature meeting the gaze of a basilisk must succeed on a DC 13 STR check or be turned to stone instantly. In general, any creature surprised by the basilisk will meet its gaze. Those who attempt to fight the monster while averting their eyes suffer penalties of -4 to attack and -2 to AC. It is possible to use a mirror to fight the monster, in which case the penalties are -2 to attack and no penalty to AC. If a basilisk sees its own reflection in a mirror it must succeed on a DC 13 STR check or be turned to stone; a petrified basilisk loses its power to petrify. Basilisks instinctively avoid mirrors or other reflective surfaces, even drinking with their eyes closed, but if an attacker can manage to surprise the monster with a mirror it may see its reflection."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d10 (`dice:1d10`)"
-  - name: gaze
+  - name: "gaze"
     desc: "D20 to hit, petrification"
 source: BFRPG Core
 ```

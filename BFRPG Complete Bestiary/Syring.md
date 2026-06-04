@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 2 claws / 1 bite"
 damage: "1d10 (`dice:1d10`) claw, 1d6 (`dice:1d6`) bite + poison"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Impale
+  - name: "Impale"
     desc: "If on the same round both claws hit the same opponent it will impale them, then the syring can bite with its poisonous chelicerae."
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "A bitten individual must succeed on a DC 12 CON check at -3 or die."
-  - name: Poisonous Sublimation
+  - name: "Poisonous Sublimation"
     desc: "A wound will reveal the syring's soft and spongy inside that rapidly will sublimate into the air. Creatures near the wounded syring, other than syrings, must succeed on a DC 12 CON check or suffer a -2 to their rolls for 2d4 rounds."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d10 (`dice:1d10`) claw, 1d6 (`dice:1d6`) bite + poison"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

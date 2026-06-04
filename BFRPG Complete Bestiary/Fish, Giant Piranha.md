@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (1d8)"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Blood Sense
+  - name: "Blood Sense"
     desc: "Able to sense blood in the water just as sharks do. Once they smell or taste blood in the water, their morale (WIS) rises to 11."
 actions:
-  - name: bite (1d8)
+  - name: "bite (1d8)"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Core
 ```

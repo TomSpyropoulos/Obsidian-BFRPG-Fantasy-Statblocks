@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon or 2 claws"
 damage: "by weapon or 1d4 (`dice:1d4`) claw"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60 feet."
-  - name: Paralysis Resistance
+  - name: "Paralysis Resistance"
     desc: "Very resistant to paralysis (saving against it as a 9th-level Fighter)."
-  - name: Vulnerability to Cold Iron
+  - name: "Vulnerability to Cold Iron"
     desc: "Like other fey, they are vulnerable to cold iron. Weapons made of iron or steel deal an extra +1 damage to kreptax."
 actions:
-  - name: weapon or 2 claws
+  - name: "weapon or 2 claws"
     desc: "D20 to hit, by weapon or 1d4 (`dice:1d4`) claw"
 source: BFRPG Field Guide
 ```

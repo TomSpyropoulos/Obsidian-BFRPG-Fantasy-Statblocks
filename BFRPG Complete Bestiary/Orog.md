@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d10+1 (`dice:1d10+1`) or by weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60 feet."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks the language of orcs as well as Common and possibly Goblin, Dwarven, or Elvish."
-  - name: Clan Standard
+  - name: "Clan Standard"
     desc: "An orog sometimes marches into battle carrying a special standard representing their clan. While fighting under a standard all orogs and allied orcs gain a +1 bonus to attack rolls and morale (WIS)."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d10+1 (`dice:1d10+1`) or by weapon +1"
 source: BFRPG Field Guide
 ```

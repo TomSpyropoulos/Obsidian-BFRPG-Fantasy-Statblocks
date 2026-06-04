@@ -21,11 +21,11 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (1d10 + special)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Detect vibrations
+  - name: "Detect vibrations"
     desc: "Able to detect vibrations within 120 feet of their location."
-  - name: Surprise
+  - name: "Surprise"
     desc: "Gain surprise on a 1-4 on 1d6 by bursting up from beneath the sand."
-  - name: Swallow whole
+  - name: "Swallow whole"
     desc: "On a natural-20 attack roll, will swallow any human-sized or smaller creature whole, dealing 1d6 points of damage every round after swallowing them. The worm can only swallow one creature at a time. Creatures that have been swallowed can attempt to escape by dealing at least 15 points of damage to the worm with a small blade, such as a dagger from inside the belly of the beast, but it is extremely difficult to-hit under these circumstances, and only a roll of exactly 20 will hit."
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 bite (1d6 + paralysis + disease)"
 damage: "1d6 (`dice:1d6`) + paralysis + disease"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Those bitten must succeed on a DC 12 STR check or be paralyzed for 2d8 turns; elves are immune to this effect."
-  - name: Disease
+  - name: "Disease"
     desc: "Any successful bite has a 5% chance of causing a disease. Infected character will sicken in 3d6 hours, losing one point of Constitution per hour. After losing each point, the character is allowed a DC 12 CON check (adjusted by current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a ghoul). Immune to sleep, charm, or hold spells. Mindless, so no form of mind reading is of any use against it. Never fails morale (WIS), and always fights until destroyed."
 actions:
-  - name: bite (1d6 + paralysis + disease)
+  - name: "bite (1d6 + paralysis + disease)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + paralysis + disease"
 source: BFRPG Field Guide
 ```

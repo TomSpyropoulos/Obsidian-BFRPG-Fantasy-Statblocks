@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8+1 (`dice:1d8+1`) or by weapon +1"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "Surprise opponents on 1-3 on 1d6. In order to remain silent, they must wear only leather or hide armor."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30' range."
-  - name: Strength Bonus
+  - name: "Strength Bonus"
     desc: "+1 bonus on damage due to their great Strength."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8+1 (`dice:1d8+1`) or by weapon +1"
 source: BFRPG Core
 ```

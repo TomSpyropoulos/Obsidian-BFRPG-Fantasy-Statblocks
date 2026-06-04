@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 1 bite"
 damage: "1d8 (`dice:1d8`) + poison"
 attributes: ["+1", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Anything bitten by an ohberen must succeed on a DC 12 CON check or be injected with the neurotoxin which weakens its prey; the victim suffers a -3 penalty to AC and attack rolls for 1d3 + 1 rounds if they fail the save."
-  - name: Jump Attack
+  - name: "Jump Attack"
     desc: "More than capable of jumping over an enemy and attacking from behind in a single round (receiving the normal +2 bonus for attacking from behind)."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`) + poison"
 source: BFRPG Field Guide
 ```

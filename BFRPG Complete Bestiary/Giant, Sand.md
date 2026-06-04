@@ -21,10 +21,10 @@ attack: "+10 (`dice: 1d20+10`) 1 giant weapon or 2 fists"
 damage: "3d6 (`dice:3d6`) giant weapon, 3d6 (`dice:3d6`) fist"
 attributes: ["+5", "+3", "+4", "+3", "+3", "+3"]
 traits:
-  - name: Giant Bow
+  - name: "Giant Bow"
     desc: "Its bow has double the range of a standard longbow."
 actions:
-  - name: giant weapon or 2 fists
+  - name: "giant weapon or 2 fists"
     desc: "D20 to hit, 3d6 (`dice:3d6`) giant weapon, 3d6 (`dice:3d6`) fist"
 source: BFRPG Field Guide
 ```

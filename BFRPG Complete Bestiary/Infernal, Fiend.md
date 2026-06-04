@@ -21,22 +21,22 @@ attack: "+10 (`dice: 1d20+10`) 2 weapons (see below) or special"
 damage: "1d4+4 (`dice:1d4+4`) club, 1d6+6 (`dice:1d6+6`) mace (see below) or special"
 attributes: ["+5", "+5", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Regenerate at a rate of 2 hit points per round; damage inflicted by holy water (and possibly other holy items as determined by the GM) cannot be regenerated. Unlike a troll, a fiend will not continue to regenerate if reduced to zero or fewer hit points, but can in fact be slain in the normal way."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "As with most infernals, a fiend can only be damaged by magical weapons."
-  - name: Whip-like Tail
+  - name: "Whip-like Tail"
     desc: "Instead of making a normal attack, a fiend can choose to use its whip-like tail, which does 2d4 points of damage on a successful hit and holds fast the victim, if man-sized or smaller, inflicting an additional 2d4 points of damage each round. Worse, once a fiend has captured a victim in this way, it may then act as it wishes in subsequent rounds while maintaining the hold and doing the additional damage automatically; the only limitation is that the fiend is reduced to half movement. Such a trapped victim generally cannot attack, but may break free by rolling to open doors with 1d20 instead of the usual 1d6 die roll."
-  - name: Fear Aura
+  - name: "Fear Aura"
     desc: "Fiends radiate a powerful fear effect which functions as the spell cause fear affecting all in a 30-foot radius, with a DC 14 INT check allowed to resist. Anyone who successfully saves cannot be affected by that fiend's fear aura again for 24 hours. Other infernals are not affected by this power."
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "Fiends have several spell-like abilities that can be used once per round instead of performing a normal attack: wall of fire, detect invisible, dispel magic, polymorph self, and hold person."
-  - name: Summoning
+  - name: "Summoning"
     desc: "Once per day a fiend may also attempt to summon 1d4 barbed devils (page 145) with a 70% chance of success, and once per day may attempt to summon another fiend (55% chance of success). If either summoning fails, the fiend can try again as often as desired (once per round maximum) until it succeeds; treat these two summons as separate abilities (success of one does not affect the other)."
 actions:
-  - name: weapons (see below) or special
+  - name: "weapons (see below) or special"
     desc: "D20 to hit, 1d4+4 (`dice:1d4+4`) club, 1d6+6 (`dice:1d6+6`) mace (see below) or special"
-  - name: weapons (see below) or special
+  - name: "weapons (see below) or special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

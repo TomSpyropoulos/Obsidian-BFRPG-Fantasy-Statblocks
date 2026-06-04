@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 1 weapon"
 damage: "By weapon + 2"
 attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Cast spells as a 12th-level Cleric."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immunity to sleep, hold, and charm spells, as well as illusions."
-  - name: Prophecy
+  - name: "Prophecy"
     desc: "Powers of prophecy allow them to see and predict their enemies' movements, meaning they are never surprised, and they always win initiative."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Telepathic abilities allow them to communicate with any creatures within 100 feet without the need for any verbal communication."
-  - name: Heightened Senses
+  - name: "Heightened Senses"
     desc: "Heightened sense of danger and can 'taste' deception."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon + 2"
 source: BFRPG Field Guide
 ```

@@ -21,26 +21,26 @@ attack: "+8 (`dice: 1d20+8`) 2 fists or 1 boulder"
 damage: "1d10+4 (`dice:1d10+4`) fist, 3d6 (`dice:3d6`) boulder"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Create Darkness
+  - name: "Create Darkness"
     desc: "Once per day, can be used at will without needing magic words or gestures."
-  - name: Cause Minor Earthquake
+  - name: "Cause Minor Earthquake"
     desc: "Unlimited uses per day, can be used at will. Can cause objects to fall or be knocked over, and people to lose their footing."
-  - name: Move Through Stone
+  - name: "Move Through Stone"
     desc: "As the spell, up to one hour per day, can be used at will."
-  - name: Create Objects of Stone
+  - name: "Create Objects of Stone"
     desc: "Such as walls or pillars, up to 100 cubic feet in volume, once per day, can be used at will."
-  - name: Whirlwind Form
+  - name: "Whirlwind Form"
     desc: "May assume the form of a whirlwind of dust and stone at will, with no limit as to the number of times per day this power may be used. An aghar in whirlwind form fights as if it were an earth elemental."
-  - name: Immunity to Non-magical Weapons
+  - name: "Immunity to Non-magical Weapons"
     desc: "Cannot be harmed by non-magical weapons."
-  - name: Electricity Immunity
+  - name: "Electricity Immunity"
     desc: "Immune to normal electricity."
-  - name: Resistance
+  - name: "Resistance"
     desc: "Suffers only half damage from magical attacks based on either electricity or earth."
 actions:
-  - name: fists or 1 boulder
+  - name: "fists or 1 boulder"
     desc: "D20 to hit, 1d10+4 (`dice:1d10+4`) fist, 3d6 (`dice:3d6`) boulder"
-  - name: fists or 1 boulder
+  - name: "fists or 1 boulder"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

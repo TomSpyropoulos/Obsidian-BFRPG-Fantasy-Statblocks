@@ -21,7 +21,7 @@ attack: "+8 (`dice: 1d20+8`) 1 tail (3d6)"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 actions:
-  - name: tail (3d6)
+  - name: "tail (3d6)"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

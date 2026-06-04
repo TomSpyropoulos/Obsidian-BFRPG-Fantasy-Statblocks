@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 2 claws / 1 bite"
 damage: "1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Berserk Rage
+  - name: "Berserk Rage"
     desc: "A wounded badger flies into a berserk rage on its next round, clawing and biting madly at its opponent until one of them is dead; in this state it gains +2 on initiative die rolls, but suffers a penalty of -2 to its armor class."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

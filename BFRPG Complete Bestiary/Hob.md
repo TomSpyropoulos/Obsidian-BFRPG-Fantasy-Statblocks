@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+0", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Pride and Offense
+  - name: "Pride and Offense"
     desc: "If given new clothes, will go away forever. If offended, becomes a great nuisance until amends are made."
-  - name: Domestic Service
+  - name: "Domestic Service"
     desc: "Often found in civilized homes helping with chores. Only payment accepted is a bowl of porridge with a slab of butter on it."
-  - name: Scout
+  - name: "Scout"
     desc: "Makes an excellent scout. Skill with short bow or crossbow matches that of any goblin."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

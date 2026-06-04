@@ -21,22 +21,22 @@ attack: "+5 (`dice: 1d20+5`) 2 fists"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Superior Nocturnal Vision
+  - name: "Superior Nocturnal Vision"
     desc: "The sasquatch has nocturnal vision that is superior to human sight, though it does not have actual Darkvision."
-  - name: Climbing
+  - name: "Climbing"
     desc: "A sasquatch climbs nearly as easily as moving about by foot."
-  - name: Hiding
+  - name: "Hiding"
     desc: "Even for its size, the sasquatch hides in its home environment as easily as a halfling can in forested areas (with only 10% chance of detection), however they do not have this ability in other environments such as indoors or underground."
-  - name: Cold Resistance
+  - name: "Cold Resistance"
     desc: "A sasquatch is essentially immune to cold environmental effects and even extreme or magical cold causes half-damage. If a save is involved with such a cold-based effect it receives a +4 bonus."
-  - name: Weapon Use
+  - name: "Weapon Use"
     desc: "If a weapon is used the sasquatch gains a +2 bonus on its attacks due to its tremendous strength."
-  - name: Sound Mimicry
+  - name: "Sound Mimicry"
     desc: "Its ability to mimic sounds is extraordinary."
 actions:
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

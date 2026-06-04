@@ -21,10 +21,10 @@ attack: "+2 (`dice: 1d20+2`) 1 ram (1d4)"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Infravision
+  - name: "Infravision"
     desc: "120' range."
 actions:
-  - name: ram (1d4)
+  - name: "ram (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

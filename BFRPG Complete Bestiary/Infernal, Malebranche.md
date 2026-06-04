@@ -21,20 +21,20 @@ attack: "+5 (`dice: 1d20+5`) 1 tail / 1 weapon or spell"
 damage: "1d4 (`dice:1d4`) tail, by weapon, by spell"
 attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Magical weapons required
+  - name: "Magical weapons required"
     desc: "As the malebranche is an infernal, it can only be hurt by magical weapons (+1 or better)."
-  - name: Two-tined fork
+  - name: "Two-tined fork"
     desc: "Most malebranche will be armed with a two-tined fork that deals 2d6 points of damage."
-  - name: Barbed whip
+  - name: "Barbed whip"
     desc: "A minority of them will be armed with a barbed whip instead. The barbed whip only deals 1d4 points of damage, but will also stun an opponent for the same amount of rounds (unless a DC 13 WIS check is made). A stunned opponent cannot attack but can still defend themselves (no loss to AC)."
-  - name: Sharp tail
+  - name: "Sharp tail"
     desc: "It deals 1d4 points of damage and also causes the struck opponent to lose 1 HP every following round unless a healing spell or potion is used."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "It can cast wall of fire and cause fear once per day."
 actions:
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d4 (`dice:1d4`) tail, by weapon, by spell"
-  - name: weapon or spell
+  - name: "weapon or spell"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

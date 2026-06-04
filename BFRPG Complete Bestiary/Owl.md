@@ -21,13 +21,13 @@ attack: "+1 (`dice: 1d20+1`) 2 talons (1d4) / 1 beak (1d4)"
 damage: "-"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Silent Flight
+  - name: "Silent Flight"
     desc: "Ability to fly without making a sound."
-  - name: Superior Darkvision
+  - name: "Superior Darkvision"
     desc: "120' range."
-  - name: Sharp Vision
+  - name: "Sharp Vision"
     desc: "Vision is very sharp and comparable to that of a falcon."
-  - name: Keen Hearing
+  - name: "Keen Hearing"
     desc: "Can hear very well, even to the point that a rodent creeping through grass will draw attention."
 source: BFRPG Core
 ```

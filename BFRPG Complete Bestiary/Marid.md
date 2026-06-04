@@ -21,24 +21,24 @@ attack: "+8 (`dice: 1d20+8`) 1 slam or 1 water jet"
 damage: "2d8 (`dice:2d8`) slam, 2d6 (`dice:2d6`) water jet"
 attributes: ["+4", "+3", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Create Food and Drink
+  - name: "Create Food and Drink"
     desc: "Creating tasty and nourishing food for up to 2d6 humans or similar creatures, once per day."
-  - name: Become Invisible
+  - name: "Become Invisible"
     desc: "Unlimited uses per day."
-  - name: Assume Gaseous Form
+  - name: "Assume Gaseous Form"
     desc: "As the potion, up to one hour per day."
-  - name: Create Illusions
+  - name: "Create Illusions"
     desc: "As the spell phantasmal force but including sound as well as visual elements, three times per day."
-  - name: Control Water
+  - name: "Control Water"
     desc: "As the spell, with unlimited uses per day. This power allows the marid to manipulate water within a 10-foot cubic area per level of experience, creating currents, waves, whirlpools, and other effects as desired."
-  - name: Water Jet
+  - name: "Water Jet"
     desc: "May create a jet of water at will, with no limit as to the number of times per day this power may be used. This jet has a range of 60 feet and causes 2d6 points of damage on a successful attack."
-  - name: Immunity to Non-Magical Weapons
+  - name: "Immunity to Non-Magical Weapons"
     desc: "Due to their highly magical nature and extra-dimensional origin, marid cannot be harmed by non-magical weapons."
-  - name: Water Immunity
+  - name: "Water Immunity"
     desc: "Immune to normal water damage, including drowning, and suffer only half damage from magical attacks based on water."
 actions:
-  - name: slam or 1 water jet
+  - name: "slam or 1 water jet"
     desc: "D20 to hit, 2d8 (`dice:2d8`) slam, 2d6 (`dice:2d6`) water jet"
 source: BFRPG Field Guide
 ```

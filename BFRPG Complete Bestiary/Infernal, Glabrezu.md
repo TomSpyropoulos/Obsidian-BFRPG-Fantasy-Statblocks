@@ -21,22 +21,22 @@ attack: "+9 (`dice: 1d20+9`) 2 pincers / 2 fists / 1 bite"
 damage: "2d6 (`dice:2d6`) pincer, 1d3 (`dice:1d3`) fist, 1d4+1 (`dice:1d4+1`) bite"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Spell-like Powers
+  - name: "Spell-like Powers"
     desc: "A glabrezu can perform any of the following spell-like powers as often as desired, instead of attacking: cause fear (reverse of the remove fear spell), darkness (as the reverse of light) with a 10-foot radius, levitate, polymorph self, or telekinesis, all as if a 10th-level Wizard."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Glabrezu, like other infernals can only be damaged by magical weapons."
-  - name: Summon Aid
+  - name: "Summon Aid"
     desc: "Once per day a glabrezu may attempt to summon aid from other infernals. Roll 1d%: on a roll of 01-10, a vrock (page 159) appears; on 11-20, a hezrou (page 153); on 21-30, another glabrezu arrives; on a roll of 31-00, the attempt fails. If the attempt fails, the glabrezu can try again as often as desired (once per round maximum) until it succeeds."
 actions:
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, 2d6 (`dice:2d6`) pincer, 1d3 (`dice:1d3`) fist, 1d4+1 (`dice:1d4+1`) bite"
-  - name: pincers
+  - name: "pincers"
     desc: "D20 to hit, "
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, "
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

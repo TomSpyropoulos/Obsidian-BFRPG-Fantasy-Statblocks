@@ -21,22 +21,22 @@ attack: "+4 (`dice: 1d20+4`) 1 slam / 1 weapon"
 damage: "1d6+1 (`dice:1d6+1`) slam, by weapon"
 attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision out to 60 feet."
-  - name: Immune to fear
+  - name: "Immune to fear"
     desc: "Immune to fear."
-  - name: Magical strength
+  - name: "Magical strength"
     desc: "+1 bonus to both attack and damage rolls in melee combat due to its magical strength."
-  - name: Magic resistance
+  - name: "Magic resistance"
     desc: "25% resistance to magic spells."
-  - name: Fire weakness
+  - name: "Fire weakness"
     desc: "Taking 1 extra point per die of damage from fire attacks and suffers a -2 penalty to saves against fire-based attacks."
-  - name: Slow
+  - name: "Slow"
     desc: "-1 penalty to initiative rolls."
 actions:
-  - name: slam
+  - name: "slam"
     desc: "D20 to hit, 1d6+1 (`dice:1d6+1`) slam, by weapon"
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

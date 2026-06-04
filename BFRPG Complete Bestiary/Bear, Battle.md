@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 claws + hug or 2 spears"
 damage: "1d4+1 (`dice:1d4+1`) claw, 2d8 (`dice:2d8`) hug, 1d6 (`dice:1d6`) spear"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Four Arms
+  - name: "Four Arms"
     desc: "Two additional stubby arms at shoulders wield short spears."
-  - name: Charge Attack
+  - name: "Charge Attack"
     desc: "Charges at foes to skewer them on spears before clawing and hugging."
-  - name: Bone Plates
+  - name: "Bone Plates"
     desc: "Hardened plates of bone cover vital areas. Plates on head prevent effective biting."
 actions:
-  - name: claws + hug or 2 spears
+  - name: "claws + hug or 2 spears"
     desc: "D20 to hit, 1d4+1 (`dice:1d4+1`) claw, 2d8 (`dice:2d8`) hug, 1d6 (`dice:1d6`) spear"
-  - name: claws + hug or 2 spears
+  - name: "claws + hug or 2 spears"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

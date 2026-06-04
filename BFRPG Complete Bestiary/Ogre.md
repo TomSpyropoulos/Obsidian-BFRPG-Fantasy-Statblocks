@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 1 huge weapon"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Strength bonus
+  - name: "Strength bonus"
     desc: "If normal weapons are employed, an ogre has a +3 bonus to damage due to strength."
-  - name: Unarmed combat
+  - name: "Unarmed combat"
     desc: "If an ogre fights bare-handed, it does 1d8 subduing damage per hit."
 actions:
-  - name: huge weapon
+  - name: "huge weapon"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Core
 ```

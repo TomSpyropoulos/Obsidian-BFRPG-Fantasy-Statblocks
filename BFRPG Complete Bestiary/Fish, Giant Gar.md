@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 bite (5d4)"
 damage: "5d4 (`dice:5d4`)"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Can swallow prey of medium size or smaller whole with a natural 20 on the attack die. Swallowed creatures suffer an additional 2d4 points of damage automatically each round from acid. Giant gar has AC 11 on the inside. Only smallest weapons (such as daggers) can be used by swallowed creature. Damage at least equal to one quarter of the giant gar's full hit points must be inflicted to cut out."
-  - name: Collateral Damage
+  - name: "Collateral Damage"
     desc: "If a giant gar which has swallowed a victim is attacked by other creatures, there is a chance equal to 1-2 on 1d10 that successful attacks against the fish will cause equal damage to any such victim."
 actions:
-  - name: bite (5d4)
+  - name: "bite (5d4)"
     desc: "D20 to hit, 5d4 (`dice:5d4`)"
 source: BFRPG Field Guide
 ```

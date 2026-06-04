@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 2 fists"
 damage: "1d6 (`dice:1d6`) fist"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Semi-sentient
+  - name: "Semi-sentient"
     desc: "The magic thread that animates the raggidy gives it the barest hint of sentience, allowing the raggidy to act semi-independently and follow orders better than most constructs. Understands the language of its creator but does not speak."
-  - name: Fearless
+  - name: "Fearless"
     desc: "Will engage in melee with little thought for tactics or strategy."
-  - name: Flammable
+  - name: "Flammable"
     desc: "Highly flammable and takes double damage from fire-based attacks."
-  - name: Valuable Materials
+  - name: "Valuable Materials"
     desc: "The magical fabric is worth up to 1d6x100 gp to Wizards and tailors. If destroyed by fire, acid, or other such attacks, the material may be too damaged to sell."
 actions:
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, 1d6 (`dice:1d6`) fist"
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

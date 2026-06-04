@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 2 bites + lightning"
 damage: "2d4 (`dice:2d4`) bite, 1d8 (`dice:1d8`)/round lightning"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Lightning Aura
+  - name: "Lightning Aura"
     desc: "All creatures within 20 feet of the salamander that are not lightning-resistant suffer 1d8 points of damage per round."
-  - name: Electrical Immunity
+  - name: "Electrical Immunity"
     desc: "Immune to damage from any type of electrical or lightning attack."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak the language of the Plane of Air, and many will also know Elvish, Common, and/or Dragon."
-  - name: Two Heads
+  - name: "Two Heads"
     desc: "Despite having two heads a lightning salamander has only one mind; either head may speak or both may, but it is very rare to meet a lightning salamander who can speak different words with each head at the same time."
 actions:
-  - name: bites + lightning
+  - name: "bites + lightning"
     desc: "D20 to hit, 2d4 (`dice:2d4`) bite, 1d8 (`dice:1d8`)"
-  - name: bites + lightning
+  - name: "bites + lightning"
     desc: "D20 to hit, round lightning"
 source: BFRPG Core
 ```

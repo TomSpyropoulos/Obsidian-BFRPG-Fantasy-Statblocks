@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Swimming
+  - name: "Swimming"
     desc: "Can hold its breath up to 10 minutes."
-  - name: Languages
+  - name: "Languages"
     desc: "Has its own tongue, but many also speak the language of lizard-men and sometimes other swamp-dwelling beings."
 actions:
-  - name: bite or weapon
+  - name: "bite or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

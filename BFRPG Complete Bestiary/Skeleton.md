@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric. Immune to sleep, charm or hold magic. Mindless, immune to mind reading."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus)."
-  - name: Never Fail Morale
+  - name: "Never Fail Morale"
     desc: "Always fight until destroyed."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

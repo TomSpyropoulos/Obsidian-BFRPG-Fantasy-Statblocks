@@ -21,9 +21,9 @@ attack: "+1 (`dice: 1d20+1`) 1 spines (1d12) / 1 bite (1d4)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
-  - name: Defensive Spines
+  - name: "Defensive Spines"
     desc: "When cornered, launches itself at attackers with long porcupine-like spines erupting from its fur."
-  - name: Ferocious Bite
+  - name: "Ferocious Bite"
     desc: "If the spine attack hits, continues to attack ferociously by biting its adversary until removed by force or its attacker perishes."
 source: BFRPG Field Guide
 ```

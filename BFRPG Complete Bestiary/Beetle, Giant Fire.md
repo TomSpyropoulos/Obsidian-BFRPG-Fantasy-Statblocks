@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite (2d4)"
 damage: "2d4 (`dice:2d4`)"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Glowing Organs
+  - name: "Glowing Organs"
     desc: "Pair of glowing red organs illuminate a radius of 10 feet. Glands continue to glow for 1d6 days after death and may be removed for use as illumination."
-  - name: All-Around Vision
+  - name: "All-Around Vision"
     desc: "Those who attack from behind receive no bonus to do so."
 actions:
-  - name: bite (2d4)
+  - name: "bite (2d4)"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 1 engulf"
 damage: "1d6 (`dice:1d6`) + energy drain (1 level)"
 attributes: ["+4", "+4", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Engulf
+  - name: "Engulf"
     desc: "An amalgam attacks by engulfing a target with its 'body.' Creatures caught suffer 1d6 points of damage due to cold each round, and also suffer one level of energy drain. Those resistant to cold or naturally-adapted to cold conditions may make a DC 13 INT check every round to ignore the cold damage, but no saving throw applies to the energy drain."
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "An amalgam can cast the following spells at-will: hold person, invisibility, and silence 15' radius. It can also cast cloudkill once per day."
-  - name: Undead
+  - name: "Undead"
     desc: "Like all undead, an amalgam may be Turned by a Cleric (as a ghost) and is immune to sleep, charm, and hold magics."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "Due to their incorporeal nature, they cannot be harmed by non-magical weapons."
-  - name: Immune to Cold
+  - name: "Immune to Cold"
     desc: "They are also immune to the effects of cold."
 actions:
-  - name: engulf
+  - name: "engulf"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + energy drain (1 level)"
 source: BFRPG Field Guide
 ```

@@ -21,30 +21,30 @@ attack: "+6 (`dice: 1d20+6`) 8 tentacles/1 bite"
 damage: "1d4 (`dice:1d4`) per tentacle/1d10 (`dice:1d10`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Bite Attack
+  - name: "Bite Attack"
     desc: "In order to bite a creature, the giant squid must hit with at least two tentacles first."
-  - name: Grab
+  - name: "Grab"
     desc: "Any time a giant squid hits with at least one tentacle per each 75 pounds of weight of its prey, it has grabbed it; unless the victim can find a way to resist (using whatever method the player might think of and whatever rolls the GM may choose), they will be pulled into the water and thus be in danger of drowning. Don't forget to account for the weight of armor worn!"
-  - name: Ink Cloud
+  - name: "Ink Cloud"
     desc: "If a giant squid fails a DC 12 WIS check, it will squirt out a cloud of black 'ink' 30' in diameter and then jet away at twice normal speed for 3d8 rounds. If a group fails a DC 12 WIS check they will move away in random directions in hopes that at least one will escape any pursuit."
 actions:
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, 1d4 (`dice:1d4`) per tentacle"
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, 1d10 (`dice:1d10`)"
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

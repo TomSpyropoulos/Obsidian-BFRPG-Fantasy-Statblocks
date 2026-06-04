@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) 1 lance or 2 cannons"
 damage: "2d12 (`dice:2d12`) lance, 3d6 (`dice:3d6`) cannon"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Cannon Range
+  - name: "Cannon Range"
     desc: "Its cannons have an effective range of 300 feet. The cannons possess extreme destructive power, capable of causing severe deformation of the surroundings of its targets."
-  - name: Lance Charge
+  - name: "Lance Charge"
     desc: "If one gets close it will attack with its lance, charging up to twice its movement for the first attack."
-  - name: Construct
+  - name: "Construct"
     desc: "As a construct it possesses no mind of its own and therefore is not subject to charm, sleep, or similar effects."
 actions:
-  - name: lance or 2 cannons
+  - name: "lance or 2 cannons"
     desc: "D20 to hit, 2d12 (`dice:2d12`) lance, 3d6 (`dice:3d6`) cannon"
 source: BFRPG Field Guide
 ```

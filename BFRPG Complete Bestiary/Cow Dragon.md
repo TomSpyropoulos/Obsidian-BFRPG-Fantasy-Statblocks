@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 1 gore or breath"
 damage: "3d8 (`dice:3d8`) gore or 7d8 (`dice:7d8`) breath"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Exhales scalding hot milk in a 60-foot cone. Can be used seven times per day, but no more than once every other round. Does 7d8 points of damage; victims may make a DC 13 DEX check for half damage."
-  - name: Cow Dragon Cheese
+  - name: "Cow Dragon Cheese"
     desc: "Cheese made from curdled cow dragon milk is extremely rare and valuable. Any experienced cheese-maker can render cow dragon cheese from cow dragon milk, provided it is made within 6 hours of leaving the cow dragon's body. Each bite yields a random effect (1d6). Retains magical effects for 4 weeks after creation."
 actions:
-  - name: gore or breath
+  - name: "gore or breath"
     desc: "D20 to hit, 3d8 (`dice:3d8`) gore or 7d8 (`dice:7d8`) breath"
 source: BFRPG Field Guide
 ```

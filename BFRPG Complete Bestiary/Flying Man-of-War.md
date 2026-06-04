@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) Poison (if successful digest of victim)"
 damage: "1 HP (save vs. Paralysis) touch, if touch successful 1d6 (`dice:1d6`)/round digestive acid"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Paralyzing Venom
+  - name: "Paralyzing Venom"
     desc: "Touch attack deals 1 damage. Target must succeed on a DC 12 STR check or be stunned for 1d4 rounds."
-  - name: Digestive Acid
+  - name: "Digestive Acid"
     desc: "After stunning prey, deals 1d6 damage per round while digesting."
-  - name: Punctured Envelope
+  - name: "Punctured Envelope"
     desc: "If takes at least 6 points of damage from a single attack, envelope is punctured and it swiftly falls to the ground, immobile. Tentacles collapse in 10 feet radius and remain poisonous."
 actions:
-  - name: Poison (if successful digest of victim)
+  - name: "Poison (if successful digest of victim)"
     desc: "D20 to hit, 1 HP (save vs. Paralysis) touch, if touch successful 1d6 (`dice:1d6`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round digestive acid"
 source: BFRPG Field Guide
 ```

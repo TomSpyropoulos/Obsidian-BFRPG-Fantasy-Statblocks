@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 2 hooves/1 horn (+3 attack bonus)"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/1d6+3 (`dice:1d6+3`)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Cure Light Wounds
+  - name: "Cure Light Wounds"
     desc: "Three times per day a unicorn can cast cure light wounds by a touch of its horn."
-  - name: Dimension Door
+  - name: "Dimension Door"
     desc: "Once per day a unicorn can transport itself 360' (as the spell dimension door), and can carry a full load (possibly including a rider) while doing so. A light load for a unicorn is up to 300 pounds; a heavy load, up to 550 pounds."
-  - name: Magic Horn
+  - name: "Magic Horn"
     desc: "The horn is a +3 magic weapon, though its power fades if removed from the unicorn."
 actions:
-  - name: Hoof
+  - name: "Hoof"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: Hoof
+  - name: "Hoof"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: horn (+3 attack bonus)
+  - name: "horn (+3 attack bonus)"
     desc: "D20 to hit, 1d6+3 (`dice:1d6+3`)"
 source: BFRPG Core
 ```

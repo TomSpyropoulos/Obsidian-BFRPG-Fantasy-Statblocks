@@ -21,11 +21,11 @@ attack: "+4 (`dice: 1d20+4`) 2 claws/1 bite"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d4 (`dice:2d4`)"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
 source: BFRPG Core
 ```

@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 2 fists"
 damage: "2d8 (`dice:2d8`)/2d8 (`dice:2d8`)"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Cold and Fire Vulnerability
+  - name: "Cold and Fire Vulnerability"
     desc: "A magical attack that deals cold or fire damage slows a flesh golem (as the slow spell) for 2d6 rounds, with no saving throw."
-  - name: Lightning and Electricity Healing
+  - name: "Lightning and Electricity Healing"
     desc: "Attacks using lightning or electricity heal 1 point of damage per every 3 points the attack would normally inflict, rounded down; further, such an attack breaks any ongoing slow effect on the golem. As usual, healing will not increase the monster above its normal hit points. For example, a flesh golem hit by a lightning bolt which should deal 14 points of damage instead receives up to 4 points of healing."
 actions:
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

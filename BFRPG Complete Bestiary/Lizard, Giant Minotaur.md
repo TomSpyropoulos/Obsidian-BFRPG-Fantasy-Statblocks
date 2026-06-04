@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 2 claws (2d6) / 1 bite (3d6)"
 damage: "2d6 (`dice:2d6`) claw, 3d6 (`dice:3d6`) bite"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "Surprise on 1-3 on 1d6 in rocky surroundings due to mottled brown and grey coloration that resembles natural stone."
-  - name: Grab and Drag
+  - name: "Grab and Drag"
     desc: "Any man-sized or smaller prey that is bitten is held. The lizard will attempt to drag such prey to its lair (generally nearby) whether dead or alive, inflicting additional biting damage each round automatically. One will only release prey if it fails a DC 12 WIS check or is killed."
 actions:
-  - name: claws (2d6)
+  - name: "claws (2d6)"
     desc: "D20 to hit, 2d6 (`dice:2d6`) claw, 3d6 (`dice:3d6`) bite"
-  - name: claws (2d6)
+  - name: "claws (2d6)"
     desc: "D20 to hit, "
-  - name: bite (3d6)
+  - name: "bite (3d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

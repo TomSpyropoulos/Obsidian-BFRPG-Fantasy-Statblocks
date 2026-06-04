@@ -21,16 +21,16 @@ attack: "+4 (`dice: 1d20+4`) 2 claws, 1 bite (or 1 weapon, 1 claw, 1 bite)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite or by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Communication
+  - name: "Communication"
     desc: "Able to communicate with wolves and speak Common plus 4 other languages."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "A full pack (8 lonchani) will be accompanied by 1d4 wolves; for each lonchani below 8 in the pack another 1d4 wolves will be present."
-  - name: Hunting Skills
+  - name: "Hunting Skills"
     desc: "Tracking (85%), setting traps (80%), moving silently (75%), and hiding (90%)."
 actions:
-  - name: claws, 1 bite (or 1 weapon, 1 claw, 1 bite)
+  - name: "claws, 1 bite (or 1 weapon, 1 claw, 1 bite)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite or by weapon"
-  - name: claws, 1 bite (or 1 weapon, 1 claw, 1 bite)
+  - name: "claws, 1 bite (or 1 weapon, 1 claw, 1 bite)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

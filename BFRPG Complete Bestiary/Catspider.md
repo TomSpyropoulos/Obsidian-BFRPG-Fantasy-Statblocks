@@ -21,11 +21,11 @@ attack: "+0 (`dice: 1d20+0`) 1 bite (1d4 + poison) / 4 claws (1d2 + poison)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Bite and claws are poisonous, inflicting 1d3 points of damage/round for 3 rounds."
-  - name: Ambush
+  - name: "Ambush"
     desc: "Especially like to lurk behind drapes and furniture, and will suddenly jump out to attack."
-  - name: Disguise
+  - name: "Disguise"
     desc: "Fangs retract into the mouth, so the face looks like a normal cat."
 source: BFRPG Field Guide
 ```

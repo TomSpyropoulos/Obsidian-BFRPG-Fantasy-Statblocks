@@ -21,11 +21,11 @@ attack: "+5 (`dice: 1d20+5`) 2 forelegs (1d8) / 1 bite (1d12)"
 damage: "-"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Possesses a chameleon-like ability to change its exoskeleton color to blend in with its surroundings. Locating one that is hiding (from a distance) requires a roll of 1 on 1d6."
-  - name: Surprise
+  - name: "Surprise"
     desc: "A hunting praying mantis will surprise on 1-5 of 1d6."
-  - name: Flight
+  - name: "Flight"
     desc: "Can fly for brief periods, covering 120 feet in a hop, but will only do so to flee or cross rough terrain."
 source: BFRPG Field Guide
 ```

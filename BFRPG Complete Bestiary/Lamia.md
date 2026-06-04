@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 1 bite / 1 Constrict / 1 weapon"
 damage: "1d6 (`dice:1d6`)+poison bite, 2d6 (`dice:2d6`) constrict, by weapon"
 attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Poisonous Bite
+  - name: "Poisonous Bite"
     desc: "Causes paralysis for 1d4 turns when a victim fails a DC 13 CON check."
-  - name: Constrict
+  - name: "Constrict"
     desc: "Must first successfully grapple its target with a successful attack roll. Can then wrap its lower-body around the target. Every round after that, automatically deals 2d6 points of constriction damage. Hold may be broken by rolling beneath the characters strenth on 1d20."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "May cast spells as if they were a 5th-level Wizard."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`)+poison bite, 2d6 (`dice:2d6`) constrict, by weapon"
-  - name: Constrict
+  - name: "Constrict"
     desc: "D20 to hit, "
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1"
 damage: "2d4 (`dice:2d4`) + paralysis"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Transparency
+  - name: "Transparency"
     desc: "Surprise prey on a roll of 1-3 on 1d6."
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Any living creature hit must succeed on a DC 12 STR check or be paralyzed for 2d4 turns in addition to suffering damage from its acid secretions."
-  - name: Shape-shifting
+  - name: "Shape-shifting"
     desc: "Takes on the shape of its surroundings. Needs 2d4 rounds to push through narrow constrictions and will maintain new shape for twice as long as it took to pass the constriction."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 2d4 (`dice:2d4`) + paralysis"
 source: BFRPG Core
 ```

@@ -21,26 +21,26 @@ attack: "+8 (`dice: 1d20+8`) 2 claws"
 damage: "1d10 (`dice:1d10`) claw"
 attributes: ["+2", "+4", "+3", "+2", "+6", "+2"]
 traits:
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Casts spells as a 10th-level Cleric."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Limited telepathy: can impart up to 3 words per round to a distance of 300 feet."
-  - name: Swoop Attack
+  - name: "Swoop Attack"
     desc: "If able to swoop down on an enemy, attack receives a +2 bonus to-hit and damage increases to 2d8 per claw."
-  - name: Dimension Door
+  - name: "Dimension Door"
     desc: "Can use **dimension door** once per turn."
-  - name: Dispel Evil
+  - name: "Dispel Evil"
     desc: "Can use **dispel evil** once per hour."
-  - name: Teleport
+  - name: "Teleport"
     desc: "Can **teleport** without error once per day."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Takes no damage from non-magical weapons and only a single point of damage from magical weapons with a bonus smaller than +2."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to **sleep**, **hold**, and **charm** spells as well as **illusions**."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d10 (`dice:1d10`) claw"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

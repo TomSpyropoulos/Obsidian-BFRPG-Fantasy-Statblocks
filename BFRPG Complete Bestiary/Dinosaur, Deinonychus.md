@@ -21,7 +21,7 @@ attack: "+3 (`dice: 1d20+3`) 1 bite (1d8)"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
-  - name: bite (1d8)
+  - name: "bite (1d8)"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

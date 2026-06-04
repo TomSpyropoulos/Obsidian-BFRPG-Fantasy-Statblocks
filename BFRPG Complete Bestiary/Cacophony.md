@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 1 toot (1d6) / 2 bang (1d4) / 1 clash (2d8) / 1 din
 damage: "1d6 (`dice:1d6`) toot, 1d4 (`dice:1d4`) bang, 2d8 (`dice:2d8`) clash, cause fear ding"
 attributes: ["+3", "+2", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Ding
+  - name: "Ding"
     desc: "Once every three rounds the cacophony may use its 'ding', causing one target to succeed on a DC 12 INT check or run in fear for 2 turns, as the spell cause fear."
 actions:
-  - name: toot (1d6)
+  - name: "toot (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) toot, 1d4 (`dice:1d4`) bang, 2d8 (`dice:2d8`) clash, cause fear ding"
-  - name: bang (1d4)
+  - name: "bang (1d4)"
     desc: "D20 to hit, "
-  - name: bang (1d4)
+  - name: "bang (1d4)"
     desc: "D20 to hit, "
-  - name: clash (2d8)
+  - name: "clash (2d8)"
     desc: "D20 to hit, "
-  - name: ding (cause fear)
+  - name: "ding (cause fear)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

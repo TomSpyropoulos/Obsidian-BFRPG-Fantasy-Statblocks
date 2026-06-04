@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 bite"
 damage: "1d6 (`dice:1d6`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Languages
+  - name: "Languages"
     desc: "A worg speaks its own language. Some can also speak Common and Goblin."
-  - name: Trip
+  - name: "Trip"
     desc: "A worg that hits with a bite attack can attempt to trip the opponent as a free action. The target of the trip attack must succeed on a DC 12 CON check or fall to the ground."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite"
 source: BFRPG Field Guide
 ```

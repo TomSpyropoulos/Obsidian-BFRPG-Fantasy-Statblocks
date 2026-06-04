@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 2 bites"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Swift attacks
+  - name: "Swift attacks"
     desc: "Giant shrews move so swiftly that they are able to bite twice per round, and they may attack two different adjacent opponents in this way."
 actions:
-  - name: bites
+  - name: "bites"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bites
+  - name: "bites"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Core
 ```

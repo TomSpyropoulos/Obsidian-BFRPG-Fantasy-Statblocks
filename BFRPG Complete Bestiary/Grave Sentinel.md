@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Perceive without eyes
+  - name: "Perceive without eyes"
     desc: "Grave sentinels perceive the world around them without the need for eyes."
-  - name: Pass through material
+  - name: "Pass through material"
     desc: "They may pass through any material up to 40 feet thick except for lead and copper, through which they may not pass."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "They may become incorporeal at will, making them immune to physical attacks and preventing them from making attacks."
-  - name: Teleport
+  - name: "Teleport"
     desc: "Once per day, they may teleport up to 10 feet."
-  - name: Turn resistance
+  - name: "Turn resistance"
     desc: "Clerics may attempt to Turn grave sentinels as 5 LVL creatures."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, by weapon"
 source: BFRPG Field Guide
 ```

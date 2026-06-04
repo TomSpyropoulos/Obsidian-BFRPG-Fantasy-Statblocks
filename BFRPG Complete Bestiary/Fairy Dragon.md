@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 bite or breath or spell"
 damage: "1d2 (`dice:1d2`) bite or special"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Can become invisible at will, and remain invisible even while attacking."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Invisible cloud of gas 2 feet in diameter that causes any living creature in the area of effect to become euphoric unless a DC 12 DEX check is made. Euphoria lasts 1d4 turns, and while affected the creature wanders around aimlessly in a daze, unable to attack, cast spells, and suffering a -2 penalty to its armor class."
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can communicate with one another telepathically with a maximum range of 2 miles."
-  - name: Languages
+  - name: "Languages"
     desc: "Speak their own language as well as the languages of the smaller fey creatures such as sprites and pixies."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "All fairy dragons cast spells; 60% of them are equivalent to 5th-level Wizards, while the remaining 40% have the powers of 6th-level Clerics."
 actions:
-  - name: bite or breath or spell
+  - name: "bite or breath or spell"
     desc: "D20 to hit, 1d2 (`dice:1d2`) bite or special"
 source: BFRPG Field Guide
 ```

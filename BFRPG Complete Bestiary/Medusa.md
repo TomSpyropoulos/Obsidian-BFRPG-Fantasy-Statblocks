@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 snakebite + gaze"
 damage: "1d6 (`dice:1d6`)+poison + petrification"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Petrifying Gaze
+  - name: "Petrifying Gaze"
     desc: "The gaze of a medusa will petrify any creature who meets it unless a DC 12 STR check is made. In general, any creature surprised by the medusa will meet its gaze. Those who attempt to fight the monster while averting their eyes suffer penalties of -4 on attack rolls and -2 to AC."
-  - name: Mirror Reflection
+  - name: "Mirror Reflection"
     desc: "It is safe to view a medusa's reflection in a mirror or other reflective surface; anyone using a mirror to fight a medusa suffers a penalty of -2 to attack and no penalty to AC. If a medusa sees its own reflection, it must succeed on a DC 12 STR check itself; a petrified medusa is no longer able to petrify others, but the face of a medusa continues to possess the power to petrify even after death otherwise."
-  - name: Poisonous Snakes
+  - name: "Poisonous Snakes"
     desc: "The snakes growing from her head are poisonous (Succeed on a DC 12 CON check or die in one turn). They attack as a group, not individually, once per round for 1d6 damage (plus the poison)."
 actions:
-  - name: snakebite + gaze
+  - name: "snakebite + gaze"
     desc: "D20 to hit, 1d6 (`dice:1d6`)+poison + petrification"
 source: BFRPG Core
 ```

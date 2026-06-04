@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 1 tentacle or 1 tentacle + bite (at +4)"
 damage: "1d6 (`dice:1d6`) tentacle, 1d10 (`dice:1d10`) bite"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Tentacle Grab
+  - name: "Tentacle Grab"
     desc: "On a hit with tentacle (1d6 damage), victim must succeed on a DC 13 DEX check or be dragged to the core next round."
-  - name: Core Attack
+  - name: "Core Attack"
     desc: "If pulled into the body, makes two attacks (tentacle and mouth) with +4 bonus each."
 actions:
-  - name: tentacle or 1 tentacle + bite (at +4)
+  - name: "tentacle or 1 tentacle + bite (at +4)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tentacle, 1d10 (`dice:1d10`) bite"
 source: BFRPG Field Guide
 ```

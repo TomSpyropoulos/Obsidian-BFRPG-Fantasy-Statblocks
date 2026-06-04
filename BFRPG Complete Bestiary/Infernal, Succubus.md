@@ -21,22 +21,22 @@ attack: "+7 (`dice: 1d20+7`) 2 claws or by weapon + special"
 damage: "1d4 (`dice:1d4`) claw or by weapon"
 attributes: ["+1", "+2", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Life-Draining Kiss
+  - name: "Life-Draining Kiss"
     desc: "The kiss of a succubus will drain very life of its victim. A charmed victim will submit to this willingly; an unwilling target of such affections (one not charmed) must obviously be restrained. Each round of kissing applies one negative level to the recipient, and all lost HP are transferred to the succubus (even if this temporarily raises her above her normal maximum; excess points are temporary and only last a single day). Draining the life of a victim in this way is the succubus' preferred method of killing."
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can change shape into nearly any humanoid form, with size ranging from as small as a halfling to as large as a human, and of either physical gender and any appearance, even a perfect likeness of another character or humanoid creature. A succubus can change shape in a single round, and do so as often as desired."
-  - name: Spell-like Powers
+  - name: "Spell-like Powers"
     desc: "A succubus can perform any of the following spell-like powers as often as desired, instead of attacking: **charm person**, **mind reading**, **clairaudience** (as the potion), **darkness** (as the reverse of light) in a 5-foot radius, all as if a 6th-level Wizard."
-  - name: Summon Infernal
+  - name: "Summon Infernal"
     desc: "The majority of succubi (about 70% of them) have the ability to, once per day, attempt to summon another infernal to come to their aid. Roll 1d%: on a roll of 01-30, a nalfeshni (page 154) appears; on 31-40, a balor (see page 145) is summoned; on a roll of 41-00, the attempt fails. If the attempt fails, the succubus can try again as often as desired (once per round maximum) until it succeeds."
-  - name: Languages
+  - name: "Languages"
     desc: "Can speak any language."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to a range of 120 feet."
 actions:
-  - name: claws or by weapon + special
+  - name: "claws or by weapon + special"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw or by weapon"
-  - name: claws or by weapon + special
+  - name: "claws or by weapon + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

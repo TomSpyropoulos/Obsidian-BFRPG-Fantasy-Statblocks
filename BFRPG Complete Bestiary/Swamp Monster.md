@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 2 strikes (1d6 each)"
 damage: "1d6 (`dice:1d6`) strike"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Natural Camouflage
+  - name: "Natural Camouflage"
     desc: "50-1d6x10% chance (minimum 10%) of being detected. Surprise others on a 1-4 on 1d6 roll."
-  - name: Fear Effect
+  - name: "Fear Effect"
     desc: "Any living creature encountering a swamp monster must succeed on a DC 13 INT check or flee for 1d4 rounds. Those surprised by the monster must save at -5 and will start running the next round if the save is failed. Anyone who successfully makes this save may only be affected by a swamp monster if surprised but won't suffer the -5 save penalty."
-  - name: Lair Terrain
+  - name: "Lair Terrain"
     desc: "Lair terrain movement adjustment is ¼. Moving inside the huts requires succeed on a DC 13 STR check or be stuck in place. A swamp monster is never affected by any negative terrain modifiers. Finding treasure on their lair takes double the normal time while inside the huts is quadrupled."
 actions:
-  - name: strikes (1d6 each)
+  - name: "strikes (1d6 each)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) strike"
-  - name: strikes (1d6 each)
+  - name: "strikes (1d6 each)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

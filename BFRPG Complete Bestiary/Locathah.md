@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 spear or 1 light crossbow"
 damage: "1d6 (`dice:1d6`) spear or light crossbow"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Unique Crossbow
+  - name: "Unique Crossbow"
     desc: "Special crossbow has a range of 60 feet underwater as well as normal ranges on the surface."
-  - name: Unarmed
+  - name: "Unarmed"
     desc: "Lacks teeth, claws, and other natural weapons. Not especially dangerous if unarmed; will generally flee if caught unarmed."
 actions:
-  - name: spear or 1 light crossbow
+  - name: "spear or 1 light crossbow"
     desc: "D20 to hit, 1d6 (`dice:1d6`) spear or light crossbow"
 source: BFRPG Field Guide
 ```

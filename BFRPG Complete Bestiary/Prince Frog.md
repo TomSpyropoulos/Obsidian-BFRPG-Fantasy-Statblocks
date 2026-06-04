@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite + special"
 damage: "1d4 (`dice:1d4`) claw, 1d6 (`dice:1d6`) bite + paralysis"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Six Eye-Stalks
+  - name: "Six Eye-Stalks"
     desc: "Six eyes on stalks arranged in a hexagonal pattern. Can direct eyes any way it wishes. Many eyes combined with excellent hearing means cannot generally be surprised."
-  - name: Detect Invisible
+  - name: "Detect Invisible"
     desc: "Able to detect invisible continuously."
-  - name: Poisonous Skin
+  - name: "Poisonous Skin"
     desc: "Secretions cause any creature coming in contact to succeed on a DC 12 CON check or become comatose for 2d4 turns. During this period the victim will have strange and horrifying dreams. A comatose victim cannot be awakened by normal means until the duration has expired. Effect checked anytime prince frog successfully attacks. Secretions remain fully potent for 1d4 turns after being separated from creature. Weapons used to successfully attack may cause same effect if touched, though +2 bonus allowed on saving throw."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 1d6 (`dice:1d6`) bite + paralysis"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite + special
+  - name: "bite + special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

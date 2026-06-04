@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 2 claws (1d2) / 1 bite (1d4)"
 damage: "1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "If slain a manes turns into a foul-smelling gas cloud that seems to dissipate; after one day the manes reforms unharmed."
-  - name: Mind Immunity
+  - name: "Mind Immunity"
     desc: "Nearly mindless and cannot be affected by sleep, charm, or hold magics, nor by any magic affecting the mind."
 actions:
-  - name: claws (1d2)
+  - name: "claws (1d2)"
     desc: "D20 to hit, 1d2 (`dice:1d2`) claw, 1d4 (`dice:1d4`) bite"
-  - name: claws (1d2)
+  - name: "claws (1d2)"
     desc: "D20 to hit, "
-  - name: bite (1d4)
+  - name: "bite (1d4)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

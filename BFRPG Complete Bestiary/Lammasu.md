@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 2 claws"
 damage: "1d6 (`dice:1d6`) claw + special"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Spell Abilities
+  - name: "Spell Abilities"
     desc: "A lammasu has the spell abilities of a 6th-level Cleric."
-  - name: Invisible
+  - name: "Invisible"
     desc: "Can become invisible at will, as the spell."
-  - name: Dimension Door
+  - name: "Dimension Door"
     desc: "Teleport at will over short ranges as if casting dimension door."
-  - name: Protection from Evil
+  - name: "Protection from Evil"
     desc: "Constantly surrounded by protection from evil, 10' radius (as the spell)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw + special"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

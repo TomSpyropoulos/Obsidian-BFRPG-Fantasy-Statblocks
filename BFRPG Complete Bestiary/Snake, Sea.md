@@ -21,13 +21,13 @@ attack: "+3 (`dice: 1d20+3`) 1 bite (1 + poison)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Stealthy Bite
+  - name: "Stealthy Bite"
     desc: "Their bite does so little damage that the creature bitten has only a 50% chance to notice the attack."
-  - name: Deadly Poison
+  - name: "Deadly Poison"
     desc: "Any creature bitten must succeed on a DC 12 CON check at a penalty of -4 or die."
-  - name: Non-aggressive
+  - name: "Non-aggressive"
     desc: "Rarely attack; only if molested (grabbed, stepped on, etc.) will they do so."
-  - name: Clumsy on Land
+  - name: "Clumsy on Land"
     desc: "Very clumsy when out of the water."
 source: BFRPG Core
 ```

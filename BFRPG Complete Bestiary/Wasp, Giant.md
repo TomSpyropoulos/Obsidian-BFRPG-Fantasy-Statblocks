@@ -21,10 +21,10 @@ attack: "+4 (`dice: 1d20+4`) 1 sting (1d6 + poison)"
 damage: "1d6 (`dice:1d6`) + poison"
 attributes: ["+3", "+2", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "A victim stung by a giant wasp must succeed on a DC 12 CON check or die."
 actions:
-  - name: sting (1d6 + poison)
+  - name: "sting (1d6 + poison)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + poison"
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) None (special, see below)"
 damage: "None"
 attributes: ["+0", "+2", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Weather Immunity
+  - name: "Weather Immunity"
     desc: "A sylph is immune to the effects of even the most extreme normal weather conditions, ignoring heat, cold, icy rain, and even lightning. However, magical forms of these conditions have normal effect on them."
-  - name: Magical Abilities
+  - name: "Magical Abilities"
     desc: "While sylphs do not fight, they have the magical abilities of a 7th-level Wizard, and in addition can become invisible at will."
-  - name: Summon Air Elemental
+  - name: "Summon Air Elemental"
     desc: "One can also summon an air elemental (as the spell conjure elemental) once per week, with the added benefit that the elemental will never attack the sylph if she loses control of it; rather, it will simply return to its own plane of existence. Elementals summoned by a sylph using a normal spell or even a magic item behave in the same way."
 actions:
-  - name: None (special, see below)
+  - name: "None (special, see below)"
     desc: "D20 to hit, None"
 source: BFRPG Field Guide
 ```

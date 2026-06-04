@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 2 claws"
 damage: "1d4 (`dice:1d4`) claw + special"
 attributes: ["+0", "+1", "-1", "+3", "+2", "+0"]
 traits:
-  - name: Pixie Dust
+  - name: "Pixie Dust"
     desc: "When a ward pixie strikes a blow there is a 1 in 4 chance that a pinch of ash-like pixie dust will brush off on the target. The target must succeed on a DC 12 CON check or immediately despair and attempt suicide. For the next 5 rounds, unless restrained the victim will attempt to do the maximum bodily harm to themselves."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw + special"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

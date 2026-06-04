@@ -21,14 +21,14 @@ attack: "+6 (`dice: 1d20+6`) 1 slam (1d8 + poison)"
 damage: "1d8 (`dice:1d8`) + poison (paralysis)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Poison Mucus
+  - name: "Poison Mucus"
     desc: "Slam attack delivers poison. Victim must succeed on a DC 13 CON check or be paralyzed for 1 turn."
-  - name: Slippery Trail
+  - name: "Slippery Trail"
     desc: "Leaves a trail of slippery mucus. Anything attempting to sprint through it must succeed on a DC 13 CON check or fall and be subject to the poison's effects."
-  - name: Shell Retreat
+  - name: "Shell Retreat"
     desc: "If surrounded, may retreat into shell, gaining AC 20 and hardness 4."
 actions:
-  - name: slam (1d8 + poison)
+  - name: "slam (1d8 + poison)"
     desc: "D20 to hit, 1d8 (`dice:1d8`) + poison (paralysis)"
 source: BFRPG Field Guide
 ```

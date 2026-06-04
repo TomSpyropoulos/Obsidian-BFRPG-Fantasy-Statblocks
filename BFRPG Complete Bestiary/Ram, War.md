@@ -21,7 +21,7 @@ attack: "+3 (`dice: 1d20+3`) 1 horns or 2 hooves"
 damage: "1d6 (`dice:1d6`) horn, 1d4 (`dice:1d4`) hoof"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 actions:
-  - name: horns or 2 hooves
+  - name: "horns or 2 hooves"
     desc: "D20 to hit, 1d6 (`dice:1d6`) horn, 1d4 (`dice:1d4`) hoof"
 source: BFRPG Field Guide
 ```

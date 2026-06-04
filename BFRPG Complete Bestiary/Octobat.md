@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 4 tentacles or acid ink"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) acid ink"
 attributes: ["+4", "+3", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Entangle
+  - name: "Entangle"
     desc: "Against smaller or less powerful prey, if two or more tentacle attacks are successful, it will wrap itself about its target. The entangled individual is crushed and strangled, receiving 2d6 points of damage automatically each round (instead of regular tentacle attacks). The entangled individual must successfully roll an open doors attempt to break free, but may be entangled again in subsequent rounds."
-  - name: Acidic Ink
+  - name: "Acidic Ink"
     desc: "Can squirt an acidic ink at a single opponent up to 20 feet away, causing 3d6 points of damage (Succeed on a DC 13 DEX check for half-damage). Can also employ this attack against an entangled opponent. This attack is usable 4 times per day and not more than once every 1d4 rounds. This acidic ink can dissolve a web (such as the spell) in one full round."
-  - name: Acid Immunity
+  - name: "Acid Immunity"
     desc: "The octobat is immune to this acid ink (whether its own or from other octobats)."
 actions:
-  - name: tentacles or acid ink
+  - name: "tentacles or acid ink"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) acid ink"
-  - name: tentacles or acid ink
+  - name: "tentacles or acid ink"
     desc: "D20 to hit, "
-  - name: tentacles or acid ink
+  - name: "tentacles or acid ink"
     desc: "D20 to hit, "
-  - name: tentacles or acid ink
+  - name: "tentacles or acid ink"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

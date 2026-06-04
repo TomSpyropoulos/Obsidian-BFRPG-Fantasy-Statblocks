@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 2 claws / 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) claw, 1d6 (`dice:1d6`) bite, by weapon +1"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to a range of 120 feet."
-  - name: Light Sensitivity
+  - name: "Light Sensitivity"
     desc: "Suffers a -2 attack penalty in bright sunlight or within the radius of a light spell."
-  - name: Berserk Fury
+  - name: "Berserk Fury"
     desc: "If a grawl is reduced to 25% or less of its original hit points, it enters a berserk fury and gains a +2 bonus to its attack and damage rolls, but suffers a -2 penalty to its armor class. This rage lasts until the grawl is dead or all enemies are dead or out of sight."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw, 1d6 (`dice:1d6`) bite, by weapon +1"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

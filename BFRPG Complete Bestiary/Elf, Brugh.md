@@ -21,20 +21,20 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "By weapon"
 attributes: ["+0", "+0", "-1", "+3", "+2", "+0"]
 traits:
-  - name: Innate Magic
+  - name: "Innate Magic"
     desc: "Each brugh elf can detect magic at-will, become invisible at-will, and once per day can cast confusion as a 7th-level Wizard. Unlike a brownie, however, a brugh elf cannot attack or cast spells while invisible. A person peering through a stone with a naturally-bored hole in it can see an invisible brugh elf as though by a detect invisible spell."
-  - name: Enhanced Spellcasting
+  - name: "Enhanced Spellcasting"
     desc: "A brugh elf Wizard can be a particularly formidable foe, casting spells as through they are one level higher than other Wizards at that class level."
-  - name: Metal Vulnerability
+  - name: "Metal Vulnerability"
     desc: "Increased (+1) damage from metal weapons."
-  - name: Stone/Wood Resistance
+  - name: "Stone/Wood Resistance"
     desc: "Reduced (-1) damage from stone or wood weapons."
-  - name: Doorway Restriction
+  - name: "Doorway Restriction"
     desc: "Inability to enter any dwelling with a crafted metal object (e.g., horseshoe) placed over its doorway."
-  - name: Inscrutable Mind
+  - name: "Inscrutable Mind"
     desc: "An inscrutable mind makes brugh elves immune to charm or sleep spells, or any form of mind control."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon"
 source: BFRPG Field Guide
 ```

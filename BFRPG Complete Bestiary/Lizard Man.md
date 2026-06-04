@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d6+1 (`dice:1d6+1`) or by weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Swimming
+  - name: "Swimming"
     desc: "Excellent swimmers and can hold their breath for an extended period of time (up to a full turn). They cannot swim while wearing armor."
-  - name: Ambush
+  - name: "Ambush"
     desc: "They often hide in the water even while armored, standing on the bottom with just nose and eyes exposed (similar to a crocodile). When they are able to employ this maneuver, lizard men surprise on 1-4 on 1d6."
-  - name: Strength
+  - name: "Strength"
     desc: "Due to their great Strength they always receive a +1 to damage done with melee weapons."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d6+1 (`dice:1d6+1`) or by weapon +1"
 source: BFRPG Core
 ```

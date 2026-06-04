@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 special"
 damage: "special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Dissolves Organic Matter
+  - name: "Dissolves Organic Matter"
     desc: "Devours flesh and organic materials on contact. Can dissolve normal metal or enchanted wood in a turn and normal wood in 2d4 rounds. Does not harm stone or enchanted metal."
-  - name: Sunlight Vulnerability
+  - name: "Sunlight Vulnerability"
     desc: "Cannot grow in sunlight. Indirect sunlight stunts it and prevents spreading. Direct sunlight kills it within a turn."
-  - name: Contact Attack
+  - name: "Contact Attack"
     desc: "On first round of contact, can be scraped off (destroying scraping device). After that, must be frozen, burned, or cut away (dealing same damage to victim and jelly). Cure disease spell destroys a patch."
-  - name: Transformation
+  - name: "Transformation"
     desc: "If not destroyed or scraped off within 6+1d4 rounds, victim completely transforms into more green jelly. Cannot be retrieved by any magic short of a wish."
 actions:
-  - name: special
+  - name: "special"
     desc: "D20 to hit, special"
 source: BFRPG Core
 ```

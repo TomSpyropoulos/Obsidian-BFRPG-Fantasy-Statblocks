@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 1 weapon"
 damage: "By weapon or 1d4 (`dice:1d4`)"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "A baldander is able to take the exact form of any creature it kills, along with most of its abilities, including spells."
-  - name: Form Limitation
+  - name: "Form Limitation"
     desc: "A baldander can only acquire one form from a given species, although it can still acquire new spells by killing additional Wizards of the same species."
-  - name: Book of Forms
+  - name: "Book of Forms"
     desc: "The book is used to record every shape it has acquired along with any magical spells that were known by the creatures it has killed."
-  - name: Spell Limitation
+  - name: "Spell Limitation"
     desc: "A Baldander cannot acquire Clerical spells from their victims however."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon or 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

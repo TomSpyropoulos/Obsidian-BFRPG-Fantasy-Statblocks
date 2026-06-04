@@ -21,24 +21,24 @@ attack: "+3 (`dice: 1d20+3`) 6 tentacles"
 damage: "paralysis"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Those hit must succeed on a DC 12 STR check or be paralyzed 2d4 turns. No matter how many of a tentacle worm's attacks hit an opponent in a given round, only one saving throw is required in each such round."
-  - name: Multiple Attacks
+  - name: "Multiple Attacks"
     desc: "A tentacle worm can attack as many as three adjacent opponents."
-  - name: Feeding
+  - name: "Feeding"
     desc: "If all opponents of a tentacle worm are rendered paralyzed, it will begin to feed upon the paralyzed victims, doing 1 point of damage every 1d8 rounds until the victim is dead; if other paralyzed victims are still alive, the worm is 50% likely to move on immediately to another still-living victim. Otherwise, it continues to eat the corpse of the slain victim for 1d4 turns."
 actions:
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, paralysis"
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

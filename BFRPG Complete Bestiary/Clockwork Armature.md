@@ -21,20 +21,20 @@ attack: "+9 (`dice: 1d20+9`) 2 slash, 1 ray or steam"
 damage: "1d10 (`dice:1d10`) slash, 2d8 (`dice:2d8`) ray, 5d8 (`dice:5d8`) steam"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Energy Ray
+  - name: "Energy Ray"
     desc: "Fire a ray of blazing red energy from its 'eye' at a single target with a range of 120 feet, doing 2d8 points of damage."
-  - name: Steam Vent
+  - name: "Steam Vent"
     desc: "Every five rounds, can vent steam from the nozzles surrounding the 'eye' in a 60-foot long cone, for 5d8 points of damage (half on a successful DC 14 DEX check Weapon)."
-  - name: Fire Resistance
+  - name: "Fire Resistance"
     desc: "Takes only half damage from fire-based attacks."
-  - name: Electrical Vulnerability
+  - name: "Electrical Vulnerability"
     desc: "Electrical-based attacks (like lightning bolt, etc.) interfere with the delicate, metal interior components, causing double damage."
-  - name: Energy Ray Cylinder
+  - name: "Energy Ray Cylinder"
     desc: "If the head is recovered from a defeated armature, there is a 50% chance of finding an undamaged, engraved bronze cylinder, with a flat, glowing red lens at one end; this cylinder is what produces the armatures energy ray. If retrieved, it can be aimed by hand for the same effect as it had as the armature's 'eye'. The cylinder will have 2d12 charges remaining, and 2d6 charges may be regained by striking it with a lightning bolt."
 actions:
-  - name: slash, 1 ray or steam
+  - name: "slash, 1 ray or steam"
     desc: "D20 to hit, 1d10 (`dice:1d10`) slash, 2d8 (`dice:2d8`) ray, 5d8 (`dice:5d8`) steam"
-  - name: slash, 1 ray or steam
+  - name: "slash, 1 ray or steam"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

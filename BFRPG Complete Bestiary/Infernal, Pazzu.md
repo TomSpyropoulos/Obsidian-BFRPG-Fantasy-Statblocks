@@ -21,26 +21,26 @@ attack: "+8 (`dice: 1d20+8`) 2 claws (1d6) / 2 talons (1d8) / 1 bite (1d6)"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) talon, 1d6 (`dice:1d6`) bite"
 attributes: ["+4", "+4", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Insect Plague
+  - name: "Insect Plague"
     desc: "Can cast insect plague once per turn as a 12th-level Cleric."
-  - name: Animate Dead
+  - name: "Animate Dead"
     desc: "Can cast animate dead at-will as a 12th-level Cleric, preferring to animate dead animals."
-  - name: Storm Creation
+  - name: "Storm Creation"
     desc: "Can create storms strong enough to damage harvests."
-  - name: Aerial Combat
+  - name: "Aerial Combat"
     desc: "Can inflict all five of its attacks while in the air. Will fight on the ground without its talons only if its wings are damaged."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to non-magic weapons, normal fire, poison, and cold. Take half damage from fire."
 actions:
-  - name: claws (1d6)
+  - name: "claws (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) talon, 1d6 (`dice:1d6`) bite"
-  - name: claws (1d6)
+  - name: "claws (1d6)"
     desc: "D20 to hit, "
-  - name: talons (1d8)
+  - name: "talons (1d8)"
     desc: "D20 to hit, "
-  - name: talons (1d8)
+  - name: "talons (1d8)"
     desc: "D20 to hit, "
-  - name: bite (1d6)
+  - name: "bite (1d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

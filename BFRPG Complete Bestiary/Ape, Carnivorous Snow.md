@@ -21,12 +21,12 @@ attack: "+6 (`dice: 1d20+6`) 2 claws"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "A carnivorous snow ape is difficult to see in ice or snow, and thus surprises on 1-4 on 1d6 in such conditions."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

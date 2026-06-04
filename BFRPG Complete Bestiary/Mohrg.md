@@ -21,16 +21,16 @@ attack: "+11 (`dice: 1d20+11`) 1 slam or 1 tongue"
 damage: "1d6 (`dice:1d6`) or special"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Paralyzing Tongue
+  - name: "Paralyzing Tongue"
     desc: "4-foot long tongue attack. Target must succeed on a DC 14 STR check or become paralyzed for 6d4 rounds."
-  - name: Full Speed
+  - name: "Full Speed"
     desc: "Unlike zombies, mohrgs move at full speed and have no penalty to initiative."
-  - name: Undead
+  - name: "Undead"
     desc: "May be Turned by a Cleric (as a vampire). Immune to sleep, charm, or hold magic."
-  - name: Create Zombies
+  - name: "Create Zombies"
     desc: "Creatures killed by a mohrg rise after 1d4 days as ordinary zombies under the mohrg's control."
 actions:
-  - name: slam or 1 tongue
+  - name: "slam or 1 tongue"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or special"
 source: BFRPG Field Guide
 ```

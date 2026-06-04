@@ -21,7 +21,7 @@ attack: "+5 (`dice: 1d20+5`) 2 claws (1d10) / 1 bite (1d12)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 60 feet."
 source: BFRPG Field Guide
 ```

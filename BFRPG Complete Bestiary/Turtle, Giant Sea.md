@@ -21,9 +21,9 @@ attack: "+11 (`dice: 1d20+11`) 1 bite (4d4)"
 damage: "-"
 attributes: ["+5", "+4", "+4", "+3", "+3", "+3"]
 traits:
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Can swallow a victim of man-size or smaller whole on any natural roll of 19 or 20 on the attack die (assuming the attack hits); such victims can attack the creature's AC 13 interior only with short stabbing or cutting weapons such as daggers, but they suffer 2d8 points of damage per round from the creature's digestive secretions."
-  - name: Egg Laying
+  - name: "Egg Laying"
     desc: "Females come ashore on remote islands or rugged coastlines once a year in the early summer to lay a clutch of 2d8 eggs, which will be buried in the sand to be warmed by the sun until they hatch about six weeks later."
 source: BFRPG Field Guide
 ```

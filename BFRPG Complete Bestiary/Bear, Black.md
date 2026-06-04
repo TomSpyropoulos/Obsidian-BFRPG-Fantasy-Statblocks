@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 2 claws/1 bite + hug"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/1d6 (`dice:1d6`) + 2d6 (`dice:2d6`) hug"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Hug
+  - name: "Hug"
     desc: "If both claws hit, the bear hugs for an additional 2d6 damage."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite + hug
+  - name: "bite + hug"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + 2d6 (`dice:2d6`) hug"
 source: BFRPG Core
 ```

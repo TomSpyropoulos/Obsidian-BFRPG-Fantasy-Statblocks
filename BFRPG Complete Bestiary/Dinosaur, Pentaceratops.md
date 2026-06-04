@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 1 gore / 1 trample"
 damage: "2d10 (`dice:2d10`) gore or 2d10 (`dice:2d10`) (+ special) trample"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Trample
+  - name: "Trample"
     desc: "A pentaceratops will usually attempt to trample smaller opponents. Two adjacent man-sized or up to three smaller opponents may be trampled simultaneously; it rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit."
-  - name: Combined Attack
+  - name: "Combined Attack"
     desc: "The gore attack may only be used against a single man-sized or larger creature, but may be used in the same round as the trample if the creature being gored is larger than man sized. Also note that a charging bonus may be applied to the gore attack."
-  - name: Variable Armor Class
+  - name: "Variable Armor Class"
     desc: "The armor class of the pentaceratops depends on whether the attacker is in front of the creature, behind, or beside it."
 actions:
-  - name: gore
+  - name: "gore"
     desc: "D20 to hit, 2d10 (`dice:2d10`) gore or 2d10 (`dice:2d10`) (+ special) trample"
-  - name: trample
+  - name: "trample"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

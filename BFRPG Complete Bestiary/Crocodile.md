@@ -21,10 +21,10 @@ attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "When in their natural element, they surprise on 1-4 on 1d6."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Core
 ```

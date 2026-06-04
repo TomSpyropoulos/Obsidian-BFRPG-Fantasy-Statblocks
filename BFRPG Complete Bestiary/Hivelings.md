@@ -21,26 +21,26 @@ attack: "+1 (`dice: 1d20+1`) 2 claws or 2 weapons or 1 claw and 1 weapon (initia
 damage: "1d4 (`dice:1d4`) claws, 1d6 (`dice:1d6`) or by weapon"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Hive-Mind
+  - name: "Hive-Mind"
     desc: "All hivelings in a group are connected magically. morale (WIS) equals 2 plus the number of surviving hivelings in the group (maximum 12)."
-  - name: Shared Hit Points
+  - name: "Shared Hit Points"
     desc: "All hivelings of the same clan or tribe within a 120-foot radius contribute their hit points to a pool. Any damage is deducted from the pool. When remaining hit points are less than the number of individuals, they begin to fall, starting with the last one hit and spreading to those nearby."
-  - name: High Dexterity
+  - name: "High Dexterity"
     desc: "+4 bonus to armor class and all attacks with ranged weapons. When rolling for initiative, roll once for the entire group and add this bonus."
-  - name: Dual Wielding
+  - name: "Dual Wielding"
     desc: "Can attack freely with two melee weapons at no penalty."
-  - name: Pick Pockets
+  - name: "Pick Pockets"
     desc: "65% chance of success."
-  - name: Detect Magic
+  - name: "Detect Magic"
     desc: "Can detect the presence of magic items in a 30-foot radius, and can identify any magic item within 10 feet."
-  - name: Use Magic Items
+  - name: "Use Magic Items"
     desc: "Can activate any magic item usable by a Wizard (including those usable by any class). Can use items requiring command words without speaking them."
-  - name: Magic Item Preference
+  - name: "Magic Item Preference"
     desc: "Avoid items that are complex or have multiple abilities. Avoid items related to speaking languages. Not interested in scrolls or spell books."
 actions:
-  - name: claws or 2 weapons or 1 claw and 1 weapon (initiative +4)
+  - name: "claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claws, 1d6 (`dice:1d6`) or by weapon"
-  - name: claws or 2 weapons or 1 claw and 1 weapon (initiative +4)
+  - name: "claws or 2 weapons or 1 claw and 1 weapon (initiative +4)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

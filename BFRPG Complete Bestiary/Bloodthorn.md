@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 2 whip-like tendrils"
 damage: "1d6 (`dice:1d6`) + Grapple"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Grapple
+  - name: "Grapple"
     desc: "If a target is hit, it takes 1d6 points of damage, and unless it makes a DC 12 STR check it is grappled. Grappled prey is unable to do much except speak, or try to break free, until they make a successful DC 12 STR check."
-  - name: Long Reach
+  - name: "Long Reach"
     desc: "The plant's tendrils are quite long, allowing it to attack prey up to 60 feet away."
-  - name: Multiple Targets
+  - name: "Multiple Targets"
     desc: "The bloodthorn may attack two targets at once (one with each tendril) with no penalties to-hit."
-  - name: Vulnerability to Fire
+  - name: "Vulnerability to Fire"
     desc: "A bloodthorn's sap-filled branches are especially vulnerable to fire, and they take double damage from any fire-based attacks."
 actions:
-  - name: whip-like tendrils
+  - name: "whip-like tendrils"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + Grapple"
-  - name: whip-like tendrils
+  - name: "whip-like tendrils"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

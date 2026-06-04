@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 punch or mining pick"
 damage: "1d4 (`dice:1d4`) punch, 1d6 (`dice:1d6`) mining pick"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a zombie), and are immune to sleep, charm, or hold spells."
-  - name: Silver or magical weapons needed
+  - name: "Silver or magical weapons needed"
     desc: "Silver or magical weapons are needed to strike a tapper."
-  - name: Spawn undead
+  - name: "Spawn undead"
     desc: "A dwarf killed by a tapper will rise as a zombie in 1d6 rounds unless bless is cast upon its body."
 actions:
-  - name: punch or mining pick
+  - name: "punch or mining pick"
     desc: "D20 to hit, 1d4 (`dice:1d4`) punch, 1d6 (`dice:1d6`) mining pick"
 source: BFRPG Field Guide
 ```

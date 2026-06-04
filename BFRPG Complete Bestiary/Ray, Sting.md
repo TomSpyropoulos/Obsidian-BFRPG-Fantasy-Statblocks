@@ -21,9 +21,9 @@ attack: "+1 (`dice: 1d20+1`) 1 sting (1d4 + poison)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Concealment
+  - name: "Concealment"
     desc: "They lie close to the bottom and often cover themselves with sand, they may not be seen (surprising on a roll of 1-4 on 1d6)."
-  - name: Paralyzing Poison
+  - name: "Paralyzing Poison"
     desc: "If the sting ray's attack hits, the victim must succeed on a DC 12 CON check or become paralyzed for 5d4 turns. While this does not kill the victim directly, should they fall into the water, drowning is a likely outcome."
 source: BFRPG Field Guide
 ```

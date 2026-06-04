@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 bite (1d6 + 1d6/round blood drain)"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)/round (blood drain)"
 attributes: ["+2", "+2", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Despite the lack of visual organs, it can sense its surroundings like a bat and it effectively has Darkvision out to 60 feet."
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "After a successful bite it will hang on and drain an additional 1d6 points of damage every round."
-  - name: Attached
+  - name: "Attached"
     desc: "An eelbat can only be removed by killing it; any attack on the creature while attached receives an attack bonus of +2, but any attack that misses will hit its victim instead."
 actions:
-  - name: bite (1d6 + 1d6
+  - name: "bite (1d6 + 1d6"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`)"
-  - name: round blood drain)
+  - name: "round blood drain)"
     desc: "D20 to hit, round (blood drain)"
 source: BFRPG Field Guide
 ```

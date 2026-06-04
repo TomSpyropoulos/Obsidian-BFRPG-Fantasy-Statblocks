@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 thorn or bite"
 damage: "3d4 (`dice:3d4`) thorn or 1d8 (`dice:1d8`) bite"
 attributes: ["+0", "+3", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Hive-Mind
+  - name: "Hive-Mind"
     desc: "Coordinate without talking or any other visible way of communication. Can make saving throws due to their innate ability to communicate with each other."
-  - name: Swarm
+  - name: "Swarm"
     desc: "Each hit point of the swarm represents one individual elf bug. Only attack as groups."
-  - name: Weapon Attack
+  - name: "Weapon Attack"
     desc: "Entire swarm attacking with their weapons will do a combined 3d4 points of damage. 50% chance a successful attack will disarm the swarm (their weapons will have become lost, broken, or stuck in their victims)."
-  - name: Bite Attack
+  - name: "Bite Attack"
     desc: "Disarmed elf bugs will attack with their fierce mandibles, the entire swarms attack causing a combined 1d8 points of damage."
-  - name: Vulnerable to Normal Weapons
+  - name: "Vulnerable to Normal Weapons"
     desc: "Unlike insect swarms, elf bug swarms are not immune to normal weapons."
 actions:
-  - name: thorn or bite
+  - name: "thorn or bite"
     desc: "D20 to hit, 3d4 (`dice:3d4`) thorn or 1d8 (`dice:1d8`) bite"
 source: BFRPG Field Guide
 ```

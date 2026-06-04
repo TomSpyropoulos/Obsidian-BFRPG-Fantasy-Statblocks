@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 1 tentacle or by weapon"
 damage: "1d10 (`dice:1d10`) + paralysis tentacle, by weapon"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Perfect Disguise
+  - name: "Perfect Disguise"
     desc: "Can disguise themselves by donning the skin of a human or other humanoid, perfectly mimicking the appearance of their victim. This illusion can only be penetrated by means of the **true seeing** spell, or detected, though not seen through, by the **detect illusion** spell. **Detect magic** does not reveal this disguise."
-  - name: Memory Assimilation
+  - name: "Memory Assimilation"
     desc: "By consuming the victim's brain, they can assimilate 60-90% (determined by rolling 1d4x10+50) of the victim's memories and knowledge."
-  - name: Skin Preservation
+  - name: "Skin Preservation"
     desc: "The victim's skin is preserved by the octoperson's natural secretions, and remains viable as long as it is worn for at least ten hours within any three-day period. Failure to do so results in the skin becoming stiff and unusable."
-  - name: Paralysis Tentacle
+  - name: "Paralysis Tentacle"
     desc: "When struck with a tentacle, unless the target successfully succeeds on a DC 13 STR check, they are paralyzed for 2d8 turns."
-  - name: Egg Laying
+  - name: "Egg Laying"
     desc: "Reproduction involves laying eggs in living humanoid hosts. Hosts are usually paralyzed before being implanted with the egg, after which they are imprisoned for the three months it takes the egg to hatch. When the hatchling emerges, it takes its incubators skin as its first disguise."
 actions:
-  - name: tentacle or by weapon
+  - name: "tentacle or by weapon"
     desc: "D20 to hit, 1d10 (`dice:1d10`) + paralysis tentacle, by weapon"
 source: BFRPG Field Guide
 ```

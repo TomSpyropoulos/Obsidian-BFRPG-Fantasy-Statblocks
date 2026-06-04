@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) 1 smother"
 damage: "1d6 (`dice:1d6`) + 1d6 (`dice:1d6`) per round"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Ceiling Camouflage
+  - name: "Ceiling Camouflage"
     desc: "Surprises on 1-4 on 1d6 when lying flat against ceiling, camouflaged by stony-textured dark gray underbelly."
-  - name: Smother
+  - name: "Smother"
     desc: "Falls on and wraps around prey, holding immobile and rendering unable to breathe. Man-size or smaller creatures suffer 1d6 damage per round and remain conscious at most for 1d4+1 rounds. Victims may only fight if they have a short cutting or stabbing weapon already in hand before being attacked."
-  - name: Flight
+  - name: "Flight"
     desc: "Swims through air due to buoyant gas bladders in wings. If unable to fly, can only creep 1 foot per round."
 actions:
-  - name: smother
+  - name: "smother"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + 1d6 (`dice:1d6`) per round"
 source: BFRPG Field Guide
 ```

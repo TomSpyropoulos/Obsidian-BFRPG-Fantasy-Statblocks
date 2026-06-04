@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 2 bite"
 damage: "1d2 + 2 (`dice:1d2+2`) per round"
 attributes: ["+2", "+0", "+1", "+0", "+2", "+0"]
 traits:
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "Deals initial damage on attack, then causes 2 points of blood loss damage each round thereafter until the victim or the lamprey is dead."
-  - name: Latching
+  - name: "Latching"
     desc: "Pulling a lamprey loose without first killing it requires a standard roll to open doors. If successful, the victim suffers damage equal to being bitten again due to the tearing loose of the lamprey's many teeth. This does not substantially harm the lamprey, which will immediately attack whoever pulled it loose."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d2 + 2 (`dice:1d2+2`) per round"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

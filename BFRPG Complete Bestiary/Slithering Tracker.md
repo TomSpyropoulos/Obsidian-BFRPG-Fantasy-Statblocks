@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 1 pseudopod"
 damage: "Paralysis + special (see below)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Near Invisibility
+  - name: "Near Invisibility"
     desc: "95% undetectable under normal circumstances."
-  - name: Stalking Behavior
+  - name: "Stalking Behavior"
     desc: "Follows potential victims at a distance until they sleep before attacking."
-  - name: Paralysis Touch
+  - name: "Paralysis Touch"
     desc: "Target must succeed on a DC 13 STR check or be immobilized for 2d8 turns."
-  - name: Drain Fluids
+  - name: "Drain Fluids"
     desc: "Does 1d6 points of damage per turn to paralyzed victims until they die."
 actions:
-  - name: pseudopod
+  - name: "pseudopod"
     desc: "D20 to hit, Paralysis + special (see below)"
 source: BFRPG Field Guide
 ```

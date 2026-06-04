@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 claw (quadrupedal) / 2 claws + hold (bipedal)"
 damage: "1d8+1 (`dice:1d8+1`) claw"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Bipedal Attack
+  - name: "Bipedal Attack"
     desc: "When attacking bipedally, on a successful hit an aghlorv may hold its target with two of its attacking arms; this will give the target the grappled condition and reduce the number of attacks available to the aghlorv to only one claw per round (as long as the hold lasts)."
-  - name: Climbing
+  - name: "Climbing"
     desc: "Able to climb reasonable terrain easily due to its number of arms and claws."
-  - name: Stealth and Surprise
+  - name: "Stealth and Surprise"
     desc: "Any creature that encounters an aghlorv has their surprise roll range increased by 2 to all surprise rolls, and any surprise rolls towards the aghlorv has its range reduced by 2 (a minimum of 1)."
 actions:
-  - name: claw (quadrupedal)
+  - name: "claw (quadrupedal)"
     desc: "D20 to hit, 1d8+1 (`dice:1d8+1`) claw"
-  - name: claws + hold (bipedal)
+  - name: "claws + hold (bipedal)"
     desc: "D20 to hit, "
-  - name: claws + hold (bipedal)
+  - name: "claws + hold (bipedal)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

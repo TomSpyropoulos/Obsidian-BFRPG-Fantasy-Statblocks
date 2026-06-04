@@ -777,7 +777,8 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
                     raw_desc = sa.get('description', '')
                     translated_desc = translate_trait_text(raw_desc, hd_val)
                     desc_clean = translated_desc.replace('"', "'").replace('\n', ' ').strip()
-                    md += f"  - name: {sa.get('name')}\n    desc: \"{desc_clean}\"\n"
+                    name_clean = sa.get('name', '').replace('"', "'").strip()
+                    md += f"  - name: \"{name_clean}\"\n    desc: \"{desc_clean}\"\n"
             
             if atks and dmg:
                 md += "actions:\n"
@@ -794,9 +795,10 @@ def transform_monster(monster_data, source_name="BFRPG", check_alias=False):
                 for i in range(max(len(atk_p), len(dmg_p))):
                     an = (atk_p[i] if i < len(atk_p) else "Attack").strip()
                     dv = (dmg_p[i] if i < len(dmg_p) else "").strip()
-                    dv_clean = dv.replace('"', "'")
+                    an_clean = an.replace('"', "'")
+                    dv_clean = dv.replace('"', "'").replace('\n', '\\n')
                     dv_clean_formatted = format_dice(dv_clean)
-                    md += f"  - name: {an}\n    desc: \"D20 to hit, {dv_clean_formatted}\"\n"
+                    md += f"  - name: \"{an_clean}\"\n    desc: \"D20 to hit, {dv_clean_formatted}\"\n"
             
             md += f"source: {source_name}\n```\n"
             desc = statblock_portrayal.get("description", "")

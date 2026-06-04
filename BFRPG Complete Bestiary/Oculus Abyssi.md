@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 2 claws, 1 bite"
 damage: "2d4 (`dice:2d4`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Blinding Flash
+  - name: "Blinding Flash"
     desc: "The main eye is able to emit a blinding flash of light affecting a conical area extending 30 feet from the monster and being 20 feet wide at the base (far end). All creatures within this area must succeed on a DC 14 CON check or be blinded for 2d4 rounds."
-  - name: Eye Stalk Magic
+  - name: "Eye Stalk Magic"
     desc: "The lesser eyes of this monster can also perform magical attacks, with one able to generate hold person and the other hold monster (both as the spell). These eyes, being on long stalks, can target creatures in any direction, even those underneath its body. All of these powers can be used at will, once per round."
-  - name: Phantasmal Force
+  - name: "Phantasmal Force"
     desc: "Alternately, the two eyes can be used together to generate the effect of the spell phantasmal force; in this case, the two eyes cannot use their other powers while the illusion is being maintained."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

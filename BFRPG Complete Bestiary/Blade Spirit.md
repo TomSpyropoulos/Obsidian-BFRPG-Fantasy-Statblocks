@@ -21,22 +21,22 @@ attack: "+8 (`dice: 1d20+8`) 3/2 by weapon"
 damage: "By weapon +4"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Impervious to poison, sleep, charm, and hold spells."
-  - name: Turn Undead
+  - name: "Turn Undead"
     desc: "Can be Turned by a Cleric as if it was a wraith."
-  - name: Weapon Bound
+  - name: "Weapon Bound"
     desc: "When defeated, the animated body crumbles, and the possessed weapon enters a dormant state for 1d10 days. A remove curse spell during this period will expel the spirit permanently. Otherwise, the spirit reconstructs a new body."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Only magical weapons can harm them."
-  - name: Multiple Attacks
+  - name: "Multiple Attacks"
     desc: "Can unleash three weapon attacks every two rounds, striking once during odd-numbered rounds and twice during even-numbered rounds."
 actions:
-  - name: 3
+  - name: "3"
     desc: "D20 to hit, By weapon +4"
-  - name: by weapon
+  - name: "by weapon"
     desc: "D20 to hit, "
-  - name: by weapon
+  - name: "by weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

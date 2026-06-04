@@ -21,12 +21,12 @@ attack: "+5 (`dice: 1d20+5`) 1 touch"
 damage: "special"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Metal Oxidation
+  - name: "Metal Oxidation"
     desc: "The touch of any part of a rust monster's body oxidizes metal objects instantly. Non-magical metal is instantly ruined. A hit with a non-magical metal weapon inflicts half damage before the weapon is destroyed. Magic weapons or armor permanently lose one 'plus' each time they make contact with the monster."
-  - name: Metal Preference
+  - name: "Metal Preference"
     desc: "Metals that do not normally oxidize, such as gold, are ignored. Strong preference for ferrous metals (iron or steel) over silver or copper oxides."
 actions:
-  - name: touch
+  - name: "touch"
     desc: "D20 to hit, special"
 source: BFRPG Core
 ```

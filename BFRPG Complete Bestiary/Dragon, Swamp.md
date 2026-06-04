@@ -21,20 +21,20 @@ attack: "+7 (`dice: 1d20+7`) 2 claws/1 bite or breath/1 tail"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d10 (`dice:2d10`) or breath/1d6 (`dice:1d6`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Underwater Ambush
+  - name: "Underwater Ambush"
     desc: "Often hide underwater with only part of head above waterline. Leap up suddenly when prey comes within 100', surprising on a roll of 1-4 on 1d6."
-  - name: Acid Immunity
+  - name: "Acid Immunity"
     desc: "Immune to all forms of acid."
-  - name: Hold Breath
+  - name: "Hold Breath"
     desc: "May hold its breath up to three turns while lying in wait underwater."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 2d10 (`dice:2d10`) or breath"
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Core
 ```

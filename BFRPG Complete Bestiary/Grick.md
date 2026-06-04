@@ -21,20 +21,20 @@ attack: "+2 (`dice: 1d20+2`) 4 tentacles / 1 bite"
 damage: "1d4 (`dice:1d4`) tentacle, 1d3 (`dice:1d3`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "A grick hunts by hiding near high-traffic areas, using its natural coloration to blend into the shadows; when doing this, the grick surprises on a 1-3 on 1d6."
-  - name: Drag Victims
+  - name: "Drag Victims"
     desc: "Rather than consume its kill immediately, a grick normally drags victims back to the lair to be eaten at leisure. Breaks off the fight as soon as it can drag a dead or unconscious victim away."
 actions:
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, 1d4 (`dice:1d4`) tentacle, 1d3 (`dice:1d3`) bite"
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: tentacles
+  - name: "tentacles"
     desc: "D20 to hit, "
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

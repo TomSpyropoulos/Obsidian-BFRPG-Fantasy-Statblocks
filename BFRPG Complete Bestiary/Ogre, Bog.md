@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 2 fists + swallow"
 damage: "1d8 (`dice:1d8`) fist + special"
 attributes: ["+3", "+1", "+2", "+1", "+2", "+1"]
 traits:
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Small humanoids (such as a goblin or halfling) have a 10% chance of being grabbed and swallowed whole if both fist attacks hit; a bog ogre can swallow up to one small humanoid at a time. A swallowed victim suffers 1d6 points of damage each round and can't act in the tight confines of the ogres stomach."
 actions:
-  - name: fists + swallow
+  - name: "fists + swallow"
     desc: "D20 to hit, 1d8 (`dice:1d8`) fist + special"
-  - name: fists + swallow
+  - name: "fists + swallow"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

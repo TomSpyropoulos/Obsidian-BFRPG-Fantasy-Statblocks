@@ -21,20 +21,20 @@ attack: "+6 (`dice: 1d20+6`) 1 bite (spider) or kiss (woman) or dagger"
 damage: "1d6 (`dice:1d6`) + poison bite, 1d6 (`dice:1d6`) + heals creature kiss, 1d4 (`dice:1d4`) + 2HP/round dagger"
 attributes: ["+1", "+1", "+1", "+3", "+1", "+1"]
 traits:
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "Can use at will, in either form: **web**, **charm person**, **teleport**, **hold person**, **darkness 15' radius**, **mind reading**, and **clairaudience** (as the potion)."
-  - name: Magical Resistance
+  - name: "Magical Resistance"
     desc: "Can only be hit by magical or silvered weapons."
-  - name: Shapechange
+  - name: "Shapechange"
     desc: "Takes one full round to change between spider and human forms."
-  - name: Summon Spiders
+  - name: "Summon Spiders"
     desc: "Can summon 1d6 giant spiders of any sort."
-  - name: Cowardly
+  - name: "Cowardly"
     desc: "After losing more than half her hit points, she will try to cast **teleport** on her next round to escape."
 actions:
-  - name: bite (spider) or kiss (woman) or dagger
+  - name: "bite (spider) or kiss (woman) or dagger"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + poison bite, 1d6 (`dice:1d6`) + heals creature kiss, 1d4 (`dice:1d4`) + 2HP"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round dagger"
 source: BFRPG Field Guide
 ```

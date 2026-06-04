@@ -21,26 +21,26 @@ attack: "+10 (`dice: 1d20+10`) 6 legs or resin shot"
 damage: "2d6 (`dice:2d6`) leg or resin"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Multiple Eyes
+  - name: "Multiple Eyes"
     desc: "A juggernaut syring's entire body is filled with white eyes of different sizes, making them impossible to surprise."
-  - name: Multiple Attacks
+  - name: "Multiple Attacks"
     desc: "Thanks to its vision it can divide its attack against any surrounding opponent."
-  - name: Resin Shot
+  - name: "Resin Shot"
     desc: "Once every 1d6 rounds the juggernaut syring can shoot a black resin from its tail against 1 target. This resin quickly solidifies so the target must succeed on a DC 14 STR check or be encased in a hard shell, immobilizing them."
-  - name: Poisonous Sublimation
+  - name: "Poisonous Sublimation"
     desc: "A wound will reveal the juggernaut syring's soft and spongy insides that rapidly sublimate into the air. Creatures near the wounded creature, other than syrings and the juggernaut syring itself, must succeed on a DC 14 CON check at -2 or suffer a -3 penalty to their rolls. This poisonous cloud remains for 1d3 rounds after appearing. A character can accumulate several doses of this poison in their bodies, with each extra dose increasing the penalties by 1 point up to a -5 penalty. After 1d4 turns one dose will lose its effect on the poisoned body."
 actions:
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, 2d6 (`dice:2d6`) leg or resin"
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, "
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, "
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, "
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, "
-  - name: legs or resin shot
+  - name: "legs or resin shot"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

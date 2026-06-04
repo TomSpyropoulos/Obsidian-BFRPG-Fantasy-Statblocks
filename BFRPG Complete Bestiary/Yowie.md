@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 2 claws, 1 bite"
 damage: "1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "120 feet range."
-  - name: Foul Odor
+  - name: "Foul Odor"
     desc: "Any creature within 10 feet of the Yowie must succeed on a DC 13 CON check or be nauseated, suffering a -2 penalty on attack rolls and saving throws for 1d6 rounds."
-  - name: Terrifying Cry
+  - name: "Terrifying Cry"
     desc: "Three times a day, the yowie can let out its terrifying, haunting cry. All creatures within earshot must make a DC 13 STR check or be paralyzed with fear for 1d4 rounds."
-  - name: Territorial
+  - name: "Territorial"
     desc: "Fiercely territorial and aggressive in their lair, fighting to the death to defend it (treat their morale (WIS) as 11 when encountered in their lair)."
 actions:
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d8 (`dice:1d8`) bite"
-  - name: claws, 1 bite
+  - name: "claws, 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

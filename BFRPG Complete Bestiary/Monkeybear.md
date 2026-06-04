@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 2 claws, 1 bite or 1 grab"
 damage: "1d3 (`dice:1d3`) claw, 1d6 (`dice:1d6`) bite or grab"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Grab Attack
+  - name: "Grab Attack"
     desc: "To make a grab attack, they make a single melee attack that round. If successful, they have grabbed the item in their strong arms. An opponent is allowed a DC 12 CON check to try to keep the item."
-  - name: Theft Focused
+  - name: "Theft Focused"
     desc: "In combat, their main goal is to steal opponents' packs and weapons."
-  - name: Flee When Cornered
+  - name: "Flee When Cornered"
     desc: "If cornered, monkeybears will fight using their claws and teeth, though they will attempt to flee at the first opportunity."
 actions:
-  - name: claws, 1 bite or 1 grab
+  - name: "claws, 1 bite or 1 grab"
     desc: "D20 to hit, 1d3 (`dice:1d3`) claw, 1d6 (`dice:1d6`) bite or grab"
-  - name: claws, 1 bite or 1 grab
+  - name: "claws, 1 bite or 1 grab"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

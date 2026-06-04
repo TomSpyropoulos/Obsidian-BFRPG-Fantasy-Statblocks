@@ -21,10 +21,10 @@ attack: "+3 (`dice: 1d20+3`) Special"
 damage: "None"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Shrieking
+  - name: "Shrieking"
     desc: "Movement or light within 10 feet, or causing any damage to one, will cause one to wail for 1d4 rounds. The GM should generally roll a wandering monster check each round that this monster wails."
 actions:
-  - name: Special
+  - name: "Special"
     desc: "D20 to hit, None"
 source: BFRPG Core
 ```

@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 2 claws / 1 head butt / rake"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) head butt, 2d4 (`dice:2d4`) rake"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Rake
+  - name: "Rake"
     desc: "On any successful attack with both its claws, a criosphinx may attempt an additional rake attack with its hind claws, as indicated in the statistics above. The rake may not be attempted if either claw attack fails to hit."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) head butt, 2d4 (`dice:2d4`) rake"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: head butt
+  - name: "head butt"
     desc: "D20 to hit, "
-  - name: rake
+  - name: "rake"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

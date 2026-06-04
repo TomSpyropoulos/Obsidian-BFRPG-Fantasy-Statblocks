@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) 2 claws, 1 bite or breath, 1 tail"
 damage: "2d4 (`dice:2d4`) claw, 6d6 (`dice:6d6`) bite or breath, 2d4 (`dice:2d4`) tail"
 attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Variable Breath Weapon
+  - name: "Variable Breath Weapon"
     desc: "Upon reaching the second age category, a cloud dragon acquires the breath weapon of a randomly-chosen (or GM assigned) dragon type; upon reaching the fourth age category, they acquire a second breath weapon type. Cloud dragons possess the same immunities as the dragons whose breath weapons they reproduce."
-  - name: Polymorph Self
+  - name: "Polymorph Self"
     desc: "All cloud dragons have the power to assume the form of any type of humanoid (as described in the spell charm person) at will in a manner otherwise equivalent to the spell polymorph self."
 actions:
-  - name: claws, 1 bite or breath, 1 tail
+  - name: "claws, 1 bite or breath, 1 tail"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 6d6 (`dice:6d6`) bite or breath, 2d4 (`dice:2d4`) tail"
-  - name: claws, 1 bite or breath, 1 tail
+  - name: "claws, 1 bite or breath, 1 tail"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

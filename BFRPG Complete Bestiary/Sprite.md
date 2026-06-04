@@ -21,10 +21,10 @@ attack: "+0 (`dice: 1d20+0`) 1 dagger or 1 spell"
 damage: "1d4 (`dice:1d4`) or by spell"
 attributes: ["+0", "+1", "-1", "+3", "+1", "+0"]
 traits:
-  - name: Remove Curse/Bestow Curse
+  - name: "Remove Curse/Bestow Curse"
     desc: "Five sprites acting together can cast remove curse, or its reversed form bestow curse, once per day. The latter spell is often used as an attack."
 actions:
-  - name: dagger or 1 spell
+  - name: "dagger or 1 spell"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by spell"
 source: BFRPG Core
 ```

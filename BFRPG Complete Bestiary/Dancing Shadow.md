@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 claw + dance"
 damage: "1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`)+CON modifier hours die of exhaustion dance"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Shadow Disguise
+  - name: "Shadow Disguise"
     desc: "Upon contact with a humanoid, latches onto the creature and disguises itself as the creature's shadow almost flawlessly. The only clues are that it will never flicker, and sometimes it will lay in the incorrect direction based on the available light sources."
-  - name: Dormant Period
+  - name: "Dormant Period"
     desc: "Remains dormant for several days before attacking, usually waiting for the most inconvenient moment (when the host is engaged in combat, for example)."
-  - name: Dance Control
+  - name: "Dance Control"
     desc: "On successful attack roll, victim must succeed on a DC 12 INT check. On success, shadow is forced to nearest humanoid (unless warded by circle of salt). If no humanoid victims available, attaches to inanimate object. On failed save, shadow takes control of victim's body, causing uncontrollable dancing. Victim retains faculties and ability to speak but dies of exhaustion after 1d6 (+ Con mod) hours."
-  - name: Vulnerability
+  - name: "Vulnerability"
     desc: "Only vulnerable to attack by magical weapons or spells when controlling a victim's body."
-  - name: Circle of Salt
+  - name: "Circle of Salt"
     desc: "Cannot attach to humanoids warded by a circle of salt."
 actions:
-  - name: claw + dance
+  - name: "claw + dance"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`)+CON modifier hours die of exhaustion dance"
 source: BFRPG Field Guide
 ```

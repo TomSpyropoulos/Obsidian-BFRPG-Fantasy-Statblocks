@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 bite or 1 weapon"
 damage: "1d4 (`dice:1d4`) or by weapon"
 attributes: ["+4", "+0", "+2", "+0", "+0", "+0"]
 traits:
-  - name: Keen Sense of Smell
+  - name: "Keen Sense of Smell"
     desc: "A canein has a keen sense of smell, able to identify individuals by scent alone. This also allows the canein to sense the presence of concealed or invisible creatures, and penalties associated with combating such foes are halved."
-  - name: Tracking
+  - name: "Tracking"
     desc: "A canein can track with this ability; tracking a foe who takes no countermeasures to avoid being so tracked has an 80% chance of success, minus 15% for each hour the canein is behind the target. The GM must rule on the effects of any countermeasures taken."
 actions:
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,18 +21,18 @@ attack: "+12 (`dice: 1d20+12`) 1 weapon"
 damage: "By weapon +3"
 attributes: ["+6", "+6", "+5", "+4", "+6", "+4"]
 traits:
-  - name: Enhanced Combat
+  - name: "Enhanced Combat"
     desc: "Physical attacks with a weapon deal an additional 3 points of damage per attack."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as if they were an 18th-level Cleric."
-  - name: Celestial Immunities
+  - name: "Celestial Immunities"
     desc: "Immune to sleep, hold, and charm spells, as well as illusions."
-  - name: Teleport
+  - name: "Teleport"
     desc: "Possess the ability to teleport at-will, as per the spell, with no chance of failure."
-  - name: True Sight
+  - name: "True Sight"
     desc: "Their piercing eyes see right into the depths of every creature's heart, enabling them to discern true intentions and assess the worthiness of those they behold."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +3"
 source: BFRPG Field Guide
 ```

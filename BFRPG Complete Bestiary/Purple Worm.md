@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) 1 bite/1 sting"
 damage: "2d8 (`dice:2d8`)/1d8 (`dice:1d8`)+poison"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Poisonous Stinger
+  - name: "Poisonous Stinger"
     desc: "Those injured by the tail stinger must succeed on a DC 14 CON check or die."
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed, and will suffer 3d6 damage per round afterward due to being digested. A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
-  - name: sting
+  - name: "sting"
     desc: "D20 to hit, 1d8 (`dice:1d8`)+poison"
 source: BFRPG Core
 ```

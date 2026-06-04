@@ -21,14 +21,14 @@ attack: "+5 (`dice: 1d20+5`) 1 touch + disease"
 damage: "1d12 (`dice:1d12`) + disease"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Immune to sleep, charm and hold magic."
-  - name: Resistant to Damage
+  - name: "Resistant to Damage"
     desc: "Can only be injured by spells, fire, or magical weapons; furthermore, magic weapons do only half damage, while any sort of fire-based attack does double damage."
-  - name: Mummy Rot
+  - name: "Mummy Rot"
     desc: "Those injured by mummy attacks will contract mummy rot, a disease that prevents normal or magical healing; a cure disease spell must be applied to the victim before he or she may again regain hit points."
 actions:
-  - name: touch + disease
+  - name: "touch + disease"
     desc: "D20 to hit, 1d12 (`dice:1d12`) + disease"
 source: BFRPG Core
 ```

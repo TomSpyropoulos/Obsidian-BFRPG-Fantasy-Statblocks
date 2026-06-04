@@ -21,15 +21,15 @@ attack: "+16 (`dice: 1d20+16`) 5 tentacles (7d6) / 1 bite (4d6)"
 damage: "-"
 attributes: ["+11", "+9", "+10", "+9", "+11", "+9"]
 traits:
-  - name: Constricting Tentacles
+  - name: "Constricting Tentacles"
     desc: "Once an opponent has been hit, the kraken wraps a tentacle around the victim and automatically inflicts 7d6 points of damage each round. Victims caught in the kraken's tentacles attack at -4."
-  - name: Ship Crushing
+  - name: "Ship Crushing"
     desc: "When six of the tentacles are wrapped around a ship, the kraken may crush for 4d6 points of damage to the vessel each round."
-  - name: Severed Tentacles
+  - name: "Severed Tentacles"
     desc: "If a tentacle takes 60 points of damage it's severed. Severed tentacles will regrow in 1d10+10 days."
-  - name: Jet Movement
+  - name: "Jet Movement"
     desc: "A kraken can jet backward once per round at a speed of 280 feet in a straight line."
-  - name: Ink Cloud
+  - name: "Ink Cloud"
     desc: "When a kraken has lost 5 of its tentacles or 50% of its hit points, it will emit a cloud of jet-black ink in a 100-foot cubic area. This can be repeated once per hour. The cloud provides total concealment, which the kraken will use to escape. Creatures within the cloud are automatically blinded."
 source: BFRPG Field Guide
 ```

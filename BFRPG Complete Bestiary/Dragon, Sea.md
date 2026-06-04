@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/3d8 (`dice:3d8`) or breath"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Steam (Cloud)"
-  - name: Steam Immunity
+  - name: "Steam Immunity"
     desc: "Immune to damage from non-magical steam (including the breath weapon of another sea dragon), and suffer only half damage from magical steam attacks."
-  - name: Hold Breath
+  - name: "Hold Breath"
     desc: "May hold its breath up to three turns while swimming or performing other moderate activity."
-  - name: No Tail Attack
+  - name: "No Tail Attack"
     desc: "Unlike other dragons, sea dragons do not have a tail attack."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 3d8 (`dice:3d8`) or breath"
 source: BFRPG Core
 ```

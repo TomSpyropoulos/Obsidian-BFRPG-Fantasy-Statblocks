@@ -21,36 +21,36 @@ attack: "+1 (`dice: 1d20+1`) 12 leg strikes"
 damage: "1d3 (`dice:1d3`) leg"
 attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
-  - name: Armor Piercing
+  - name: "Armor Piercing"
     desc: "The front legs are long, thin, and unrealistically sharp to the point of ignoring any non-magical armor."
-  - name: Armor Shredding
+  - name: "Armor Shredding"
     desc: "If at least eight attacks hit on the same round then any armor, if non-magical, is shredded to pieces."
-  - name: Cowardly
+  - name: "Cowardly"
     desc: "Humming spiders are cowards and will flee if outnumbered or confronted with particularly able enemies."
 actions:
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, 1d3 (`dice:1d3`) leg"
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
-  - name: leg strikes
+  - name: "leg strikes"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

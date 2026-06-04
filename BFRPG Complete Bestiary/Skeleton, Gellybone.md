@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 claw (1d6)"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Gelatinous Armor
+  - name: "Gelatinous Armor"
     desc: "Take only half damage from blunt weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus)."
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric, and are immune to sleep, charm, or hold magic."
-  - name: Mindless
+  - name: "Mindless"
     desc: "No form of mind reading is of any use against them."
 actions:
-  - name: claw (1d6)
+  - name: "claw (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

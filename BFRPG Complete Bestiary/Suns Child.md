@@ -21,14 +21,14 @@ attack: "+9 (`dice: 1d20+9`) Special"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Sphere of Flames
+  - name: "Sphere of Flames"
     desc: "Appears as a 20-foot diameter sphere of flame. Attacks by charging and engulfing foes in flames (3d6 damage)."
-  - name: Intense Heat
+  - name: "Intense Heat"
     desc: "Burns any flammable objects and can melt most mundane metals (iron, etc.). Magically-enchanted items will be spared."
-  - name: Reach Requirement
+  - name: "Reach Requirement"
     desc: "To hit the sun's child the attacker must have a reach or range of at least 10 feet or else will fall within the sphere of flames and become engulfed in it."
 actions:
-  - name: Special
+  - name: "Special"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

@@ -21,9 +21,9 @@ attack: "+8 (`dice: 1d20+8`) 1 bite (2d10)"
 damage: "-"
 attributes: ["+4", "+2", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Electromagnetic Sense
+  - name: "Electromagnetic Sense"
     desc: "Able to sense the electromagnetic fields of living creatures, allowing them to find prey even when light or water clarity are poor."
-  - name: Blood Sense
+  - name: "Blood Sense"
     desc: "Able to smell blood at great distances."
 source: BFRPG Core
 ```

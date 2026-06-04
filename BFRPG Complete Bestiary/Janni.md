@@ -21,10 +21,10 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "1d8+2 (`dice:1d8+2`) or by weapon +2"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Expert Horseman
+  - name: "Expert Horseman"
     desc: "Prefers to fight from horseback using large two-handed scimitars and longbows in combat."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8+2 (`dice:1d8+2`) or by weapon +2"
 source: BFRPG Field Guide
 ```

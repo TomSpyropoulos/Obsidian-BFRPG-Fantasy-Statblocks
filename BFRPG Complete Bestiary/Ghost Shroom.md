@@ -21,16 +21,16 @@ attack: "+4 (`dice: 1d20+4`) 1 per patch"
 damage: "1d4 (`dice:1d4`) + special"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Surprise
+  - name: "Surprise"
     desc: "The ghost shroom remains motionless until it suddenly attacks, thus surprising on a roll of 1-3 on 1d6."
-  - name: Entangle
+  - name: "Entangle"
     desc: "A successful attack effectively entangles the victim in a sticky goo. Every round thereafter, the stem presses downward, doing an additional 1d4 points of damage. A victim may attempt to escape with a DC 12 CON check (with Strength bonus added)."
-  - name: Spore Release
+  - name: "Spore Release"
     desc: "When the air around the Ghost Shroom is disturbed by living creatures, spores are released in the air that produce a sickly-sweet and dank aroma which attracts lesser undead such as skeletons (1d8 individuals) and zombies (1d6-1 individuals). These monsters are compelled to seek to grapple nearby living creatures and drag or push them into the ghost shroom clumps."
-  - name: Vulnerable to Undead Effects
+  - name: "Vulnerable to Undead Effects"
     desc: "A ghost shroom is vulnerable to many things that affect undead, including a scroll of protection from undead for example. They can be Turned by a Cleric, with the following special effects: The main stalk is a 4 level creature, and the smaller stalks are 2 levels each. A smaller clump is outright destroyed by a successful Turn, while the main stem, if successfully Turned (but not destroyed), becomes dormant for at least 2d4 hours. As usual, apply Turning affects to the lowest levels first."
 actions:
-  - name: per patch
+  - name: "per patch"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + special"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 bite + poison"
 damage: "1d6 (`dice:1d6`) + poison"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Phase Shift
+  - name: "Phase Shift"
     desc: "Can shift between tangible and intangible states. When intangible, the phase spider is invisible, insubstantial, and capable of moving in any direction (even up or down), albeit at half-normal speed. As an intangible creature, it can move through solid objects, including living creatures."
-  - name: Material Plane Senses
+  - name: "Material Plane Senses"
     desc: "It can see and hear on the material plane. Sight and hearing on the material plane are limited to 60 feet."
-  - name: Surprise Attack
+  - name: "Surprise Attack"
     desc: "When shifting to tangible state to attack, attempts to catch its victim off-guard (+2 to hit)."
-  - name: Automatic Retreat
+  - name: "Automatic Retreat"
     desc: "The phase spider automatically retreats back to intangible state at the beginning of the next round, before initiative is rolled."
 actions:
-  - name: bite + poison
+  - name: "bite + poison"
     desc: "D20 to hit, 1d6 (`dice:1d6`) + poison"
 source: BFRPG Field Guide
 ```

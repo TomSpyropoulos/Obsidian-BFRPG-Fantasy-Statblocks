@@ -21,10 +21,10 @@ attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "poison bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Poison Bite
+  - name: "Poison Bite"
     desc: "Those bitten by a giant centipede must succeed on a DC 12 CON check at +2 or die."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, poison bite"
 source: BFRPG Core
 ```

@@ -21,11 +21,11 @@ attack: "+4 (`dice: 1d20+4`) 1 touch (1d6 + energy drain (1 level))"
 damage: "-"
 attributes: ["+3", "+3", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Energy Drain
+  - name: "Energy Drain"
     desc: "Touch attack drains 1 level."
-  - name: Undead
+  - name: "Undead"
     desc: "May be Turned by Clerics. Immune to sleep, charm and hold magics."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "Cannot be harmed by non-magical weapons."
 source: BFRPG Core
 ```

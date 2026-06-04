@@ -21,7 +21,7 @@ attack: "+5 (`dice: 1d20+5`) 1 tusk (2d6)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Essentially immune to cold environmental effects. Extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, it receives a +4 bonus."
 source: BFRPG Field Guide
 ```

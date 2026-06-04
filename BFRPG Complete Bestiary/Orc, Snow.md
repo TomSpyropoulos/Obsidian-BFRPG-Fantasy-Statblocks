@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 punch or weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Never affected by cold weather."
-  - name: Snow Movement
+  - name: "Snow Movement"
     desc: "Treats snowy or icy terrain as road terrain for the sake of movement."
-  - name: Cold Magic Resistance
+  - name: "Cold Magic Resistance"
     desc: "While cold-based magic does affect it, a snow orc saves against cold magic as a 10th-level Fighter rather than 1st-level."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to a range of 60 feet."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks the Orcish tongue, but may also speak Common, Goblin, or even Giant."
 actions:
-  - name: punch or weapon
+  - name: "punch or weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon"
 source: BFRPG Field Guide
 ```

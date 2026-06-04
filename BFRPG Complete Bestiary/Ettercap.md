@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 2 claws, 1 bite + poison"
 damage: "1d3 (`dice:1d3`) claw, 1d8 (`dice:1d8`) bite + poison"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "The poison of an ettercap paralyzes its foe on a missed DC 13 CON check. This paralysis will wear off naturally in 1d6+6 turns."
-  - name: Web
+  - name: "Web"
     desc: "An ettercap can throw a web eight times per day to entangle enemies. To hit, the ettercap must make an attack roll against AC11 + the target's Dexterity modifier (and any magic modifier). If the ettercap hits, the target is entangled. An entangled creature takes a -2 penalty on attack rolls and a -4 penalty on Dexterity. The web has a maximum range of 50 feet and is effective against targets of up to Medium size. The web anchors the target in place, preventing any movement. An entangled creature can break free from the web as per the web spell."
-  - name: Webbing Sheets
+  - name: "Webbing Sheets"
     desc: "An ettercap can also create sheets of sticky webbing up to 60 square feet. They usually position these to snare flying creatures, but can also try to trap prey on the ground. Approaching creatures may stumble into it and become trapped. An ettercap can determine the exact location of any creature touching its web."
 actions:
-  - name: claws, 1 bite + poison
+  - name: "claws, 1 bite + poison"
     desc: "D20 to hit, 1d3 (`dice:1d3`) claw, 1d8 (`dice:1d8`) bite + poison"
-  - name: claws, 1 bite + poison
+  - name: "claws, 1 bite + poison"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

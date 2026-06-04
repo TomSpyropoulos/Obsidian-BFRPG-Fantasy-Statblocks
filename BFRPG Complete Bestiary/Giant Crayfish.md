@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 2 claws"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "When lying in wait underwater, gains surprise on 1-4 on 1d6 (1-3 vs. aquatic opponents already submerged in the same body of water)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

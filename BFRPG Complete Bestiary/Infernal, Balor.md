@@ -21,22 +21,22 @@ attack: "+8 (`dice: 1d20+8`) 1 sword, or 1 whip, + special"
 damage: "1d12+1 (`dice:1d12+1`) sword, 2d6+1 (`dice:2d6+1`) whip, + special"
 attributes: ["+4", "+3", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Flame Shroud
+  - name: "Flame Shroud"
     desc: "May shroud themselves in flame at will; these flames inflicts 2d6 points of damage to anyone who touches them, or who is touched by them."
-  - name: Whip Entangle
+  - name: "Whip Entangle"
     desc: "Entangled creatures must make a DC 13 CON check to escape, and any entangled creature of ogre-size or smaller may be pulled in by the balor."
-  - name: Immune to Non-magical Weapons
+  - name: "Immune to Non-magical Weapons"
     desc: "As they are otherworldly creatures, a balor cannot be harmed by non-magical weapons."
-  - name: Darkness
+  - name: "Darkness"
     desc: "A balor may choose to shed darkness (as the reverse of the light spell) at will in a 10-foot radius; this darkness does not affect the balor's own vision."
-  - name: Spell-like Powers
+  - name: "Spell-like Powers"
     desc: "They may also perform any of the following spell-like powers as often as desired, instead of attacking: cause fear (the reverse of the remove fear spell), detect magic, read magic, read languages, detect invisible, or telekinesis, all as if a 12th level Wizard."
-  - name: Summon Infernal
+  - name: "Summon Infernal"
     desc: "Once per day, instead of attacking, a balor may attempt to summon another infernal to its aid. Roll 1d%: on a roll of 01-55, a glabrezu (see page 150), appears; on 56-70, a nalfeshni (see page 154), is summoned; on a roll of 71-00, the attempt fails. If the summoning fails, the balor can try again as often as desired (once per round maximum) until it succeeds."
-  - name: Death Explosion
+  - name: "Death Explosion"
     desc: "When killed, a balor explodes in a blinding flash of light that deals 10d10 points of damage to anything within 30 feet, with a successful DC 13 CON check reducing damage by half."
 actions:
-  - name: sword, or 1 whip, + special
+  - name: "sword, or 1 whip, + special"
     desc: "D20 to hit, 1d12+1 (`dice:1d12+1`) sword, 2d6+1 (`dice:2d6+1`) whip, + special"
 source: BFRPG Field Guide
 ```

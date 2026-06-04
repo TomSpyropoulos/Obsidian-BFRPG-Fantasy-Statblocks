@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1 gore or 1 weapon"
 damage: "2d6 (`dice:2d6`) gore, by weapon +3"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Essentially immune to cold environmental effects and even extreme or magical cold causes only half-damage. If a save is involved with such a cold-based effect, it receives a +4 bonus."
-  - name: Great Strength
+  - name: "Great Strength"
     desc: "+3 damage bonus with weapons due to its great strength."
-  - name: Antler Shedding
+  - name: "Antler Shedding"
     desc: "Sheds its antlers each year, so there are periods when its antlers are too small to attack with."
 actions:
-  - name: gore or 1 weapon
+  - name: "gore or 1 weapon"
     desc: "D20 to hit, 2d6 (`dice:2d6`) gore, by weapon +3"
 source: BFRPG Field Guide
 ```

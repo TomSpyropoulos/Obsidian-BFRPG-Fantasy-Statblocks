@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) 1 slam (1d6)"
 damage: "1d6 (`dice:1d6`)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Can be Turned by a Cleric (as a wight), and is immune to sleep, charm, or hold spells. As it is mindless, mind reading is useless. It is likewise immune to disease and poison."
-  - name: Rotting Disease
+  - name: "Rotting Disease"
     desc: "The GM should keep track of who is struck by one; after a fight is over, each stricken victim must succeed on a DC 12 CON check; if this save fails, the victim will suffer a rotting disease that deals 1d4 points of damage per day unless cured by cure disease (normal healing has no effect). If slain by the rotting disease, the victim will immediately turn into a necrotic ooze."
 actions:
-  - name: slam (1d6)
+  - name: "slam (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
 source: BFRPG Field Guide
 ```

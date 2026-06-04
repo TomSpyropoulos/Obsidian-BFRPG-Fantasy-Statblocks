@@ -21,14 +21,14 @@ attack: "+10 (`dice: 1d20+10`) 1 bite or 1 horn"
 damage: "3d8 (`dice:3d8`) bite, 2d10 (`dice:2d10`) horn"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 traits:
-  - name: Charge
+  - name: "Charge"
     desc: "Can charge for a +2 attack bonus."
-  - name: All-around vision
+  - name: "All-around vision"
     desc: "Can see in all directions and suffers no penalty to Armor Class when attacked from behind."
-  - name: Sluggish
+  - name: "Sluggish"
     desc: "Too sluggish to attack twice per round."
 actions:
-  - name: bite or 1 horn
+  - name: "bite or 1 horn"
     desc: "D20 to hit, 3d8 (`dice:3d8`) bite, 2d10 (`dice:2d10`) horn"
 source: BFRPG Field Guide
 ```

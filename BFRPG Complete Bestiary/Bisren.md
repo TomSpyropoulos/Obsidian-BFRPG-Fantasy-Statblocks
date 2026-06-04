@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 gore, charge, or by weapon"
 damage: "1d6 (`dice:1d6`), charge, or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+1", "+0"]
 traits:
-  - name: Gore
+  - name: "Gore"
     desc: "1d6 points of damage with its horns."
-  - name: Charge
+  - name: "Charge"
     desc: "+2 to hit with double damage, following all normal charging rules."
-  - name: Weapon Use
+  - name: "Weapon Use"
     desc: "Can use weapons. Must choose whether to attack with weapons or to gore; it cannot do both in a single round."
-  - name: Great Strength
+  - name: "Great Strength"
     desc: "+1 bonus on feats of strength such as opening doors due to its great mass."
 actions:
-  - name: gore, charge, or by weapon
+  - name: "gore, charge, or by weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`), charge, or by weapon"
 source: BFRPG Field Guide
 ```

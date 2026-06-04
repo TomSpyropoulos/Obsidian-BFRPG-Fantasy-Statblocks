@@ -21,14 +21,14 @@ attack: "+4 (`dice: 1d20+4`) 1 antler (+2 to hit)"
 damage: "4d4 (`dice:4d4`) antler"
 attributes: ["+1", "+3", "+1", "+1", "+4", "+1"]
 traits:
-  - name: Immune to non-magical weapons
+  - name: "Immune to non-magical weapons"
     desc: "Immune to non-magical weapons."
-  - name: Languages
+  - name: "Languages"
     desc: "Speak their own language. 65% chance of knowing the languages of one or more monster types found in the area of their lair, but rarely if ever speak Common or the languages of any demi-human races."
-  - name: Dietary requirements
+  - name: "Dietary requirements"
     desc: "Both male and female perytons must dine on a heart before becoming fertile; they may share one heart, or each may acquire its own heart before seeking a mate."
 actions:
-  - name: antler (+2 to hit)
+  - name: "antler (+2 to hit)"
     desc: "D20 to hit, 4d4 (`dice:4d4`) antler"
 source: BFRPG Field Guide
 ```

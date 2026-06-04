@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to a range of 60'."
-  - name: Light Sensitivity
+  - name: "Light Sensitivity"
     desc: "Suffer a -1 attack penalty in bright sunlight or within the radius of a spell causing magical light."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon"
 source: BFRPG Core
 ```

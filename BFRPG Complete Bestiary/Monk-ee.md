@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 4 punches or 2 weapons"
 damage: "1d6 (`dice:1d6`) punch, by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Swift Combat
+  - name: "Swift Combat"
     desc: "Can move after attacking instead of before; one will move into striking range, perform two attack routines (one at the end of the round when it moves, the other at the beginning of the next round) and then move away in that second round."
-  - name: Initiative Bonus
+  - name: "Initiative Bonus"
     desc: "+3 on all initiative rolls."
 actions:
-  - name: punches or 2 weapons
+  - name: "punches or 2 weapons"
     desc: "D20 to hit, 1d6 (`dice:1d6`) punch, by weapon"
-  - name: punches or 2 weapons
+  - name: "punches or 2 weapons"
     desc: "D20 to hit, "
-  - name: punches or 2 weapons
+  - name: "punches or 2 weapons"
     desc: "D20 to hit, "
-  - name: punches or 2 weapons
+  - name: "punches or 2 weapons"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

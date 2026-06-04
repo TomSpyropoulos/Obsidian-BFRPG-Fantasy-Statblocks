@@ -21,12 +21,12 @@ attack: "+1 (`dice: 1d20+1`) 2 claws or 1 bite"
 damage: "1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) bite"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Bite and hold
+  - name: "Bite and hold"
     desc: "Against large prey a velociraptor will bite and hold on in order to use its claws for automatic damage each round; however, while holding its AC drops to 11."
 actions:
-  - name: claws or 1 bite
+  - name: "claws or 1 bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claw or 1d6 (`dice:1d6`) bite"
-  - name: claws or 1 bite
+  - name: "claws or 1 bite"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

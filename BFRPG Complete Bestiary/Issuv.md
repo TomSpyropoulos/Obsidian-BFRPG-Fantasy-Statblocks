@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 + suffocation"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Colony Form
+  - name: "Colony Form"
     desc: "Made of a conglomeration of smaller beings working as a unit, which makes it harder to hit (due to their ability to scatter and reform). Can get into small, tight, or difficult-to-access spaces."
-  - name: Suffocation
+  - name: "Suffocation"
     desc: "If sufficiently large, can envelop an enemy. They will then attempt to suffocate an enemy, who must succeed on a DC 12 CON check to break out of the covering mass. If not successful after three attempts, the issuv will suffocate its enemy. Any prey who is enveloped will be victim to any attacks levied towards an issuv."
 actions:
-  - name: + suffocation
+  - name: "+ suffocation"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

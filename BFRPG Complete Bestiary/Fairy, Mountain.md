@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 4 bludgeon"
 damage: "1d10 (`dice:1d10`) bludgeon"
 attributes: ["+2", "+2", "+3", "+4", "+2", "+2"]
 traits:
-  - name: Hardness 8
+  - name: "Hardness 8"
     desc: "Stony skin reduces all incoming damage by 8."
 actions:
-  - name: bludgeon
+  - name: "bludgeon"
     desc: "D20 to hit, 1d10 (`dice:1d10`) bludgeon"
-  - name: bludgeon
+  - name: "bludgeon"
     desc: "D20 to hit, "
-  - name: bludgeon
+  - name: "bludgeon"
     desc: "D20 to hit, "
-  - name: bludgeon
+  - name: "bludgeon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

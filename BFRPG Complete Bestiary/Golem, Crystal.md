@@ -21,14 +21,14 @@ attack: "+6 (`dice: 1d20+6`) 2 fists"
 damage: "2d4 (`dice:2d4`)"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Can cast an **invisibility** spell upon itself as a full-round action."
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Takes full damage from blunt weapons, but only half damage from cutting or piercing ones."
 actions:
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
-  - name: fists
+  - name: "fists"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

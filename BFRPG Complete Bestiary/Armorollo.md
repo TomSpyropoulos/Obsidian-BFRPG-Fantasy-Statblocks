@@ -21,13 +21,13 @@ attack: "+1 (`dice: 1d20+1`) 1 claw (1d4)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "When curled up, an armorollo resembles a rock, as its top portion is covered in thick rock-colored plates."
-  - name: Smoke Cloud
+  - name: "Smoke Cloud"
     desc: "Can emit a large cloud of thick white smoke once per day (filling 30 cubic feet) that serves to conceal its movements."
-  - name: Echolocation Shriek
+  - name: "Echolocation Shriek"
     desc: "Emits a piercing shriek that helps find its prey by following the echo."
-  - name: Pack Tactics
+  - name: "Pack Tactics"
     desc: "When fighting as a group, armorollos have a +3 attack bonus. Multiple armorollos will work together to attack. Some will stop to emit smoke, others will shriek, and the remainder attack through the smoke guided by the shriek."
 source: BFRPG Field Guide
 ```

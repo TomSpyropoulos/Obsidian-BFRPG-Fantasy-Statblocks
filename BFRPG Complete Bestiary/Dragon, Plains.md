@@ -21,16 +21,16 @@ attack: "+5 (`dice: 1d20+5`) 2 claws, 1 bite or breath, 1 tail"
 damage: "1d6 (`dice:1d6`) claw, 2d10 (`dice:2d10`) or breath, 1d8 (`dice:1d8`) tail"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Surprise Attack
+  - name: "Surprise Attack"
     desc: "When hunting on the wing, attacking suddenly from above, surprise on 1-3 on 1d6."
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "When lying in wait in tall grass or a copse of trees, surprise on 1-3 on 1d6 at age categories 2 and 3, on 1-4 in age categories 4 through 6, and on 1-5 at age category 7."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Heat (Cone). A scorching, shimmering cone of heat, barely visible to the naked eye; at night, however, a glow like steel being forged can be seen streaming from the dragon's open mouth."
 actions:
-  - name: claws, 1 bite or breath, 1 tail
+  - name: "claws, 1 bite or breath, 1 tail"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d10 (`dice:2d10`) or breath, 1d8 (`dice:1d8`) tail"
-  - name: claws, 1 bite or breath, 1 tail
+  - name: "claws, 1 bite or breath, 1 tail"
     desc: "D20 to hit, "
 source: BFRPG Core
 ```

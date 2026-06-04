@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 tusks (1d6 each) / 1 stomp (3d8) / breath weapon 
 damage: "1d6 (`dice:1d6`) tusk, 3d8 (`dice:3d8`) stomp, 8d8 (`dice:8d8`) breath"
 attributes: ["+4", "+3", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Herd Morale
+  - name: "Herd Morale"
     desc: "As long as the herd bull is alive, all the other members of the herd gain a +1 to morale (WIS), and the bull gains a similar +1 to morale (WIS) as long as any other member of its herd survives."
-  - name: Poor Fliers
+  - name: "Poor Fliers"
     desc: "Though dragophants can fly they are poor, clumsy fliers. Taking off requires a dragophant to move at least 30 feet in a straight line on the ground to gain enough speed to take flight the following round."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "A 20-foot cloud of steam that billows forth from the creature's trunk once per hour. All dragophants are immune to their own breath weapon and those of other dragophants."
 actions:
-  - name: tusks (1d6 each)
+  - name: "tusks (1d6 each)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tusk, 3d8 (`dice:3d8`) stomp, 8d8 (`dice:8d8`) breath"
-  - name: tusks (1d6 each)
+  - name: "tusks (1d6 each)"
     desc: "D20 to hit, "
-  - name: stomp (3d8)
+  - name: "stomp (3d8)"
     desc: "D20 to hit, "
-  - name: breath weapon (steam cloud, 8d8)
+  - name: "breath weapon (steam cloud, 8d8)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 2 claws, 1 bite or 1 charge"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, 2d4 (`dice:2d4`) charge"
 attributes: ["+2", "+1", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Charge
+  - name: "Charge"
     desc: "The antlers are only used when charging (following normal charging rules for double damage), and then it will attack with claws and biting after such a charge."
-  - name: Clumsy Flight
+  - name: "Clumsy Flight"
     desc: "Flies rather slow and clumsily, with flight being used primarily for short distances to get over impassable terrain; aerial encounters would therefore be rather rare."
-  - name: Valuable Pelt
+  - name: "Valuable Pelt"
     desc: "A wolpertinger's pelt is similar to high-quality rabbit or mink fur, but due to its rarity commands a price of over 100 gp just for the rough pelt. Worked fur garments are therefore even more valuable. Its antlers are often worked into objects such as knife handles or even as embellishments on bier steins."
 actions:
-  - name: claws, 1 bite or 1 charge
+  - name: "claws, 1 bite or 1 charge"
     desc: "D20 to hit, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, 2d4 (`dice:2d4`) charge"
-  - name: claws, 1 bite or 1 charge
+  - name: "claws, 1 bite or 1 charge"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

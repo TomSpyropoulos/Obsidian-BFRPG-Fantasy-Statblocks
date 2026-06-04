@@ -21,14 +21,14 @@ attack: "+0 (`dice: 1d20+0`) 1 dagger or 1 bite"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Despise cats
+  - name: "Despise cats"
     desc: "Will work diligently to eliminate any feline creatures or beings in the area."
-  - name: Magical ability
+  - name: "Magical ability"
     desc: "One can often find zoogs that have magical ability (up to 1d6 levels of Wizard with +1 hit point per level added)."
-  - name: Climbing
+  - name: "Climbing"
     desc: "A zoog climbs trees much like a squirrel may."
 actions:
-  - name: dagger or 1 bite
+  - name: "dagger or 1 bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Field Guide
 ```

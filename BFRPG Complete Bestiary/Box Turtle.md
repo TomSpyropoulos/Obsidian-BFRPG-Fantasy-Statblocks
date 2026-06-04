@@ -21,10 +21,10 @@ attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "1d2 (`dice:1d2`)"
 attributes: ["+2", "+0", "+0", "+0", "-1", "+0"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in their natural habitat."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d2 (`dice:1d2`)"
 source: BFRPG Core
 ```

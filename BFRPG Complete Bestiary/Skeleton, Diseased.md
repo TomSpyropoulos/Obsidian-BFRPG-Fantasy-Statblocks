@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon or 1 unarmed + disease"
 damage: "By weapon or 1d8 (`dice:1d8`) + disease"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Weapon Resistance
+  - name: "Weapon Resistance"
     desc: "Slashing weapons do half-damage and piercing weapons only do 1 point of damage; crushing weapons do normal damage."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Not affected by **sleep**, **charm**, or **hold** spells."
-  - name: Turn as Zombie
+  - name: "Turn as Zombie"
     desc: "Can be Turned as a zombie."
-  - name: Disease Attack
+  - name: "Disease Attack"
     desc: "If the diseased skeleton uses an unarmed attack there is a 10% chance that the target will be infected with a disease similar to mummy rot. The disease will apply a -1 penalty to an ability or in special cases cause blindness or deafness in the character attacked. The character will show symptoms of the disease 1d4 hours after the attack. The disease can be noted by the color of the light coming from the eye-sockets of the diseased skeleton. Any infection spread by a diseased skeleton must be cured by a **cure disease** spell."
 actions:
-  - name: weapon or 1 unarmed + disease
+  - name: "weapon or 1 unarmed + disease"
     desc: "D20 to hit, By weapon or 1d8 (`dice:1d8`) + disease"
 source: BFRPG Field Guide
 ```

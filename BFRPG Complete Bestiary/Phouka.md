@@ -21,20 +21,20 @@ attack: "+5 (`dice: 1d20+5`) 1 bite, or weapon"
 damage: "1d6 (`dice:1d6`) bite, or by weapon"
 attributes: ["+3", "+2", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Shapechanging
+  - name: "Shapechanging"
     desc: "Phoukas can shift their shape at will, transforming into a horse, goat, crow, cockrel or hound in a single round, as often as they wish. While in animal form, they retain their hit points, Armour Class, and general intelligence, but their ability to wield weapons or perform fine manipulations is limited, restricting their attack to their bite."
-  - name: Stealth
+  - name: "Stealth"
     desc: "Exceptionally stealthy, remaining 90% undetectable in natural environments while stationary, and 70% while moving."
-  - name: Minor Illusions
+  - name: "Minor Illusions"
     desc: "Phoukas are capable of creating minor illusions, confusing sounds, or fleeting visual tricks to mislead or startle others, creating an illusion similar to phantasmal force up to three times per day."
-  - name: Voice Mimicry
+  - name: "Voice Mimicry"
     desc: "Phoukas speak both Fey and Common, and can mimic voices and sounds with uncanny accuracy, often using this talent to lure or mislead others."
-  - name: Flight
+  - name: "Flight"
     desc: "Phoukas can fly when unencumbered for up to 10 rounds but must rest for an equal duration afterwards. When lightly encumbered, they can fly for 5 rounds and require 20 rounds of rest. Their lightweight build and fey agility reduce fall damage by half."
-  - name: Vulnerability to Cold Iron
+  - name: "Vulnerability to Cold Iron"
     desc: "They are vulnerable to cold iron (iron or steel) weapons, taking an additional +1 damage from such attacks."
 actions:
-  - name: bite, or weapon
+  - name: "bite, or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) bite, or by weapon"
 source: BFRPG Field Guide
 ```

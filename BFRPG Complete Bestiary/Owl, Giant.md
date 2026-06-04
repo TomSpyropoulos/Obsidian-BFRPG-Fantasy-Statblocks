@@ -21,14 +21,14 @@ attack: "+6 (`dice: 1d20+6`) 2 claws"
 damage: "1d6 (`dice:1d6`) claw"
 attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Silent Flight
+  - name: "Silent Flight"
     desc: "Glides silently just a few feet above its prey and plunges to strike when directly overhead."
-  - name: Superior Vision
+  - name: "Superior Vision"
     desc: "Can see five times as far as a human can in dim light."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

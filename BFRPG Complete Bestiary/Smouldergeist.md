@@ -21,20 +21,20 @@ attack: "+10 (`dice: 1d20+10`) 1 fire bolt or 1 incinerate or special"
 damage: "1d8 (`dice:1d8`) fire bolt, 12d6 (`dice:12d6`) incinerate, or special"
 attributes: ["+5", "+4", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Fire Bolt
+  - name: "Fire Bolt"
     desc: "Typically flings bolts of fire at opponents (1d8 damage)."
-  - name: Incinerate
+  - name: "Incinerate"
     desc: "Roughly once per hour may send out an intense burst of flame up to a 30-foot radius (12d6 damage). A DC 14 DEX check allows a victim to take half the damage rolled."
-  - name: Smog Cloud
+  - name: "Smog Cloud"
     desc: "May de-materialize into a cloud of smog, filling a space up to a 30-foot radius. Those caught in the cloud must succeed on a DC 14 CON check or begin taking 1d8 points of damage for each round spent in it choking."
-  - name: Pass Through Portals
+  - name: "Pass Through Portals"
     desc: "May move through closed portals, but this takes a full round and is obvious to any observers on the other side of the portal."
-  - name: No Surprise
+  - name: "No Surprise"
     desc: "The sound of fire bolts prevents them from gaining surprise in an encounter."
-  - name: Restless
+  - name: "Restless"
     desc: "Restless souls that cannot be put at ease."
 actions:
-  - name: fire bolt or 1 incinerate or special
+  - name: "fire bolt or 1 incinerate or special"
     desc: "D20 to hit, 1d8 (`dice:1d8`) fire bolt, 12d6 (`dice:12d6`) incinerate, or special"
 source: BFRPG Field Guide
 ```

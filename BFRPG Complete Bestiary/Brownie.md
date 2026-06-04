@@ -21,28 +21,28 @@ attack: "+1 (`dice: 1d20+1`) 1 miniature weapon"
 damage: "1d2 (`dice:1d2`)"
 attributes: ["+0", "+0", "+0", "+2", "+0", "+0"]
 traits:
-  - name: Shape-change
+  - name: "Shape-change"
     desc: "A brownie is able to shape-change at will into the form of a small deer or hawk."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "In all forms the brownie has Darkvision with a range of 60 feet."
-  - name: Languages
+  - name: "Languages"
     desc: "A brownie can speak Common as well as the languages of pixies and sprites."
-  - name: Paralytic Poison
+  - name: "Paralytic Poison"
     desc: "In its natural humanoid form, a brownie attacks with its miniature weapon, sometimes with paralytic poison applied (Succeed on a DC 12 CON check or be held for 2d4 rounds as per the hold person spell)."
-  - name: Detect Magic
+  - name: "Detect Magic"
     desc: "Can detect magic at will."
-  - name: Invisibility
+  - name: "Invisibility"
     desc: "Become invisible at will. A brownie can attack while completely invisible without disrupting the effect (generally each opponent must take a -4 penalty on attacks against the brownie)."
-  - name: Confusion
+  - name: "Confusion"
     desc: "Once per day can cast confusion as a 7th level caster."
-  - name: Weapon Immunity
+  - name: "Weapon Immunity"
     desc: "Silver or magical weapons are required to strike a brownie."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "So long as one has at least 1 hit point remaining, it regenerates 1 hit point each round; however, if reduced below 1 hp a brownie will die like any other creature."
-  - name: Magic Resistance
+  - name: "Magic Resistance"
     desc: "A brownie succeeds on a DC 12 INT check (including wands) with a +4 bonus, and has a +1 bonus with respect to paralysis or petrify saves."
 actions:
-  - name: miniature weapon
+  - name: "miniature weapon"
     desc: "D20 to hit, 1d2 (`dice:1d2`)"
 source: BFRPG Field Guide
 ```

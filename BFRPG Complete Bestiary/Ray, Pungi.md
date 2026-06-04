@@ -21,11 +21,11 @@ attack: "+4 (`dice: 1d20+4`) 1 to 12 spines (1d4 + poison each)"
 damage: "-"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Concealment
+  - name: "Concealment"
     desc: "Conceal themselves under the sand with their dorsal spines exposed. The spines appear to be plant matter, and on 1-5 on 1d6 (treated as a surprise roll) they will not be recognized as dangerous."
-  - name: Poison Spines
+  - name: "Poison Spines"
     desc: "Any creature stepping on the spiny area, a patch about 3 feet wide and 4 feet long in the center of the pungi ray's back, must succeed on a DC 12 CON check or die. Characters in armored boots receive a bonus of +2 on the saving throw, while those in heavy non-armored boots or shoes receive a bonus of +1."
-  - name: Flee
+  - name: "Flee"
     desc: "If attacked the pungi ray will attempt to flee immediately."
 source: BFRPG Field Guide
 ```

@@ -21,12 +21,12 @@ attack: "+10 (`dice: 1d20+10`) 1 club"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Confusion
+  - name: "Confusion"
     desc: "Can cast **confusion** once every seven rounds."
-  - name: Non-functional Wings
+  - name: "Non-functional Wings"
     desc: "Has colossal bat wings but is far too heavy to fly."
 actions:
-  - name: club
+  - name: "club"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+9 (`dice: 1d20+9`) 2 bite or 1 breath or 1 constrict"
 damage: "2d10 (`dice:2d10`) bite, breath, 2d8 (`dice:2d8`) constrict*"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Sleep Gas (Cloud)
+  - name: "Sleep Gas (Cloud)"
     desc: "Breath weapon that attempts to put targets to sleep."
-  - name: Gas Cloud Smokescreen
+  - name: "Gas Cloud Smokescreen"
     desc: "Can throw up a gas cloud smokescreen to obscure vision."
-  - name: Dragon Imitation
+  - name: "Dragon Imitation"
     desc: "Can imitate a dragon to strike deals or scare off threats."
 actions:
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, 2d10 (`dice:2d10`) bite, breath, 2d8 (`dice:2d8`) constrict*"
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

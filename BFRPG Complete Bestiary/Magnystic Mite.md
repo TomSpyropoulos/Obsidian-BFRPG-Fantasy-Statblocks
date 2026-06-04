@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 1 bite + Save Drain"
 damage: "Save Drain (Wands)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Save Drain
+  - name: "Save Drain"
     desc: "Once latched on, applies a save-targeting penalty against the victim's succeeds on a DC 12 WIS check. Any single mite can only apply the penalty once, and the penalty persists until it is removed."
-  - name: Magic Attraction
+  - name: "Magic Attraction"
     desc: "Attract the magical effects that originate from magic wands and other devices."
-  - name: Immune to Magic
+  - name: "Immune to Magic"
     desc: "Immune to all magic, as the energy simply passes through them and into their victim (or into the ether, if they are not attached to a target). Weapons with magical bonuses will still be granted their bonus to hit."
-  - name: Deflected Attacks
+  - name: "Deflected Attacks"
     desc: "Attacks made against the mites that miss will do damage to the victim as long as the attack would hit the victim's AC."
 actions:
-  - name: bite + Save Drain
+  - name: "bite + Save Drain"
     desc: "D20 to hit, Save Drain (Wands)"
 source: BFRPG Field Guide
 ```

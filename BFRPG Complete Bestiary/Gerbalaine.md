@@ -21,16 +21,16 @@ attack: "+1 (`dice: 1d20+1`) 1 punch or weapon (large form)"
 damage: "1d4 (`dice:1d4`) or by weapon (large form)"
 attributes: ["+1", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Larger Form
+  - name: "Larger Form"
     desc: "Up to 3 times per day, a gerbalaine may magically assume a larger form, growing to approximately halfling size. It is this form that gives the above statistics when pressed for a fight, although a gerbalaine is more likely to run away than fight."
-  - name: Natural Mouse-Size Form
+  - name: "Natural Mouse-Size Form"
     desc: "When in its natural mouse-size form, a gerbalaine has effectively only 1 HP, but is very difficult to hit (AC 22)."
-  - name: Evasion
+  - name: "Evasion"
     desc: "A gerbalaine who saves (with halfling bonuses) against an area-of-effect damaging spell takes no damage, and even if the save fails takes only half damage."
-  - name: Thief Skills
+  - name: "Thief Skills"
     desc: "A gerbalaine's skill with devices is comparable to a 10th-level Thief."
 actions:
-  - name: punch or weapon (large form)
+  - name: "punch or weapon (large form)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon (large form)"
 source: BFRPG Field Guide
 ```

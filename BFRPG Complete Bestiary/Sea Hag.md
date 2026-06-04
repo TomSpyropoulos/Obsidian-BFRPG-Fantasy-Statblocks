@@ -21,16 +21,16 @@ attack: "+4 (`dice: 1d20+4`) 2 daggers"
 damage: "1d4+4 (`dice:1d4+4`)"
 attributes: ["+3", "+1", "+2", "+1", "+3", "+1"]
 traits:
-  - name: Horrific Appearance
+  - name: "Horrific Appearance"
     desc: "The sight of a sea hag is so revolting that anyone who sets eyes upon one must succeed on a DC 12 INT check or instantly be weakened, reducing their Strength by 2d6 points for 1d6 turns. This damage cannot reduce a victim's Strength score below 0, but anyone reduced to 0 falls to the ground helpless. Creatures that are affected by this power or that successfully save against it cannot be affected again for 24 hours."
-  - name: Supernatural Strength
+  - name: "Supernatural Strength"
     desc: "A sea hag will attack with two daggers in melee combat. It gains +4 to damage due to its supernatural strength."
-  - name: Evil Gaze
+  - name: "Evil Gaze"
     desc: "Three times per day, a sea hag can focus its evil gaze upon any single creature within 10 feet. The target must succeed on a DC 12 STR check or be paralyzed for three days (75%) or die (25%). Remove curse or dispel evil can restore sanity sooner. Creatures with immunity to fear effects are not affected."
 actions:
-  - name: daggers
+  - name: "daggers"
     desc: "D20 to hit, 1d4+4 (`dice:1d4+4`)"
-  - name: daggers
+  - name: "daggers"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

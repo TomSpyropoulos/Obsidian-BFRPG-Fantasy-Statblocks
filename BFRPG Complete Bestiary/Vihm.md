@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 1 weapon"
 damage: "1d4 (`dice:1d4`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Ranged Combat
+  - name: "Ranged Combat"
     desc: "Preferring to stay out of melee, vihm receive a bonus of +1 to hit and damage with ranged attacks."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Vihm have Darkvision to 60 feet."
-  - name: Sunlight Sensitivity
+  - name: "Sunlight Sensitivity"
     desc: "Vihm suffer a -1 penalty to attack rolls in bright sunlight or within the radius of light spells."
-  - name: Trapped Lairs
+  - name: "Trapped Lairs"
     desc: "The actual dens and burrows that vihm inhabit are extensively trapped."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) special"
 damage: "1d12 (`dice:1d12`)"
 attributes: ["+4", "+4", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Magnetic Draw
+  - name: "Magnetic Draw"
     desc: "Can magnetically draw metal items towards itself as if using telekinesis."
-  - name: Conductive Bonus
+  - name: "Conductive Bonus"
     desc: "Deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground."
-  - name: Vulnerability
+  - name: "Vulnerability"
     desc: "Takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals."
-  - name: Thunderclap
+  - name: "Thunderclap"
     desc: "Can choose either to strike a single creature or create a mighty thunderclap. If the latter attack is used, all creatures within a 30 foot radius must succeed on a DC 13 STR check or be deafened for 1d8 turns."
 actions:
-  - name: special
+  - name: "special"
     desc: "D20 to hit, 1d12 (`dice:1d12`)"
 source: BFRPG Field Guide
 ```

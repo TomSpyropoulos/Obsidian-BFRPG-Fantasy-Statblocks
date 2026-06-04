@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 1 trident, 1 bite or 2 talons, 1 bite, or heavy cro
 damage: "1d8 (`dice:1d8`) trident, 1d4 (`dice:1d4`) bite, 1d4 (`dice:1d4`) talon, or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Sense Movement
+  - name: "Sense Movement"
     desc: "Can sense movement underwater within a 30-foot radius."
-  - name: Languages
+  - name: "Languages"
     desc: "Speaks its own language, as well as Common and usually one other language."
-  - name: Water Dependency
+  - name: "Water Dependency"
     desc: "Can survive out of the water for 1d8 hours before dying from exposure."
-  - name: Fresh Water Vulnerability
+  - name: "Fresh Water Vulnerability"
     desc: "A sahuagin fully immersed in fresh water must succeed on a DC 12 CON check or become fatigued. Even on a success, it must repeat the save attempt every 10 minutes it remains immersed."
-  - name: Light Blindness
+  - name: "Light Blindness"
     desc: "Abrupt exposure to bright light blinds a sahuagin for 1d4 rounds. On subsequent rounds, it is dazzled while operating in bright light."
 actions:
-  - name: trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net
+  - name: "trident, 1 bite or 2 talons, 1 bite, or heavy crossbow or net"
     desc: "D20 to hit, 1d8 (`dice:1d8`) trident, 1d4 (`dice:1d4`) bite, 1d4 (`dice:1d4`) talon, or by weapon"
 source: BFRPG Field Guide
 ```

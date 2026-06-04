@@ -21,20 +21,20 @@ attack: "+6 (`dice: 1d20+6`) 1 slam or 1 weapon"
 damage: "1d6 (`dice:1d6`) slam, by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Cleric spell abilities
+  - name: "Cleric spell abilities"
     desc: "Has Cleric spell abilities of 3rd to 5th level (based on its levels)."
-  - name: Damage resistance
+  - name: "Damage resistance"
     desc: "Takes half damage from non-magical weapons. Can only be damaged by magical weapons."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to **sleep**, **charm**, **hold** magic and **fear**."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision out to 60 feet."
-  - name: Hallowed ground weakness
+  - name: "Hallowed ground weakness"
     desc: "If a dread horsemen stands on hallowed ground, it loses its Clerical abilities and suffers a -4 penalty on all checks and saves. It can instantly tell when it enters a hallowed area and will leave immediately."
-  - name: Banishment
+  - name: "Banishment"
     desc: "If reduced to 0 Hit Points, a dread horseman is not destroyed but disappears in a blaze of hellish green flames, banished back to the infernal realm, along with all equipment it carries. Once banished, it cannot come back to the mortal world for an entire year. To truly destroy one it must be restrained, its skull removed and placed in a blessed oaken box, and then burned."
 actions:
-  - name: slam or 1 weapon
+  - name: "slam or 1 weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) slam, by weapon"
 source: BFRPG Field Guide
 ```

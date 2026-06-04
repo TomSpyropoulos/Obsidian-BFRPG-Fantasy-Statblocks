@@ -21,12 +21,12 @@ attack: "+4 (`dice: 1d20+4`) 1"
 damage: "2d4 (`dice:2d4`) + paralysis"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Any character hit by a gelatinous cube must save vs. Paralyzation or be paralyzed for 2d4 turns."
-  - name: Nearly Transparent
+  - name: "Nearly Transparent"
     desc: "Nearly transparent. Inorganic material remains trapped and visible inside the cube's body."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 2d4 (`dice:2d4`) + paralysis"
 source: BFRPG Core
 ```

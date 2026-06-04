@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 1 bite or fireball"
 damage: "2d6 (`dice:2d6`) bite or fireball"
 attributes: ["+4", "+3", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Color-Changing Carapace
+  - name: "Color-Changing Carapace"
     desc: "Combined with silent flight, grants surprise on 1-3 on 1d6. Hide changes to brilliant orange-red when battle is joined."
-  - name: Fireball
+  - name: "Fireball"
     desc: "Can project a fireball (as the spell) from its eye once per round. The first fireball launched does 9d6 points of damage; each subsequent round this damage declines by one dice, i.e. 8d6 on the second round, 7d6 on the third, and so on, to a minimum of 3d6 per fireball. If the oculus inferni has the opportunity to rest, it increases its damage potential by two die in each round it does not use the power, to a maximum of the original 9d6 points of damage. This is often when the monster chooses to bite an opponent, if it thinks it can do so without suffering significant injury."
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to all normal fire, as well as magical fire from spells of 3rd level or lower. Suffers only half-damage from more powerful fire-based attacks."
-  - name: Eye Vulnerability
+  - name: "Eye Vulnerability"
     desc: "Attacks directed at its main eye may disable it, if damage equal to one-third of its original hit points is inflicted. The main eye will, however, regenerate when the monster's total hit points return to at least two-thirds of normal."
 actions:
-  - name: bite or fireball
+  - name: "bite or fireball"
     desc: "D20 to hit, 2d6 (`dice:2d6`) bite or fireball"
 source: BFRPG Field Guide
 ```

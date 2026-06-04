@@ -21,12 +21,12 @@ attack: "+3 (`dice: 1d20+3`) Special"
 damage: "Special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Soporific Pollen
+  - name: "Soporific Pollen"
     desc: "When any living creature approaches within 5 feet the pods open, revealing exotic deep crimson flowers edged with black. These blossoms exude soporific pollen which can affect all living creatures within a 5-foot radius. Those within the radius must succeed on a DC 12 CON check or fall into a dreamless sleep, with grogginess lasting a full hour after waking (-2 on all attack rolls and saving throws, and -10% for Thief abilities)."
-  - name: Resistant to Damage
+  - name: "Resistant to Damage"
     desc: "The bush is not harmed by blunt or piercing weapons or by most missile weapons, but suffers full damage from slashing or chopping weapons."
 actions:
-  - name: Special
+  - name: "Special"
     desc: "D20 to hit, Special"
 source: BFRPG Field Guide
 ```

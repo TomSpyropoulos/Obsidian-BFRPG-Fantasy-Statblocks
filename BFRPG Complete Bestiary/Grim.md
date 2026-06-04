@@ -21,24 +21,24 @@ attack: "+6 (`dice: 1d20+6`) 1 bite"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+1", "+1", "+2", "+1", "+5", "+1"]
 traits:
-  - name: Never Surprised
+  - name: "Never Surprised"
     desc: "A grim is never surprised and will lurk invisibly and silently."
-  - name: Magical Weapon Immunity
+  - name: "Magical Weapon Immunity"
     desc: "A grim may only be hit with magical weapons."
-  - name: Spell Immunities
+  - name: "Spell Immunities"
     desc: "Immune to charm, hold, sleep, and illusion spells."
-  - name: See Invisible
+  - name: "See Invisible"
     desc: "Can see invisible beings and magic auras."
-  - name: Cannot be Turned
+  - name: "Cannot be Turned"
     desc: "It cannot be Turned."
-  - name: Healing Lick
+  - name: "Healing Lick"
     desc: "The lick of a grim can cure light wounds, cure disease, and neutralize poison."
-  - name: Barking
+  - name: "Barking"
     desc: "The barking of a grim can dispel evil."
-  - name: Howling
+  - name: "Howling"
     desc: "The howling of a grim can Turn undead as a 10th-level Cleric and can be heard a mile away."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
 source: BFRPG Field Guide
 ```

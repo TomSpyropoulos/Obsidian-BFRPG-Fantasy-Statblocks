@@ -21,18 +21,18 @@ attack: "+5 (`dice: 1d20+5`) 1 head butt (1d6) / 1 dagger (1d4) / 1 weapon (by w
 damage: "1d6 (`dice:1d6`) head butt, 1d4 (`dice:1d4`) dagger, or by weapon"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Keen Senses
+  - name: "Keen Senses"
     desc: "Almost impossible to surprise in the wild."
-  - name: Stealthy
+  - name: "Stealthy"
     desc: "Can sneak up on travelers with natural grace and agility."
-  - name: Pan Pipes
+  - name: "Pan Pipes"
     desc: "A satyr can play a variety of magical tunes on its pan pipes. Usually, only one satyr in a group carries this instrument. When it plays, all creatures within 60 feet (except other satyrs) must succeed on a DC 13 INT check or be affected by charm person, sleep, or fear. The satyr chooses the tune and its effect. In the hands of other beings, these pipes have no special powers. A creature that successfully saves against any of the pipe's effects cannot be affected by the same instrument for 24 hours."
 actions:
-  - name: head butt (1d6)
+  - name: "head butt (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) head butt, 1d4 (`dice:1d4`) dagger, or by weapon"
-  - name: dagger (1d4)
+  - name: "dagger (1d4)"
     desc: "D20 to hit, "
-  - name: weapon (by weapon)
+  - name: "weapon (by weapon)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

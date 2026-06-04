@@ -21,18 +21,18 @@ attack: "+2 (`dice: 1d20+2`) 1 beam + Save Drain"
 damage: "Save Drain (Death)"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Lantern Beam
+  - name: "Lantern Beam"
     desc: "Their lantern lights apply a permanent save penalty of +1 to the target on DC 12 CON check against victims each time they are caught in the beam. The penalties may be removed with a casting of the **bless** spell, against which the victim must succeed on a DC 12 CON check. Success indicates one penalty is removed, and the other effects of **bless** are applied as well, while failure means nothing happens, and the spell is totally wasted."
-  - name: Death Curse
+  - name: "Death Curse"
     desc: "Once it becomes impossible for the victim to succeed a DC 12 CON check, the victim dies and will rise as a grave caller in 2d6 days unless a number of Clerics equal to the number of penalties acquired perform a ritual to free the victim from the curse, the ritual requiring one day for each penalty as well; the transformation from life to undeath is paused once the ritual begins."
-  - name: Regeneration
+  - name: "Regeneration"
     desc: "Grave callers that are reduced to 0 hit points will rise again in 2d6 turns with newly-rolled hit points. The only way to kill grave callers for good is to submerge them completely in holy water."
-  - name: Undead
+  - name: "Undead"
     desc: "Immunity to **sleep**, **charm**, and **hold** magic. Turned by a Cleric as a zombie."
-  - name: Semi-intelligent
+  - name: "Semi-intelligent"
     desc: "Can speak Common (or a different language from their lifetime)."
 actions:
-  - name: beam + Save Drain
+  - name: "beam + Save Drain"
     desc: "D20 to hit, Save Drain (Death)"
 source: BFRPG Field Guide
 ```

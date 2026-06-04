@@ -21,14 +21,14 @@ attack: "+3 (`dice: 1d20+3`) 1 weapon"
 damage: "By weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Collective Connection
+  - name: "Collective Connection"
     desc: "The undead remains attached to the collective, if it still exists."
-  - name: Armor Use
+  - name: "Armor Use"
     desc: "Still benefit from wearing armors."
-  - name: Cannot be Turned
+  - name: "Cannot be Turned"
     desc: "They cannot be Turned."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon +1"
 source: BFRPG Field Guide
 ```

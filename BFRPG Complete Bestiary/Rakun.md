@@ -21,18 +21,18 @@ attack: "+1 (`dice: 1d20+1`) 1 weapon or one bite"
 damage: "1d4 (`dice:1d4`) or by weapon or 1d3 (`dice:1d3`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Weapon Proficiency
+  - name: "Weapon Proficiency"
     desc: "+1 bonus to attacks with crossbows of various types (or fire-arms if the setting allows)."
-  - name: Keen Eyesight
+  - name: "Keen Eyesight"
     desc: "Eyesight is keen at night (double that of a human's nightvision), and even in total darkness has Darkvision out 30 feet."
-  - name: Weapon Restrictions
+  - name: "Weapon Restrictions"
     desc: "Just like halflings, rakuns are prohibited from using large weapons."
-  - name: Hide in Natural Surroundings
+  - name: "Hide in Natural Surroundings"
     desc: "Outdoors (preferred forest terrain) there is only a 10% chance of being detected. Even indoors or in non-preferred terrain there is only a 30% chance of detection."
-  - name: Climbing
+  - name: "Climbing"
     desc: "Extraordinary climbing ability, receiving a substantial bonus to any such attempt. When climbing trees the rakun almost never fails such a check under normal circumstances (effectively 100% unless circumstances carry substantial penalties)."
 actions:
-  - name: weapon or one bite
+  - name: "weapon or one bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) or by weapon or 1d3 (`dice:1d3`) bite"
 source: BFRPG Field Guide
 ```

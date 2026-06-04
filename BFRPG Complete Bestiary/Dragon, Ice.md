@@ -21,22 +21,22 @@ attack: "+6 (`dice: 1d20+6`) 2 claws/1 bite or breath/1 tail"
 damage: "1d4 (`dice:1d4`)/1d4 (`dice:1d4`)/2d8 (`dice:2d8`) or breath/1d4 (`dice:1d4`)"
 attributes: ["+3", "+3", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Cold (Cone). Length and width vary by age (see Age Table)."
-  - name: Ambush
+  - name: "Ambush"
     desc: "Can bury itself in snow with only eyes and nostrils exposed. Bursts out when prey approaches within 100', surprising on a roll of 1-4 on 1d6."
-  - name: Cold Immunity
+  - name: "Cold Immunity"
     desc: "Immune to normal cold, and take only half damage from magical cold or ice."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Older ice dragons can cast spells (see Age Table)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 2d8 (`dice:2d8`) or breath"
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Core
 ```

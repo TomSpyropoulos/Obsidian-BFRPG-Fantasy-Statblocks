@@ -21,16 +21,16 @@ attack: "+6 (`dice: 1d20+6`) 1 gore/1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`) , 1d6+2 (`dice:1d6+2`) or by weapon + 2"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Never Lost
+  - name: "Never Lost"
     desc: "They never become lost."
-  - name: Tracking
+  - name: "Tracking"
     desc: "Can track enemies with 85% accuracy."
-  - name: Great Strength
+  - name: "Great Strength"
     desc: "Gain +2 to damage when using melee weapons due to their great Strength."
 actions:
-  - name: gore
+  - name: "gore"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) , 1d6+2 (`dice:1d6+2`) or by weapon + 2"
 source: BFRPG Core
 ```

@@ -21,12 +21,12 @@ attack: "+0 (`dice: 1d20+0`) Special, see below"
 damage: "None"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Paralyzing Gaze
+  - name: "Paralyzing Gaze"
     desc: "Any living creature meeting the gaze of a floating eye must roll a DC 12 STR check or become dazed and immobile. The fish must maintain eye contact to control the victim, who will recover in just 1d4 rounds after eye contact is lost."
-  - name: Symbiotic Relationship
+  - name: "Symbiotic Relationship"
     desc: "Lives in symbiotic relationship with predatory sea creatures. While victims are immobilized, partnered predatory fish move in and attack. After all victims are slain or have fled, the floating eye eats the leftovers of any kills."
 actions:
-  - name: Special, see below
+  - name: "Special, see below"
     desc: "D20 to hit, None"
 source: BFRPG Field Guide
 ```

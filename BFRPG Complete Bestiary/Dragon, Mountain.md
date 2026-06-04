@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 2 claws/1 bite or breath/1 tail"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/4d8 (`dice:4d8`) or breath/1d8 (`dice:1d8`)"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to normal fire, and suffer only half damage from magical fire."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Fire (Cone)"
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 4d8 (`dice:4d8`) or breath"
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Core
 ```

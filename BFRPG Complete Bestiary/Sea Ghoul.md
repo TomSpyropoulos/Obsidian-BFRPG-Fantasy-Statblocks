@@ -21,22 +21,22 @@ attack: "+2 (`dice: 1d20+2`) 2 claws (1d4) / 1 bite (1d4) + paralysis (1 per day
 damage: "1d4 (`dice:1d4`) claws, 1d4 (`dice:1d4`) bite + paralysis (1 per day), poison"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Paralysis
+  - name: "Paralysis"
     desc: "Can paralyze one medium-sized creature per day with bite (Succeed on a DC 12 STR check)."
-  - name: Poison Aura
+  - name: "Poison Aura"
     desc: "Aura of poisoned water surrounds them for 5 feet in all directions. Creatures in this aura must succeed on a DC 12 CON check."
-  - name: Immobile on Land
+  - name: "Immobile on Land"
     desc: "Their softer, water-softened flesh renders them immobile outside of the water."
-  - name: Undead
+  - name: "Undead"
     desc: "May be Turned by Clerics as ghouls. Immune to sleep, charm, and hold magics."
-  - name: Holy Water Aversion
+  - name: "Holy Water Aversion"
     desc: "Will avoid any water within 20 feet of where a flask of holy water was poured out for 1 day."
 actions:
-  - name: claws (1d4)
+  - name: "claws (1d4)"
     desc: "D20 to hit, 1d4 (`dice:1d4`) claws, 1d4 (`dice:1d4`) bite + paralysis (1 per day), poison"
-  - name: claws (1d4)
+  - name: "claws (1d4)"
     desc: "D20 to hit, "
-  - name: bite (1d4) + paralysis (1 per day)
+  - name: "bite (1d4) + paralysis (1 per day)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

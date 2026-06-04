@@ -21,14 +21,14 @@ attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "special"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Burrowing
+  - name: "Burrowing"
     desc: "A rot grub secretes an anesthetic when it bites and will burrow into the flesh. A burrowing grub can be noticed if the victim succeeds at a Wisdom check. If successful, the victim sees strange rippling beneath his skin. If failed, the creature does not notice the grubs."
-  - name: Removal
+  - name: "Removal"
     desc: "During the first two rounds, a burrowing rot grub can be killed by applying fire to the infested skin or by cutting open the infested skin with any slashing weapon. Either method deals 2d6 points of damage to the victim, but kills the grubs."
-  - name: Fatal Infestation
+  - name: "Fatal Infestation"
     desc: "After the second round, only a cure disease can kill the grubs as they burrow to the victim's heart and devour it in 1d3 turns."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, special"
 source: BFRPG Core
 ```

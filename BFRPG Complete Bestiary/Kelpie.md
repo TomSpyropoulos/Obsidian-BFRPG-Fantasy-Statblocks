@@ -21,11 +21,11 @@ attack: "+2 (`dice: 1d20+2`) 2 hooves (1d4) / 1 bite (1d4)"
 damage: "-"
 attributes: ["+2", "+1", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can shift into either a normal-appearing horse or human for two turns each day."
-  - name: Charm Person
+  - name: "Charm Person"
     desc: "Can use charm person three times daily to ensnare victims."
-  - name: Aquatic Predator
+  - name: "Aquatic Predator"
     desc: "Drags victims into water to drown them."
 source: BFRPG Field Guide
 ```

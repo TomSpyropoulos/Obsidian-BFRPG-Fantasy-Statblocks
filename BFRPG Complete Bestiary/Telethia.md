@@ -21,18 +21,18 @@ attack: "+7 (`dice: 1d20+7`) 2 claws / 2 bites or special"
 damage: "2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite, special"
 attributes: ["+3", "+3", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Mind Reading
+  - name: "Mind Reading"
     desc: "Can use mind reading (as the spell, but continuously)."
-  - name: Copy Spells
+  - name: "Copy Spells"
     desc: "Once per day can copy the memorized spells of a chosen target; those spells remain available to the telethia for the remainder of the day."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 2d4 (`dice:2d4`) claw, 3d6 (`dice:3d6`) bite, special"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: bites or special
+  - name: "bites or special"
     desc: "D20 to hit, "
-  - name: bites or special
+  - name: "bites or special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

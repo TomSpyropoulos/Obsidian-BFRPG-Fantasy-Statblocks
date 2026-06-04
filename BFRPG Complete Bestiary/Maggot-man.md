@@ -21,18 +21,18 @@ attack: "+4 (`dice: 1d20+4`) 1 fist + special"
 damage: "1d6 (`dice:1d6`) fist + special"
 attributes: ["+1", "+1", "+1", "+3", "+2", "+1"]
 traits:
-  - name: Terrifying Form
+  - name: "Terrifying Form"
     desc: "A character that sees the true form must succeed on a DC 12 INT check (at -2 penalty) or else react as if struck by a **cause fear** spell, forcing the affected to flee for 2 turns. Anyone affected that is unable to flee will cower in place. Even those who successfully save are unnerved by the sight, and will have a -2 penalty to attacks or actions."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "Can cast spells as a Wizard equivalent to twice its levels. If the GM utilizes the optional Necromancer supplement, then the maggot-man will usually be a Necromancer instead."
-  - name: Rot Grub Infection
+  - name: "Rot Grub Infection"
     desc: "Anyone struck by a maggot-man has a 2 in 6 chance (1-2 on 1d6) of being afflicted by a special form of rot grub (see the **Basic Fantasy RPG Core Rules**). Anyone that subsequently dies from the rot grub will rise as a zombie under the control of the maggot-man for a short time as maggots strip the flesh off the bones (2d4 days)."
-  - name: Body Transfer
+  - name: "Body Transfer"
     desc: "If the maggot-man is defeated while such a rot-grub zombie endures, then the maggot-man will inhabit that body. The maggot-man will usually have one such infected zombie hidden away somewhere nearby as a contingency, though this requires a fairly regular supply of fresh corpses to maintain."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Can only be hit by magical weapons or spells. Can be Turned by a Cleric (as a vampire), and is immune to **sleep**, **charm**, or **hold** spells."
 actions:
-  - name: fist + special
+  - name: "fist + special"
     desc: "D20 to hit, 1d6 (`dice:1d6`) fist + special"
 source: BFRPG Field Guide
 ```

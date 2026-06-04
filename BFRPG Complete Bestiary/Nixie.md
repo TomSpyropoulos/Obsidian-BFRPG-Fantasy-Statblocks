@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1 dagger"
 damage: "1d4 (`dice:1d4`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Powerful Charm
+  - name: "Powerful Charm"
     desc: "Ten or more nixies can work together to cast a powerful charm (similar to charm person). The charm lasts one year (unless dispelled). A DC 12 INT check is allowed to resist."
-  - name: Water Breathing
+  - name: "Water Breathing"
     desc: "Each nixie can cast water breathing once per day, with a duration of one day."
-  - name: Giant Bass
+  - name: "Giant Bass"
     desc: "A group of nixies will often have a school of giant bass living nearby who can be called to their aid (see Fish, Giant Bass for details)."
 actions:
-  - name: dagger
+  - name: "dagger"
     desc: "D20 to hit, 1d4 (`dice:1d4`)"
 source: BFRPG Core
 ```

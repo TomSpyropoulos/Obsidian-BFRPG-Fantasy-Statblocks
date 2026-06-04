@@ -21,14 +21,14 @@ attack: "+1 (`dice: 1d20+1`) 1"
 damage: "1-2 HD: 1d4 (`dice:1d4`) or by weapon -1; 3-5 HD: 1d6 (`dice:1d6`) or by weapon; 6-8 HD: 1d8 (`dice:1d8`) or by weapon +1; 9+ HD: 1d10 (`dice:1d10`) or by weapon +2"
 attributes: ["+2", "+0", "+0", "+0", "-3", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Darkvision to 120 feet."
-  - name: Stealth
+  - name: "Stealth"
     desc: "Move so quietly that they surprise on 1-3 on 1d6."
-  - name: Peace-loving
+  - name: "Peace-loving"
     desc: "Will almost never start a fight, though the older individuals are known to be fierce when they are forced into battle."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 1-2 HD: 1d4 (`dice:1d4`) or by weapon -1; 3-5 HD: 1d6 (`dice:1d6`) or by weapon; 6-8 HD: 1d8 (`dice:1d8`) or by weapon +1; 9+ HD: 1d10 (`dice:1d10`) or by weapon +2"
 source: BFRPG Field Guide
 ```

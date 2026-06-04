@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 bite"
 damage: "1d4 (`dice:1d4`) bite"
 attributes: ["+0", "+2", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Move Silently and Hide
+  - name: "Move Silently and Hide"
     desc: "75% success rate, which allows them to move about a mine undetected."
-  - name: Master Pickpockets
+  - name: "Master Pickpockets"
     desc: "Succeeding 99% of the time."
-  - name: Warning Taps
+  - name: "Warning Taps"
     desc: "Tap out a rhythm that increases in tempo as those they ogle approach danger."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) bite"
 source: BFRPG Field Guide
 ```

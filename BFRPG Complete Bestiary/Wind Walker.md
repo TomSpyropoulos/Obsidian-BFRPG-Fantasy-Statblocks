@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) Special"
 damage: "3d6 (`dice:3d6`)"
 attributes: ["+3", "+3", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Naturally Invisible
+  - name: "Naturally Invisible"
     desc: "Remain invisible even after attacking."
-  - name: Incorporeal
+  - name: "Incorporeal"
     desc: "Can be harmed only by magical weapons and spells."
-  - name: Immune to Life-Affecting Magic
+  - name: "Immune to Life-Affecting Magic"
     desc: "Immune to magic that affects only living creatures (such as sleep, charm, or hold) as well as mind-affecting magic such as mind reading."
-  - name: Cold and Electrical Resistance
+  - name: "Cold and Electrical Resistance"
     desc: "Take half-damage from any sort of cold or electrical attack."
-  - name: Susceptible to Haste and Slow
+  - name: "Susceptible to Haste and Slow"
     desc: "Suffer 1d6 points of damage per caster level if subjected to a slow spell and half that number of dice (rounded up) if subjected to haste. Neither spell has its normal effect if used against a wind walker."
 actions:
-  - name: Special
+  - name: "Special"
     desc: "D20 to hit, 3d6 (`dice:3d6`)"
 source: BFRPG Field Guide
 ```

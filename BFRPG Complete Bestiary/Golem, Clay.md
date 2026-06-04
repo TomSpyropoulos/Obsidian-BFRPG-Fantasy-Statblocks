@@ -21,10 +21,10 @@ attack: "+9 (`dice: 1d20+9`) 1 fist"
 damage: "3d10 (`dice:3d10`)"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Cursed Wounds
+  - name: "Cursed Wounds"
     desc: "Wounds inflicted by a clay golem do not heal normally; worse, magical healing cures only 1 point per die rolled (but add all bonuses normally)."
 actions:
-  - name: fist
+  - name: "fist"
     desc: "D20 to hit, 3d10 (`dice:3d10`)"
 source: BFRPG Core
 ```

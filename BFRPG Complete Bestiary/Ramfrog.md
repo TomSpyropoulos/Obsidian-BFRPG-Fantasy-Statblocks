@@ -21,10 +21,10 @@ attack: "+0 (`dice: 1d20+0`) 1 ramming (1d4+1)"
 damage: "1d4+1 (`dice:1d4+1`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Ramming
+  - name: "Ramming"
     desc: "Can propel towards opponents up to 90 feet away in order to headbutt them."
 actions:
-  - name: ramming (1d4+1)
+  - name: "ramming (1d4+1)"
     desc: "D20 to hit, 1d4+1 (`dice:1d4+1`)"
 source: BFRPG Field Guide
 ```

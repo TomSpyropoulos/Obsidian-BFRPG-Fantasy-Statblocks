@@ -21,24 +21,24 @@ attack: "+9 (`dice: 1d20+9`) 5 tentacles + crush"
 damage: "1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) crush"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Crush
+  - name: "Crush"
     desc: "A successful hit with three or more tentacles indicates a crush attack for an additional 3d6 points of damage."
-  - name: Terror
+  - name: "Terror"
     desc: "Those who witness a tentacle horror for the first time must succeed on a DC 14 INT check or flee in stark terror for 1d20 rounds."
-  - name: Resilience
+  - name: "Resilience"
     desc: "Non-magical weapons only deal 1 point of damage, while magic weapons, fire, electricity, and acid only deal half damage."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to sleep, charm, and hold spells."
 actions:
-  - name: tentacles + crush
+  - name: "tentacles + crush"
     desc: "D20 to hit, 1d6 (`dice:1d6`) tentacle, 3d6 (`dice:3d6`) crush"
-  - name: tentacles + crush
+  - name: "tentacles + crush"
     desc: "D20 to hit, "
-  - name: tentacles + crush
+  - name: "tentacles + crush"
     desc: "D20 to hit, "
-  - name: tentacles + crush
+  - name: "tentacles + crush"
     desc: "D20 to hit, "
-  - name: tentacles + crush
+  - name: "tentacles + crush"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

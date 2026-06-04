@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 hooves (1d6)"
 damage: "1d6 (`dice:1d6`) hoof"
 attributes: ["+4", "+4", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Telepathy
+  - name: "Telepathy"
     desc: "Can use telepathy as an innate ability and usually choose to communicate by means of direct psychic contact."
-  - name: Languages
+  - name: "Languages"
     desc: "Speak their own language as well as the languages of humans, elves, and dwarves."
-  - name: Detection Abilities
+  - name: "Detection Abilities"
     desc: "Can detect invisible, detect evil, and detect magic at will (by concentration) as often as desired."
-  - name: Spell-like Abilities
+  - name: "Spell-like Abilities"
     desc: "Each can create the effect of cure light wounds up to three times per day, protection from evil, 10' radius once per day, and dispel magic once per day."
-  - name: Wall of Flame
+  - name: "Wall of Flame"
     desc: "Three or more shedu working together can cast a wall of flame once per day."
 actions:
-  - name: hooves (1d6)
+  - name: "hooves (1d6)"
     desc: "D20 to hit, 1d6 (`dice:1d6`) hoof"
-  - name: hooves (1d6)
+  - name: "hooves (1d6)"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

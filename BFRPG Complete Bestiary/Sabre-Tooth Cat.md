@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/2d8 (`dice:2d8`)"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Ambush Predator
+  - name: "Ambush Predator"
     desc: "Surprising on 1-4 on 1d6 in their natural environment (forests and tall-grass prairies)."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

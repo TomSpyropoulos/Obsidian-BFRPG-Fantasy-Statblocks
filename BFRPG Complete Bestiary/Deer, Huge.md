@@ -21,7 +21,7 @@ attack: "+7 (`dice: 1d20+7`) 1 kick (2d4)"
 damage: "2d4 (`dice:2d4`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 actions:
-  - name: kick (2d4)
+  - name: "kick (2d4)"
     desc: "D20 to hit, 2d4 (`dice:2d4`)"
 source: BFRPG Field Guide
 ```

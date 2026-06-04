@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1"
 damage: "Special"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Cold Aura
+  - name: "Cold Aura"
     desc: "Any living creature standing within 5 feet of a brown mold will suffer 1d8 points of cold damage each round."
-  - name: Feeds on Heat
+  - name: "Feeds on Heat"
     desc: "Exposure to heat causes the mold to grow almost instantly. Fires that would otherwise do up to 10 points of damage will cause the patch to add an additional 20 square feet or so in size (approximately doubling its initial size) with each additional 10 points or so adding a similar area."
-  - name: Vulnerability to Ultraviolet
+  - name: "Vulnerability to Ultraviolet"
     desc: "Direct sunlight or other sources of ultraviolet light will cause it 1d4 points of damage per turn. Exposure to ultraviolet light (including sunlight) renders a brown mold dormant, negating its cold attack completely."
-  - name: Immunity
+  - name: "Immunity"
     desc: "Any type of fire or cold attack will not harm this mold, but attacks with weapons or lightning can damage it (though weapon attacks may also damage the weapon, if the relatively thin layer of mold lies over metal or stone)."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, Special"
 source: BFRPG Field Guide
 ```

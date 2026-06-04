@@ -21,13 +21,13 @@ attack: "+8 (`dice: 1d20+8`) 1 shock (2d8)"
 damage: "-"
 attributes: ["+4", "+3", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Avoids Combat
+  - name: "Avoids Combat"
     desc: "A will-o'-wisp usually avoids combat."
-  - name: Electrical Shock
+  - name: "Electrical Shock"
     desc: "When it is forced to fight, it emits small electrical shocks."
-  - name: Magic Immunity
+  - name: "Magic Immunity"
     desc: "A will-o'-wisp is immune to all spells except magic missile."
-  - name: Extinguish Glow
+  - name: "Extinguish Glow"
     desc: "A startled or frightened will-o'-wisp can extinguish its glow, effectively becoming invisible."
 source: BFRPG Field Guide
 ```

@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 to 3 + blood drain"
 damage: "1d6 (`dice:1d6`), 1d6 (`dice:1d6`)/round blood drain"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Befuddling Fragrance
+  - name: "Befuddling Fragrance"
     desc: "The fragrance of the flowers is detectable up to 30' from the plant in ideal conditions. Living creatures who smell the fragrance must succeed on a DC 12 CON check or become befuddled, dropping anything carried and approaching the plant. Each round such a creature or character is within the affected area, this save must be made. Befuddled characters will not resist the plant-creature's attacks; if affected creatures are removed from the area, the effect of the fragrance will expire 2d4 rounds later. Undead monsters, constructs, etc. are not affected."
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "When a cane hits, it wraps around the victim and begins to drain blood, doing 1d6 points of damage per round."
 actions:
-  - name: to 3 + blood drain
+  - name: "to 3 + blood drain"
     desc: "D20 to hit, 1d6 (`dice:1d6`), 1d6 (`dice:1d6`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round blood drain"
 source: BFRPG Core
 ```

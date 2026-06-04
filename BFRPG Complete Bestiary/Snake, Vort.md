@@ -21,10 +21,10 @@ attack: "+1 (`dice: 1d20+1`) 1 bite (1d3 + poison)"
 damage: "1d3 (`dice:1d3`) + poison"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "They are venomous, however their poison is weak. Their poison will kill small creatures that fail a DC 12 CON check, however creatures the size of a medium dog, up to the size of a halfling or kobold, will only be rendered unconscious for 2d4 turns if they fail the save. Creatures larger than halflings will feel dizzy and unsteady; if they fail the save, they suffer a -1 penalty to hit for 2d4 rounds."
 actions:
-  - name: bite (1d3 + poison)
+  - name: "bite (1d3 + poison)"
     desc: "D20 to hit, 1d3 (`dice:1d3`) + poison"
 source: BFRPG Field Guide
 ```

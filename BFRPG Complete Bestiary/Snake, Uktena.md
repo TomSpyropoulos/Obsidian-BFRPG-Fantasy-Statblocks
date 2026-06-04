@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1 bite"
 damage: "2d6 (`dice:2d6`) + poison"
 attributes: ["+4", "+2", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Poison
+  - name: "Poison"
     desc: "Those bitten must succeed on a DC 13 CON check with a -2 penalty or fall comatose immediately and die within 2d4 turns."
-  - name: Charm Monster
+  - name: "Charm Monster"
     desc: "The uktena's brilliant crest allows it to charm monster once per turn; those affected will simply move towards the horned serpent and remain charmed so that the uktena may consume them at leisure. An opponent that averts its gaze, is blinded, or otherwise cannot see the jewel-like crest will not be affected by the charm attack."
-  - name: Fear of Thunderbirds
+  - name: "Fear of Thunderbirds"
     desc: "Uktena fear thunderbirds and will usually retreat to watery depths when one is near."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 2d6 (`dice:2d6`) + poison"
 source: BFRPG Field Guide
 ```

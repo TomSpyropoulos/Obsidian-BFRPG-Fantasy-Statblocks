@@ -21,12 +21,12 @@ attack: "+7 (`dice: 1d20+7`) 1 weapon or magic missile"
 damage: "1d6 (`dice:1d6`) or by weapon or magic missile"
 attributes: ["+1", "+2", "+1", "+3", "+2", "+1"]
 traits:
-  - name: Energy Bolts
+  - name: "Energy Bolts"
     desc: "Elf bug queens have the ability to fire energy bolts every other round; these energy bolts are exactly the same as the magic missile spell, as if it was cast by a 7th-level Wizard."
-  - name: Armed Defense
+  - name: "Armed Defense"
     desc: "They also collect small weapons like shortswords, hand-axes, or other small hand weapons to defend themselves."
 actions:
-  - name: weapon or magic missile
+  - name: "weapon or magic missile"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon or magic missile"
 source: BFRPG Field Guide
 ```

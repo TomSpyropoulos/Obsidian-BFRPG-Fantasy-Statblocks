@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon"
 damage: "1d8 (`dice:1d8`) or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "30-foot range."
-  - name: Hatred of Elves
+  - name: "Hatred of Elves"
     desc: "Will attack elves whenever they think they can win."
-  - name: Dire Wolf Riders
+  - name: "Dire Wolf Riders"
     desc: "Some bluenose hobgoblins ride dire wolves into combat, and large groups will often employ them to track and attack their foes."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapon"
 source: BFRPG Field Guide
 ```

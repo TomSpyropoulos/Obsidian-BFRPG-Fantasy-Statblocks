@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 weapons"
 damage: "1d8+1 (`dice:1d8+1`) or by weapon +1"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Stealth
+  - name: "Stealth"
     desc: "Can move in nearly complete silence, surprising opponents on 1-3 on 1d6."
-  - name: Great Strength
+  - name: "Great Strength"
     desc: "Receives a +1 bonus on damage due to its great strength."
-  - name: Dual Brains
+  - name: "Dual Brains"
     desc: "Has two separate but fully cooperative brains. One brain operates the eyes and arms on one side of the body, while the other brain operates the eyes and arms on the other side. One brain is always in control; it is not possible to play one brain against the other."
 actions:
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, 1d8+1 (`dice:1d8+1`) or by weapon +1"
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

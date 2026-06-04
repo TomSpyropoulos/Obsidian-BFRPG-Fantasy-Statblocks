@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 2 claws/1 bite or breath/1 tail"
 damage: "1d8 (`dice:1d8`)/1d8 (`dice:1d8`)/3d8 (`dice:3d8`) or breath/1d8 (`dice:1d8`)"
 attributes: ["+4", "+4", "+3", "+2", "+3", "+2"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "When buried in sand with only eyes and nostrils exposed, surprises on a roll of 1-4 on 1d6 when victims come within 100 feet."
-  - name: Lightning Immunity
+  - name: "Lightning Immunity"
     desc: "Immune to normal lightning, and suffer only half damage from magical lightning."
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Lightning (Line)"
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 3d8 (`dice:3d8`) or breath"
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Core
 ```

@@ -21,12 +21,12 @@ attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "1d4 (`dice:1d4`) + disease"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Disease
+  - name: "Disease"
     desc: "5% chance of causing disease. Infected character sickens in 3d6 hours and loses one point of Constitution per hour. Succeed on a DC 12 CON check (adjusted by current Constitution bonus or penalty) after each point lost to break fever. Zero Constitution means death."
-  - name: Pack Behavior
+  - name: "Pack Behavior"
     desc: "A single giant rat, or a small group of up to four, will generally be shy, but larger packs attack fearlessly."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) + disease"
 source: BFRPG Core
 ```

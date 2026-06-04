@@ -21,18 +21,18 @@ attack: "+8 (`dice: 1d20+8`) 1 bite or breath / 2 claws / 1 tail + heat"
 damage: "2d6 (`dice:2d6`) bite, 8d8 (`dice:8d8`) breath, 1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round heat"
 attributes: ["+4", "+4", "+2", "+2", "+2", "+2"]
 traits:
-  - name: Heat Aura
+  - name: "Heat Aura"
     desc: "All non-fire-resistant creatures within 20 feet of the monster suffer 1d8 points of damage per round from the heat."
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to damage from any fire or heat attack."
 actions:
-  - name: bite or breath
+  - name: "bite or breath"
     desc: "D20 to hit, 2d6 (`dice:2d6`) bite, 8d8 (`dice:8d8`) breath, 1d6 (`dice:1d6`) claw, 1d6 (`dice:1d6`) tail, 1d8 (`dice:1d8`) per round heat"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: tail + heat
+  - name: "tail + heat"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

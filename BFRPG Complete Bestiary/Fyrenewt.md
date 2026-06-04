@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 weapon or 1 breath"
 damage: "By weapon or 2d4 (`dice:2d4`) breath"
 attributes: ["+2", "+0", "+1", "+0", "+0", "+0"]
 traits:
-  - name: Breath Weapon
+  - name: "Breath Weapon"
     desc: "Cone-shaped spray of fluid that ignites upon contact with air. Usable once every ten rounds. 2d4 damage to creatures within 10 feet (half damage if succeed on a DC 12 DEX check succeeds)."
-  - name: Fire Immunity
+  - name: "Fire Immunity"
     desc: "Immune to non-magical fire attacks. Against magical fire, takes only half damage and saves at +4."
-  - name: Cold Vulnerability
+  - name: "Cold Vulnerability"
     desc: "Cold-based attacks cause double damage and fyrenewt has -2 penalty on appropriate saves."
 actions:
-  - name: weapon or 1 breath
+  - name: "weapon or 1 breath"
     desc: "D20 to hit, By weapon or 2d4 (`dice:2d4`) breath"
 source: BFRPG Field Guide
 ```

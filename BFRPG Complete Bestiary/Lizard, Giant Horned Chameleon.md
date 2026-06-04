@@ -21,12 +21,12 @@ attack: "+5 (`dice: 1d20+5`) 1 tongue or 1 bite"
 damage: "grab or 2d6 (`dice:2d6`)"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Camouflage
+  - name: "Camouflage"
     desc: "Can change color to blend into surroundings, surprising prey on 1-4 on 1d6."
-  - name: Sticky Tongue
+  - name: "Sticky Tongue"
     desc: "Long tongue springs out up to 20' forward. The sticky muscular ball on the end grabs prey and drags it to the chameleon's mouth, doing bite damage automatically on the following round (and all subsequent rounds, until the chameleon is killed or fails a DC 12 WIS check, or until the prey is dead)."
 actions:
-  - name: tongue or 1 bite
+  - name: "tongue or 1 bite"
     desc: "D20 to hit, grab or 2d6 (`dice:2d6`)"
 source: BFRPG Core
 ```

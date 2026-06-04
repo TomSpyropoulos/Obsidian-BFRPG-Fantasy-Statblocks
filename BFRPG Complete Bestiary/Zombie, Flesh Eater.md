@@ -21,11 +21,11 @@ attack: "+2 (`dice: 1d20+2`) 2 claws (1d3) / 1 bite (1d6)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to spells that affect the mind (including sleep, charm, and hold)."
-  - name: Turn Undead
+  - name: "Turn Undead"
     desc: "May be Turned by Clerics (as a zombie)."
-  - name: Disease Bite
+  - name: "Disease Bite"
     desc: "Those who are bitten and survive have a 5% chance per point of damage of contracting a fatal disease, causing death in 2d4 turns. Those who die from this disease rise in 2d4 rounds as a flesh eater zombie. Cure disease will prevent death, or if cast on the corpse after death, will prevent the corpse from rising."
 source: BFRPG Field Guide
 ```

@@ -21,20 +21,20 @@ attack: "+8 (`dice: 1d20+8`) 3 claws, 3 bites, 1 tail, or special"
 damage: "1d8 (`dice:1d8`) claw, 1d10 (`dice:1d10`) bite, 1d4 (`dice:1d4`) + constriction 2d8 (`dice:2d8`) tail, or special"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Snake Growth
+  - name: "Snake Growth"
     desc: "Snakes grow as the creature matures. Youths (8 LVL) have no snakes. Young Adults (12 LVL) have one on the crown of each head. Adults (16 LVL) have three additional ones on their throats. Elders (20 LVL) have one more on each front paw."
-  - name: Snake Attacks
+  - name: "Snake Attacks"
     desc: "When claw or bite attacks are made, snake attacks are not available for that combat round. If a paw serpent or crown serpent strikes, the claw or bite attack is not used in the same action. Throat serpents are treated as pit vipers (1d4+poison) and are intended for rushing attacks where foes run for the beast's chest."
-  - name: Tail Attack
+  - name: "Tail Attack"
     desc: "The tail acts like a python, biting (1d4) and constricting (2d4), but is not poisonous."
-  - name: Magical Weapons Required
+  - name: "Magical Weapons Required"
     desc: "Being infernals, they are only hurt by magical weapons."
 actions:
-  - name: claws, 3 bites, 1 tail, or special
+  - name: "claws, 3 bites, 1 tail, or special"
     desc: "D20 to hit, 1d8 (`dice:1d8`) claw, 1d10 (`dice:1d10`) bite, 1d4 (`dice:1d4`) + constriction 2d8 (`dice:2d8`) tail, or special"
-  - name: claws, 3 bites, 1 tail, or special
+  - name: "claws, 3 bites, 1 tail, or special"
     desc: "D20 to hit, "
-  - name: claws, 3 bites, 1 tail, or special
+  - name: "claws, 3 bites, 1 tail, or special"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

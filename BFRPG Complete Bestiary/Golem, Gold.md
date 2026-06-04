@@ -21,14 +21,14 @@ attack: "+10 (`dice: 1d20+10`) 2 crooks"
 damage: "2d6 (`dice:2d6`)"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Bestow Curse
+  - name: "Bestow Curse"
     desc: "Can cast the spell bestow curse (usually applying the -4 penalty on attack rolls and saves variant) once every seven rounds."
-  - name: Levitate
+  - name: "Levitate"
     desc: "Can levitate itself at-will."
 actions:
-  - name: crooks
+  - name: "crooks"
     desc: "D20 to hit, 2d6 (`dice:2d6`)"
-  - name: crooks
+  - name: "crooks"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

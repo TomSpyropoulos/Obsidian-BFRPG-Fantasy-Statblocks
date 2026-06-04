@@ -21,7 +21,7 @@ attack: "+10 (`dice: 1d20+10`) 1 horn or 1 trample"
 damage: "3d6 (`dice:3d6`) horn, 2d8 (`dice:2d8`) trample"
 attributes: ["+5", "+3", "+4", "+3", "+4", "+3"]
 actions:
-  - name: horn or 1 trample
+  - name: "horn or 1 trample"
     desc: "D20 to hit, 3d6 (`dice:3d6`) horn, 2d8 (`dice:2d8`) trample"
 source: BFRPG Field Guide
 ```

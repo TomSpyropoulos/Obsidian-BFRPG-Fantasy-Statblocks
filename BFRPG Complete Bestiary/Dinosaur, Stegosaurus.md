@@ -21,9 +21,9 @@ attack: "+9 (`dice: 1d20+9`) 1 tail/1 bite or 1 trample"
 damage: "2d8 (`dice:2d8`)/1d6 (`dice:1d6`) or 2d8 (`dice:2d8`)"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 actions:
-  - name: tail
+  - name: "tail"
     desc: "D20 to hit, 2d8 (`dice:2d8`)"
-  - name: bite or 1 trample
+  - name: "bite or 1 trample"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or 2d8 (`dice:2d8`)"
 source: BFRPG Core
 ```

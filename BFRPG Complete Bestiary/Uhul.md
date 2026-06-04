@@ -21,16 +21,16 @@ attack: "+3 (`dice: 1d20+3`) 2 claws, 1 bite, or 1 weapon"
 damage: "1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Untraceable Movement
+  - name: "Untraceable Movement"
     desc: "Uhul have a mystical ability to move through their environments without leaving any sign of their passage. They leave no footprints or scent behind regardless of the terrain they move through, making them impossible to track through non-magical means. So stealthy are they, that they surprise on a 1-3 on a 1d6."
-  - name: Hug
+  - name: "Hug"
     desc: "If the Uhul successfully strikes with both claws in one round, the Uhul also squeezes their prey in a powerful hug that does an additional 1d8 points of damage."
-  - name: Weapon Mastery
+  - name: "Weapon Mastery"
     desc: "Uhul are quite strong and when they use weapons crafted by their own people (and thus designed for their clawed big hands) they do an additional +1 point of damage."
 actions:
-  - name: claws, 1 bite, or 1 weapon
+  - name: "claws, 1 bite, or 1 weapon"
     desc: "D20 to hit, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite, or by weapon"
-  - name: claws, 1 bite, or 1 weapon
+  - name: "claws, 1 bite, or 1 weapon"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

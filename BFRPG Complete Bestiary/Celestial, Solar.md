@@ -21,22 +21,22 @@ attack: "+7 (`dice: 1d20+7`) 1 weapon"
 damage: "By weapon + 2"
 attributes: ["+1", "+3", "+1", "+1", "+5", "+1"]
 traits:
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "They have spellcasting capabilities equal those of a 9th-level Cleric."
-  - name: Detect Thoughts
+  - name: "Detect Thoughts"
     desc: "They possess the ability to discern the surface thoughts of any creature within a range of 100 feet."
-  - name: Turn Undead
+  - name: "Turn Undead"
     desc: "Furthermore, they can Turn undead and repel unholy creatures with the same proficiency as a 9th-level Cleric."
-  - name: Radiant Damage
+  - name: "Radiant Damage"
     desc: "Their physical attacks with a weapon deal an additional 2 points of radiant damage."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "A solar takes only half damage from non-magical weapons."
-  - name: Immunities
+  - name: "Immunities"
     desc: "They are immune to sleep, hold, and charm spells, as well as illusions."
-  - name: Languages
+  - name: "Languages"
     desc: "A solar knows the languages of all but the most utterly mindless of creatures."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon + 2"
 source: BFRPG Field Guide
 ```

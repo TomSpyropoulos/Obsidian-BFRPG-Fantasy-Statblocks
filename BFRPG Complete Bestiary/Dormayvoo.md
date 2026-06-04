@@ -21,16 +21,16 @@ attack: "+2 (`dice: 1d20+2`) 1 punch + magical sleep"
 damage: "1d8 (`dice:1d8`) punch + see below"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead
+  - name: "Undead"
     desc: "Immune to effects such as **sleep**, **charm**, or **fear**."
-  - name: Eyeless Sight
+  - name: "Eyeless Sight"
     desc: "Cannot be blinded, and it never sees holy symbols from which to be Turned by a Cleric. It can be destroyed by a high-level Cleric."
-  - name: Nightmare Vision
+  - name: "Nightmare Vision"
     desc: "Dreams a nightmare version of reality around it, allowing unfailing movement towards the living."
-  - name: Magical Sleep
+  - name: "Magical Sleep"
     desc: "Whenever the dormayvoo lands a blow of its fist, the victim must succeed on a DC 12 STR check or fall into a magical sleep. Heroes of all levels may be affected by this magic, except those of elvish blood are immune. Those unlucky enough to fall under the effect fall down as if dead. In fact, the victims appear indistinguishable from the dead. 1d4 rounds later, they rise up as a dormayvoo themselves. Strong fighters wearing armor can be especially hard on their former companions. But these victims are not lost forever. The spell is a curse that may be removed by a Wizard or Cleric, after which the unfortunate victim is restored to their former life."
 actions:
-  - name: punch + magical sleep
+  - name: "punch + magical sleep"
     desc: "D20 to hit, 1d8 (`dice:1d8`) punch + see below"
 source: BFRPG Field Guide
 ```

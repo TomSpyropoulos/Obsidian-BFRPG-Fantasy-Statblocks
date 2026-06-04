@@ -21,18 +21,18 @@ attack: "+3 (`dice: 1d20+3`) 1 bite or 1 weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+1", "+5", "+0", "+0", "+0"]
 traits:
-  - name: Shapeshifting
+  - name: "Shapeshifting"
     desc: "Can assume three forms: human, giant cockroach (6-foot long), or roachman (intermediate form with humanoid shape, insect mandibles, antennae, bug eyes, spikes, and wings)."
-  - name: Flight
+  - name: "Flight"
     desc: "In insect form only, can fly clumsily and slowly."
-  - name: Immunity to normal weapons
+  - name: "Immunity to normal weapons"
     desc: "In any form, immune to normal weapons. Must use silver or magical weapons to harm it."
-  - name: Disease resistance
+  - name: "Disease resistance"
     desc: "+5 on DC 12 CON check, and immune to most forms of disease, saving at +5 against any disease that the GM rules may harm it."
-  - name: Weakness: Bright lights
+  - name: "Weakness: Bright lights"
     desc: "Recoils from bright lights (as bright as sunlight or a **continual light** spell; twilight, torches, light, or lanterns won't affect it). Must make a DC 12 WIS check when exposed to such a light, with failure causing it to scurry away to the nearest dark place."
 actions:
-  - name: bite or 1 weapon
+  - name: "bite or 1 weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

@@ -21,16 +21,16 @@ attack: "+8 (`dice: 1d20+8`) 4 weapons"
 damage: "1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`)/1d6 (`dice:1d6`) or by weapon"
 attributes: ["+4", "+2", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Berserk
+  - name: "Berserk"
     desc: "When a bone golem enters combat, there is a cumulative 1% chance each round that its elemental spirit breaks free and the golem goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing some object smaller than itself if no creature is within reach, then moving on to spread more destruction. The golem's creator, if within 60 feet, can try to regain control by speaking firmly and persuasively to the golem; he or she must make a DC 13 INT check to succeed at this, and at least 1 round of time is required for each check. It takes 1 round of inactivity by the golem to reset the golem's berserk chance to 0%."
 actions:
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, 1d6 (`dice:1d6`)"
-  - name: weapons
+  - name: "weapons"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Core
 ```

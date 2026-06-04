@@ -21,14 +21,14 @@ attack: "+8 (`dice: 1d20+8`) 1"
 damage: "1d12 (`dice:1d12`)"
 attributes: ["+4", "+2", "+2", "+2", "+3", "+2"]
 traits:
-  - name: Vulnerable to Air
+  - name: "Vulnerable to Air"
     desc: "Take double damage when attacked with air or wind attacks (including air elementals)."
-  - name: Water Bound
+  - name: "Water Bound"
     desc: "Cannot move more than 60' from a body of water."
-  - name: Aquatic Advantage
+  - name: "Aquatic Advantage"
     desc: "Do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water."
 actions:
-  - name: 1
+  - name: "1"
     desc: "D20 to hit, 1d12 (`dice:1d12`)"
 source: BFRPG Core
 ```

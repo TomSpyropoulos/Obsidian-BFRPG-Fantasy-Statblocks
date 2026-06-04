@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 charge (dive) or 2 claws + 1 bite"
 damage: "2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+2", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Dive Attack
+  - name: "Dive Attack"
     desc: "When diving from a great height, the dragonhawke deals 2 x claw damage with +2 attack and -2 to AC for first round after dive."
-  - name: Keen Vision
+  - name: "Keen Vision"
     desc: "Eagle and hawk variants have very keen vision."
-  - name: Darkvision
+  - name: "Darkvision"
     desc: "Owl-like variants are nocturnal and have Darkvision with a range of 120 feet."
 actions:
-  - name: charge (dive) or 2 claws + 1 bite
+  - name: "charge (dive) or 2 claws + 1 bite"
     desc: "D20 to hit, 2 x claw damage with +2 attack and -2 to AC for first round after dive, 1d3 (`dice:1d3`) claw, 1d4 (`dice:1d4`) bite"
 source: BFRPG Field Guide
 ```

@@ -21,28 +21,28 @@ attack: "+11 (`dice: 1d20+11`) 1 weapon"
 damage: "By weapon + 3, plus sword's magic bonus"
 attributes: ["+5", "+3", "+4", "+3", "+5", "+3"]
 traits:
-  - name: Strength Bonus
+  - name: "Strength Bonus"
     desc: "+3 on damage die rolls; this is in addition to the magic bonus of the knight's sword."
-  - name: Grim Visage
+  - name: "Grim Visage"
     desc: "Creatures of 5 LVL or less that look upon the knight's grim visage must make a DC 14 INT check or be shaken for the duration of the encounter, taking a -2 penalty on attack rolls and Armor Class."
-  - name: Spell Reflection
+  - name: "Spell Reflection"
     desc: "75% chance to reflect any harmful spell that targets it, with reflected spells being targeted back at the caster."
-  - name: Detect Magic
+  - name: "Detect Magic"
     desc: "Can cast detect magic at will."
-  - name: Detect Invisible
+  - name: "Detect Invisible"
     desc: "Can cast detect invisibile at will."
-  - name: Fireball
+  - name: "Fireball"
     desc: "Can cast fireball 3 times per day as a 10th level Wizard."
-  - name: Wall of Fire
+  - name: "Wall of Fire"
     desc: "Can cast wall of fire 3 times per day as a 10th level Wizard."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Only takes half damage from non-magical weapons."
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, and hold magic. Cannot be Turned by a Cleric."
-  - name: Honorable Combat
+  - name: "Honorable Combat"
     desc: "Will never ambush an enemy or attack from behind, and will refuse to attack until an enemy has readied their weapon. Occasionally shows mercy to honorable opponents and individuals who remind it of people it knew in life."
 actions:
-  - name: weapon
+  - name: "weapon"
     desc: "D20 to hit, By weapon + 3, plus sword's magic bonus"
 source: BFRPG Field Guide
 ```

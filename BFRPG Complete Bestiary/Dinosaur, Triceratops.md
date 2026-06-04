@@ -21,12 +21,12 @@ attack: "+9 (`dice: 1d20+9`) 1 gore or 1 trample"
 damage: "3d6 (`dice:3d6`) or 3d6 (`dice:3d6`) (special, see below)"
 attributes: ["+4", "+2", "+3", "+2", "+2", "+2"]
 traits:
-  - name: Trample
+  - name: "Trample"
     desc: "Up to two adjacent man-sized or up to four smaller opponents may be trampled simultaneously; the triceratops rolls a single attack roll which is compared to the Armor Class of each of the potential victims, and then rolls a separate damage roll for each one successfully hit."
-  - name: Gore
+  - name: "Gore"
     desc: "May only be used against a single man-sized or larger creature, but may be used in the same round as the trample if the creature being gored is larger than man sized. A charging bonus may be applied to the gore attack."
 actions:
-  - name: gore or 1 trample
+  - name: "gore or 1 trample"
     desc: "D20 to hit, 3d6 (`dice:3d6`) or 3d6 (`dice:3d6`) (special, see below)"
 source: BFRPG Core
 ```

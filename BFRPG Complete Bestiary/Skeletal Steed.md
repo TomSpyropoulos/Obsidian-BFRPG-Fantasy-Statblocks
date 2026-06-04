@@ -21,11 +21,11 @@ attack: "+3 (`dice: 1d20+3`) 2 hooves (1d4) / 1 bite (1d6)"
 damage: "-"
 attributes: ["+2", "+0", "+0", "+0", "+2", "+0"]
 traits:
-  - name: Undead Immunities
+  - name: "Undead Immunities"
     desc: "Immune to sleep, charm, or hold magic. Never fail morale (WIS) and will fight until destroyed."
-  - name: Turn Resistance
+  - name: "Turn Resistance"
     desc: "Turned as a ghoul."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Take only half-damage from edged weapons, and only a single point from arrows, bolts, or sling stones (plus any magical bonus), however they take full damage from bludgeoning attacks."
 source: BFRPG Field Guide
 ```

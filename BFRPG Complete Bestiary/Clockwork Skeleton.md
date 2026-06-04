@@ -21,14 +21,14 @@ attack: "+2 (`dice: 1d20+2`) 1 punch or weapon"
 damage: "1d6 (`dice:1d6`) or by weapon"
 attributes: ["+2", "+0", "+1", "+0", "+2", "+0"]
 traits:
-  - name: Construct
+  - name: "Construct"
     desc: "Not undead and cannot be Turned. Immune to **sleep**, **charm**, and **hold** spells. Mind reading is of no use against it. Never fails morale (WIS) and always fights until destroyed."
-  - name: Vulnerable to edged weapons
+  - name: "Vulnerable to edged weapons"
     desc: "Unlike a normal animated skeleton, a clockwork skeleton is vulnerable to edged weapons due to the nature of the wires and pulleys that make up its mechanics."
-  - name: Vulnerable to electrical attacks
+  - name: "Vulnerable to electrical attacks"
     desc: "In addition to normal damage done, all clockwork skeletons within 40 feet react as if being Turned by a Cleric of the same level as the caster. Roll on the clerical Turning table for normal skeletons: a result of 'T' will cause the clockwork skeletons to move about randomly without attacking, while 'D' inflicts an additional 1d8 points of damage per level of the caster."
 actions:
-  - name: punch or weapon
+  - name: "punch or weapon"
     desc: "D20 to hit, 1d6 (`dice:1d6`) or by weapon"
 source: BFRPG Field Guide
 ```

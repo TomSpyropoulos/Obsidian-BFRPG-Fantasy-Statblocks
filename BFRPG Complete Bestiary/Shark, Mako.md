@@ -21,7 +21,7 @@ attack: "+4 (`dice: 1d20+4`) 1 bite (2d6)"
 damage: "-"
 attributes: ["+3", "+2", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Leap
+  - name: "Leap"
     desc: "Able to leap up to 20' in the air."
 source: BFRPG Core
 ```

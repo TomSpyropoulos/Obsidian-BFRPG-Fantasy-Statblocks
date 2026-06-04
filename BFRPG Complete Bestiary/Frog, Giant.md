@@ -21,12 +21,12 @@ attack: "+2 (`dice: 1d20+2`) 1 tongue or 1 bite"
 damage: "grab or 1d4+1 (`dice:1d4+1`)"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 traits:
-  - name: Tongue Attack
+  - name: "Tongue Attack"
     desc: "A giant frog can stretch its tongue out up to 15' and drag up to dwarf-sized prey to its mouth; on every subsequent round, the victim is hit automatically."
-  - name: Swallow Whole
+  - name: "Swallow Whole"
     desc: "On a natural 20 attack roll, the victim is swallowed whole, taking 1d6 damage per round thereafter. Each giant frog can swallow only one such victim."
 actions:
-  - name: tongue or 1 bite
+  - name: "tongue or 1 bite"
     desc: "D20 to hit, grab or 1d4+1 (`dice:1d4+1`)"
 source: BFRPG Core
 ```

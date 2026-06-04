@@ -21,11 +21,11 @@ attack: "+11 (`dice: 1d20+11`) 2 slams (2d10)"
 damage: "-"
 attributes: ["+5", "+5", "+4", "+3", "+5", "+3"]
 traits:
-  - name: See Through Deception
+  - name: "See Through Deception"
     desc: "Watchers see through all forms of illusion and deception, automatically."
-  - name: Spellcasting
+  - name: "Spellcasting"
     desc: "They have spellcasting abilities as if they were both a 12th-level cleric, and a 10th-level Wizard."
-  - name: Immunities
+  - name: "Immunities"
     desc: "Immune to sleep, hold, and charm spells, as well as illusions."
 source: BFRPG Field Guide
 ```

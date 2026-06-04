@@ -21,18 +21,18 @@ attack: "+9 (`dice: 1d20+9`) 1 bite + special"
 damage: "1d8 (`dice:1d8`)"
 attributes: ["+4", "+2", "+3", "+2", "+4", "+2"]
 traits:
-  - name: Ambush
+  - name: "Ambush"
     desc: "Surprise on a roll of 1-2."
-  - name: Locking Bite
+  - name: "Locking Bite"
     desc: "Its bite will lock into its prey if successful. Thereafter, it will automatically inflict 5 points of damage from the bite and will attack with an additional 2d4 claws, each doing 1d6 points of damage until either it or its prey is dead."
-  - name: Dense Bones and Thick Coat
+  - name: "Dense Bones and Thick Coat"
     desc: "Takes only half damage from blunt weapons."
-  - name: Fire Resistance
+  - name: "Fire Resistance"
     desc: "Coat completely protects it from normal fire and reduces damage from magical fires by half."
-  - name: Poison Immunity
+  - name: "Poison Immunity"
     desc: "Completely immune to poison of any kind, including gas."
 actions:
-  - name: bite + special
+  - name: "bite + special"
     desc: "D20 to hit, 1d8 (`dice:1d8`)"
 source: BFRPG Field Guide
 ```

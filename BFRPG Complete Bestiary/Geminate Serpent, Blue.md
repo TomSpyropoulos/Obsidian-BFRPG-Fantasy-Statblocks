@@ -21,12 +21,12 @@ attack: "+7 (`dice: 1d20+7`) 2 bite or 1 breath or 1 constrict"
 damage: "2d12 (`dice:2d12`) bite, breath, 3d4 (`dice:3d4`)* constrict*"
 attributes: ["+3", "+1", "+1", "+1", "+3", "+1"]
 traits:
-  - name: Freeze Breath
+  - name: "Freeze Breath"
     desc: "Frozen creatures are unable to do anything besides breathe for 1d8 hours."
 actions:
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, 2d12 (`dice:2d12`) bite, breath, 3d4 (`dice:3d4`)* constrict*"
-  - name: bite or 1 breath or 1 constrict
+  - name: "bite or 1 breath or 1 constrict"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

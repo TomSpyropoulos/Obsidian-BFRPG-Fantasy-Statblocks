@@ -21,12 +21,12 @@ attack: "+8 (`dice: 1d20+8`) 2 claws or 1 howl"
 damage: "2d12 (`dice:2d12`) claw, special"
 attributes: ["+4", "+4", "+2", "+2", "+4", "+2"]
 traits:
-  - name: Howl
+  - name: "Howl"
     desc: "Once every other round it can release a howl that summons a gale strong enough to push even the bulkiest adventurer back 5d10 feet."
 actions:
-  - name: claws or 1 howl
+  - name: "claws or 1 howl"
     desc: "D20 to hit, 2d12 (`dice:2d12`) claw, special"
-  - name: claws or 1 howl
+  - name: "claws or 1 howl"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

@@ -21,13 +21,13 @@ attack: "+7 (`dice: 1d20+7`) -"
 damage: "1d6 (`dice:1d6`) + petrification"
 attributes: ["+3", "+1", "+2", "+1", "+1", "+1"]
 traits:
-  - name: Petrifying Bite
+  - name: "Petrifying Bite"
     desc: "Any living creature bitten must succeed on a DC 13 STR check or be turned to stone."
-  - name: Stone to Sand
+  - name: "Stone to Sand"
     desc: "Can temporarily transform any stone within a 20 foot radius into sand. Characters in the affected area must succeed on a DC 13 STR check each round in order to move through the sand, and if the save is successful, the character is still reduced to half their normal movement. When the sand salamander moves out of range, the sand congeals back into stone, and any character in the affected area must succeed on a DC 13 STR check or become trapped."
-  - name: Damage Resistance
+  - name: "Damage Resistance"
     desc: "Immune to piercing attacks (such as spears or arrows) and suffers half damage from cutting attacks."
-  - name: Languages
+  - name: "Languages"
     desc: "Intelligent and can speak the language of the Plane of Earth; many may also know Elvish, Common, or Dragon."
 source: BFRPG Core
 ```

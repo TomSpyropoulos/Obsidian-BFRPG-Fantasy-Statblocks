@@ -21,9 +21,9 @@ attack: "+2 (`dice: 1d20+2`) 1 club or Fist /1 bite"
 damage: "1d6 (`dice:1d6`) club or 1d4 (`dice:1d4`) fist/1d4 (`dice:1d4`) bite"
 attributes: ["+2", "+0", "+0", "+0", "+0", "+0"]
 actions:
-  - name: club or Fist
+  - name: "club or Fist"
     desc: "D20 to hit, 1d6 (`dice:1d6`) club or 1d4 (`dice:1d4`) fist"
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d4 (`dice:1d4`) bite"
 source: BFRPG Core
 ```

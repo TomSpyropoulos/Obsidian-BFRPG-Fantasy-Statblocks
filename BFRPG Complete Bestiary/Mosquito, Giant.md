@@ -21,16 +21,16 @@ attack: "+0 (`dice: 1d20+0`) 1 bite"
 damage: "1d3 (`dice:1d3`) + 1d3 (`dice:1d3`)/round (blood drain)"
 attributes: ["+2", "+0", "+0", "+0", "+1", "+0"]
 traits:
-  - name: Swarm
+  - name: "Swarm"
     desc: "1d6+1 mosquitos attack each living creature they encounter."
-  - name: Blood Drain
+  - name: "Blood Drain"
     desc: "On successful hit, attaches and drains 1d3 HP per round until sated (damage equal to 3× its total HP) or killed."
-  - name: Anti-coagulant
+  - name: "Anti-coagulant"
     desc: "Victim bleeds 1d3 HP for 1d3 rounds after mosquito feeds or is killed. Stopped by healing spell/potion or spending 1 round binding wound."
 actions:
-  - name: bite
+  - name: "bite"
     desc: "D20 to hit, 1d3 (`dice:1d3`) + 1d3 (`dice:1d3`)"
-  - name: Attack
+  - name: "Attack"
     desc: "D20 to hit, round (blood drain)"
 source: BFRPG Field Guide
 ```

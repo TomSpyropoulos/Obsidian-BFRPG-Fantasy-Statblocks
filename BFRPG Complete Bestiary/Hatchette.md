@@ -21,20 +21,20 @@ attack: "+4 (`dice: 1d20+4`) 2 claws / 1 beak"
 damage: "1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) beak"
 attributes: ["+3", "+1", "+1", "+1", "+1", "+1"]
 traits:
-  - name: Axe-like Beak
+  - name: "Axe-like Beak"
     desc: "Swing their heads, using the razor-sharp edge of their beaks like an axe."
-  - name: Pounce
+  - name: "Pounce"
     desc: "Pounce on their prey and attack with their claws."
-  - name: Preference for Halflings
+  - name: "Preference for Halflings"
     desc: "Have a particular fondness for halfling flesh, and will generally attack them first."
-  - name: Mount
+  - name: "Mount"
     desc: "Some species have domesticated hatchettes and ride them into battle. In those instances, hatchettes may only attack with their beaks. Their riders may attack as normal."
 actions:
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, 1d6 (`dice:1d6`) claw, 2d6 (`dice:2d6`) beak"
-  - name: claws
+  - name: "claws"
     desc: "D20 to hit, "
-  - name: beak
+  - name: "beak"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```

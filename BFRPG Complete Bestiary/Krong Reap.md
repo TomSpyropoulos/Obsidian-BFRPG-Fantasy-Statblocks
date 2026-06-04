@@ -21,18 +21,18 @@ attack: "+6 (`dice: 1d20+6`) 4 or 2"
 damage: "1d8 (`dice:1d8`) or by weapons"
 attributes: ["+3", "+1", "+1", "+1", "+2", "+1"]
 traits:
-  - name: Four Arms
+  - name: "Four Arms"
     desc: "Equally dexterous with all four arms. May carry and use without penalty four weapons: a sword, a dagger or short sword, a short staff, and a switch (the switch is to drive off spirits)."
-  - name: Shield Option
+  - name: "Shield Option"
     desc: "Some may replace two of their weapons with bucklers instead; the two bucklers count as one regular shield, giving krong reap thus equipped an AC of 19."
 actions:
-  - name: or 2
+  - name: "or 2"
     desc: "D20 to hit, 1d8 (`dice:1d8`) or by weapons"
-  - name: or 2
+  - name: "or 2"
     desc: "D20 to hit, "
-  - name: or 2
+  - name: "or 2"
     desc: "D20 to hit, "
-  - name: or 2
+  - name: "or 2"
     desc: "D20 to hit, "
 source: BFRPG Field Guide
 ```
